@@ -1,0 +1,269 @@
+{
+	"Name": "SMM Default Catalog",
+	"Assets": [
+		{
+			"ID": "rodriadaoaktownzip.zip",
+            "Name": "Oak Town Park (W.I.P)",
+            "Version": 1,
+			"Description": "Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/oaktown_preview.png?raw=true",
+			"Author": "rodriada000",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-09T00:00:00"
+        },
+		{
+			"ID": "Truro_Plaza_Skatepark_by_Ollie795.zip",
+            "Name": "Truro Plaza",
+            "Version": 1,
+			"Description": "Hi everyone, I'm proud to release Truro Plaza Skatepark for Session so you can all experience one of my local skateparks. This park offers a large number of gaps and ledges which work really well with Sessions physics. Tag me in any edits or lines so I can see, and most of all enjoy this map\r\n\r\nAnd as a side note if this is one of the first parks you're downloading, make sure to cap the FPS to 60 or 90 to avoid a weird rotating board that happens when you have an extremely high framerate",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/truroPlaza/Truro_Plaza_Skatepark_by_Ollie795.zip",
+			"PreviewImage": "https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/preview_images/truro_plaza.jpg",
+			"Author": "Ollie795",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-22T00:00:00"
+        },
+        {
+			"ID": "Wood_Park_By_wur5ty.zip",
+            "Name": "Wood Park",
+            "Version": 1.5,
+			"Description": "Fun indoor wood park.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/woodPark/Wood_Park_v1_5_By_wur5ty.zip",
+			"PreviewImage": "https://img.youtube.com/vi/nRmJUj3gL4w/0.jpg",
+			"Author": "wur5ty",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-23T00:00:00"
+        },
+        {
+			"ID": "BloktoPark.zip",
+            "Name": "Blokto Park",
+            "Version": 1,
+			"Description": "Get your Bloktober on with BloktoPark. Small indoor park.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/bloktoPark/BloktoPark_v1.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/blokto_preview.png?raw=true",
+			"Author": "JammieDodger",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-27T00:00:00"
+        },
+        {
+			"ID": "Roobers_Garden.zip",
+            "Name": "Roobers Garden",
+            "Version": 2,
+			"Description": "Large outdoor garden area to skate and explore.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/rooberGarden/Roobers_Garden_v2.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/garden2.png?raw=true",
+			"Author": "Roober",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-28T00:00:00"
+        },
+        {
+			"ID": "SLSLondon2018.zip",
+            "Name": "SLS London 2018",
+            "Version": 2,
+			"Description": "SLS London 2018 (v2)\r\nAfter the first release I did a lot of performance tweaking, remodeled almost all geometries and it now looks like a real arena.\r\n\r\nKudos to Zac who provided the model for the stadium seats\r\n\r\nEnjoy!",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/slsLondon/SLSLondon2018v2.zip",
+			"PreviewImage": "https://i.imgur.com/La6t0a9.png",
+			"Author": "dga",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-30T00:00:00"
+        },
+        {
+			"ID": "LakeTiticacaPark_By_Osker814.zip",
+            "Name": "Lake Titicaca Park",
+            "Version": 1,
+			"Description": "Thanks to Mayhem and Swannick for testing.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/lakeTiticaca/LakeTiticacaPark_By_Osker814.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/Lake_Titicaca_Park_pic.png?raw=true",
+			"Author": "Osker814",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-01T00:00:00"
+        },
+        {
+			"ID": "MegaPark-VilmFilm.zip",
+            "Name": "Mega Park",
+            "Version": 1,
+			"Description": "Older version(?) of the mega park released by Vilm Film.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/megaPark/MegaPark-VilmFilm.zip",
+			"PreviewImage": "https://i.imgur.com/2HYUjh2.png",
+			"Author": "Vilm Film",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-09T00:00:00"
+        },
+        {
+			"ID": "ModularSeasideTown_By_Zac.zip",
+            "Name": "Modular Seaside Town",
+            "Version": 2,
+			"Description": "Modular Seaside Town v2\r\n\r\nThis map is still a modified version of the free Marketplace map of the same name on the Epic Unreal Engine Marketplace. It was created by Vytautas Katarzis. https:\/\/www.unrealengine.com\/marketplace\/en-US\/slug\/modular-seaside-town\r\n\r\nv2 fixes most of the floating collision which was a common complaint.\r\n\r\nFixed shadows disappearing on medium or low, requires restarting Session after changing the graphics settings\r\n\r\nFinished the small overlook spot.\r\n\r\nAdded another palm tree model and wind animation to them.\r\n\r\nKnown bugs: The water foam texture does not load\r\n\r\nThis is likely the final release of this map unless I can figure out how to fix the broken texture.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/seasideTown/ModularSeasideTownV2_By_Zac.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/ModularSeasideTown.png?raw=true",
+			"Author": "Zac",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-09T00:00:00"
+        },
+        {
+			"ID": "StreetMap_By_Sandeyes.zip",
+            "Name": "Street Map",
+            "Version": 1,
+			"Description": "Small night time street map.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/streetMap/StreetMap_By_Sandeyes.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/streetmap_previewpng.png?raw=true",
+			"Author": "Sandeyes",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-09T00:00:00"
+        },
+        {
+			"ID": "RoobersParadise.zip",
+            "Name": "Roobers Paradise",
+            "Version": 4,
+			"Description": "Come skate in paradise homies.",
+			"DownloadLink": "rsmm://GDrive/1M1tZYd62Ozi2UXP1meLRQjgDlAl9qarc",
+			"PreviewImage": "https://i.imgur.com/yWN6UkV.png",
+			"Author": "Roober",
+			"Category": "session-maps",
+			"UpdatedDate": "2020-01-27T00:00:00"
+        },
+        {
+			"ID": "skateboarddailypark.rar",
+            "Name": "SkateboardDaily Training Facility",
+            "Version": 1,
+			"Description": "I've been super busy lately, so i figured i would just upload what I've been sitting on for a while now. Haven't had much time on my computer with the arrival of my baby! :baby: Will try to upload a finished product in the near future!",
+			"DownloadLink": "rsmm://GDrive/1jWghKwwuDT88PhsWZEvYMyC_Akirehx9",
+			"PreviewImage": "https://img.youtube.com/vi/FydFGEvdBS4/hqdefault.jpg",
+			"Author": "skateboarddaily",
+			"Category": "session-maps",
+			"UpdatedDate": "2020-01-26T00:00:00"
+        },
+        {
+			"ID": "braillehouse.zip",
+            "Name": "Braille House 2.0",
+            "Version": 1,
+			"Description": "Recreation of the Braille House 2.0",
+			"DownloadLink": "rsmm://GDrive/1fkGnm1eKEOu7rcobV5o4jHQ1l0p9hUkP",
+			"PreviewImage": "https://i.imgur.com/mC3w8Ow.png",
+			"Author": "toastandtech",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-12-31T00:00:00"
+        },
+        {
+			"ID": "cliftonhill.rar",
+            "Name": "Clifton Hill",
+            "Version": 1,
+			"Description": "First Map ive Made! - Clifton Hill \r\n\r\nA remake of my favorite local park, with a couple addons to improve flow n whatnot",
+			"DownloadLink": "rsmm://GDrive/1uXEysP3TiBMmsF3dJRMoUsFVHB4Qzv8e",
+			"PreviewImage": "https://i.imgur.com/Y9vL8cX.png",
+			"Author": "Whatyoudoguy",
+			"Category": "session-maps",
+			"UpdatedDate": "2020-01-04T00:00:00"
+        },
+        {
+			"ID": "CardiffPlaza.rar",
+            "Name": "Cadiff Plaza",
+            "Version": 1,
+			"Description": "Park in a big open area based on some real life spots.",
+			"DownloadLink": "rsmm://GDrive/1JAAAOujOaqDoHyzcoUnTyJsnBZlqtuP-",
+			"PreviewImage": "https://imgur.com/u6X8D8q",
+			"Author": "Osker814",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-11-23T00:00:00"
+        },
+        {
+			"ID": "HuntingtonBeach.rar",
+            "Name": "Vans Huntington Beach Skatepark",
+            "Version": 1.5,
+			"Description": "Vans Huntington Beach Skatepark Update\r\n\r\n-Improved lighting and shadows\r\n-Begun the addition of recreated art from the actual IRL park\r\n-New skate obstacles for better park flow\r\n-Adjustments to the height of a few rails and hubba's\r\n-start of map expansion",
+			"DownloadLink": "rsmm://GDrive/14K0GLZN0oPrh3WSKdYhtzwyI-1xq3yHP",
+			"PreviewImage": "https://i.imgur.com/SdtXORp.png",
+			"Author": "Tyrone Biggums",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-22T00:00:00"
+        },
+        {
+			"ID": "viennamap.zip",
+            "Name": "Vienna Park",
+            "Version": 1,
+			"Description": "",
+			"DownloadLink": "rsmm://GDrive/1QVP0xjJ3No9f1P7M_ucfLUA3A5gHrEhv",
+			"PreviewImage": "https://i.imgur.com/y1jS2SL.png",
+			"Author": "RoN",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-19T00:00:00"
+        },
+        {
+			"ID": "supercrown.zip",
+            "Name": "SLS 2013 Super Crown",
+            "Version": 1,
+			"Description": "SLS 2013 Super Crown ported to Session and graphically improved!",
+			"DownloadLink": "rsmm://GDrive/1QoRnojWmsxAxtnbGKdW5QZhu2BlZ8OG2",
+			"PreviewImage": "https://i.imgur.com/q5iUcoV.png",
+			"Author": "MaTSix",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-08T00:00:00"
+        },
+        {
+			"ID": "skatestreetventura.zip",
+            "Name": "Skatestreet Ventura",
+            "Version": 3,
+			"Description": "This is the Skatestreet Ventura map from THPS2. It's still a WIP.",
+			"DownloadLink": "rsmm://GDrive/16o0vE6jaSkxWxMj8aTa_s_jXrDaFzL1D",
+			"PreviewImage": "https://i.imgur.com/rL5kneI.png",
+			"Author": "Hippyman",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-05T00:00:00"
+        },
+        {
+			"ID": "Roobers_Warehouse_Night.zip",
+            "Name": "Roobers Warehouse (Night)",
+            "Version": 4,
+			"Description": "",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/roobersWarehouse/Roobers_Warehouse_v4_Night.zip",
+			"PreviewImage": "https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/preview_images/roobers_warehouse_night.png",
+			"Author": "Roober",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-14T00:00:00"
+        },
+        {
+			"ID": "814park.zip",
+            "Name": "814 Park",
+            "Version": 1,
+			"Description": "First map using Unreal, textures could be a little more crisp but looks decent. Fun either way so enjoy!",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/814Park/814_Park.zip",
+			"PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/osker814.png?raw=true",
+			"Author": "Osker814",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-13T00:00:00"
+        },
+        {
+			"ID": "Roobers_Warehouse_Day.zip",
+            "Name": "Roobers Warehouse (Day)",
+            "Version": 4,
+			"Description": "",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/roobersWarehouse/Roobers_Warehouse_v4_Day.zip",
+			"PreviewImage": "https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/preview_images/roobers_warehouse_day.png",
+			"Author": "Roober",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-14T00:00:00"
+        },
+        {
+			"ID": "thps2school.zip",
+            "Name": "School II",
+            "Version": 1,
+			"Description": "This is a map port from Tony Hawks Pro Skater 2.\r\n\r\nSome stuff is too shiny since I was on very low settings in the editor when making the materials and didn't see just how shiny it was.\r\nThis will be fixed in the final release.\r\n\r\nSupport mine and Genesis work!\r\nPaypal: ghfear@hotmail.com\r\n\r\nCredits :\r\nenox: for making the illusory logo.\r\nGenesis: for finding out how to load time of day, post processing and music into maps.",
+			"DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/School_II_v1-beta/School_II_By_GHFear.zip",
+			"PreviewImage": "https://img.youtube.com/vi/xZBPvBc4DBM/1.jpg",
+			"Author": "GHFear",
+			"Category": "session-maps",
+			"UpdatedDate": "2019-10-01T00:00:00"
+        },
+        {
+			"ID": "galaxyhoodie.zip",
+            "Name": "Galaxy Hoodie",
+            "Version": 1,
+			"Description": "Ever feel like normal clothes are too bland. Well fear no more because we got you covered. Introducing:\r\n\r\nThe Galaxy Hoodie\r\n\r\nYou can now basically wear the galaxy, and if you have our amazing griptape, you can ride on it as well!",
+			"DownloadLink": "rsmm://GDrive/16fc3qhsIQVJ332q5zMy8kWaC2oz5vjwH",
+			"PreviewImage": "https://i.imgur.com/usVw03O.png",
+			"Author": "Kaydax",
+			"Category": "session-shirts",
+			"UpdatedDate": "2019-10-11T00:00:00"
+        }
+    ]
+}
