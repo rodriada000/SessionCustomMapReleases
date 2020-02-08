@@ -264,6 +264,17 @@
 			"Author": "Kaydax",
 			"Category": "session-shirts",
 			"UpdatedDate": "2019-10-11T00:00:00"
+        },
+        {
+			"ID": "thehideoutmap.zip",
+            "Name": "The Hideout",
+            "Version": 1,
+			"Description": "Small indoor park with a focus on flow, you should be able to keep a line going for as long as you want.",
+			"DownloadLink": "rsmm://GDrive/1pv-wseynpKGNPPcf3NjD6RSHAPpwcwCK",
+			"PreviewImage": "https://i.imgur.com/D07DtmL.png",
+			"Author": "Roober",
+			"Category": "session-maps",
+			"UpdatedDate": "2020-02-08T00:00:00"
         }
     ]
 }
