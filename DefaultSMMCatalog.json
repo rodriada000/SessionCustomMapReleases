@@ -286,6 +286,17 @@
       "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/dewtour.png?raw=true",
       "Category": "session-maps",
       "UpdatedDate": "2020-02-10T08:00:00Z"
+    },
+    {
+      "ID": "SLSbyOtter.zip",
+      "Name": "SLS Collection",
+      "Description": "Howdy skaters, today i bring you my first ever map for Session! I started working on a request for the SLS 2012 course in Glendale and stumbled upon an archive of older SLS courses. I've taken the requested course and three other of my favorite courses in SLS and smashed them into one map! Again this is my first UE4 project so any feedback and advice is appreciated. I'd like to thank @Khelldon for his free assets and his advice and also @Leon / jahdexe and @AcridoT for testing the map.",
+      "Version": 1.0,
+      "Author": "Otter",
+      "DownloadLink": "rsmm://GDrive/1HqltKyVoa0uAdx4vXVFEKkEAJM_scMw1",
+      "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/676884375048290334/Overview_SLS.PNG",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-02-11T08:00:00Z"
     }
   ]
 }
