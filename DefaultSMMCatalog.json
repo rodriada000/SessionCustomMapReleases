@@ -35,17 +35,6 @@
       "UpdatedDate": "2019-10-23T00:00:00"
     },
     {
-      "ID": "BloktoPark.zip",
-      "Name": "Blokto Park",
-      "Description": "Get your Bloktober on with BloktoPark. Small indoor park.",
-      "Version": 1.0,
-      "Author": "JammieDodger",
-      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/bloktoPark/BloktoPark_v1.zip",
-      "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/blokto_preview.png?raw=true",
-      "Category": "session-maps",
-      "UpdatedDate": "2019-10-27T00:00:00"
-    },
-    {
       "ID": "Roobers_Garden.zip",
       "Name": "Roobers Garden",
       "Description": "Large outdoor garden area to skate and explore.",
@@ -55,17 +44,6 @@
       "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/garden2.png?raw=true",
       "Category": "session-maps",
       "UpdatedDate": "2019-10-28T00:00:00"
-    },
-    {
-      "ID": "SLSLondon2018.zip",
-      "Name": "SLS London 2018",
-      "Description": "SLS London 2018 (v2)\r\nAfter the first release I did a lot of performance tweaking, remodeled almost all geometries and it now looks like a real arena.\r\n\r\nKudos to Zac who provided the model for the stadium seats\r\n\r\nEnjoy!",
-      "Version": 2.0,
-      "Author": "dga",
-      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/slsLondon/SLSLondon2018v2.zip",
-      "PreviewImage": "https://i.imgur.com/La6t0a9.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2019-10-30T00:00:00"
     },
     {
       "ID": "LakeTiticacaPark_By_Osker814.zip",
