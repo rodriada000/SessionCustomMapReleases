@@ -4,13 +4,13 @@
     {
       "ID": "rodriadaoaktownzip.zip",
       "Name": "Oak Town Park (W.I.P)",
-      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
-      "Version": 1.0,
+      "Description": "WORKS WITH LATEST SESSION UPDATE!!! Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
+      "Version": 1.5,
       "Author": "rodriada000",
-      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park.zip",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park_0005_compat.zip",
       "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/oaktown_preview.png?raw=true",
       "Category": "session-maps",
-      "UpdatedDate": "2019-11-09T00:00:00"
+      "UpdatedDate": "2020-04-28T00:00:00"
     },
     {
       "ID": "Truro_Plaza_Skatepark_by_Ollie795.zip",
