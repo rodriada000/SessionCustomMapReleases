@@ -4,7 +4,7 @@
     {
       "ID": "rodriadaoaktownzip.zip",
       "Name": "Oak Town Park (W.I.P)",
-      "Description": "Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
       "Version": 1.0,
       "Author": "rodriada000",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park.zip",
@@ -15,7 +15,7 @@
     {
       "ID": "Truro_Plaza_Skatepark_by_Ollie795.zip",
       "Name": "Truro Plaza",
-      "Description": "Hi everyone, I'm proud to release Truro Plaza Skatepark for Session so you can all experience one of my local skateparks. This park offers a large number of gaps and ledges which work really well with Sessions physics. Tag me in any edits or lines so I can see, and most of all enjoy this map\r\n\r\nAnd as a side note if this is one of the first parks you're downloading, make sure to cap the FPS to 60 or 90 to avoid a weird rotating board that happens when you have an extremely high framerate",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Hi everyone, I'm proud to release Truro Plaza Skatepark for Session so you can all experience one of my local skateparks. This park offers a large number of gaps and ledges which work really well with Sessions physics. Tag me in any edits or lines so I can see, and most of all enjoy this map\r\n\r\nAnd as a side note if this is one of the first parks you're downloading, make sure to cap the FPS to 60 or 90 to avoid a weird rotating board that happens when you have an extremely high framerate",
       "Version": 1.0,
       "Author": "Ollie795",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/truroPlaza/Truro_Plaza_Skatepark_by_Ollie795.zip",
@@ -26,7 +26,7 @@
     {
       "ID": "Wood_Park_By_wur5ty.zip",
       "Name": "Wood Park",
-      "Description": "Fun indoor wood park.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Fun indoor wood park.",
       "Version": 1.5,
       "Author": "wur5ty",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/woodPark/Wood_Park_v1_5_By_wur5ty.zip",
@@ -37,7 +37,7 @@
     {
       "ID": "Roobers_Garden.zip",
       "Name": "Roobers Garden",
-      "Description": "Large outdoor garden area to skate and explore.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Large outdoor garden area to skate and explore.",
       "Version": 2.0,
       "Author": "Roober",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/rooberGarden/Roobers_Garden_v2.zip",
@@ -48,7 +48,7 @@
     {
       "ID": "LakeTiticacaPark_By_Osker814.zip",
       "Name": "Lake Titicaca Park",
-      "Description": "Thanks to Mayhem and Swannick for testing.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Thanks to Mayhem and Swannick for testing.",
       "Version": 1.0,
       "Author": "Osker814",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/lakeTiticaca/LakeTiticacaPark_By_Osker814.zip",
@@ -59,7 +59,7 @@
     {
       "ID": "MegaPark-VilmFilm.zip",
       "Name": "Mega Park",
-      "Description": "Older version(?) of the mega park released by Vilm Film.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Older version(?) of the mega park released by Vilm Film.",
       "Version": 1.0,
       "Author": "Vilm Film",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/megaPark/MegaPark-VilmFilm.zip",
@@ -70,7 +70,7 @@
     {
       "ID": "ModularSeasideTown_By_Zac.zip",
       "Name": "Modular Seaside Town",
-      "Description": "Modular Seaside Town v2\r\n\r\nThis map is still a modified version of the free Marketplace map of the same name on the Epic Unreal Engine Marketplace. It was created by Vytautas Katarzis. https://www.unrealengine.com/marketplace/en-US/slug/modular-seaside-town\r\n\r\nv2 fixes most of the floating collision which was a common complaint.\r\n\r\nFixed shadows disappearing on medium or low, requires restarting Session after changing the graphics settings\r\n\r\nFinished the small overlook spot.\r\n\r\nAdded another palm tree model and wind animation to them.\r\n\r\nKnown bugs: The water foam texture does not load\r\n\r\nThis is likely the final release of this map unless I can figure out how to fix the broken texture.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Modular Seaside Town v2\r\n\r\nThis map is still a modified version of the free Marketplace map of the same name on the Epic Unreal Engine Marketplace. It was created by Vytautas Katarzis. https://www.unrealengine.com/marketplace/en-US/slug/modular-seaside-town\r\n\r\nv2 fixes most of the floating collision which was a common complaint.\r\n\r\nFixed shadows disappearing on medium or low, requires restarting Session after changing the graphics settings\r\n\r\nFinished the small overlook spot.\r\n\r\nAdded another palm tree model and wind animation to them.\r\n\r\nKnown bugs: The water foam texture does not load\r\n\r\nThis is likely the final release of this map unless I can figure out how to fix the broken texture.",
       "Version": 2.0,
       "Author": "Zac",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/seasideTown/ModularSeasideTownV2_By_Zac.zip",
@@ -81,7 +81,7 @@
     {
       "ID": "StreetMap_By_Sandeyes.zip",
       "Name": "Street Map",
-      "Description": "Small night time street map.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Small night time street map.",
       "Version": 1.0,
       "Author": "Sandeyes",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/streetMap/StreetMap_By_Sandeyes.zip",
@@ -92,7 +92,7 @@
     {
       "ID": "RoobersParadise.zip",
       "Name": "Roobers Paradise",
-      "Description": "Come skate in paradise homies.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Come skate in paradise homies.",
       "Version": 4.0,
       "Author": "Roober",
       "DownloadLink": "rsmm://GDrive/1M1tZYd62Ozi2UXP1meLRQjgDlAl9qarc",
@@ -103,7 +103,7 @@
     {
       "ID": "skateboarddailypark.rar",
       "Name": "SkateboardDaily Training Facility",
-      "Description": "I've been super busy lately, so i figured i would just upload what I've been sitting on for a while now. Haven't had much time on my computer with the arrival of my baby! :baby: Will try to upload a finished product in the near future!",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - I've been super busy lately, so i figured i would just upload what I've been sitting on for a while now. Haven't had much time on my computer with the arrival of my baby! :baby: Will try to upload a finished product in the near future!",
       "Version": 1.0,
       "Author": "skateboarddaily",
       "DownloadLink": "rsmm://GDrive/1jWghKwwuDT88PhsWZEvYMyC_Akirehx9",
@@ -114,7 +114,7 @@
     {
       "ID": "braillehouse.zip",
       "Name": "Braille House 2.0",
-      "Description": "Recreation of the Braille House 2.0",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Recreation of the Braille House 2.0",
       "Version": 1.0,
       "Author": "toastandtech",
       "DownloadLink": "rsmm://GDrive/1fkGnm1eKEOu7rcobV5o4jHQ1l0p9hUkP",
@@ -125,7 +125,7 @@
     {
       "ID": "cliftonhill.rar",
       "Name": "Clifton Hill",
-      "Description": "First Map ive Made! - Clifton Hill \r\n\r\nA remake of my favorite local park, with a couple addons to improve flow n whatnot",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - First Map ive Made! - Clifton Hill \r\n\r\nA remake of my favorite local park, with a couple addons to improve flow n whatnot",
       "Version": 1.0,
       "Author": "Whatyoudoguy",
       "DownloadLink": "rsmm://GDrive/1uXEysP3TiBMmsF3dJRMoUsFVHB4Qzv8e",
@@ -136,7 +136,7 @@
     {
       "ID": "CardiffPlaza.rar",
       "Name": "Cardiff Plaza",
-      "Description": "Park in a big open area based on some real life spots.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Park in a big open area based on some real life spots.",
       "Version": 1.0,
       "Author": "Osker814",
       "DownloadLink": "rsmm://GDrive/1JAAAOujOaqDoHyzcoUnTyJsnBZlqtuP-",
@@ -147,7 +147,7 @@
     {
       "ID": "HuntingtonBeach.rar",
       "Name": "Vans Huntington Beach Skatepark",
-      "Description": "Vans Huntington Beach Skatepark Update\r\n\r\n-Improved lighting and shadows\r\n-Begun the addition of recreated art from the actual IRL park\r\n-New skate obstacles for better park flow\r\n-Adjustments to the height of a few rails and hubba's\r\n-start of map expansion",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Vans Huntington Beach Skatepark Update\r\n\r\n-Improved lighting and shadows\r\n-Begun the addition of recreated art from the actual IRL park\r\n-New skate obstacles for better park flow\r\n-Adjustments to the height of a few rails and hubba's\r\n-start of map expansion",
       "Version": 1.5,
       "Author": "Tyrone Biggums",
       "DownloadLink": "rsmm://GDrive/14K0GLZN0oPrh3WSKdYhtzwyI-1xq3yHP",
@@ -158,7 +158,7 @@
     {
       "ID": "viennamap.zip",
       "Name": "Vienna Park",
-      "Description": "",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - ",
       "Version": 1.0,
       "Author": "RoN",
       "DownloadLink": "rsmm://GDrive/1QVP0xjJ3No9f1P7M_ucfLUA3A5gHrEhv",
@@ -169,7 +169,7 @@
     {
       "ID": "supercrown.zip",
       "Name": "SLS 2013 Super Crown",
-      "Description": "SLS 2013 Super Crown ported to Session and graphically improved!",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - SLS 2013 Super Crown ported to Session and graphically improved!",
       "Version": 1.0,
       "Author": "MaTSix",
       "DownloadLink": "rsmm://GDrive/1QoRnojWmsxAxtnbGKdW5QZhu2BlZ8OG2",
@@ -180,7 +180,7 @@
     {
       "ID": "skatestreetventura.zip",
       "Name": "Skatestreet Ventura",
-      "Description": "This is the Skatestreet Ventura map from THPS2. It's still a WIP.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - This is the Skatestreet Ventura map from THPS2. It's still a WIP.",
       "Version": 3.0,
       "Author": "Hippyman",
       "DownloadLink": "rsmm://GDrive/16o0vE6jaSkxWxMj8aTa_s_jXrDaFzL1D",
@@ -191,7 +191,7 @@
     {
       "ID": "Roobers_Warehouse_Night.zip",
       "Name": "Roobers Warehouse (Night)",
-      "Description": "",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - ",
       "Version": 4.0,
       "Author": "Roober",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/roobersWarehouse/Roobers_Warehouse_v4_Night.zip",
@@ -202,7 +202,7 @@
     {
       "ID": "814park.zip",
       "Name": "814 Park",
-      "Description": "First map using Unreal, textures could be a little more crisp but looks decent. Fun either way so enjoy!",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - First map using Unreal, textures could be a little more crisp but looks decent. Fun either way so enjoy!",
       "Version": 1.0,
       "Author": "Osker814",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/814Park/814_Park.zip",
@@ -213,7 +213,7 @@
     {
       "ID": "Roobers_Warehouse_Day.zip",
       "Name": "Roobers Warehouse (Day)",
-      "Description": "",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - ",
       "Version": 4.0,
       "Author": "Roober",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/roobersWarehouse/Roobers_Warehouse_v4_Day.zip",
@@ -224,7 +224,7 @@
     {
       "ID": "thps2school.zip",
       "Name": "School II",
-      "Description": "This is a map port from Tony Hawks Pro Skater 2.\r\n\r\nSome stuff is too shiny since I was on very low settings in the editor when making the materials and didn't see just how shiny it was.\r\nThis will be fixed in the final release.\r\n\r\nSupport mine and Genesis work!\r\nPaypal: ghfear@hotmail.com\r\n\r\nCredits :\r\nenox: for making the illusory logo.\r\nGenesis: for finding out how to load time of day, post processing and music into maps.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - This is a map port from Tony Hawks Pro Skater 2.\r\n\r\nSome stuff is too shiny since I was on very low settings in the editor when making the materials and didn't see just how shiny it was.\r\nThis will be fixed in the final release.\r\n\r\nSupport mine and Genesis work!\r\nPaypal: ghfear@hotmail.com\r\n\r\nCredits :\r\nenox: for making the illusory logo.\r\nGenesis: for finding out how to load time of day, post processing and music into maps.",
       "Version": 1.0,
       "Author": "GHFear",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/School_II_v1-beta/School_II_By_GHFear.zip",
@@ -235,7 +235,7 @@
     {
       "ID": "galaxyhoodie.zip",
       "Name": "Galaxy Hoodie",
-      "Description": "Ever feel like normal clothes are too bland. Well fear no more because we got you covered. Introducing:\r\n\r\nThe Galaxy Hoodie\r\n\r\nYou can now basically wear the galaxy, and if you have our amazing griptape, you can ride on it as well!",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Ever feel like normal clothes are too bland. Well fear no more because we got you covered. Introducing:\r\n\r\nThe Galaxy Hoodie\r\n\r\nYou can now basically wear the galaxy, and if you have our amazing griptape, you can ride on it as well!",
       "Version": 1.0,
       "Author": "Kaydax",
       "DownloadLink": "rsmm://GDrive/16fc3qhsIQVJ332q5zMy8kWaC2oz5vjwH",
@@ -246,7 +246,7 @@
     {
       "ID": "thehideoutmap.zip",
       "Name": "The Hideout",
-      "Description": "HIDEOUT UPDATE 2/9/20: Minor tweaks, couple new handrails, more grunge/added vines.\r\n\r\nSmall indoor park with a focus on flow, you should be able to keep a line going for as long as you want.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - HIDEOUT UPDATE 2/9/20: Minor tweaks, couple new handrails, more grunge/added vines.\r\n\r\nSmall indoor park with a focus on flow, you should be able to keep a line going for as long as you want.",
       "Version": 3.0,
       "Author": "Roober",
       "DownloadLink": "rsmm://GDrive/1WqJprLgZeJq4MLCMGaTJ_TIrGNL27gM-",
@@ -257,7 +257,7 @@
     {
       "ID": "DewTour_LongBeach.zip",
       "Name": "Dew Tour Long Beach",
-      "Description": "Thanks to Lukε for porting his map from Skater XL to Session.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Thanks to Lukε for porting his map from Skater XL to Session.",
       "Version": 1.0,
       "Author": "Lukε",
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/dewTourv1/DewTour_LongBeach.zip",
@@ -268,7 +268,7 @@
     {
       "ID": "SLSbyOtter.zip",
       "Name": "SLS Collection",
-      "Description": "Howdy skaters, today i bring you my first ever map for Session! I started working on a request for the SLS 2012 course in Glendale and stumbled upon an archive of older SLS courses. I've taken the requested course and three other of my favorite courses in SLS and smashed them into one map! Again this is my first UE4 project so any feedback and advice is appreciated. I'd like to thank @Khelldon for his free assets and his advice and also @Leon / jahdexe and @AcridoT for testing the map.",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Howdy skaters, today i bring you my first ever map for Session! I started working on a request for the SLS 2012 course in Glendale and stumbled upon an archive of older SLS courses. I've taken the requested course and three other of my favorite courses in SLS and smashed them into one map! Again this is my first UE4 project so any feedback and advice is appreciated. I'd like to thank @Khelldon for his free assets and his advice and also @Leon / jahdexe and @AcridoT for testing the map.",
       "Version": 1.0,
       "Author": "Otter",
       "DownloadLink": "rsmm://GDrive/1HqltKyVoa0uAdx4vXVFEKkEAJM_scMw1",
@@ -279,7 +279,7 @@
     {
       "ID": "Merak.zip",
       "Name": "Merak",
-      "Description": "Here's my first map, it's called 'Merak'",
+      "Description": "NOT COMPATIBLE WITH SESSION UPDATE 0.0.0.5 - Here's my first map, it's called 'Merak'",
       "Version": 1.0,
       "Author": "kylerigelhof",
       "DownloadLink": "rsmm://GDrive/1q6QnY6q28NtmWoK-wbmVt9uhIReE69Wp",
