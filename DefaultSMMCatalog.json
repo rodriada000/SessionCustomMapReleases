@@ -3,6 +3,7 @@
   "Assets": [
     {
       "ID": "rodriadaoaktownzip.zip",
+      "IDWithoutExtension": "rodriadaoaktownzip",
       "Name": "Oak Town Park (W.I.P)",
       "Description": "WORKS WITH LATEST SESSION UPDATE!!! Currently a work in progress. No textures and some collisions are messed up and most are not perfect.",
       "Version": 1.5,
@@ -10,32 +11,35 @@
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park_0005_compat.zip",
       "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/oaktown_preview.png?raw=true",
       "Category": "session-maps",
-      "UpdatedDate": "2020-04-28T00:00:00"
+      "UpdatedDate": "2020-04-27T07:00:00Z"
     },
     {
       "ID": "Merak.zip",
+      "IDWithoutExtension": "Merak",
       "Name": "Merak",
       "Description": "WORKS WITH LATEST SESSION UPDATE!!! - Here's my first map, it's called 'Merak'",
       "Version": 1.5,
       "Author": "kylerigelhof",
-      "DownloadLink": "rsmm://GDrive/1q6QnY6q28NtmWoK-wbmVt9uhIReE69Wp",
+      "DownloadLink": "rsmm://Url/https$uc215bb4320d0cd4edd28f0da1df.dl.dropboxusercontent.com/cd/0/get/A3mQeAIlZAgkA3AGTWI1-Uq2U7zDVFxG1jAHaLn2XKKkxhTgGqu9KhmovcQUt71LwP26XL4o3ggAH1_tuV0qtz9qdi3A5Ju_PdKs3Q2PS7vEZsS93lwx5PYP34jarahrlRo/file?_download_id=911112599616912973113395737193145990546463049994738954189911073&_notify_domain=www.dropbox.com&dl=1",
       "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/709443964499132466/2020.05.11-12.27.png?width=1083&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T08:00:00Z"
+      "UpdatedDate": "2020-05-11T07:00:00Z"
     },
     {
       "ID": "SkateAgora.zip",
+      "IDWithoutExtension": "SkateAgora",
       "Name": "Skate Agora",
       "Description": "WORKS WITH LATEST SESSION UPDATE! - Here is my attempt at recreating Skate Agora in Barcelona. It comes with a day and a night version. Big thanks to Rafael Álvarez for helping me with references along the way! This link will be updated as I work on the model further, but at least for now you can skate it",
       "Version": 0.5,
       "Author": "kylerigelhof",
-      "DownloadLink": "rsmm://GDrive/11tnxslO0E34wk_92r9rsNxvDt9BE0t6F",
+      "DownloadLink": "rsmm://Url/https$uc8160d75da8081a753732193b90.dl.dropboxusercontent.com/cd/0/get/A3miVusSbAXS0yGwZhMmNw-O6iiVNG4XtoZ_j8z37Pz3EtTaf3T-uvB705YhufagVOeoALknKq2j3p_PSWpH40nnfiWos-9ODdSiUU28Ge34xkNfrv0xY80Ipq2TtBvTyTs/file?_download_id=1368363454376384551372181596725392645189628003845631882340538651865&_notify_domain=www.dropbox.com&dl=1",
       "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/709488071795802172/2020.05.11-11.48.png?width=1158&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T08:00:00Z"
+      "UpdatedDate": "2020-05-11T07:00:00Z"
     },
     {
       "ID": "ParkyB.zip",
+      "IDWithoutExtension": "ParkyB",
       "Name": "Parky B",
       "Description": "Session 0.0.0.5 Compatible - Updated Parky_B. a lot of new stuff and no longer requires shadows to be turned off in-game.",
       "Version": 2.0,
@@ -43,7 +47,7 @@
       "DownloadLink": "rsmm://GDrive/146s-Ewqs9D-8VNtwtmHfi6YLdP59JLeW",
       "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/707574200277401631/20200504220209_1.jpg?width=1083&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T08:00:00Z"
+      "UpdatedDate": "2020-05-11T01:00:00-07:00"
     }
   ]
 }
