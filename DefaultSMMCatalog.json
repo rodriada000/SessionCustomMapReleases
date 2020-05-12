@@ -286,6 +286,17 @@
       "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/709443964499132466/2020.05.11-12.27.png?width=1083&height=609",
       "Category": "session-maps",
       "UpdatedDate": "2020-05-11T08:00:00Z"
+    },
+    {
+      "ID": "SkateAgora.zip",
+      "Name": "Skate Agora",
+      "Description": "WORKS WITH LATEST SESSION UPDATE! - Here is my attempt at recreating Skate Agora in Barcelona. It comes with a day and a night version. Big thanks to Rafael Álvarez for helping me with references along the way! This link will be updated as I work on the model further, but at least for now you can skate it",
+      "Version": 0.5,
+      "Author": "kylerigelhof",
+      "DownloadLink": "rsmm://GDrive/11tnxslO0E34wk_92r9rsNxvDt9BE0t6F",
+      "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/709488071795802172/2020.05.11-11.48.png?width=1158&height=609",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-05-11T08:00:00Z"
     }
   ]
 }
