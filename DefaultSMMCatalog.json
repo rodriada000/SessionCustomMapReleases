@@ -11,7 +11,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/oakTown/OakTown_Park_0005_compat.zip",
       "PreviewImage": "https://github.com/rodriada000/SessionCustomMapReleases/raw/master/preview_images/oaktown_preview.png?raw=true",
       "Category": "session-maps",
-      "UpdatedDate": "2020-04-27T07:00:00Z"
+      "UpdatedDate": "2020-04-27T00:00:00-07:00"
     },
     {
       "ID": "Merak.zip",
@@ -23,7 +23,7 @@
       "DownloadLink": "rsmm://GDrive/1q6QnY6q28NtmWoK-wbmVt9uhIReE69Wp",
       "PreviewImage": "https://media.discordapp.net/attachments/709472954236534875/709901598322589798/2020.05.12-18.42.png?width=1083&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T07:00:00Z"
+      "UpdatedDate": "2020-05-11T00:00:00-07:00"
     },
     {
       "ID": "SkateAgora.zip",
@@ -35,7 +35,7 @@
       "DownloadLink": "rsmm://GDrive/11tnxslO0E34wk_92r9rsNxvDt9BE0t6F",
       "PreviewImage": "https://media.discordapp.net/attachments/709472954236534875/709901593298075688/2020.05.12-18.51.png?width=1083&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T07:00:00Z"
+      "UpdatedDate": "2020-05-11T00:00:00-07:00"
     },
     {
       "ID": "ParkyB.zip",
@@ -47,7 +47,19 @@
       "DownloadLink": "rsmm://GDrive/146s-Ewqs9D-8VNtwtmHfi6YLdP59JLeW",
       "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/707574200277401631/20200504220209_1.jpg?width=1083&height=609",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T01:00:00-07:00"
+      "UpdatedDate": "2020-05-11T07:00:00Z"
+    },
+    {
+      "ID": "TonyHawk.rar",
+      "IDWithoutExtension": "TonyHawk",
+      "Name": "Tony Hawk",
+      "Description": "Tony Hawk is in Session. This is a Tony Hawk model I tried to recreate from the upcoming THPS 1+2 game. Complete with the same board, shoes, shirt etc.  ENJOY! Thanks to Redgouf for letting my use his shorts mesh. \r\n\r\nGo into apartment and change clothes and board if need be",
+      "Version": 1.0,
+      "Author": "ndaoud360",
+      "DownloadLink": "rsmm://MegaFile/CYY1CQBb#-RYXJyMQTpYHrkSndI9GPT2CDuAq51Q2ckXAH8Lijtg",
+      "PreviewImage": "https://media.discordapp.net/attachments/614405628512698378/712047825873272852/Tony.png?width=1026&height=577",
+      "Category": "session-characters",
+      "UpdatedDate": "2020-05-23T07:00:00Z"
     }
   ]
 }
