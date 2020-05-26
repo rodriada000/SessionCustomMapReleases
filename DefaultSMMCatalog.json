@@ -60,6 +60,18 @@
       "PreviewImage": "https://media.discordapp.net/attachments/614405628512698378/712047825873272852/Tony.png?width=1026&height=577",
       "Category": "session-characters",
       "UpdatedDate": "2020-05-23T07:00:00Z"
+    },
+    {
+      "ID": "Familia.zip",
+      "IDWithoutExtension": "Familia",
+      "Name": "Familia HQ",
+      "Description": "Familia HQ | Minneapolis, MN.\r\n\r\nAccurate replica. Look it up if you aren't familiar! ENJOY!\r\n\r\nI will be making small adjustments here and there, feel free to point out any bugs.",
+      "Version": 1.0,
+      "Author": "skateboarddaily",
+      "DownloadLink": "rsmm://GDrive/1Z2lSlaJ_mjHOZAvrjFqAwqBqRWKQhEzr",
+      "PreviewImage": "http://i3.ytimg.com/vi/8wMeZm9NDMk/maxresdefault.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-05-26T07:00:00Z"
     }
   ]
 }
