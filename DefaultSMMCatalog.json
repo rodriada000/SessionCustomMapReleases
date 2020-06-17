@@ -20,8 +20,8 @@
       "Description": "Come skate surrounded by the wilderness of Merak!\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nArt Contributions:\n@Suco\n@enoksi",
       "Version": 2,
       "Author": "kylerigelhof",
-      "DownloadLink": "rsmm://Url/https$uc83e10fcd30312ccb9a5d668689.dl.dropboxusercontent.com/cd/0/get/A436KSToNJN9FsB9Md3TsJ8yawZOQKbf6kzXBF7bGZ4NhNn_Jt1qhkvQ89m8BNde0ciPJ3play7spv5J7nbD1uzdyN9JmO3YNccSb4CYl2ruXVNr_3RjIVg9015QK4ONXbU/file?_download_id=6147782314601649275607258730080297864975100047526037191332069418&_notify_domain=www.dropbox.com&dl=1",
-      "PreviewImage": "https://media.discordapp.net/attachments/709472954236534875/717005726580604999/Merak.png?width=1083&height=609",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
+      "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/717006341259919370/Merak.png?width=1026&height=577",
       "Category": "session-maps",
       "UpdatedDate": "2020-06-1T00:00:00-07:00"
     },
@@ -29,13 +29,13 @@
       "ID": "SkateAgora.zip",
       "IDWithoutExtension": "SkateAgora",
       "Name": "Skate Agora",
-      "Description": "WORKS WITH LATEST SESSION UPDATE! - Here is my attempt at recreating Skate Agora in Barcelona. It comes with a day and a night version. Big thanks to Rafael Álvarez for helping me with references along the way! This link will be updated as I work on the model further, but at least for now you can skate it",
-      "Version": 1,
+      "Description": "A model of Skate Agora in Barcelona.\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nThanks to Rafael Álvarez for being at the actual park and sending references along the way.\n\nArt Contributions:\n\n@Suco\n@Abaddon\n@enoksi",
+      "Version": 2,
       "Author": "kylerigelhof",
-      "DownloadLink": "rsmm://Url/https$uc545a70ad09b2164d28bf796e2e.dl.dropboxusercontent.com/cd/0/get/A42sw_P2MPbF_5UkBirJZGE8FdpjMvqQwmU3656C82_8MCfM4JXqcVJuh0cKT_vddcuFxVkBwwFMMoP3yWGo77jt5ikWHbEpvyDxZXi64eBIPWzF4mXZ80N-PF6tMs1TMZI/file?_download_id=330579386218977647914281866331185586538318597372326313032204193076&_notify_domain=www.dropbox.com&dl=1",
-      "PreviewImage": "https://media.discordapp.net/attachments/709472954236534875/709901593298075688/2020.05.12-18.51.png?width=1083&height=609",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
+      "PreviewImage": "https://media.discordapp.net/attachments/709472954236534875/720774752268058714/Skate_Agora.png?width=1026&height=577",
       "Category": "session-maps",
-      "UpdatedDate": "2020-05-11T00:00:00-07:00"
+      "UpdatedDate": "2020-06-11T00:00:00-07:00"
     },
     {
       "ID": "ParkyB.zip",
