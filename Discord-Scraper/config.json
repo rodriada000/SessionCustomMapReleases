@@ -1,0 +1,41 @@
+{
+  "token": "",
+  "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36",
+  "buffer": 1048576,
+
+  "query": {
+    "images": true,
+    "files" : true,
+    "embeds": true,
+    "links" : true,
+    "videos": false,
+    "nsfw"  : false
+  },
+
+  "types": {
+    "images": true,
+    "videos": false,
+    "files" : true,
+    "text"  : true
+  },
+
+  "directs": {},
+  "servers": {
+    "612703594134634498": [
+      "626377225410707467",
+      "614405682925666304",
+      "633016538533724170",
+      "633016584713273365",
+      "633016624038936576",
+      "632765809944690729",
+      "633016642712109096",
+      "614405628512698378",
+      "632765768538390529",
+      "633016160698236928"
+    ]
+  },
+
+  "inactiveChannels": [
+
+  ]
+}
