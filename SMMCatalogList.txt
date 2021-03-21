@@ -1,7 +1,6 @@
 https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/ScrapedCatalog.json
 https://pastebin.com/raw/ib6Bbqdp
 https://pastebin.com/raw/kF7K1H5T
-https://pastebin.com/raw/KKgnwZfP
 https://raw.githubusercontent.com/haensDaempf/SessionMods/master/haens_daempf_catalog.json
 https://pastebin.com/raw/FLa6yWDB
 https://pastebin.com/raw/mKTALVCx
