@@ -1,5 +1,8 @@
 # Discord Scraper
 
+THIS IS BASED ON https://github.com/Dracovian/Discord-Scraper
+Thank you Dracovian for the scraper code!!
+
 ## Table of Contents
 * [Configuring Discord application for PC](#desktop-application)
 * [Configuring Discord website for PC](#website)
