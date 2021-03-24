@@ -340,7 +340,7 @@ CHANNELS = {
 
 if __name__ == '__main__':
     ds = Discord()
-    ds.grab_server_data()
+    # ds.grab_server_data()
     
     catalog = Catalog("Scraped Discord Catalog")
 
@@ -361,7 +361,7 @@ if __name__ == '__main__':
                 batch = [m]
 
                 if PostedMessage(batch).get_image_url() is None or PostedMessage(batch).get_download('url') is None:
-                    if i < len(messages) - 2 and m['authorName'] == messages[i+1]['authorName']:
+                    if i < len(messages) - 1 and m['authorName'] == messages[i+1]['authorName']:
                         message2 = messages[i+1]
 
                     if message2 is not None and message2.get('isProcessed', False) is False:
@@ -370,7 +370,7 @@ if __name__ == '__main__':
                          message2  = None
 
                 if PostedMessage(batch).get_image_url() is None or PostedMessage(batch).get_download('url') is None:
-                    if i < len(messages) - 3 and m['authorName'] == messages[i+2]['authorName']:
+                    if i < len(messages) - 2 and m['authorName'] == messages[i+2]['authorName']:
                         message3 = messages[i+2]
 
                     if message3 is not None and message3.get('isProcessed', False) is False:
