@@ -340,7 +340,7 @@ CHANNELS = {
 
 if __name__ == '__main__':
     ds = Discord()
-    # ds.grab_server_data()
+    ds.grab_server_data()
     
     catalog = Catalog("Scraped Discord Catalog")
 

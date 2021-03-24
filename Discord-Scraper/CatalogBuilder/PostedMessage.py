@@ -53,6 +53,8 @@ class PostedMessage():
             if e['type'] == 'link':
                 if e.get('provider') is not None and e['provider']['name'] in ['Google Docs']:
                     return e[part]
+                if ".zip" in e.get('title', '') or ".rar" in e.get('title', ''):
+                    return e[part]
                 # if 'mega.nz' in e.get('url',''): 
                 #     if part == 'url':
                 #         megaUrl = self.content[self.content.find(e.get('url')):]

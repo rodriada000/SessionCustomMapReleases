@@ -2,15 +2,103 @@
   "Name": "Scraped Discord Catalog",
   "Assets": [
     {
+      "ID": "Dust2.zip",
+      "Name": "Dust2",
+      "Description": "https://drive.google.com/open?id=1g8K_ucVHTlhrbx-8pammPqs50Rp7xVAH Dust_2 is back; direct download + in my catalog as well. \ud83d\ude43  Added higher resolution shadows.\nhttps://raw.githubusercontent.com/DizzyLove/Dizzy/master/Dust2.png",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://GDrive/https:",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/704748305514496110/dust2_4.24.3.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-04-28T17:38:09.751000+00:00"
+    },
+    {
       "ID": "the_HOMETOWN.rar",
       "Name": "the_HOMETOWN",
-      "Description": "Hello Everybody !\n\nWhile I'm working like a maniac on chapter 2 I wanted to adress some feedbacks I received on chapter 1.\nSo ...  here is update 1.1    :)\n***https://drive.google.com/file/d/1b9_luBmIE5fxoM079HvMQl9-eiLTA8gu/view?usp=sharing***\n\n```diff\n- Current build :  v1.1\nAdding a 'Free Skate' mode\nAdding a LOT of new spots and a new little area\nBIG improvement of the lighting (thanks to @munkhead for the tips)\n```\n***Link for the updates log : https://docs.google.com/document/d/1kbevXIoF1-71EslmW6puC9QPMgt_l1xn-Is248Plo5Y/edit?usp=sharing***",
+      "Description": "Hello Everybody !\nHere we are for the v1.0 of my most ambitious map !\n\nthe_HOMETOWN  is my take on trying to push the custom  ... map idea a bit further.\n- You\u2019ll find a story with cinematics, objectives, collectables, interactions and so on...\n- This is a first test / draft, so there is a lot of room for improvement.\n\n**DISCLAIMER : \nThe plan was to do a full voice over work on this map but due to the fact that I\u2019m not a native english speaker, nor a professional actor, and I didn\u2019t wanted to push the v1 launch I\u2019m putting that on the side.\nI know following a story and getting involved with just subtitles and texts is not the best\u2026\nI have a solution in mind, but let\u2019s see if you guys think it\u2019s worth it first   :)\n...I kept some random voice over I did here and there, just to give an idea.**\n\nthe STORY :\n\nYou\u2019re playing the KID, a skate prodigy that was slowly becoming a legend before his terrible choices and mistakes made him lose everything.\nOn his road to redemption, he needs to go back to his birthplace, while his past is haunting him.\n\nChapter 1 : the old factory is where the KID learnt everything. An abandoned place where he created his first spots, and where he hid something truly special. \nThis chapter represent weeks of work (between 10pm and 1am due to my real job and family with a baby life haha).\nI had tons of fun doing it, and I hope you\u2019ll have some as well  :)\n\nIt should keep you occupied (hopefully) for a solid hour or two for the 100%\nThanks -\n\n\n***Direct DL :  https://drive.google.com/file/d/1b9_luBmIE5fxoM079HvMQl9-eiLTA8gu/view?usp=sharing***\n\np.s - PLEASE !!  send me your links with Live / Replays / Gifs, I would LOVE to see you play the map.\n```css\nExit the map (use the door) at the end of the story to get a nice bonus...\n``````diff\n- Current build :  v1.0.1\ncleaning of some penetrating objects \ncleaning of the glitch between the start door and the wall\nyou can now skip the intro by pressing \u2018N\u2019\n```\n***Link for the updates log : https://docs.google.com/document/d/1kbevXIoF1-71EslmW6puC9QPMgt_l1xn-Is248Plo5Y/edit?usp=sharing***",
       "Version": 1,
       "Author": "RMS#3882",
       "DownloadLink": "rsmm://GDrive/1b9_luBmIE5fxoM079HvMQl9-eiLTA8gu",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/745791740228796506/cover_map.jpg",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/719768612541562962/cover_map.jpg",
       "Category": "session-maps",
-      "UpdatedDate": "2020-08-19T23:50:07.062000+00:00"
+      "UpdatedDate": "2020-06-09T04:23:30.787000+00:00"
+    },
+    {
+      "ID": "PortHarbor.zip",
+      "Name": "PortHarbor",
+      "Description": "Hey everyone!  \ud83d\udc4b     I finally finished Port Harbor after all this time. This is actually my second map. I built this before  ... ING Park, but had to fix things because of that update we all know about by now. So without further ado. \n\n  PORT HARBOR\n  \n  With the Mt. Valley authorities instructing the demolition of The Establishment, the areas skateboarders were left to roam the streets. Rand from INGcorperated stepped in and opened up his training facility ING Park and looked like a public savior in the process. Having watched his rival score politcal points, Weeland Skeeter owner of Skeeter Construction vowed to take the politics out of the areas skatboarding scene... and boy did he make a statement with how. \n\n The deed to port Harbor changed hands between INGcorperated and Skeeter Construction 20 years ago in a back alley game of S.K.A.T.E. where Weeland defeated Rand with a Nollie Hardflip to One Wheel Nose Manual across the top of a flat bar. It was Weelands last big win before his accident. With Rand opening ING Park and the Mt.Valley athorites demolishing The Establishment for safety reasons, Weeland has stepped in to help keep the cities politics out of skateboarding.\n\nhttps://drive.google.com/file/d/1V3hERxSKIzRJwsedXsg0aEVb26NAQVN0/view?usp=sharing",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1V3hERxSKIzRJwsedXsg0aEVb26NAQVN0",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/720307781701337168/Release_Pic.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-06-10T16:05:57.835000+00:00"
+    },
+    {
+      "ID": "Roof_hideout.zip",
+      "Name": "Roof_hideout",
+      "Description": "Hello everybody !\nI'm pretty new to EU4 and modding stuffs, but recently  there were few free asset packs on the marketplace  ... and I thought it would be fun to try and make a map. \n\nHere is a low poly Roof_hideout for you to try some tricks ! it's not perfect but it's fun to skate ! Hope you guys enjoy it !\nhttps://drive.google.com/file/d/1Ij0Ss2i8XBlRMhx1y0q2vyK6aFXImH6l/view?usp=sharing",
+      "Version": 1,
+      "Author": "Cyril.uasset#1758",
+      "DownloadLink": "rsmm://GDrive/1Ij0Ss2i8XBlRMhx1y0q2vyK6aFXImH6l",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/721125740346736681/RHD1.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-06-12T22:16:14.395000+00:00"
+    },
+    {
+      "ID": "DIY_01_SciLab.zip",
+      "Name": "DIY_01_SciLab",
+      "Description": "DIY 01 Science Laboratory\n\n  For the first installment in the DIY Playground Collection I used the Science Laboratory environ ... ment pack.  Inspired by the 7 stair ledge set up and the Greenhouse style glass windows offered in the pack I set off to get the basics of the Collection down.  The Large curved desk in the middle of the room should be a great center piece to build on and around. With multiple level changes around the room it should be a good place to start building that DIY park you know you always wanted. All areas in this map are accessible with no added ramps, but that will change in future maps. Before you ask, NO the glass half pipe in the observatory room is NOT skateable.  Though we all wish it was, it has giant gaps between the glass panels and that would need more changes outside of the pack. Which is moving away from the quick in pack only idea of the collection.  I also plan to add baked indoor lighting when I learn it better so we can have stars shining in the roof.   \nhttps://drive.google.com/file/d/1ILFkDO3WZHipxwaCHxPaCyfrSmBJz5Fx/view?usp=sharing\n  THANK YOU TO ALL IN THE SESSION COMMUNITY!",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1ILFkDO3WZHipxwaCHxPaCyfrSmBJz5Fx",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/731581715121963068/DIY01_SciLab_Pic.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-07-11T18:44:33.675000+00:00"
+    },
+    {
+      "ID": "Braile.zip",
+      "Name": "Braile",
+      "Description": "Releasing what I have so far with the Braile House, I think the size of everything is okay but i am looking for feedback!\n\nKn ... own issues to be fixed: Handrail collision causes weird dips at the end of grinds , vert wall needs to be tweaked to not be completely vertical as soon , missing a few extra bits of the warehouse and.. other places i have planned\n\nhttps://drive.google.com/file/d/1JiJrnoDH4vGilXC7Rco5isUr2-v69s2p/view?usp=sharing",
+      "Version": 1,
+      "Author": "Myrder#7722",
+      "DownloadLink": "rsmm://GDrive/1JiJrnoDH4vGilXC7Rco5isUr2-v69s2p",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/731754800907157574/SessionGame-Win64-Shipping_ilWu926Wxb.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-07-12T06:12:20.406000+00:00"
+    },
+    {
+      "ID": "LoveParkV3.zip",
+      "Name": "LoveParkV3",
+      "Description": "New LoveParkV3 Update. Added some surrounding spots. See below pics. Thank you <@!655928691557138445> for helping me organize ...  the file directory structure. I will try to implement day night cycles for the next release. Thanks! https://drive.google.com/file/d/1VFplGQe89Wwdq3dhYDhLZEgVlRrwtDjP/view?usp=sharing",
+      "Version": 1,
+      "Author": "Vomiken#2158",
+      "DownloadLink": "rsmm://GDrive/1VFplGQe89Wwdq3dhYDhLZEgVlRrwtDjP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/738658527513542667/Screenshot_240.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-07-31T07:25:17.027000+00:00"
+    },
+    {
+      "ID": "GoldenMeadows.rar",
+      "Name": "GoldenMeadows",
+      "Description": "Golden Meadows is back after fixing a file size issue (Thanks <@!218805278802444289> for pointing it out!).\nThis is a small p ... ark I decided to recreate to get into map making. Thanks to the community again\nfor all the useful resources. Let me know if you have any suggestions, or find any issues.\nhttps://drive.google.com/file/d/1Al8mpGgSS4Wo972GQqDs3HefTEyehM6C/view?usp=sharing\n\nKnown Issues:\n~~-There's a UI element in the map that will remain active if you swap map, and disappears the second time you change maps.~~\n\nUpdate 1.1\nThe UI element showing up on other maps should be fixed now. I have replaced the download link. Thanks to <@!398409535473057803>  for letting me know about it!",
+      "Version": 1,
+      "Author": "ragdollcorpse#1277",
+      "DownloadLink": "rsmm://GDrive/1Al8mpGgSS4Wo972GQqDs3HefTEyehM6C",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/741489718092365834/GM_Complete.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-08-08T02:55:25.130000+00:00"
+    },
+    {
+      "ID": "LoveParkV4.zip",
+      "Name": "LoveParkV4",
+      "Description": "LoveParkV4 Update. Update includes Day/night cycles and postprocess fx(It looks beautiful at 7am/pm), New outdoor Canarsie Br ... ooklyn NYC skatepark, New indoor park inside 1615 Arch st building, Building next to Moses statue can now be entered on two different levels and has an indoor park with placeholder obstacles\nfor now. Added handrails to Hercules monument, Remodeled buildings to reduce poly count and collision complexity. Lowered the light map resolution on all objects + other optimizations, Expanded the skatepark next to indoor lounge area. Still a work in progress but I can no longer do further testing at the moment because my controller button broke from pushing so much in Session. \ud83d\ude29 https://drive.google.com/file/d/1oEwjoPklQLyDtbXNL6bfm-QuTb4LV0Vy/view?usp=sharing",
+      "Version": 1,
+      "Author": "Vomiken#2158",
+      "DownloadLink": "rsmm://GDrive/1oEwjoPklQLyDtbXNL6bfm-QuTb4LV0Vy",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/744317820682108998/Screenshot_240.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-08-15T22:13:17.333000+00:00"
     },
     {
       "ID": "GoldenMeadows_V2.rar",
@@ -330,6 +418,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/821735412975927296/chp2_TITLE.jpg",
       "Category": "session-maps",
       "UpdatedDate": "2021-03-17T13:23:09.470000+00:00"
+    },
+    {
+      "ID": "Merak.zip",
+      "Name": "Merak",
+      "Description": "MAP MADE BY <@!634808354350301205>. Just Reposting because I didn't see it in the channel.\nCome skate surrounded by the wilde ... rness of Merak!\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nArt Contributions:\n@Suco\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
+      "Version": 1,
+      "Author": "rodriada000#0977",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378531194732584/Merak.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-03-24T20:25:58.726000+00:00"
+    },
+    {
+      "ID": "Skate.Agora.zip",
+      "Name": "Skate.Agora",
+      "Description": "MAP MADE BY <@!634808354350301205>. Just Reposting because I didn't see it in the channel.\nA model of Skate Agora in Barcelon ... a.\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nThanks to Rafael \u00c1lvarez for being at the actual park and sending references along the way.\n\nArt Contributions:\n\n<@!180157764859985921>\n@Abaddon\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
+      "Version": 1,
+      "Author": "rodriada000#0977",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378837261090886/Skate_Agora.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-03-24T20:27:11.574000+00:00"
     },
     {
       "ID": "Content.rar",
