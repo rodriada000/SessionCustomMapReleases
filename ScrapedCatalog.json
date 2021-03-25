@@ -420,6 +420,28 @@
       "UpdatedDate": "2021-03-17T13:23:09.470000+00:00"
     },
     {
+      "ID": "Merak.zip",
+      "Name": "Merak",
+      "Description": "MAP MADE BY Kulley. Just Reposting because I didn't see it in the channel.\nCome skate surrounded by the wilderness of Merak!\n ... \nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nArt Contributions:\n@Suco\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
+      "Version": 1,
+      "Author": "Kulley",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378531194732584/Merak.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-03-24T20:25:58.726000+00:00"
+    },
+    {
+      "ID": "Skate.Agora.zip",
+      "Name": "Skate.Agora",
+      "Description": "MAP MADE BY <@!634808354350301205>. Just Reposting because I didn't see it in the channel.\nA model of Skate Agora in Barcelon ... a.\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nThanks to Rafael \u00c1lvarez for being at the actual park and sending references along the way.\n\nArt Contributions:\n\n<@!180157764859985921>\n@Abaddon\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
+      "Version": 1,
+      "Author": "Kulley",
+      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378837261090886/Skate_Agora.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-03-24T20:27:11.574000+00:00"
+    },
+    {
       "ID": "Content.rar",
       "Name": "Content",
       "Description": "Second deck:",
