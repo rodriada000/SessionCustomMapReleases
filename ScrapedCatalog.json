@@ -106,7 +106,7 @@
       "Description": "Here is Golden Meadows V2. It includes: \nA second section of the map, \nits own day and night cycle (move the sun using the ar ... row keys [<-] [->]).\nA menu that for now only shows the time of day (Press [M] to open or close).\nHope you like it!\nhttps://drive.google.com/file/d/140daAWTTz1t-bI5ye_MVAu10QBSnNjb-/view?usp=sharing\n\nUpdate 2.1:\nhttps://drive.google.com/file/d/1-mkL9J3RWRBw1O_YIZuxDDE89YWGdntV/view?usp=sharing\n\n-Improved performance.\n-Fixed the direction of the clock in menu.\n-Added some Bird sounds.",
       "Version": 1,
       "Author": "ragdollcorpse#1277",
-      "DownloadLink": "rsmm://GDrive/140daAWTTz1t-bI5ye_MVAu10QBSnNjb-",
+      "DownloadLink": "rsmm://GDrive/1-mkL9J3RWRBw1O_YIZuxDDE89YWGdntV",
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/748705661663051786/nights.png",
       "Category": "session-maps",
       "UpdatedDate": "2020-08-28T00:49:00.049000+00:00"
@@ -418,28 +418,6 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/821735412975927296/chp2_TITLE.jpg",
       "Category": "session-maps",
       "UpdatedDate": "2021-03-17T13:23:09.470000+00:00"
-    },
-    {
-      "ID": "Merak.zip",
-      "Name": "Merak",
-      "Description": "MAP MADE BY <@!634808354350301205>. Just Reposting because I didn't see it in the channel.\nCome skate surrounded by the wilde ... rness of Merak!\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nArt Contributions:\n@Suco\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
-      "Version": 1,
-      "Author": "rodriada000#0977",
-      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/Merak/Merak.zip",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378531194732584/Merak.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2021-03-24T20:25:58.726000+00:00"
-    },
-    {
-      "ID": "Skate.Agora.zip",
-      "Name": "Skate.Agora",
-      "Description": "MAP MADE BY <@!634808354350301205>. Just Reposting because I didn't see it in the channel.\nA model of Skate Agora in Barcelon ... a.\n\nMap Controls:\n\nTime: Left/Right Keys\nLights: Spacebar\n\nThanks to Rafael \u00c1lvarez for being at the actual park and sending references along the way.\n\nArt Contributions:\n\n<@!180157764859985921>\n@Abaddon\n@enoksi\n\nhttps://github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
-      "Version": 1,
-      "Author": "rodriada000#0977",
-      "DownloadLink": "rsmm://Url/https$github.com/rodriada000/SessionCustomMapReleases/releases/download/SkateAgora/Skate.Agora.zip",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/824378837261090886/Skate_Agora.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2021-03-24T20:27:11.574000+00:00"
     },
     {
       "ID": "Content.rar",
