@@ -1,4 +1,6 @@
 
+git pull
+
 python .\discord.py
 
 Copy-Item .\ScrapedCatalog.json ..\
