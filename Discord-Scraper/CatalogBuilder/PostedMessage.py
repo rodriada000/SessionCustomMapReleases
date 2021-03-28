@@ -16,8 +16,9 @@ class PostedMessage():
             self.attachments.extend(m['attachments'])
             self.embeds.extend(m['embed'])
 
-        if len(self.content) > 600:
-            self.content = self.content[0:150] + " ...... " + self.content[-150:]
+        #if len(self.content) > 600:
+        #   self.content = self.content[0:150] + " ...... " + self.content[-150:]
+        self.content = self.content.replace(self.get_download('url'), '')
 
     def is_batch(self):
         return len(self.messages) > 1
