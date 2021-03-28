@@ -17,7 +17,7 @@ class PostedMessage():
             self.embeds.extend(m['embed'])
 
         if len(self.content) > 600:
-            self.content = self.content[0:150] + " ... " + self.content[150:]
+            self.content = self.content[0:150] + " ...... " + self.content[-150:]
 
     def is_batch(self):
         return len(self.messages) > 1
