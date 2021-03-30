@@ -1498,6 +1498,94 @@
       "UpdatedDate": "2021-03-25T17:54:08.183000+00:00"
     },
     {
+      "ID": "DECK_Bape_Pink_Camo.rar",
+      "Name": "DECK_Bape_Pink_Camo",
+      "Description": "[DECK] Bape Pink Camo\nReplaces - Half a Roger from Roger Co.",
+      "Version": 1,
+      "Author": "Andre#5832",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826074830969372742/DECK_Bape_Pink_Camo.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826074808650563604/DECK_Bape_Pink_Camo_Thumbnail.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T12:46:27.430000+00:00"
+    },
+    {
+      "ID": "DECK_Supreme_Chrome_Black.rar",
+      "Name": "DECK_Supreme_Chrome_Black",
+      "Description": "[DECK] Supreme Chrome Logo Black\nReplaces - Half a Roger from Roger Co.",
+      "Version": 1,
+      "Author": "Andre#5832",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826074954126590012/DECK_Supreme_Chrome_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826074935268343828/DECK_Supreme_Chrome_Black_Thumbnail.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T12:46:56.857000+00:00"
+    },
+    {
+      "ID": "DECK_Supreme_Chrome_Orange.rar",
+      "Name": "DECK_Supreme_Chrome_Orange",
+      "Description": "[DECK] Supreme Chrome Logo Orange\nReplaces - Half a Roger from Roger Co.",
+      "Version": 1,
+      "Author": "Andre#5832",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826075022073528390/DECK_Supreme_Chrome_Orange.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826075006630232084/DECK_Supreme_Chrome_Orange_Thumbnail.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T12:47:13.063000+00:00"
+    },
+    {
+      "ID": "DECK_Supreme_Mike_Hill_Regretter.rar",
+      "Name": "DECK_Supreme_Mike_Hill_Regretter",
+      "Description": "[DECK] Supreme Mike Hill Regretter\nReplaces - Ghost Boner from Roger Co.",
+      "Version": 1,
+      "Author": "Andre#5832",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826104958767333406/DECK_Supreme_Mike_Hill_Regretter.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826104949532131410/DECK_Supreme_Mike_Hill_Regretter.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T14:46:10.502000+00:00"
+    },
+    {
+      "ID": "DECK_Supreme_Mike_Hill_Brains.rar",
+      "Name": "DECK_Supreme_Mike_Hill_Brains",
+      "Description": "[DECK] Supreme Mike Hill Brains\nReplaces - Dog Balls from Roger Co.",
+      "Version": 1,
+      "Author": "Andre#5832",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826105228897681429/DECK_Supreme_Mike_Hill_Brains.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826105216755302410/DECK_Supreme_Mike_Hill_Brains.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T14:47:15.362000+00:00"
+    },
+    {
+      "ID": "Spiderman_Deck.rar",
+      "Name": "Spiderman_Deck",
+      "Description": "A spiderman deck that works well with the Stan Lee Mod",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826207584310657024/Spiderman_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826207508485111851/Spidey_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T21:33:58.338000+00:00"
+    },
+    {
+      "ID": "Penguins.rar",
+      "Name": "Penguins",
+      "Description": "I just like Penguins",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826207662835367956/Penguins.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826207633860984862/Penguin_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T21:34:17.002000+00:00"
+    },
+    {
+      "ID": "Lyte_Technology.rar",
+      "Name": "Lyte_Technology",
+      "Description": "Lyte Technology. i got my computer from them and it just inspired me.",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/826207807027544124/Lyte_Technology.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/826207793052385321/Lyte_Technology.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-03-29T21:34:51.449000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -1925,6 +2013,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/822524169072803940/Akira_Shirt.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-03-19T17:37:28.219000+00:00"
+    },
+    {
+      "ID": "Logo_Shirt.rar",
+      "Name": "Logo_Shirt",
+      "Description": "This is my stream logo but I finally got my shirt to work. There is my little twitch info on the back",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/826206224088694884/Logo_Shirt.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/826206072364335125/Logo_Shirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-03-29T21:28:34.020000+00:00"
+    },
+    {
+      "ID": "Game_Gyaru.rar",
+      "Name": "Game_Gyaru",
+      "Description": "Game Grumps Shirt I always liked",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/826206660350967858/Game_Gyaru.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/826206608252993617/Game_Grumps.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-03-29T21:30:18.064000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
