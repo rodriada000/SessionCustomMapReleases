@@ -1597,6 +1597,94 @@
       "UpdatedDate": "2021-04-01T00:02:44.041000+00:00"
     },
     {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_AVE_Owl.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_AVE_Owl",
+      "Description": "AVE Owl",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827740914607980554/TEX_DG_Roger_GhostBoner_01_BC_AVE_Owl.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827740879945990144/AVE_Owl.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T03:06:52.791000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Kalis_Owl.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Kalis_Owl",
+      "Description": "Kalis Owl",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827741005180043274/TEX_DG_Roger_GhostBoner_01_BC_Kalis_Owl.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827740993898020884/Kalis_Owl.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T03:07:14.369000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Dill_Owl.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Dill_Owl",
+      "Description": "Dill Owl",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827741066697900032/TEX_DG_Roger_GhostBoner_01_BC_Dill_Owl.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827741048469061662/Dill_Owl.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T03:07:29.017000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_AVE_Insect.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_AVE_Insect",
+      "Description": "",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827754895007285298/TEX_DG_Roger_GhostBoner_01_BC_AVE_Insect.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827754882957574144/AVE_Insect.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T04:02:25.973000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Dyrdek_Insect.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Dyrdek_Insect",
+      "Description": "",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827754976050413638/TEX_DG_Roger_GhostBoner_01_BC_Dyrdek_Insect.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827754965522186350/Dyrdek_Insect.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T04:02:45.243000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Kalis_Insect.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Kalis_Insect",
+      "Description": "",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827755052230770688/TEX_DG_Roger_GhostBoner_01_BC_Kalis_Insect.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827755040764461076/Kalis_Insect.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T04:03:03.479000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Kirchart_Insect.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Kirchart_Insect",
+      "Description": "",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827755110816940072/TEX_DG_Roger_GhostBoner_01_BC_Kirchart_Insect.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827755102910939182/Kirchart_Insect.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T04:03:17.428000+00:00"
+    },
+    {
+      "ID": "TEX_DG_Roger_GhostBoner_01_BC_Berra_Insect.rar",
+      "Name": "TEX_DG_Roger_GhostBoner_01_BC_Berra_Insect",
+      "Description": "",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/827755195416051722/TEX_DG_Roger_GhostBoner_01_BC_Berra_Insect.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/827755180187451412/Berra_Insect.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-03T04:03:37.584000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2719,6 +2807,17 @@
       "UpdatedDate": "2021-03-28T01:50:47.325000+00:00"
     },
     {
+      "ID": "04_Shuco_Feeble__Wilscot_-PaperLeaf.rar",
+      "Name": "04_Shuco_Feeble__Wilscot_-PaperLeaf",
+      "Description": "",
+      "Version": 1,
+      "Author": "Suco#5538",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/827618478998945812/04_Shuco_Feeble__Wilscot_-PaperLeaf.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/827618435869048872/Shuco01_Feeble2.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-02T19:00:21.854000+00:00"
+    },
+    {
       "ID": "Grizzly_Griptape.rar",
       "Name": "Grizzly_Griptape",
       "Description": "",
@@ -3258,6 +3357,17 @@
       "UpdatedDate": "2021-03-20T13:36:23.532000+00:00"
     },
     {
+      "ID": "Bucket_Hat.rar",
+      "Name": "Bucket_Hat",
+      "Description": "\"Bucket Hat\"",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/827713740773785620/Bucket_Hat.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/827713731369893939/Bucket_Hat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-03T01:18:54.414000+00:00"
+    },
+    {
       "ID": "DreadsAMXX.zip",
       "Name": "DreadsAMXX",
       "Description": "Dreads for AMXX (Replaces Hair A)",
@@ -3542,6 +3652,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/632765768538390529/822525874447581204/The_Trucks.png",
       "Category": "session-trucks",
       "UpdatedDate": "2021-03-19T17:44:17.308000+00:00"
+    },
+    {
+      "ID": "Venture_x_Thrasher_Team_Editions_Red_Bushings.rar",
+      "Name": "Venture_x_Thrasher_Team_Editions_Red_Bushings",
+      "Description": "Requested by <@!609380999486504960> Venture x Thrasher Team Editions",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/632765768538390529/827700810099458089/Venture_x_Thrasher_Team_Editions_Red_Bushings.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/632765768538390529/827700772106928154/20210403012433_1.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2021-04-03T00:27:31.221000+00:00"
     },
     {
       "ID": "Bronson_Raw_Bearings.zip",
