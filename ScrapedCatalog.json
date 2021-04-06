@@ -321,6 +321,17 @@
       "UpdatedDate": "2020-12-24T17:03:39.494000+00:00"
     },
     {
+      "ID": "RicoVille.zip",
+      "Name": "RicoVille",
+      "Description": "**Ricoville updated**\nAdded a makeshift loading screen\n@Shitty Bill#7385's Billboard has been added\n@Jack KIrtley#6903, @thesubgenius#4187, @WilScot#6219's posters added. \nNew @SesherMagazine#1213 Billboard.\nAdded benches at Queens Plaza.\nMoved beginning skatepark ramps to new location.\nTweaked lighting.\nFixed fingerboard table spawn issue.\n\nRicoVille\nWork in progress. Currently there is a starter skatepark with a small sunken alley. Besos waves between 2 brick buildings and other skateables nearby. A small skatepark inside of a building nearby. There is an interactable fingerboard table next to the besos waves. A larger unfinished indoor park and skate shop inside of the large toyota center building. There is a bus stop with only 2 current destinations, the starter skatepark, and a plaza with security that allows 10 minutes of skating before getting evicted. Much more to come soon!\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1TVN6K29kePKVc2s4x-ehlORAC00emHXa",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/805923247219933234/Screenshot_2021-01-25_004634.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-02-01T22:11:15.760000+00:00"
+    },
+    {
       "ID": "ZakimBridgeSkatepark.zip",
       "Name": "ZakimBridgeSkatepark",
       "Description": "My first attempt at making a custom map for session.  Go easy on her.  Hopefully it\u2019s fun to skate.  Started out as a test for bringing things from blender into ue4 and just kinda snowballed from there.  Loosely based on a skatepark near Zakim Bridge.  \nHuge thanks goes out to <@!156600986251689984> for all the help with getting marketplace assets to work and shadows to show up.  I was getting frustrated and almost deleted it.  But, I didn\u2019t.  So here you go.  Hopefully someone enjoys it.  ",
