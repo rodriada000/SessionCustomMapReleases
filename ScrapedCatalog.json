@@ -1696,6 +1696,28 @@
       "UpdatedDate": "2021-04-04T07:10:00.996000+00:00"
     },
     {
+      "ID": "dirge_custom_logodecks.zip",
+      "Name": "dirge_custom_logodecks",
+      "Description": "Custom Dirge Skateboards brand \"logo decks\". Replaces all 3 ESP decks.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/828534128260546580/dirge_custom_logodecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/828534119642169344/logodecks_preview.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-05T07:38:49.641000+00:00"
+    },
+    {
+      "ID": "dirge_ritual_deck.zip",
+      "Name": "dirge_ritual_deck",
+      "Description": "(Custom brand) Dirge Skateboard - Ritual (replaces 2 Flat Face decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/828612879598485564/dirge_ritual_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/828612864972685332/ritual_preview.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-05T12:51:45.418000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2178,6 +2200,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/828303301464293466/foundation_blk_hoodie_pic.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-04T16:21:37.480000+00:00"
+    },
+    {
+      "ID": "dirge_ritual_shirts.zip",
+      "Name": "dirge_ritual_shirts",
+      "Description": "(Custom brand) Dirge - Ritual  Shirts (Replaces 2 No Comply shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/828613181123461180/dirge_ritual_shirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/828613169139941456/ritual_shirts_preview.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-05T12:52:57.337000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
@@ -3520,6 +3553,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/828162086659293205/foundation_default_hats.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2021-04-04T07:00:29.028000+00:00"
+    },
+    {
+      "ID": "Slouched.zip",
+      "Name": "Slouched",
+      "Description": "Daewon Beanie",
+      "Version": 1,
+      "Author": "\ua645ib\u029c\u0252qiT#6969",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/828820689574035476/Slouched.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/828820676801855508/Session_4_5_2021_10_23_58_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-06T02:37:31.228000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
