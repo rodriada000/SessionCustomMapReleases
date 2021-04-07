@@ -1729,6 +1729,17 @@
       "UpdatedDate": "2021-04-05T12:51:45.418000+00:00"
     },
     {
+      "ID": "dirge_dirgetxt_deck.zip",
+      "Name": "dirge_dirgetxt_deck",
+      "Description": "(custom brand) Dirge Skateboards Brand Name deck (replaces Moving Circus deck)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/829184564085522442/dirge_dirgetxt_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/829184559836561439/dirgetxt_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-07T02:43:25.646000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
