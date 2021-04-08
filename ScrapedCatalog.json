@@ -2235,6 +2235,17 @@
       "UpdatedDate": "2021-04-05T12:52:57.337000+00:00"
     },
     {
+      "ID": "dirge_ouija_hoodie.zip",
+      "Name": "dirge_ouija_hoodie",
+      "Description": "(fake brand) Dirge Skateboards \"OUIJA\" hoodie. (replaces Fallen Military green hoodie)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/829350936434180146/dirge_ouija_hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/829350929950048264/dirge_ouija_hoodie_ad.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-07T13:44:31.869000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
