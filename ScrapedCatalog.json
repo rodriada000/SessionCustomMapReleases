@@ -1740,6 +1740,17 @@
       "UpdatedDate": "2021-04-07T02:43:25.646000+00:00"
     },
     {
+      "ID": "dirge_goat_deck.zip",
+      "Name": "dirge_goat_deck",
+      "Description": "(updated) Dirge Skateboards \"Goat\" deck. (Replaces Schlaudie_Rooftop)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/829906725473091684/dirge_goat_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/829906721489158175/dirge_goat.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-09T02:33:02.372000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -3412,6 +3423,17 @@
       "UpdatedDate": "2021-04-04T16:23:19.965000+00:00"
     },
     {
+      "ID": "dirge_brandname_grip.zip",
+      "Name": "dirge_brandname_grip",
+      "Description": "(fake brand) Dirge Skateboards brand name griptape (replaces default)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/632765809944690729/829918609937661993/dirge_brandname_grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/632765809944690729/829918606640021564/dirge_grip.jpg",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-04-09T03:20:15.931000+00:00"
+    },
+    {
       "ID": "DreadsHatBack.zip",
       "Name": "DreadsHatBack",
       "Description": "Dreads W/ Backwards Hat AMXX",
@@ -3696,6 +3718,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/614405628512698378/824136125685432330/CJ.jpg",
       "Category": "session-characters",
       "UpdatedDate": "2021-03-24T04:22:50.085000+00:00"
+    },
+    {
+      "ID": "T\u00e1bita.zip",
+      "Name": "T\u00e1bita",
+      "Description": "OC model I created for myself, but I've been asked to release, so here she is. \ud83d\ude42",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://GDrive/14OjDabW_roiv8pyQYK74O-wsGj1xC1i4",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405628512698378/829735661091029032/Tabita.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-04-08T15:13:20.300000+00:00"
+    },
+    {
+      "ID": "Safemoon.rar",
+      "Name": "Safemoon",
+      "Description": "Reppin my favorite cryptocurrency merch Safemoon. Hat and hoodie!",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405628512698378/829928452026138624/Safemoon.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405628512698378/829928522755080192/Screenshot_17.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-04-09T03:59:39.561000+00:00"
     },
     {
       "ID": "Rgdk_Low.rar",
