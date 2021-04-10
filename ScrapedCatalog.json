@@ -1751,6 +1751,17 @@
       "UpdatedDate": "2021-04-09T02:33:02.372000+00:00"
     },
     {
+      "ID": "old_sticker_deck.zip",
+      "Name": "old_sticker_deck",
+      "Description": "Old sticker deck (replaces Schlaudie_Rooftop_02)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/830179282559041605/old_sticker_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/830179276645072956/oldskate.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-09T20:36:04.991000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -3434,6 +3445,17 @@
       "UpdatedDate": "2021-04-09T03:20:15.931000+00:00"
     },
     {
+      "ID": "old_grip.zip",
+      "Name": "old_grip",
+      "Description": "old griptape, replaces default",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/632765809944690729/830178970245791784/old_grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/632765809944690729/830178967418961930/oldgrip.jpg",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-04-09T20:34:50.564000+00:00"
+    },
+    {
       "ID": "DreadsHatBack.zip",
       "Name": "DreadsHatBack",
       "Description": "Dreads W/ Backwards Hat AMXX",
@@ -3619,6 +3641,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/828820676801855508/Session_4_5_2021_10_23_58_PM.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-04-06T02:37:31.228000+00:00"
+    },
+    {
+      "ID": "Head.zip",
+      "Name": "Head",
+      "Description": "Prison Dude Slouch Beanie (New Colors)",
+      "Version": 1,
+      "Author": "\ua645ib\u029c\u0252qiT#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/830270788766400533/Head.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/830270677524152340/Session_4_9_2021_10_38_11_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-10T02:39:42.012000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
