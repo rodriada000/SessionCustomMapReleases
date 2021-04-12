@@ -1773,6 +1773,28 @@
       "UpdatedDate": "2021-04-10T21:42:17.799000+00:00"
     },
     {
+      "ID": "dirge_silver_deck.zip",
+      "Name": "dirge_silver_deck",
+      "Description": "Dirge Skateboards \"Silver\" deck. (replaces flatface 3)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/830787920595124294/dirge_silver_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/830787840744095784/dirge_silver_ad_pc.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-11T12:54:35.603000+00:00"
+    },
+    {
+      "ID": "dirge_gothic_decks.zip",
+      "Name": "dirge_gothic_decks",
+      "Description": "Dirge Skateboards \"Gothic\" decks (replaces Zero Burman & Zero LegacyRansom)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/830975534196457522/dirge_gothic_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/830975528353660958/gothic_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-12T01:20:06.137000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -3047,6 +3069,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/828450751860572160/Session_4_4_2021_10_05_38_PM.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-04-05T02:07:40.334000+00:00"
+    },
+    {
+      "ID": "EsMagenta.rar",
+      "Name": "EsMagenta",
+      "Description": "Es Magenta X Fraiboy",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/831008959841566759/EsMagenta.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/831009016444092477/Session_Screenshot_2021.04.11_-_03.09.21.45.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-12T03:33:09.908000+00:00"
+    },
+    {
+      "ID": "EsGANK.rar",
+      "Name": "EsGANK",
+      "Description": "Es Gank X Fraiboy",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/831009746579488809/EsGANK.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/831009879283597332/Session_Screenshot_2021.04.11_-_13.33.31.97.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-12T03:36:35.654000+00:00"
+    },
+    {
+      "ID": "Es_Creamsicle.rar",
+      "Name": "Es_Creamsicle",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/831017806819491890/Es_Creamsicle.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/831030450628984832/Session_Screenshot_2021.04.11_-_23.52.25.01.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-12T04:58:19.946000+00:00"
     },
     {
       "ID": "Grizzly_Griptape.rar",
