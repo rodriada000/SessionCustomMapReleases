@@ -1795,6 +1795,28 @@
       "UpdatedDate": "2021-04-12T01:20:06.137000+00:00"
     },
     {
+      "ID": "LR_STIFFY1stEDITION_DECKS.zip",
+      "Name": "LR_STIFFY1stEDITION_DECKS",
+      "Description": "",
+      "Version": 1,
+      "Author": "Tyrone.Ball#3905",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/831550503984562196/LR_STIFFY1stEDITION_DECKS.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/831550445423689838/1stED_Deck_8.25_RockHArd.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-13T15:24:49.674000+00:00"
+    },
+    {
+      "ID": "Blank_Deck_Graphic_Fix.rar",
+      "Name": "Blank_Deck_Graphic_Fix",
+      "Description": "a fix for the blank decks so you can have a graphic on them they all use the same graphic\n\nto install just extract the rar file and copy the Blank Deck Graphic Fix folder to your Paks folder\n\nto switch the default graphic just make a texture mod for them  in ue4 add you texture and name it  TEX_DG_Blank_Deck  and put it in this location \nCustomization\\Skateboards\\DeckGraphics\\Default\\Textures  now cook it and copy it over to your game files",
+      "Version": 1,
+      "Author": "Chuy#6528",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/831681267162546286/Blank_Deck_Graphic_Fix.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/831681255736606822/Screenshot_419.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-14T00:04:26.060000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2299,6 +2321,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/829350929950048264/dirge_ouija_hoodie_ad.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-07T13:44:31.869000+00:00"
+    },
+    {
+      "ID": "LR_STIFFY1stEDITION_Tees.zip",
+      "Name": "LR_STIFFY1stEDITION_Tees",
+      "Description": "",
+      "Version": 1,
+      "Author": "Tyrone.Ball#3905",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/831549651361988628/LR_STIFFY1stEDITION_Tees.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/831549574535315466/1stED_Clothing_Tee_Red.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-13T15:21:26.491000+00:00"
+    },
+    {
+      "ID": "LR_STIFFY1stEDITION_Hoodies.zip",
+      "Name": "LR_STIFFY1stEDITION_Hoodies",
+      "Description": "",
+      "Version": 1,
+      "Author": "Tyrone.Ball#3905",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/831549880207409172/LR_STIFFY1stEDITION_Hoodies.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/831549828768333894/1stED_Clothing_Hoodie_Red.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-13T15:22:20.948000+00:00"
+    },
+    {
+      "ID": "dirge_gothic_tshirt.zip",
+      "Name": "dirge_gothic_tshirt",
+      "Description": "(fake brand) Dirge Skateboard \"Gothic T-shirt\" (replaces no-comply Pink shirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/831717070340751360/dirge_gothic_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/831717066507157514/gothic_tshirt_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-14T02:26:42.167000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
@@ -3720,6 +3775,17 @@
       "UpdatedDate": "2021-04-10T02:39:42.012000+00:00"
     },
     {
+      "ID": "LR_STIFFY1stEDITION_HAT_Yellow.zip",
+      "Name": "LR_STIFFY1stEDITION_HAT_Yellow",
+      "Description": "STIFFY skateboards - 'Stiffy-one-fifty' yellow hat with metallic embroidery graffiti-tag logo",
+      "Version": 1,
+      "Author": "Tyrone.Ball#3905",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/831548234584817695/LR_STIFFY1stEDITION_HAT_Yellow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/831548193756938311/1stED_Clothing_Hat_Yellow.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-13T15:15:48.601000+00:00"
+    },
+    {
       "ID": "DreadsAMXX.zip",
       "Name": "DreadsAMXX",
       "Description": "Dreads for AMXX (Replaces Hair A)",
@@ -3839,6 +3905,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/614405628512698378/829928522755080192/Screenshot_17.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-04-09T03:59:39.561000+00:00"
+    },
+    {
+      "ID": "LR_STIFFY1stEDITION_FullPack.zip",
+      "Name": "LR_STIFFY1stEDITION_FullPack",
+      "Description": "STIFFY Skateboards - 1st Edition Full Lineup Pack \ud83d\udef9\n\nor check <#614405682925666304> <#633016538533724170> <#633016642712109096> for options",
+      "Version": 1,
+      "Author": "Tyrone.Ball#3905",
+      "DownloadLink": "rsmm://GDrive/1NsXudseKu8sVbGiPoQmH6w32JrZw5qaR",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405628512698378/831552610313961502/1st_Edition_Pack.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-04-13T15:33:12.553000+00:00"
     },
     {
       "ID": "Rgdk_Low.rar",
