@@ -2356,6 +2356,17 @@
       "UpdatedDate": "2021-04-14T02:26:42.167000+00:00"
     },
     {
+      "ID": "dirge_brand_tshirt.zip",
+      "Name": "dirge_brand_tshirt",
+      "Description": "(fake brand) Dirge Skateboards \"Brand\" T-Shirt (replaces No-Comply white shirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/832102338402844672/dirge_brand_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/832102334292033596/brandname_tshirt_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-15T03:57:37.238000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
