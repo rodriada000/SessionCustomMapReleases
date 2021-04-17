@@ -3192,6 +3192,17 @@
       "UpdatedDate": "2021-04-12T04:58:19.946000+00:00"
     },
     {
+      "ID": "Gen_MisfitShoe_v1.rar",
+      "Name": "Gen_MisfitShoe_v1",
+      "Description": "Misfits Slip on v1",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/832637554360189008/Gen_MisfitShoe_v1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/832637599138840596/Session_Screenshot_2021.04.16_-_10.22.16.81.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-16T15:24:34.021000+00:00"
+    },
+    {
       "ID": "Grizzly_Griptape.rar",
       "Name": "Grizzly_Griptape",
       "Description": "",
@@ -4334,6 +4345,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016160698236928/826605906841174036/20210330175556_1.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2021-03-30T23:56:48.826000+00:00"
+    },
+    {
+      "ID": "dirge_bearings_reds.zip",
+      "Name": "dirge_bearings_reds",
+      "Description": "(fake brand) Dirge Skateboards - DSRB \"Reds\" bearings (replaces defaults)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016160698236928/832842867772620800/dirge_bearings_reds.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016160698236928/832842866732564510/dirge_bearing_ad.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-04-17T05:00:13.266000+00:00"
     }
   ]
 }
