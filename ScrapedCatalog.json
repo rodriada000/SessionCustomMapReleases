@@ -1839,6 +1839,39 @@
       "UpdatedDate": "2021-04-16T01:31:00.254000+00:00"
     },
     {
+      "ID": "POLAR_deck.rar",
+      "Name": "POLAR_deck",
+      "Description": "Polar Skate Co. Dane Brady Deck",
+      "Version": 1,
+      "Author": "diogope2#4671",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833342631990788106/POLAR_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833342697703866399/Session_18_04_2021_15_03_08.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-18T14:06:22.718000+00:00"
+    },
+    {
+      "ID": "dirge_cursed_deck.zip",
+      "Name": "dirge_cursed_deck",
+      "Description": "(fake brand) Dirge Skateboards \"Cursed\" deck (replaces LimitedRun_01)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833418833007607859/dirge_cursed_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833418830729576508/cursed_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-18T19:08:54.282000+00:00"
+    },
+    {
+      "ID": "dirge_skullkings_decks.zip",
+      "Name": "dirge_skullkings_decks",
+      "Description": "(fake brand) Dirge Skateboards \"Skull King\" decks. (replaces LimitedRun decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833552703002902558/dirge_skullkings_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833552695763402782/skullking_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-19T04:00:51.111000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2387,6 +2420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/832102334292033596/brandname_tshirt_ad.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-15T03:57:37.238000+00:00"
+    },
+    {
+      "ID": "POLAR_tee.rar",
+      "Name": "POLAR_tee",
+      "Description": "Polar Skate Co. Tee",
+      "Version": 1,
+      "Author": "diogope2#4671",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/833342220136349726/POLAR_tee.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/833342356136001576/Session_18_04_2021_15_00_58.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-18T14:05:01.182000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
@@ -3839,6 +3883,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/831548193756938311/1stED_Clothing_Hat_Yellow.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2021-04-13T15:15:48.601000+00:00"
+    },
+    {
+      "ID": "Hat_Back_deck.zip",
+      "Name": "Hat_Back_deck",
+      "Description": "female hat with backpack and skatedeck",
+      "Version": 1,
+      "Author": "horrorscamgaming#2158",
+      "DownloadLink": "rsmm://GDrive/1aQDgYzsitcoqchxavP--i62ENkAJt53K",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/833331219810746368/Session_Screenshot_2021.04.18_-_09.17.49.44.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-18T13:20:46.178000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
