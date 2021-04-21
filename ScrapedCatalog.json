@@ -2,15 +2,15 @@
   "Name": "Scraped Discord Catalog",
   "Assets": [
     {
-      "ID": "Dust2.zip",
-      "Name": "Dust2",
-      "Description": " Dust_2 is back; direct download + in my catalog as well. \ud83d\ude43  Added higher resolution shadows.\nhttps://raw.githubusercontent.com/DizzyLove/Dizzy/master/Dust2.png",
+      "ID": "BloktoParkv1.2.zip",
+      "Name": "BloktoParkv1.2",
+      "Description": "Blokto Park v1.2\nNow compatible with 0.0.0.5!\nOPTIONAL:\nFix for the decals not showing (wax & wheel marks).\nGo to your Session\\SessionGame\\Config\\UserEngine.ini file and add the following lines:\n\n[/Script/Engine.RendererSettings]\nr.DBuffer = True\n\nI haven't noticed any issues using this so far but if anything goes wrong try changing the True to False (or delete the lines from your UserEngine.ini).\nCatalogue:\nhttps://pastebin.com/raw/eEp2SKKf\nMega:\n<>",
       "Version": 1,
-      "Author": "Dizzy#2953",
-      "DownloadLink": "rsmm://GDrive/https:",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/704748305514496110/dust2_4.24.3.png",
+      "Author": "JammieDodger#5836",
+      "DownloadLink": "rsmm://MegaFile/Y7IzmKqJ#OYfTi12bRnZrCZUhJ3PDTKdmrDBEKwvuJlDA3vljLDU",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/708516691214204948/Blokto_Screenshot_1.2.png",
       "Category": "session-maps",
-      "UpdatedDate": "2020-04-28T17:38:09.751000+00:00"
+      "UpdatedDate": "2020-05-09T03:12:22.880000+00:00"
     },
     {
       "ID": "the_HOMETOWN.rar",
@@ -46,6 +46,17 @@
       "UpdatedDate": "2020-06-12T22:16:14.395000+00:00"
     },
     {
+      "ID": "Union_Hubbas.zip",
+      "Name": "Union_Hubbas",
+      "Description": "**Union Hubbas**\nI present you my first map ever made. Such a great learning experience, and found a new passion for 3d modeling.\n\nD/L Link: \n^^ **CLICK THIS** ^^\ndecryption key (only if you need it): gPpmj0yvPSlZHplP7cNPY_cWc7s8jDykHWn6yGav3hI\n\n**IF YOU ARE FREEFALLING!!  Drop the folder \"RENTLESS\" into your steamfolder > steamapps > common > Session > SessionGame > Content > CustomMaps**\n\nPlease feel free to share feedback with me. \n*I know its not polished, thats for sure*",
+      "Version": 1,
+      "Author": "rentless#5071",
+      "DownloadLink": "rsmm://MegaFile/gy5WmAzA#gPpmj0yvPSlZHplP7cNPY_cWc7s8jDykHWn6yGav3hI",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/728121886667440158/Union_Hubba-3.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-07-02T05:36:25.760000+00:00"
+    },
+    {
       "ID": "DIY_01_SciLab.zip",
       "Name": "DIY_01_SciLab",
       "Description": "DIY 01 Science Laboratory\n\n  For the first installment in the DIY Playground Collection I used the Science Laboratory environment pack.  Inspired by the 7 stair ledge set up and the Greenhouse style glass windows offered in the pack I set off to get the basics of the Collection down.  The Large curved desk in the middle of the room should be a great center piece to build on and around. With multiple level changes around the room it should be a good place to start building that DIY park you know you always wanted. All areas in this map are accessible with no added ramps, but that will change in future maps. Before you ask, NO the glass half pipe in the observatory room is NOT skateable.  Though we all wish it was, it has giant gaps between the glass panels and that would need more changes outside of the pack. Which is moving away from the quick in pack only idea of the collection.  I also plan to add baked indoor lighting when I learn it better so we can have stars shining in the roof.   \n\n  THANK YOU TO ALL IN THE SESSION COMMUNITY!",
@@ -66,6 +77,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/731754800907157574/SessionGame-Win64-Shipping_ilWu926Wxb.jpg",
       "Category": "session-maps",
       "UpdatedDate": "2020-07-12T06:12:20.406000+00:00"
+    },
+    {
+      "ID": "Dirty Nasty Meth Shed.zip",
+      "Name": "Dirty Nasty Meth Shed",
+      "Description": "Sigh... Parks not nearly as completed as I wanted, textures are trash, lighting is mediocre, and modelling isn't done yet, but i'm fed up with it for now. Any suggestions on how to fix any of the previous stated points let me know",
+      "Version": 1,
+      "Author": "blitzkow#6223",
+      "DownloadLink": "rsmm://MegaFile/KK4ByYCR#N8-rRU1EOXcjL0JEznHJkpzHV-XLEsqAIqB5R-jPh2I",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/733110890445930496/Screenshot_10.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-07-16T00:01:00.609000+00:00"
     },
     {
       "ID": "LoveParkV3.zip",
@@ -332,6 +354,17 @@
       "UpdatedDate": "2021-02-01T22:11:15.760000+00:00"
     },
     {
+      "ID": "Peitruss_v1_0_2_1.rar",
+      "Name": "Peitruss_v1_0_2_1",
+      "Description": "P\u00e9itruss by Team EMU\n\nDOWNLOAD:\nhttps://bit.ly/Peitruss_v1_0_2_1P\u00e9itruss by Team EMU\n\nDOWNLOAD:\nhttps://bit.ly/Peitruss_v1_0_2_1",
+      "Version": 1,
+      "Author": "Munkhead#4184",
+      "DownloadLink": "rsmm://MegaFile/K54HGTLR#HFqiNfyH5UCiKiwm68zZLXV-9FSgBrXoI6T08pwIrJM",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/805971855994912813/HighresScreenshot00000.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-02-02T01:24:25.580000+00:00"
+    },
+    {
       "ID": "ZakimBridgeSkatepark.zip",
       "Name": "ZakimBridgeSkatepark",
       "Description": "My first attempt at making a custom map for session.  Go easy on her.  Hopefully it\u2019s fun to skate.  Started out as a test for bringing things from blender into ue4 and just kinda snowballed from there.  Loosely based on a skatepark near Zakim Bridge.  \nHuge thanks goes out to <@!156600986251689984> for all the help with getting marketplace assets to work and shadows to show up.  I was getting frustrated and almost deleted it.  But, I didn\u2019t.  So here you go.  Hopefully someone enjoys it.  ",
@@ -466,13 +499,35 @@
     {
       "ID": "Mt_Olympus.zip",
       "Name": "Mt_Olympus",
-      "Description": "2021 Tokyo Summer Olympics Street Course \n\nvert/park course will be added at a later date. \n\n\n\nShout out to <@!740323199916572703> for making the promo video. I hope you all enjoy.\nhttps://www.youtube.com/watch?v=IlrhOZ8W8GA",
+      "Description": "Updated RicoVille with some more NPC optimization and an updated security guard at the Queens Plaza. Security guard may or may not spawn.2021 Tokyo Summer Olympics Street Course \n\nvert/park course will be added at a later date. \n\n\n\nShout out to <@!740323199916572703> for making the promo video. I hope you all enjoy.\nhttps://www.youtube.com/watch?v=IlrhOZ8W8GA",
       "Version": 1,
       "Author": "Travis Bragg#5150",
       "DownloadLink": "rsmm://GDrive/1WMiM3aqgK28Xc8wxMfI2JQSMniiRraxt",
+      "PreviewImage": "https://i.ytimg.com/vi/IlrhOZ8W8GA/sddefault.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-04-13T04:07:07.266000+00:00"
+    },
+    {
+      "ID": "TAMPA2020_Repack.zip",
+      "Name": "TAMPA2020_Repack",
+      "Description": "TAMPA2020 v1 by Mastaflex\n\nThis is only a repack, I did not make any changes. \n\nRepack by: Wiggin\n\n\n> Preview : https://www.artstation.com/mastaflex\n> If you got an account on artstation, go support me with subs or likes (if you think the map is great).\n> \n> JL Nightmare video : https://www.youtube.com/watch?v=FM_Uj2N4Kpk&feature=youtu.be\n> \n> Note : \n> I play with -800 gravity and that works well with the map. Didn't playtest with -980.\n> When launching, wait a bit for textures and lighting to load.\n> \nhttps://media.discordapp.net/attachments/626377225410707467/764850578018009098/vignette_tampa2020_unreal_artstation.jpg?width=585&height=585",
+      "Version": 1,
+      "Author": "Wiggin#0357",
+      "DownloadLink": "rsmm://MegaFile/c0xjXaqJ#CGxpt5rrjyr_3sc_f4n5aL7GhLJTYcL06IPOVv7GLGw",
+      "PreviewImage": "https://media.discordapp.net/attachments/626377225410707467/764850578018009098/vignette_tampa2020_unreal_artstation.jpg?width=585&height=585",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-04-15T02:07:27.664000+00:00"
+    },
+    {
+      "ID": "RGBPhotoshootV2.zip",
+      "Name": "RGBPhotoshootV2",
+      "Description": "RGB Photoshoot updated with no emmissive and has the NYC sky so you can change your lighting angles",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/626377225410707467/832505481431875604/RGBPhotoshootV2.zip",
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/832505324254396457/RailCharacterTagTest.png",
       "Category": "session-maps",
-      "UpdatedDate": "2021-04-16T06:38:57.077000+00:00"
+      "UpdatedDate": "2021-04-16T06:39:33.975000+00:00"
     },
     {
       "ID": "Content.rar",
@@ -1001,6 +1056,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/809401702595559495/20210211202816_1.jpg",
       "Category": "session-decks",
       "UpdatedDate": "2021-02-11T12:33:38.925000+00:00"
+    },
+    {
+      "ID": "proper_gnar_energy_8.5.rar",
+      "Name": "proper_gnar_energy_8.5",
+      "Description": "https://imgur.com/Xyw5sId ProperGnar Energy, replaces Roger Doodler 8.5",
+      "Version": 1,
+      "Author": "raqyee#2970",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/809919355944566865/proper_gnar_energy_8.5.rar",
+      "PreviewImage": "https://imgur.com/Xyw5sId",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-02-12T22:50:22.057000+00:00"
     },
     {
       "ID": "element_ecto1_0007.rar",
@@ -1872,6 +1938,28 @@
       "UpdatedDate": "2021-04-19T04:00:51.111000+00:00"
     },
     {
+      "ID": "Leon_Karssen_Double_Decker.rar",
+      "Name": "Leon_Karssen_Double_Decker",
+      "Description": "",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/834220492956762132/Leon_Karssen_Double_Decker.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/834220441844842496/Leon_Karssen_Double_Decker.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-21T00:14:24.645000+00:00"
+    },
+    {
+      "ID": "dirge_voodoo_deck.zip",
+      "Name": "dirge_voodoo_deck",
+      "Description": "(fake brand) Dirge Skateboards \"Voodoo\" deck (replaces Zero Burman)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/834223419083849778/dirge_voodoo_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/834223416508416020/dirge_voodoo_deck_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-21T00:26:02.477000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2431,6 +2519,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/833342356136001576/Session_18_04_2021_15_00_58.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-18T14:05:01.182000+00:00"
+    },
+    {
+      "ID": "Bildabong_420Edition_TshirtPack.zip",
+      "Name": "Bildabong_420Edition_TshirtPack",
+      "Description": "",
+      "Version": 1,
+      "Author": "WilScot#6219",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/834199999373639691/Bildabong_420Edition_TshirtPack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/834199982419738654/Bildabong420Pack.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-20T22:52:58.564000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
