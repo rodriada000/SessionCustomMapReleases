@@ -390,7 +390,10 @@ if __name__ == '__main__':
                     if message3 is not None:
                         message3['isProcessed'] = True
 
-                    catalog.add_item(CatalogItem(msg, CHANNELS[channel])) 
+                    cat_item = CatalogItem(msg, CHANNELS[channel])
+
+                    if cat_item.is_valid():
+                        catalog.add_item(cat_item) 
 
 
     with open('ScrapedCatalog.json', 'w') as fc:

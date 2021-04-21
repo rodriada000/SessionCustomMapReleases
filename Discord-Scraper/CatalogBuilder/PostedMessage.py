@@ -16,11 +16,6 @@ class PostedMessage():
             self.attachments.extend(m['attachments'])
             self.embeds.extend(m['embed'])
 
-        #if len(self.content) > 600:
-        #   self.content = self.content[0:150] + " ...... " + self.content[-150:]
-        if self.get_download('url') is not None:
-            self.content = self.content.replace(self.get_download('url'), '')
-
     def is_batch(self):
         return len(self.messages) > 1
 
@@ -37,6 +32,11 @@ class PostedMessage():
 
             if a['filename'][-4:] in [".png", "jpeg", ".jpg"]:
                 return a['url']
+
+        for e in self.embeds:
+            if e.get('type','') == 'image':
+                return e.get('url', None)
+
 
         return None
 
@@ -57,12 +57,8 @@ class PostedMessage():
                     return e[part]
                 if ".zip" in e.get('title', '') or ".rar" in e.get('title', ''):
                     return e[part]
-                # if 'mega.nz' in e.get('url',''): 
-                #     if part == 'url':
-                #         megaUrl = self.content[self.content.find(e.get('url')):]
-                #         return megaUrl.split()[0]
-                #     else:
-                #         return self.author 
+                if 'mega.nz' in e.get('url',''): 
+                    return e[part]
 
         return None
 
