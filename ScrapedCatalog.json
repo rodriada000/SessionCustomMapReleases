@@ -464,6 +464,17 @@
       "UpdatedDate": "2021-03-28T08:26:40.158000+00:00"
     },
     {
+      "ID": "Mt_Olympus.zip",
+      "Name": "Mt_Olympus",
+      "Description": "2021 Tokyo Summer Olympics Street Course \n\nvert/park course will be added at a later date. \n\n\n\nShout out to <@!740323199916572703> for making the promo video. I hope you all enjoy.\nhttps://www.youtube.com/watch?v=IlrhOZ8W8GA",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1WMiM3aqgK28Xc8wxMfI2JQSMniiRraxt",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/832505324254396457/RailCharacterTagTest.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-04-16T06:38:57.077000+00:00"
+    },
+    {
       "ID": "Content.rar",
       "Name": "Content",
       "Description": "Second deck:",
@@ -1817,6 +1828,50 @@
       "UpdatedDate": "2021-04-14T00:04:26.060000+00:00"
     },
     {
+      "ID": "dirge_evillair_deck.zip",
+      "Name": "dirge_evillair_deck",
+      "Description": "(fake brand) Dirge Skateboards \"evillair (YvesA) pro model\" (replaces Zero InsectArt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/832427829051392000/dirge_evillair_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/832427824887234590/ad_evillair_deckk.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-16T01:31:00.254000+00:00"
+    },
+    {
+      "ID": "POLAR_deck.rar",
+      "Name": "POLAR_deck",
+      "Description": "Polar Skate Co. Dane Brady Deck",
+      "Version": 1,
+      "Author": "diogope2#4671",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833342631990788106/POLAR_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833342697703866399/Session_18_04_2021_15_03_08.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-18T14:06:22.718000+00:00"
+    },
+    {
+      "ID": "dirge_cursed_deck.zip",
+      "Name": "dirge_cursed_deck",
+      "Description": "(fake brand) Dirge Skateboards \"Cursed\" deck (replaces LimitedRun_01)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833418833007607859/dirge_cursed_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833418830729576508/cursed_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-18T19:08:54.282000+00:00"
+    },
+    {
+      "ID": "dirge_skullkings_decks.zip",
+      "Name": "dirge_skullkings_decks",
+      "Description": "(fake brand) Dirge Skateboards \"Skull King\" decks. (replaces LimitedRun decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/833552703002902558/dirge_skullkings_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/833552695763402782/skullking_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-04-19T04:00:51.111000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2365,6 +2420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/832102334292033596/brandname_tshirt_ad.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-15T03:57:37.238000+00:00"
+    },
+    {
+      "ID": "POLAR_tee.rar",
+      "Name": "POLAR_tee",
+      "Description": "Polar Skate Co. Tee",
+      "Version": 1,
+      "Author": "diogope2#4671",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/833342220136349726/POLAR_tee.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/833342356136001576/Session_18_04_2021_15_00_58.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-18T14:05:01.182000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
@@ -3170,6 +3236,28 @@
       "UpdatedDate": "2021-04-12T04:58:19.946000+00:00"
     },
     {
+      "ID": "Gen_MisfitShoe_v1.rar",
+      "Name": "Gen_MisfitShoe_v1",
+      "Description": "Misfits Slip on v1",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/832637554360189008/Gen_MisfitShoe_v1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/832637599138840596/Session_Screenshot_2021.04.16_-_10.22.16.81.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-16T15:24:34.021000+00:00"
+    },
+    {
+      "ID": "NikeDunkDros.zip",
+      "Name": "NikeDunkDros",
+      "Description": "Nike Dunk Lows 420 CUSTOMSThank You <@316191770998341633> for the Mesh",
+      "Version": 1,
+      "Author": "\ua645ib\u029c\u0252qiT#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016624038936576/833232148467023882/NikeDunkDros.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/833232287193366588/Session_4_18_2021_2_44_52_AM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-04-18T06:47:38.713000+00:00"
+    },
+    {
       "ID": "Grizzly_Griptape.rar",
       "Name": "Grizzly_Griptape",
       "Description": "",
@@ -3797,6 +3885,17 @@
       "UpdatedDate": "2021-04-13T15:15:48.601000+00:00"
     },
     {
+      "ID": "Hat_Back_deck.zip",
+      "Name": "Hat_Back_deck",
+      "Description": "female hat with backpack and skatedeck",
+      "Version": 1,
+      "Author": "horrorscamgaming#2158",
+      "DownloadLink": "rsmm://GDrive/1aQDgYzsitcoqchxavP--i62ENkAJt53K",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/833331219810746368/Session_Screenshot_2021.04.18_-_09.17.49.44.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-18T13:20:46.178000+00:00"
+    },
+    {
       "ID": "DreadsAMXX.zip",
       "Name": "DreadsAMXX",
       "Description": "Dreads for AMXX (Replaces Hair A)",
@@ -4312,6 +4411,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016160698236928/826605906841174036/20210330175556_1.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2021-03-30T23:56:48.826000+00:00"
+    },
+    {
+      "ID": "dirge_bearings_reds.zip",
+      "Name": "dirge_bearings_reds",
+      "Description": "(fake brand) Dirge Skateboards - DSRB \"Reds\" bearings (replaces defaults)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016160698236928/832842867772620800/dirge_bearings_reds.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016160698236928/832842866732564510/dirge_bearing_ad.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-04-17T05:00:13.266000+00:00"
     }
   ]
 }
