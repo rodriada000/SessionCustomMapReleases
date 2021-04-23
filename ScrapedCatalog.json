@@ -530,6 +530,17 @@
       "UpdatedDate": "2021-04-16T06:39:33.975000+00:00"
     },
     {
+      "ID": "MacysLedgesTest1.zip",
+      "Name": "MacysLedgesTest1",
+      "Description": "Here's an early build of Macy's Ledges by Olay I am working on porting.\nKnown issues: Collision on curbs is SCUFFED (future update planned to fix)\nPlease DM me with any issues or questions\nInstall with SMM\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#0420",
+      "DownloadLink": "rsmm://GDrive/150g_9e3fmklawD9wP23aP_89SSdUrz9N",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/834933163582947378/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-04-22T23:26:18.406000+00:00"
+    },
+    {
       "ID": "Content.rar",
       "Name": "Content",
       "Description": "Second deck:",
