@@ -541,6 +541,17 @@
       "UpdatedDate": "2021-04-22T23:26:18.406000+00:00"
     },
     {
+      "ID": "MacysLedges.zip",
+      "Name": "MacysLedges",
+      "Description": "MACY'S UPDATE!\n\nChanges\nNEW LINK\nFixed collision on MAIN curb surrounding building\nDirt/grunginess\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#0420",
+      "DownloadLink": "rsmm://GDrive/1172ASW5xuaxAw8-bq4icAUge07rLjP8M",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/835516976004464640/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-04-24T14:06:10.194000+00:00"
+    },
+    {
       "ID": "Content.rar",
       "Name": "Content",
       "Description": "Second deck:",
