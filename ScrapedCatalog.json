@@ -211,19 +211,8 @@
       "UpdatedDate": "2020-09-29T05:33:20.486000+00:00"
     },
     {
-      "ID": "TAMPA2020.zip",
-      "Name": "TAMPA2020",
-      "Description": "TAMPA2020 v1 by Mastaflex\nIMPORTANT : You have to extract the zip then copy the folder inside the \"Content\" folder in the session path here \\SteamLibrary\\steamapps\\common\\Session\\SessionGame\\Content\\CustomMaps\\Mastaflex\nFinally here guys, sorry for the delay.\nHope you have fun !\n\n\n\nPreview : https://www.artstation.com/mastaflex\nIf you got an account on artstation, go support me with subs or likes (if you think the map is great).\n\nJL Nightmare video : https://www.youtube.com/watch?v=FM_Uj2N4Kpk&feature=youtu.be\n\nNote : \nI play with -800 gravity and that works well with the map. Didn't playtest with -980.\nWhen launching, wait a bit for textures and lighting to load.",
-      "Version": 1,
-      "Author": "mastaflex#7513",
-      "DownloadLink": "rsmm://GDrive/1rqaAzRxYtrdRgYs4ooVi1YYIhm8m7qj6",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/764850578018009098/vignette_tampa2020_unreal_artstation.jpg",
-      "Category": "session-maps",
-      "UpdatedDate": "2020-10-11T14:03:08.099000+00:00"
-    },
-    {
-      "ID": "CustomMaps (1).rar",
-      "Name": "CustomMaps (1)",
+      "ID": "box_bro.rar",
+      "Name": "box_bro",
       "Description": " a box \ud83e\udd14 bro i am not a dumb i made this for people to practice bruh",
       "Version": 1,
       "Author": ".121#4828",
@@ -363,28 +352,6 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/805971855994912813/HighresScreenshot00000.png",
       "Category": "session-maps",
       "UpdatedDate": "2021-02-02T01:24:25.580000+00:00"
-    },
-    {
-      "ID": "ZakimBridgeSkatepark.zip",
-      "Name": "ZakimBridgeSkatepark",
-      "Description": "My first attempt at making a custom map for session.  Go easy on her.  Hopefully it\u2019s fun to skate.  Started out as a test for bringing things from blender into ue4 and just kinda snowballed from there.  Loosely based on a skatepark near Zakim Bridge.  \nHuge thanks goes out to <@!156600986251689984> for all the help with getting marketplace assets to work and shadows to show up.  I was getting frustrated and almost deleted it.  But, I didn\u2019t.  So here you go.  Hopefully someone enjoys it.  ",
-      "Version": 1,
-      "Author": "novaca#6574",
-      "DownloadLink": "rsmm://GDrive/12MkOSaR05P8B1rkcy4aCimbyIwpB75EL",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/810684059621261362/HighresScreenshot00004.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2021-02-15T01:29:02.326000+00:00"
-    },
-    {
-      "ID": "CustomMaps.zip",
-      "Name": "CustomMaps",
-      "Description": "Hello everyone\n\nUPDATE:  Fixes\n-collisions have been reworked to use UCX so grinds should work better\n-tweaked heights of some objects\n-I modeled the collision on rails so that they have gaps under the rail.  In theory you should be able to hippie flip\n-Applied physical materials\n-Removed audio so ears can stop bleeding\n-Remodeled rail objects\n\nFeel free to let me know of any more bugs you find and I\u2019ll try to get them with another update if it needs it.  Other than that, I hope you enjoy it!\n",
-      "Version": 1,
-      "Author": "novaca#6574",
-      "DownloadLink": "rsmm://GDrive/1IFWsQoqZdzwDGxfHQrSrmWZcl57rbPFW",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/812295159537991680/ZakimUpdate.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2021-02-19T12:10:57.882000+00:00"
     },
     {
       "ID": "Flat_Gaps_Update.rar",
@@ -528,17 +495,6 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/832505324254396457/RailCharacterTagTest.png",
       "Category": "session-maps",
       "UpdatedDate": "2021-04-16T06:39:33.975000+00:00"
-    },
-    {
-      "ID": "MacysLedgesTest1.zip",
-      "Name": "MacysLedgesTest1",
-      "Description": "Here's an early build of Macy's Ledges by Olay I am working on porting.\nKnown issues: Collision on curbs is SCUFFED (future update planned to fix)\nPlease DM me with any issues or questions\nInstall with SMM\n",
-      "Version": 1,
-      "Author": "RicoSuaveGames#0420",
-      "DownloadLink": "rsmm://GDrive/150g_9e3fmklawD9wP23aP_89SSdUrz9N",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/834933163582947378/preview.png",
-      "Category": "session-maps",
-      "UpdatedDate": "2021-04-22T23:26:18.406000+00:00"
     },
     {
       "ID": "MacysLedges.zip",
@@ -2585,6 +2541,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/834199982419738654/Bildabong420Pack.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-04-20T22:52:58.564000+00:00"
+    },
+    {
+      "ID": "dirge_brand_burgandyshirt.zip",
+      "Name": "dirge_brand_burgandyshirt",
+      "Description": "(fake brand) Dirge Skateboards 'brandname' burgandy shirt (replaces burgandy shirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/835865957410144296/dirge_brand_burgandyshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/835865949969317888/dirge_burgandyshirt_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-25T13:12:53.921000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
