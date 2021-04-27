@@ -2554,6 +2554,28 @@
       "UpdatedDate": "2021-04-25T13:12:53.921000+00:00"
     },
     {
+      "ID": "dirge_skullking_hoodie.zip",
+      "Name": "dirge_skullking_hoodie",
+      "Description": "(fake brand) Dirge Skateboards \"Skullking\" Hoodie (replaces ESP_BlackHoodie)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/836247310672986132/dirge_skullking_hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/836247303077625936/skullking_hoodie.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-26T14:28:15.669000+00:00"
+    },
+    {
+      "ID": "dirge_skullking_tshirt.zip",
+      "Name": "dirge_skullking_tshirt",
+      "Description": "(fake brand) Dirge Skateboards \"Skullking\" black shirt (replaces ESP_BlackTShirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/836247402813456384/dirge_skullking_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/836247392877543444/skullking_tshirt.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-26T14:28:37.608000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
