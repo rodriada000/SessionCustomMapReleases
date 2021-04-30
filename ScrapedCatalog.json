@@ -2576,6 +2576,28 @@
       "UpdatedDate": "2021-04-26T14:28:37.608000+00:00"
     },
     {
+      "ID": "BlackFlag_shirts.zip",
+      "Name": "BlackFlag_shirts",
+      "Description": "Black Flag band shirts (replaces no-comply Pink and White shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/837422430792056852/BlackFlag_shirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/837422424139366451/blackflagshirts.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-29T20:17:46.130000+00:00"
+    },
+    {
+      "ID": "dirge_stripeshirt.zip",
+      "Name": "dirge_stripeshirt",
+      "Description": "Dirge Knit \"Sunday\" Shirt (replaces ESP_WhiteTShirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/837511762282283039/dirge_stripeshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/837511751280361482/dirge_knitSunday_Shirt.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-04-30T02:12:44.414000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
@@ -4059,6 +4081,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/833331219810746368/Session_Screenshot_2021.04.18_-_09.17.49.44.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-04-18T13:20:46.178000+00:00"
+    },
+    {
+      "ID": "dirge_facemask.zip",
+      "Name": "dirge_facemask",
+      "Description": "Dirge Skateboards Facemask (I know it's silly) Replaces Jenkem Cap No Hair",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/837403956547551236/dirge_facemask.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/837403937908064276/facemask_ad.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-04-29T19:04:21.703000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
