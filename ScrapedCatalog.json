@@ -2642,6 +2642,28 @@
       "UpdatedDate": "2021-04-30T19:39:41.009000+00:00"
     },
     {
+      "ID": "HeinousFlannel.zip",
+      "Name": "HeinousFlannel",
+      "Description": "HEINOUS RED FLANNEL (GOES OVER ALL HOODIES)Add Through SMM Replaces Hoodies. Uses Hoodie InGame Textures",
+      "Version": 1,
+      "Author": "\ua645ib\u029c\u0252qiT#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/838526140855353374/HeinousFlannel.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/838525864119238686/Session_5_2_2021_5_13_43_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-02T21:23:31.108000+00:00"
+    },
+    {
+      "ID": "dirge_evillair_tshirt.zip",
+      "Name": "dirge_evillair_tshirt",
+      "Description": "Dirge Skateboards \"evillair\" (YvesA) pro shirt (replaces NoComply Black_02)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/838565172556595280/dirge_evillair_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/838565163577114654/evillair_shirt_ad.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-02T23:58:36.959000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
