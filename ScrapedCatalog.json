@@ -508,6 +508,17 @@
       "UpdatedDate": "2021-04-24T14:06:10.194000+00:00"
     },
     {
+      "ID": "HollenbeckPlazaSTPN.zip",
+      "Name": "HollenbeckPlazaSTPN",
+      "Description": "HollenBeck Plaza By STPN (Ported By Me)\n\nPlease DM ANY and ALL feedback <:peepoLove:781647952132309062> \n\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#0420",
+      "DownloadLink": "rsmm://GDrive/1CD6b6cok5DIsgu7A9I52xG5f2K76aASF",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/626377225410707467/839881023856443422/Hollenbeck_Plaza_by_STPN.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-05-06T15:07:20.276000+00:00"
+    },
+    {
       "ID": "Content.rar",
       "Name": "Content",
       "Description": "Second deck:",
@@ -2004,6 +2015,28 @@
       "UpdatedDate": "2021-05-03T22:13:36.769000+00:00"
     },
     {
+      "ID": "dirge_lucifer_deck_white.zip",
+      "Name": "dirge_lucifer_deck_white",
+      "Description": "Dirge Skateboards second pro rider <@!289128393537224715>'s pro decks! Comes in red or white, both decks replaces Zero SingleBloodSkull, so install either one or the other.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/839912992044875857/dirge_lucifer_deck_white.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/839912988437381141/lucifer_deck_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-05-06T17:14:22.236000+00:00"
+    },
+    {
+      "ID": "HeinousLastBender.zip",
+      "Name": "HeinousLastBender",
+      "Description": "Heinous Last Bender Deck (Replaces Heroin High Scores)",
+      "Version": 1,
+      "Author": "\ua645ib\u029c\u0252qiT#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/840058459583021066/HeinousLastBender.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/840058432908165130/Session_5_6_2021_10_44_37_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-05-07T02:52:24.365000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2673,6 +2706,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/838565163577114654/evillair_shirt_ad.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-05-02T23:58:36.959000+00:00"
+    },
+    {
+      "ID": "dirge_lucifer_tshirt.zip",
+      "Name": "dirge_lucifer_tshirt",
+      "Description": "Dirge Skateboards second pro rider <@!289128393537224715>'s pro custom shirt! Replaces the NoComply Black shirt.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/839913173067104296/dirge_lucifer_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/839913164211486770/lucifer_shirt_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-06T17:15:05.352000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
