@@ -2730,6 +2730,17 @@
       "UpdatedDate": "2021-05-08T19:49:08.809000+00:00"
     },
     {
+      "ID": "dotOrgVintageKnitSweaters.zip",
+      "Name": "dotOrgVintageKnitSweaters",
+      "Description": "",
+      "Version": 1,
+      "Author": "JoshLav64#6790",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/842739979267342346/dotOrgVintageKnitSweaters.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/842739940491001876/Session_Screenshot_2021.05.14_-_08.13.06.69.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-14T12:27:48.461000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
@@ -3014,6 +3025,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/822526665476931634/White_Black_Pants.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-03-19T17:47:23.102000+00:00"
+    },
+    {
+      "ID": "dotOrgDoubleKneeWorkPantBlack.zip",
+      "Name": "dotOrgDoubleKneeWorkPantBlack",
+      "Description": "",
+      "Version": 1,
+      "Author": "JoshLav64#6790",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016584713273365/842740404659027988/dotOrgDoubleKneeWorkPantBlack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/842740318217568286/Session_Screenshot_2021.05.14_-_08.12.07.38.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-05-14T12:29:29.854000+00:00"
+    },
+    {
+      "ID": "dotOrgDuckCarpenterJeans.zip",
+      "Name": "dotOrgDuckCarpenterJeans",
+      "Description": "",
+      "Version": 1,
+      "Author": "JoshLav64#6790",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016584713273365/842740917873147914/dotOrgDuckCarpenterJeans.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/842740783416999996/Session_Screenshot_2021.05.14_-_08.19.23.03.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-05-14T12:31:32.310000+00:00"
     },
     {
       "ID": "Feet_MidTopGlow.zip",
