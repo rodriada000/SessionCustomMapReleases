@@ -2037,6 +2037,17 @@
       "UpdatedDate": "2021-05-07T02:52:24.365000+00:00"
     },
     {
+      "ID": "Deny_StarDeck.zip",
+      "Name": "Deny_StarDeck",
+      "Description": "Deny Clothing Co. Star Deck (replaces FlatFace_03)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/843216288398049310/Deny_StarDeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/843216276825964574/Deny_star_deck.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-05-15T20:00:29.329000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2741,6 +2752,17 @@
       "UpdatedDate": "2021-05-14T12:27:48.461000+00:00"
     },
     {
+      "ID": "Deny_Shirts_vol1.zip",
+      "Name": "Deny_Shirts_vol1",
+      "Description": "Deny Clothing Co. Shirts Volume 1 (replaces Roger shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/843212836192649216/Deny_Shirts_vol1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/843212819549388820/Deny_Shirts_vol1.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-15T19:46:46.456000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
@@ -3047,6 +3069,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/842740783416999996/Session_Screenshot_2021.05.14_-_08.19.23.03.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-05-14T12:31:32.310000+00:00"
+    },
+    {
+      "ID": "Deny_CargoShorts.zip",
+      "Name": "Deny_CargoShorts",
+      "Description": "Deny Clothing Co. CargoShorts (replaces Male_StraightCut)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016584713273365/843212623176925234/Deny_CargoShorts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/843212602426392616/Deny_CargoShorts.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-05-15T19:45:55.699000+00:00"
+    },
+    {
+      "ID": "Deny_CargoShorts_UrbanCamo.zip",
+      "Name": "Deny_CargoShorts_UrbanCamo",
+      "Description": "Deny Clothing Co. Cargo Shorts Urban & Desert (replaces Male_StraightCut)\nInstall one at a time.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016584713273365/843334135782834176/Deny_CargoShorts_UrbanCamo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016584713273365/843334118137397298/Deny_Cargo_Desert.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-05-16T03:48:46.604000+00:00"
     },
     {
       "ID": "Feet_MidTopGlow.zip",
@@ -4312,6 +4356,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/837896100970102784/dirge_glasses_ad.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2021-05-01T03:39:59.976000+00:00"
+    },
+    {
+      "ID": "Deny_Baseball_Hat.zip",
+      "Name": "Deny_Baseball_Hat",
+      "Description": "Deny Clothing Co. Baseball Hat (replaces Cap_Jenkem_No_Hair)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/843213011740786758/Deny_Baseball_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/843212992987660348/Deny_Baseball_Hat.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-05-15T19:47:28.238000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
