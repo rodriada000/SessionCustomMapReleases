@@ -2070,6 +2070,17 @@
       "UpdatedDate": "2021-05-18T02:27:43.468000+00:00"
     },
     {
+      "ID": "dirge_skullkingsnake.zip",
+      "Name": "dirge_skullkingsnake",
+      "Description": "Dirge Skateboards \"Skullsnake\" (replaces Zero_Burman)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/845741611166203904/dirge_skullkingsnake.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/845741599367233536/skullsnake_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-05-22T19:15:13.281000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -2783,6 +2794,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/843212819549388820/Deny_Shirts_vol1.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-05-15T19:46:46.456000+00:00"
+    },
+    {
+      "ID": "Gen_BathoryLS_1.rar",
+      "Name": "Gen_BathoryLS_1",
+      "Description": "",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/845768462944174110/Gen_BathoryLS_1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/845768427808489492/Session_Screenshot_2021.05.22_-_16.00.38.04.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-22T21:01:55.240000+00:00"
     },
     {
       "ID": "Tan_Pants.zip",
