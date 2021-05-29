@@ -2807,6 +2807,17 @@
       "UpdatedDate": "2021-05-22T21:01:55.240000+00:00"
     },
     {
+      "ID": "Cap_Ayam_Shirt.zip",
+      "Name": "Cap_Ayam_Shirt",
+      "Description": "Replaces no-comply black shirt",
+      "Version": 1,
+      "Author": "Daruga#6410",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016538533724170/847967869308370974/Cap_Ayam_Shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016538533724170/847967835388117043/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-05-28T22:41:34.573000+00:00"
+    },
+    {
       "ID": "Tan_Pants.zip",
       "Name": "Tan_Pants",
       "Description": "Tan pants - replaces the grey pants",
@@ -3751,6 +3762,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/841051745290551306/VansProClassics.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-05-09T20:39:32.592000+00:00"
+    },
+    {
+      "ID": "CariumaCatibaPro.zip",
+      "Name": "CariumaCatibaPro",
+      "Description": "Cariuma Catiba Pro (Replaces eS Sal23) [Fixed] \n",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://GDrive/1AMK3_tnbo3qEz6-TQTRr1lNi4DdivPzI",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016624038936576/848052128835436614/CatibaShowcase.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-05-29T04:16:23.539000+00:00"
     },
     {
       "ID": "Grizzly_Griptape.rar",
