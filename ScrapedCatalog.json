@@ -2103,6 +2103,17 @@
       "UpdatedDate": "2021-06-08T15:17:37.672000+00:00"
     },
     {
+      "ID": "dirge_hubba_deck.zip",
+      "Name": "dirge_hubba_deck",
+      "Description": "Dirge Skateboards <@!796597258787094540>  Pro Deck! (Replaces Zero_DamnItAll_02)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/852903054507900928/dirge_hubba_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/852903043904307240/hubba_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-11T13:32:14.405000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
