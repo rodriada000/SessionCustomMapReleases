@@ -2114,6 +2114,28 @@
       "UpdatedDate": "2021-06-11T13:32:14.405000+00:00"
     },
     {
+      "ID": "dirge_octo.zip",
+      "Name": "dirge_octo",
+      "Description": "Dirge Skateboards \"Octo\" decks (replaces some Roger decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/853279098716422144/dirge_octo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/853279085978451968/octo_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-12T14:26:30.349000+00:00"
+    },
+    {
+      "ID": "dirge_octocolor.zip",
+      "Name": "dirge_octocolor",
+      "Description": "Dirge Skateboards \"OctoColor\" deck (replaces FlatFace_01)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/853474453501640724/dirge_octocolor.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/853474441622192170/dirge_octucolor_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-13T03:22:46.557000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
