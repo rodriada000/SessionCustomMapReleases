@@ -2158,6 +2158,28 @@
       "UpdatedDate": "2021-06-14T18:28:13.670000+00:00"
     },
     {
+      "ID": "dirge_comiclogo_deck.zip",
+      "Name": "dirge_comiclogo_deck",
+      "Description": "Dirge Skateboards \"Comic Font Deck\" (replaces FlatFace_01)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/854717607382482954/dirge_comiclogo_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/854717597509615616/dirge_comicfont_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-16T13:42:37.504000+00:00"
+    },
+    {
+      "ID": "dirge_Mary_deck.zip",
+      "Name": "dirge_Mary_deck",
+      "Description": "Dirge Skateboards \"Mary\" deck. (replaces Schlaudie_Rooftop_02)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/854809398035873792/dirge_Mary_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/854809380532518932/mary_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-16T19:47:22.127000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -4587,6 +4609,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/847440151546429450/Session_5_27_2021_7_41_11_AM.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-05-27T11:44:43.682000+00:00"
+    },
+    {
+      "ID": "SkiMask2.zip",
+      "Name": "SkiMask2",
+      "Description": "No Face No Case (replaces Beanie)",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/854958528019300353/SkiMask2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/854958505202417704/SkiMaskShowcase.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-06-17T05:39:57.546000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
