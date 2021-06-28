@@ -2290,6 +2290,17 @@
       "UpdatedDate": "2021-06-24T01:59:01.890000+00:00"
     },
     {
+      "ID": "dirge_woodseries_decks.zip",
+      "Name": "dirge_woodseries_decks",
+      "Description": "Dirge Skateboards \"Wood Series\" minimal decks (Replaces some SchlaudieSkateCo decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/858890201790808114/dirge_woodseries_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/858890184909258762/wood_series_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-28T02:03:01.590000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
