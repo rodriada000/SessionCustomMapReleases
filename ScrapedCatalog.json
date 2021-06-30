@@ -2301,6 +2301,61 @@
       "UpdatedDate": "2021-06-28T02:03:01.590000+00:00"
     },
     {
+      "ID": "doomsayers_blownmind_deck.rar",
+      "Name": "doomsayers_blownmind_deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#0421",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/859560258175500298/doomsayers_blownmind_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/859560251740913664/AQ93142-1.1558611455.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-29T22:25:35.448000+00:00"
+    },
+    {
+      "ID": "doomsayers_copdeck.rar",
+      "Name": "doomsayers_copdeck",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#0421",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/859560300949143552/doomsayers_copdeck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/859560295022460958/BQ29F49-1.1612601579.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-29T22:25:45.663000+00:00"
+    },
+    {
+      "ID": "doomsayers_deck_1_riot_helmet.rar",
+      "Name": "doomsayers_deck_1_riot_helmet",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#0421",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/859560360846950430/doomsayers_deck_1_riot_helmet.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/859560349483925514/doom-sayers-club-riot-helmet-8-5-skateboard-deck-blue.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-29T22:25:59.956000+00:00"
+    },
+    {
+      "ID": "doomsayers_drunk_chick_deck.rar",
+      "Name": "doomsayers_drunk_chick_deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#0421",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/859560425435299890/doomsayers_drunk_chick_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/859560415403048960/AQ7D569-1.1538156367.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-29T22:26:15.332000+00:00"
+    },
+    {
+      "ID": "doomsayers_skullpile_flag_smile.rar",
+      "Name": "doomsayers_skullpile_flag_smile",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#0421",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/859560467550699561/doomsayers_skullpile_flag_smile.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/859560458595991572/BQ0BD65-1.1589457476.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-06-29T22:26:25.375000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
@@ -4851,6 +4906,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/856960434602246164/HeLL-Shadows_Operation_Ivy_Hat._Replaces_LimitedRunCapBlack_Hat.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-06-22T18:15:13.311000+00:00"
+    },
+    {
+      "ID": "ChicagoCubsHat.zip",
+      "Name": "ChicagoCubsHat",
+      "Description": "Cubs hat done by request.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/633016642712109096/859646091272388608/ChicagoCubsHat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/633016642712109096/859646028902826041/W_Session_Mod_Store_-_Unreal_Editor_6_29_2021_10_17_49_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-06-30T04:06:39.678000+00:00"
     },
     {
       "ID": "DreadsAMXX.zip",
