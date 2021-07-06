@@ -1,0 +1,71 @@
+{
+  "Name": "Scraped Discord Catalog",
+  "Assets": [
+    {
+      "ID": "Peitruss_v1_0_3.rar",
+      "Name": "Peitruss_v1_0_3",
+      "Description": "Peitruss\n\n",
+      "Version": 1,
+      "Author": "Munkhead#4184",
+      "DownloadLink": "rsmm://MegaFile/KsZiEZCZ#vC6MCC7LD_5EyTmhz4KSmw2SY3CTZn417Oj4tPmqeuw",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862072469280391198/HighresScreenshot00000.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-06T20:48:13.160000+00:00"
+    },
+    {
+      "ID": "dirge_23pack_decks.zip",
+      "Name": "dirge_23pack_decks",
+      "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862048207526035496/dirge_23pack_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862048188643147826/dirge_23pack.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-06T19:11:49.079000+00:00"
+    },
+    {
+      "ID": "LevelsBoardPack.zip",
+      "Name": "LevelsBoardPack",
+      "Description": "Replaces Roger decks",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862052465092198430/LevelsBoardPack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862052416005734460/W_Session_Mod_Store_-_Unreal_Editor_7_1_2021_2_07_39_AM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-06T19:28:44.016000+00:00"
+    },
+    {
+      "ID": "Stripped_Tee.rar",
+      "Name": "Stripped_Tee",
+      "Description": "Re-cooked",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/862064025780224014/Stripped_Tee.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/862064019001835540/20210218213551_1.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-06T20:14:40.184000+00:00"
+    },
+    {
+      "ID": "AccelOGSimonsmix.zip",
+      "Name": "AccelOGSimonsmix",
+      "Description": "",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/862074209512194058/AccelOGSimonsmix.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862074156181880862/W_Shoes_-_Unreal_Editor_6_24_2021_11_08_02_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-06T20:55:08.170000+00:00"
+    },
+    {
+      "ID": "dirge_oldgrip.zip",
+      "Name": "dirge_oldgrip",
+      "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/862047354181648384/dirge_oldgrip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/862047338594697266/oldgrip.jpg",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-06T19:08:25.305000+00:00"
+    }
+  ]
+}
