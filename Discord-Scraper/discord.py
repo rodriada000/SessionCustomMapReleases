@@ -256,7 +256,7 @@ class Discord:
                 continue
             
             date += timedelta(days=-1)
-            sleep(randint(1,2))
+            sleep(randint(2,4))
         
         return results
 
@@ -299,7 +299,7 @@ class Discord:
                 saved_data = loads(channel_file.read())
             return datetime.fromisoformat(saved_data['scrapeDate'])
         
-        return None
+        return datetime.today()
 
     def grab_server_data(self):
         """Scan and grab the attachments within a server."""
@@ -326,16 +326,16 @@ class Discord:
 #
 
 CHANNELS = {
-    "626377225410707467" : "session-maps",
-    "614405682925666304" : "session-decks",
-    "633016538533724170" : "session-shirts",
-    "633016584713273365" : "session-pants",
-    "633016624038936576" : "session-shoes",
-    "632765809944690729" : "session-griptapes",
-    "633016642712109096" : "session-hats",
+    "861943013919686666" : "session-maps",
+    "861943474743672842" : "session-decks",
+    "861943222645686302" : "session-shirts",
+    "861943320401543188" : "session-pants",
+    "861943418662027264" : "session-shoes",
+    "861943585531232277" : "session-griptapes",
+    "861943137412710431" : "session-hats",
     "614405628512698378" : "session-characters",
-    "632765768538390529" : "session-trucks",
-    "633016160698236928" : "session-wheels"
+    "861943631026978827" : "session-trucks",
+    "861943675232059394" : "session-wheels"
 }
 
 if __name__ == '__main__':
