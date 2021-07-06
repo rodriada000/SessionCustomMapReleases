@@ -2411,6 +2411,17 @@
       "UpdatedDate": "2021-07-03T07:37:07.663000+00:00"
     },
     {
+      "ID": "dirge_primal_decks.zip",
+      "Name": "dirge_primal_decks",
+      "Description": "Dirge Skateboards \"Primal\" Decks (replaces 3 Zero decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/614405682925666304/861605554371297310/dirge_primal_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/614405682925666304/861605543617888266/primal_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-05T13:52:52.107000+00:00"
+    },
+    {
       "ID": "FUCT_OG_GREY_HOODIE.zip",
       "Name": "FUCT_OG_GREY_HOODIE",
       "Description": "Rough Fuct Hoodie",
