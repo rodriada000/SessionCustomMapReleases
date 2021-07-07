@@ -24,6 +24,39 @@
       "UpdatedDate": "2021-07-07T04:16:15.234000+00:00"
     },
     {
+      "ID": "RGBPhotoShoot.zip",
+      "Name": "RGBPhotoShoot",
+      "Description": "RGB PhotoShoot\n\nin game lighting controls work.\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/13NeFELBy8f8k-2sMN_x3EHw7f3wOv9qu",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862205755867136030/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-07T05:37:51.090000+00:00"
+    },
+    {
+      "ID": "Mt_Olympus.zip",
+      "Name": "Mt_Olympus",
+      "Description": "Mt Olympus\n\nStadium lights turn on and off with the in game Day/Night cycle automatically.\n\nvert course is a work in progress (ignore it)\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1WMiM3aqgK28Xc8wxMfI2JQSMniiRraxt",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862206093882294312/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-07T05:39:11.781000+00:00"
+    },
+    {
+      "ID": "RicoVille.zip",
+      "Name": "RicoVille",
+      "Description": "RicoVille\n\nStreet lights work with in game Day/Night cycle automatically.\n\nwhole map is a work in progress (ignore it) \n\n\nPress S key to toggle no skater with different shoes.\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1TVN6K29kePKVc2s4x-ehlORAC00emHXa",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862206390125723658/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-07T05:40:22.412000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -55,6 +88,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862186569753427998/Hook-ups_Detonator_Deck.png",
       "Category": "session-decks",
       "UpdatedDate": "2021-07-07T04:21:37.568000+00:00"
+    },
+    {
+      "ID": "DizzyDeck.zip",
+      "Name": "DizzyDeck",
+      "Description": "Its my deck, comes with the happy smiley wheels which can be optionally removed from the zip. \ud83d\ude0b",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862199296858128404/DizzyDeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862199313340956712/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-07T05:12:15.740000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
@@ -99,6 +143,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/862047338594697266/oldgrip.jpg",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-07-06T19:08:25.305000+00:00"
+    },
+    {
+      "ID": "DizzyGrip.zip",
+      "Name": "DizzyGrip",
+      "Description": "A dizzy grip of mine.",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/862199674756268042/DizzyGrip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/862199696508190730/preview.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-07T05:13:47.179000+00:00"
     }
   ]
 }
