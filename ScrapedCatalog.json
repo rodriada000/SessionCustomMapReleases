@@ -13,6 +13,17 @@
       "UpdatedDate": "2021-07-06T20:48:13.160000+00:00"
     },
     {
+      "ID": "JSR1.0.zip",
+      "Name": "JSR1.0",
+      "Description": "",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1T4A9UgG07_mQHgT1r-vWoWd7bKyz41SP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862185092888789051/Session_6_29_2021_5_17_23_PM.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-07T04:16:15.234000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -35,6 +46,17 @@
       "UpdatedDate": "2021-07-06T19:28:44.016000+00:00"
     },
     {
+      "ID": "Hook-ups_Detonator_Deck.zip",
+      "Name": "Hook-ups_Detonator_Deck",
+      "Description": "Requested by <@!162657137808506880> \nReplaces Zero Bold deck",
+      "Version": 1,
+      "Author": "Reconcil3#3844",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862186553534840851/Hook-ups_Detonator_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862186569753427998/Hook-ups_Detonator_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-07T04:21:37.568000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -55,6 +77,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862074156181880862/W_Shoes_-_Unreal_Editor_6_24_2021_11_08_02_PM.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-07-06T20:55:08.170000+00:00"
+    },
+    {
+      "ID": "Fade1Collection.zip",
+      "Name": "Fade1Collection",
+      "Description": "*Updated*",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/862169241183977482/Fade1Collection.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862169130243981322/fade_1_colors_ad.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-07T03:12:45.590000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
