@@ -333,7 +333,7 @@ CHANNELS = {
     "861943418662027264" : "session-shoes",
     "861943585531232277" : "session-griptapes",
     "861943137412710431" : "session-hats",
-    "614405628512698378" : "session-characters",
+    "862201823694815282" : "session-characters",
     "861943631026978827" : "session-trucks",
     "861943675232059394" : "session-wheels"
 }
