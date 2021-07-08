@@ -15,11 +15,11 @@
     {
       "ID": "JSR1.0.zip",
       "Name": "JSR1.0",
-      "Description": "",
+      "Description": "Japanese Streets + Reservoir 1.0\n\n  The Japanese Streets + Reservoir map started as a example map from the Unreal Marketplace.  Shout out to RyeDaddy for pointing it out.  I had the asset pack already and joined with Rico Suave for collision needs and we brought it into Session.  With  some things modified, such as building distance to street to make more room to set up ramps and rails, added reservoir area and parking lot with loading dock at the end of a street.  Using objects from the asset pack, there's things to shred all around town.  Please share your feedback and pics and clips.\n\n--Map Controls--\nPress \"L\" to toggle lights.\nPress \"M\" to toggle Map Controls.\nPress \"F\" to toggle fireworks triggers.\nPress \"G\" to toggle graffiti in reservoir",
       "Version": 1,
       "Author": "Spargo808#4579",
       "DownloadLink": "rsmm://GDrive/1T4A9UgG07_mQHgT1r-vWoWd7bKyz41SP",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862185092888789051/Session_6_29_2021_5_17_23_PM.png",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/862185019395932170/Session_7_4_2021_5_07_04_PM.png",
       "Category": "session-maps",
       "UpdatedDate": "2021-07-07T04:16:15.234000+00:00"
     },
@@ -418,6 +418,94 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862718467097231360/shoes-nikesb-low-reesedenim2.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-07-08T15:35:29.691000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-reeses.rar",
+      "Name": "shoes-nikesb-low-reeses",
+      "Description": "nike sb reeses",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1MnIMgPiQWwyk8_GB8urZjRySFMmsAMJg",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862718607938551828/shoes-nikesb-low-reeses.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:35:53.574000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-supa.rar",
+      "Name": "shoes-nikesb-low-supa",
+      "Description": "nike sb supa",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1Fwm_k_A5y3Gm_gAEDOWneKD83Y6-hCiP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862718740985544714/shoes-nikesb-low-supa.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:36:27.071000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-supblk.rar",
+      "Name": "shoes-nikesb-low-supblk",
+      "Description": "nike sb supblk2",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1H4T_6X7r2_0qXUZmagiJEmFuMSiqcCeP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862718859214848060/shoes-nikesb-low-supblk2.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:36:55.597000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-supwht.rar",
+      "Name": "shoes-nikesb-low-supwht",
+      "Description": "nike sb supwht",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/12ZoZWOTVCi0ZKoWD-zvu_FPdujzRHJF2",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862718987276386323/shoes-nikesb-low-supwht.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:37:26.134000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-tiffany.rar",
+      "Name": "shoes-nikesb-low-tiffany",
+      "Description": "nike sb tiffany",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1wW-spqHqHP9EakM2CJbrlo5N_HOis7ln",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862719153697980426/shoes-nikesb-low-tiffany.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:38:04.810000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-travisscott.rar",
+      "Name": "shoes-nikesb-low-travisscott",
+      "Description": "nike sb travisscott",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/179Dq3SOY33LrC_YWkkWDImITgOcfK4NE",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862719275168825393/shoes-nikesb-low-travisscott.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:38:33.078000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-whtblk.rar",
+      "Name": "shoes-nikesb-low-whtblk",
+      "Description": "nike sb white-black",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1KvnyfVmBQbo2_xQegDPmwNINHMqS5sGt",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862719375051980841/shoes-nikesb-low-white-black.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:38:56.567000+00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-whtclassicgrn.rar",
+      "Name": "shoes-nikesb-low-whtclassicgrn",
+      "Description": "nike sb white-classic-green",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/13PBBPVLTmUpf96oLY0566YIFj3eglj1w",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862719468013355038/shoes-nikesb-low-white-classic-green.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T15:39:18.761000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",

@@ -62,6 +62,9 @@ class PostedMessage():
 
         return None
 
+    def has_image_and_download(self):
+        return self.get_image_url() is not None and self.get_download('url') is not None
+
     def __str__(self):
         return str({'author': self.author, 'content': self.content, 'is_batch': self.is_batch(), 'attachmentCount': len(self.attachments), 'embedCount': len(self.embeds)})
 

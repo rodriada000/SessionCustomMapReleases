@@ -351,44 +351,26 @@ if __name__ == '__main__':
                 messages = channelJson['data']
 
             for i, m in enumerate(messages):
-                message2 = None
-                message3 = None
 
                 if m.get('isProcessed') is True:
                     continue
                 
-                # check next two messages to see if they are related if first message doesnt have a link and image
+                # if first message doesnt have a link and image check next messages to see if they are related 
                 batch = [m]
-
-                if PostedMessage(batch).get_image_url() is None or PostedMessage(batch).get_download('url') is None:
-                    if i < len(messages) - 1 and m['authorName'] == messages[i+1]['authorName']:
-                        message2 = messages[i+1]
-
-                    if message2 is not None and message2.get('isProcessed', False) is False:
-                        batch.append(message2)
-                    else:
-                         message2  = None
-
-                if PostedMessage(batch).get_image_url() is None or PostedMessage(batch).get_download('url') is None:
-                    if i < len(messages) - 2 and m['authorName'] == messages[i+2]['authorName']:
-                        message3 = messages[i+2]
-
-                    if message3 is not None and message3.get('isProcessed', False) is False:
-                        batch.append(message3)
-                    else:
-                        message3 = None
-
                 msg = PostedMessage(batch)
+                j = i+1
+
+                while not msg.has_image_and_download() and j < len(messages) and m['authorName'] == messages[j]['authorName']:
+                    if not messages[j].get('isProcessed', False):
+                        batch.append(messages[j])
+
+                    msg = PostedMessage(batch)
+                    j += 1
 
 
-                if msg.get_download('url') is not None and msg.get_image_url() is not None:
-                    m['isProcessed'] = True
-
-                    if message2 is not None:
-                        message2['isProcessed'] = True
-
-                    if message3 is not None:
-                        message3['isProcessed'] = True
+                if msg.has_image_and_download():
+                    for processed in batch:
+                        processed['isProcessed'] = True
 
                     cat_item = CatalogItem(msg, CHANNELS[channel])
 
