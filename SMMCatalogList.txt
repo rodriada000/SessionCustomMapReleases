@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/ScrapedCatalog.json
+https://raw.githubusercontent.com/fleepPri/oneyearcollection/main/OneYearCollection.json
