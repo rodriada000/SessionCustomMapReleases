@@ -211,6 +211,17 @@
       "UpdatedDate": "2021-07-06T20:14:40.184000+00:00"
     },
     {
+      "ID": "dirge_shirtlogo_pack01.zip",
+      "Name": "dirge_shirtlogo_pack01",
+      "Description": "Dirge shirt Logo 6-pack (Replaces some Roger shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/862900572143616010/dirge_shirtlogo_pack01.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/862900557274546186/dirge_shirtlogo_pack01_add.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-09T03:38:48.502000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -508,6 +519,28 @@
       "UpdatedDate": "2021-07-08T15:39:18.761000+00:00"
     },
     {
+      "ID": "Gen_MisfitsShoe_2.rar",
+      "Name": "Gen_MisfitsShoe_2",
+      "Description": "MisFits Slips re-cooked",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/862824020998094848/Gen_MisfitsShoe_2.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862824130806153216/Session_Screenshot_2021.07.08_-_17.32.16.80.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-08T22:35:04.128000+00:00"
+    },
+    {
+      "ID": "CariumaCatibaProexpanded.zip",
+      "Name": "CariumaCatibaProexpanded",
+      "Description": "Cariuma Catiba Pro (6 new color ways)Cariuma Catiba Pro (Replaces Sal23 and AccelOG)",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/862904865394786334/CariumaCatibaProexpanded.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/862904635160657970/CatibaShowcase.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-09T03:55:52.173000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -594,6 +627,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/862507609142853702/W_Session_Mod_Store_-_Unreal_Editor_6_28_2021_3_27_22_PM.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-07-08T01:37:37.074000+00:00"
+    },
+    {
+      "ID": "JC_Denton.zip",
+      "Name": "JC_Denton",
+      "Description": "JC Denton - \"You mechs may have copper wiring to re-route your fear of pain, but I've got nerves of steel.\"",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/862787088478109726/JC_Denton.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/862787106908930048/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-07-08T20:07:56.612000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
