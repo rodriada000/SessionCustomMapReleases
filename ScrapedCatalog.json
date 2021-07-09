@@ -200,6 +200,28 @@
       "UpdatedDate": "2021-07-07T19:43:30.306000+00:00"
     },
     {
+      "ID": "Tempo_Foundation_Decks.zip",
+      "Name": "Tempo_Foundation_Decks",
+      "Description": "Tempo Skateboards Base Decks (Rebrand)",
+      "Version": 1,
+      "Author": "DrippyZek#4133",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862943935894781952/Tempo_Foundation_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862943922871336970/FOUNDATIONPROMO.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-09T06:31:07.076000+00:00"
+    },
+    {
+      "ID": "tempowavesseries.zip",
+      "Name": "tempowavesseries",
+      "Description": "Tempo Skateboards \"Waves\" Series 5 Pro Models and 3 Base (Re-Upload)",
+      "Version": 1,
+      "Author": "DrippyZek#4133",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/862944659029884978/tempowavesseries.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/862944635436662824/tempowavespromo.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-09T06:33:59.509000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -220,6 +242,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/862900557274546186/dirge_shirtlogo_pack01_add.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-07-09T03:38:48.502000+00:00"
+    },
+    {
+      "ID": "Spitfire_Jacket.rar",
+      "Name": "Spitfire_Jacket",
+      "Description": "Spitfire Jacket\n\nfor the default chars",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1UlZfn0aUivxdzNNnU-9lOz11g84CP5Qg",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/862942082058813450/Screenshot_3.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-09T06:24:05.960000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
