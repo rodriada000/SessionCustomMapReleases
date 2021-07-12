@@ -530,6 +530,28 @@
       "UpdatedDate": "2021-07-11T03:37:21.932000+00:00"
     },
     {
+      "ID": "Deny_ShirtsVol1.zip",
+      "Name": "Deny_ShirtsVol1",
+      "Description": "Deny Clothing Co. Shirts Volume 1 (replaces Roger shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/863947772117516308/Deny_ShirtsVol1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/863947754081615902/Deny_Shirts_vol1.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-12T01:00:00.388000+00:00"
+    },
+    {
+      "ID": "FlannelHoodDown.zip",
+      "Name": "FlannelHoodDown",
+      "Description": "Heinous Flannel (GOES OVER ALL HOODIES)",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/863968315641823232/FlannelHoodDown.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/863968080559472640/Session_7_11_2021_10_14_28_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-12T02:21:38.442000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -616,6 +638,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/863625059142991873/c.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-07-11T03:37:44.157000+00:00"
+    },
+    {
+      "ID": "Deny_CargoShorts.zip",
+      "Name": "Deny_CargoShorts",
+      "Description": "Deny Clothing Co. CargoShorts (replaces Male_StraightCut)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/863942440128741376/Deny_CargoShorts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/863942425919881296/Deny_CargoShorts.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-07-12T00:38:49.124000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -970,6 +1003,17 @@
       "UpdatedDate": "2021-07-11T06:43:06.721000+00:00"
     },
     {
+      "ID": "Feet_MidTopGlow.zip",
+      "Name": "Feet_MidTopGlow",
+      "Description": "Glowing mid-tops\n5 colors\nreplaces various mid-top colors",
+      "Version": 1,
+      "Author": "JamesK#8748",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/863997942691397635/Feet_MidTopGlow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/863997964708216852/G3.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-12T04:19:27.738000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -1045,6 +1089,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/863677397404483584/W_Session_Mod_Store_-_Unreal_Editor_7_11_2021_2_58_31_AM.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-07-11T07:05:44.448000+00:00"
+    },
+    {
+      "ID": "Deny_BaseballHat.zip",
+      "Name": "Deny_BaseballHat",
+      "Description": "Deny Clothing Co. Baseball Hat (replaces Cap_Jenkem_No_Hair)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/863945647917236244/Deny_BaseballHat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/863945635219636244/Deny_Baseball_Hat.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-07-12T00:51:33.911000+00:00"
     },
     {
       "ID": "Tabita.zip",
