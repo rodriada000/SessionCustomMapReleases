@@ -530,6 +530,28 @@
       "UpdatedDate": "2021-07-14T16:37:35.777000+00:00"
     },
     {
+      "ID": "FlipDecksPack.rar",
+      "Name": "FlipDecksPack",
+      "Description": "Replaces all SchlaudieSkateCo decks.",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865287091449888787/FlipDecksPack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865287021421133824/FlipPack.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-15T17:41:58.992000+00:00"
+    },
+    {
+      "ID": "Hiei_8.5_Deck.zip",
+      "Name": "Hiei_8.5_Deck",
+      "Description": "Requested by <@!412964327289520139> \nReplaces Zero Spiral 8.5",
+      "Version": 1,
+      "Author": "Reconcil3#3844",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865299904633110538/Hiei_8.5_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865299923619676160/Hiei_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-15T18:32:58.846000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -1399,6 +1421,17 @@
       "UpdatedDate": "2021-07-15T04:34:03.408000+00:00"
     },
     {
+      "ID": "Five_Panel_MALE.rar",
+      "Name": "Five_Panel_MALE",
+      "Description": "mod request - replaces Cap_Jenkem_No_Hair",
+      "Version": 1,
+      "Author": "JubsleuCanino#2362",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/865298209751564328/Five_Panel_MALE.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/865298187572215858/Captura_de_Tela_101.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-07-15T18:26:09.775000+00:00"
+    },
+    {
       "ID": "Tabita.zip",
       "Name": "Tabita",
       "Description": "UwU, She's Back.",
@@ -1474,6 +1507,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/864301724922937344/Eyebrows_smoother_face.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-07-13T00:26:36.174000+00:00"
+    },
+    {
+      "ID": "Facial_Hair.zip",
+      "Name": "Facial_Hair",
+      "Description": "Facial Hair textures for a request \ud83d\ude42",
+      "Version": 1,
+      "Author": "alej0#4317",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/865180644798496769/Facial_Hair.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/865180642936225823/Facial_Hair.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-07-15T10:39:00.318000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
