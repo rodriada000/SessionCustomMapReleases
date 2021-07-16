@@ -178,6 +178,39 @@
       "UpdatedDate": "2021-07-14T17:53:36.406000+00:00"
     },
     {
+      "ID": "Skills_Park.rar",
+      "Name": "Skills_Park",
+      "Description": "Hey peeps this map is based on Skills Park. Need to work on the lighting a bit but other than that have fun\n\nWhen exiting the game load in a default map or it will continue to run in the background I think it has something to do with the video playing but I dunno how to fix it.\n\nAlso the video on the TV in the background will only work if Session is installed in the default directory.\n\nI have used these users clips for the video that plays on the TV Thanks to:\ncheese\neddy\nLord_Bradypus\nMaTSix\nMoustachecash\nrentless\nsirremoche\nSlade\nToosii\nZachinkle\n\nif you guys don't want the clips in this map to be used hmu and I'll remove them\n\n",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://GDrive/1PRscV9iQ7OSygkSLAYicQgVBR9NdoaNT",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/865580569803227136/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-16T13:08:09.514000+00:00"
+    },
+    {
+      "ID": "the_HOMETOWN_chp1.rar",
+      "Name": "the_HOMETOWN_chp1",
+      "Description": "the_HOMETOWN  - Chapter 1 -\n\nv1.2 : \n- massive environment and graphical overhaul\n- 4.26.2 recook\n\nThanks,\n\n",
+      "Version": 1,
+      "Author": "RMS#3882",
+      "DownloadLink": "rsmm://GDrive/1o8G4_X5MvsHliG7448k5TvE6FSYy2m1G",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/865597924759437362/cover_map1.2.2.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-16T14:17:07.274000+00:00"
+    },
+    {
+      "ID": "the_HOMETOWN_chp2.rar",
+      "Name": "the_HOMETOWN_chp2",
+      "Description": "the_HOMETOWN  - Chapter 2 -\n\n4.26.2 recook\n\nThanks,\n\n",
+      "Version": 1,
+      "Author": "RMS#3882",
+      "DownloadLink": "rsmm://GDrive/144b_UzRwidLMdLdvQ7YnGeKEdGtzCiKm",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/865598065344118804/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-16T14:17:40.783000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -596,6 +629,28 @@
       "UpdatedDate": "2021-07-15T23:31:49.146000+00:00"
     },
     {
+      "ID": "antiangelsdeck.rar",
+      "Name": "antiangelsdeck",
+      "Description": "a deck made for my brother angel, by AntiSkate.",
+      "Version": 1,
+      "Author": "tiff#1300",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865513295003385856/antiangelsdeck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865513284933124116/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-16T08:40:50.039000+00:00"
+    },
+    {
+      "ID": "April_Black_Rose.zip",
+      "Name": "April_Black_Rose",
+      "Description": "April Black Rose replacing Flatface 01",
+      "Version": 1,
+      "Author": "AC Fans#3434",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865629242266746880/April_Black_Rose.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865629233869881394/861650_20210717002024_1.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-16T16:21:34.022000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -805,6 +860,28 @@
       "UpdatedDate": "2021-07-15T23:22:37.183000+00:00"
     },
     {
+      "ID": "antijuicebox.rar",
+      "Name": "antijuicebox",
+      "Description": "AntiSkate juicebox hoodie",
+      "Version": 1,
+      "Author": "tiff#1300",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865521901223542794/antijuicebox.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865521888394608690/juiceprev.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-16T09:15:01.935000+00:00"
+    },
+    {
+      "ID": "SepulturaPack.rar",
+      "Name": "SepulturaPack",
+      "Description": "Replaces all SamuraiPunk shirts and hoodies.",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865561870899740692/SepulturaPack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865561832404287488/Sepultura.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-16T11:53:51.534000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -957,6 +1034,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/865436334523809792/20210716113155_1.jpg",
       "Category": "session-pants",
       "UpdatedDate": "2021-07-16T03:35:01.903000+00:00"
+    },
+    {
+      "ID": "FixStraightcrop.zip",
+      "Name": "FixStraightcrop",
+      "Description": "Fix by chuy... thank you so much.. it is now double sided",
+      "Version": 1,
+      "Author": "rakk.xlse#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/865491692446679070/FixStraightcrop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/865491698544672798/20210716151153_1.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-07-16T07:15:01.754000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -1322,6 +1410,39 @@
       "UpdatedDate": "2021-07-12T04:19:27.738000+00:00"
     },
     {
+      "ID": "ConSsBlack.rar",
+      "Name": "ConSsBlack",
+      "Description": "<@!758606718019829821> ported mesh, for those who want black cons (all i did was change the texture rakk a real og)",
+      "Version": 1,
+      "Author": "tiff#1300",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/865506803517489162/ConSsBlack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/865506697573302302/unknown.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-16T08:15:02.449000+00:00"
+    },
+    {
+      "ID": "CreamWhite_and_Brown_with_Black_Sole.zip",
+      "Name": "CreamWhite_and_Brown_with_Black_Sole",
+      "Description": "Cream Half Cab recook and new Brown/Black colorway",
+      "Version": 1,
+      "Author": "Shitty Bill#7385",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/865633998143225861/CreamWhite_and_Brown_with_Black_Sole.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/865633993293430824/preview.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-16T16:40:27.981000+00:00"
+    },
+    {
+      "ID": "Black_and_Navy_Half_Cabs.zip",
+      "Name": "Black_and_Navy_Half_Cabs",
+      "Description": "Half Cab recook",
+      "Version": 1,
+      "Author": "Shitty Bill#7385",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/865634111431376956/Black_and_Navy_Half_Cabs.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/865634085438357574/Preview.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-16T16:40:54.946000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -1375,6 +1496,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/865352883951239198/Screenshot_76.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-07-15T22:03:32.466000+00:00"
+    },
+    {
+      "ID": "Suicidal_Tendencies.zip",
+      "Name": "Suicidal_Tendencies",
+      "Description": "Suicidal Tendencies",
+      "Version": 1,
+      "Author": "AC Fans#3434",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/865607743653675078/Suicidal_Tendencies.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/865607670479323156/861650_20210716225257_1.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-16T14:56:08.330000+00:00"
+    },
+    {
+      "ID": "GripTapeELLO.rar",
+      "Name": "GripTapeELLO",
+      "Description": "Not as cool as it would be with colors but still kinda fire tho",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/865650933932490782/GripTapeELLO.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/865650892967378944/fgfg.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-16T17:47:45.777000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
@@ -1663,6 +1806,28 @@
       "UpdatedDate": "2021-07-15T23:56:50.497000+00:00"
     },
     {
+      "ID": "The_TrashMan_5706_tats_4.26.rar",
+      "Name": "The_TrashMan_5706_tats_4.26",
+      "Description": "The TrashMan 5706 tats \n\nrepost so it gets put in the SMM",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/865517172704935937/The_TrashMan_5706_tats_4.26.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/865517136176087070/Screenshot_2.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-07-16T08:56:14.682000+00:00"
+    },
+    {
+      "ID": "ToastyGhost_Tats.rar",
+      "Name": "ToastyGhost_Tats",
+      "Description": "ToastyGhost Tats",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/865517301763670056/ToastyGhost_Tats.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/865517277252026388/Screenshot_1.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-07-16T08:56:45.270000+00:00"
+    },
+    {
       "ID": "Thunder_Tyshaun.rar",
       "Name": "Thunder_Tyshaun",
       "Description": "Thunder Trucks Tyshaun Replaces D1 Raw Mid 144",
@@ -1804,6 +1969,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865374038188752936/Session_7_6_2021_5_02_52_AM_2.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-07-15T23:27:30.277000+00:00"
+    },
+    {
+      "ID": "BonesPack.rar",
+      "Name": "BonesPack",
+      "Description": "Replaces  BoardyCakes wheels",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/865636794228539412/BonesPack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865636749421314048/sgfdgdasf.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-07-16T16:51:34.551000+00:00"
+    },
+    {
+      "ID": "SpitFirePack.rar",
+      "Name": "SpitFirePack",
+      "Description": "Replaces BoardyCakes wheels",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/865636898818097223/SpitFirePack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865636876630491197/SpitfireWheels.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-07-16T16:51:59.392000+00:00"
     }
   ]
 }
