@@ -222,6 +222,17 @@
       "UpdatedDate": "2021-07-17T00:57:14.250000+00:00"
     },
     {
+      "ID": "Berrics 426.zip",
+      "Name": "Berrics 426",
+      "Description": "BERRICS 4.26 . . . Not the most realistic texture wise, but its the same park we all enjoy. Other than re-doing lighting at some point, its  \"good\" for now.  \ud83e\udd1d Mesh by <@!252409731367436299> \ud83e\udd1d UCX done by <@!663954775276126225> \ud83e\udd1d ",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://GDrive/19jzTYLkYVjM9cuPs-0QhJYPYnmebU1je",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/865954077455810570/preview.png.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-17T13:52:20.687000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -684,6 +695,39 @@
       "UpdatedDate": "2021-07-17T02:22:33.091000+00:00"
     },
     {
+      "ID": "dirge_evillairIII_deck.zip",
+      "Name": "dirge_evillairIII_deck",
+      "Description": "Dirge Skateboards: my \"evillair III\" deck. (Replaces 2 Flatface decks)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865863746927853588/dirge_evillairIII_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865863734614032404/evillair_III_ad.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-17T07:53:24.320000+00:00"
+    },
+    {
+      "ID": "Play_pack1.rar",
+      "Name": "Play_pack1",
+      "Description": "PLAY Skateboards -  Session pack n\u00ba1.\n\n7 boards that replaces all SchlaudieSkateCo.\nMore coming soon",
+      "Version": 1,
+      "Author": "m4rk#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865956874599006238/Play_pack1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865956575402786846/Postersfordecksxsession.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-17T14:03:27.711000+00:00"
+    },
+    {
+      "ID": "Glow_Deck.rar",
+      "Name": "Glow_Deck",
+      "Description": "Glowing deck! Fun bounces in the rain at night",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/866027341373636609/Glow_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/866027340634259526/glowdeck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-17T18:43:28.972000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -937,6 +981,50 @@
       "UpdatedDate": "2021-07-17T05:17:10.915000+00:00"
     },
     {
+      "ID": "dirge_evillairIII_shirt.zip",
+      "Name": "dirge_evillairIII_shirt",
+      "Description": "Dirge Skateboards \"evillair III\" shirt (replaces No-Comply shirt) Deck available in <#861943474743672842>",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865876919693869076/dirge_evillairIII_shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865876908398477312/evillairIII_shirt_ad.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T08:45:44.930000+00:00"
+    },
+    {
+      "ID": "Tanktop.rar",
+      "Name": "Tanktop",
+      "Description": "Tanktop\n\nrecooked\nif you know the name of the original creator, let me know and i will add it here",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865969676604538880/Tanktop.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865969520153985094/Screenshot_1.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T14:54:19.891000+00:00"
+    },
+    {
+      "ID": "TheBerricsPack.rar",
+      "Name": "TheBerricsPack",
+      "Description": "Replaces all SamuraiPunk shirts and hoodies",
+      "Version": 1,
+      "Author": "ElCracko96#6457",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865995961444073472/TheBerricsPack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865995922437308416/BERRICS.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T16:38:46.783000+00:00"
+    },
+    {
+      "ID": "BLUR_Speedway_Hoodie.rar",
+      "Name": "BLUR_Speedway_Hoodie",
+      "Description": "Hoodie for my streetwear brand. San Francisco street photography on the back I shot and edited.",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/866029845770272788/BLUR_Speedway_Hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/866029842377342986/BLUR_Speedway_Hoodie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T18:53:25.404000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -1100,6 +1188,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/865491698544672798/20210716151153_1.jpg",
       "Category": "session-pants",
       "UpdatedDate": "2021-07-16T07:15:01.754000+00:00"
+    },
+    {
+      "ID": "deny_cargoshorts_baggy.zip",
+      "Name": "deny_cargoshorts_baggy",
+      "Description": "Deny Clothing Cargo Shorts (Baggy)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/866012862229381120/deny_cargoshorts_baggy.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/866012845887062026/deny_cargoshorts_baggier.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-07-17T17:45:56.149000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -1498,6 +1597,17 @@
       "UpdatedDate": "2021-07-16T16:40:54.946000+00:00"
     },
     {
+      "ID": "Ame_TheDabs_KushDeePro_Upd.zip",
+      "Name": "Ame_TheDabs_KushDeePro_Upd",
+      "Description": "\u00e2me presents 'The Dabs', a KushDee signature shoe & fan favorite from the *other* worlds. Replaces Fallen's Trooper model (**updated for Male AND Female player**)\nIG @amefootwear.fs",
+      "Version": 1,
+      "Author": "BigCat#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/865909643100291112/Ame_TheDabs_KushDeePro_Upd.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/865909558337732658/Ame_Dabs_Kush_Shoe_Session.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-17T10:55:47.070000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -1738,6 +1848,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/865352046781136947/Captura_de_Tela_104.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-07-15T22:00:14.539000+00:00"
+    },
+    {
+      "ID": "5_panel_white_v2.rar",
+      "Name": "5_panel_white_v2",
+      "Description": "The Psychics bucket hat - replaces Cap_Jenkem_No_Hair",
+      "Version": 1,
+      "Author": "JubsleuCanino#2362",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/865352102582943786/5_panel_white_v2.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/865870504874082344/Captura_de_Tela_121.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-07-17T08:20:16.260000+00:00"
+    },
+    {
+      "ID": "NYYankeesHat.zip",
+      "Name": "NYYankeesHat",
+      "Description": "New York Yankees Hat.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/865987409408425984/NYYankeesHat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/865987371668209664/W_Session_Mod_Store_-_Unreal_Editor_7_17_2021_12_03_56_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-07-17T16:04:47.746000+00:00"
     },
     {
       "ID": "Tabita.zip",
@@ -2057,6 +2189,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865759982153498654/wheelies.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-07-17T01:01:05.894000+00:00"
+    },
+    {
+      "ID": "Amicizia_Psychedelic_Pack.zip",
+      "Name": "Amicizia_Psychedelic_Pack",
+      "Description": "",
+      "Version": 1,
+      "Author": "Kavras#5515",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/866013854122246154/Amicizia_Psychedelic_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/866029098908123146/ami.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-07-17T18:50:27.924000+00:00"
     }
   ]
 }
