@@ -211,6 +211,17 @@
       "UpdatedDate": "2021-07-16T14:17:40.783000+00:00"
     },
     {
+      "ID": "Thrasher_Hometown.rar",
+      "Name": "Thrasher_Hometown",
+      "Description": "Here's a re-cooked version of Thrasher Hometown. I Still plan to redo this one.\n\n",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://GDrive/13_0_KKwkqhvPHHM2MJXNJ-Kh4YBmDMsT",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/865759015487930398/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-17T00:57:14.250000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -651,6 +662,28 @@
       "UpdatedDate": "2021-07-16T16:21:34.022000+00:00"
     },
     {
+      "ID": "Glow_DeckRails.rar",
+      "Name": "Glow_DeckRails",
+      "Description": "Glowing deck rails (%",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865758933695594496/Glow_DeckRails.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865758935888691200/lit.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-17T00:56:56.341000+00:00"
+    },
+    {
+      "ID": "Welcome_Jackalope_8.5_Deck.zip",
+      "Name": "Welcome_Jackalope_8.5_Deck",
+      "Description": "Requested by <@!484804249398673419> \nReplaces Zero Spiral 8.5",
+      "Version": 1,
+      "Author": "Reconcil3#3844",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/865780472755912734/Welcome_Jackalope_8.5_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/865780483358588968/Welcome_Jackalope_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-17T02:22:33.091000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -880,6 +913,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865561832404287488/Sepultura.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-07-16T11:53:51.534000+00:00"
+    },
+    {
+      "ID": "Ame_Striped_T.zip",
+      "Name": "Ame_Striped_T",
+      "Description": "two colorways. replaces two flatface tees",
+      "Version": 1,
+      "Author": "BigCat#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865823625269739520/Ame_Striped_T.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865823583023923210/Session_2021-07-14_11_59_02_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T05:13:58.643000+00:00"
+    },
+    {
+      "ID": "Ame_TShirt.zip",
+      "Name": "Ame_TShirt",
+      "Description": "black and white. replaces jenkem tees",
+      "Version": 1,
+      "Author": "BigCat#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/865824431947251742/Ame_TShirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/865824381233266708/ameshirt.jpeg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-17T05:17:10.915000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
@@ -1991,6 +2046,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865636876630491197/SpitfireWheels.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-07-16T16:51:59.392000+00:00"
+    },
+    {
+      "ID": "Glow_Wheels.rar",
+      "Name": "Glow_Wheels",
+      "Description": "Glowing wheels!",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/865759986482020352/Glow_Wheels.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/865759982153498654/wheelies.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-07-17T01:01:05.894000+00:00"
     }
   ]
 }
