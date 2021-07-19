@@ -233,6 +233,17 @@
       "UpdatedDate": "2021-07-17T13:52:20.687000+00:00"
     },
     {
+      "ID": "SouthbankByGoya.zip",
+      "Name": "SouthbankByGoya",
+      "Description": "Southbank (4.26)  ",
+      "Version": 1,
+      "Author": "RicoSuaveGames#4979",
+      "DownloadLink": "rsmm://GDrive/19kemyfcYgHcs120VZVEK3xu6b0xl7QO3",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/866731443920175104/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-19T17:21:19.286000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -759,6 +770,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/866492603049967636/session_decks2.png",
       "Category": "session-decks",
       "UpdatedDate": "2021-07-19T01:32:17.047000+00:00"
+    },
+    {
+      "ID": "Polar_Skate_Co._Team_Cactus_Dance_Slick_Deck.rar",
+      "Name": "Polar_Skate_Co._Team_Cactus_Dance_Slick_Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "don poldon#7928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/866659366249431080/Polar_Skate_Co._Team_Cactus_Dance_Slick_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/866659338432020510/polar_deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-19T12:34:54.725000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
@@ -1870,6 +1892,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/866159552360611890/unknown.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-07-18T03:28:58.430000+00:00"
+    },
+    {
+      "ID": "Polar_Griptape.rar",
+      "Name": "Polar_Griptape",
+      "Description": "",
+      "Version": 1,
+      "Author": "don poldon#7928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/866660573374971934/Polar_Griptape.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/866660551992016896/polar_grip.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-19T12:39:42.517000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
