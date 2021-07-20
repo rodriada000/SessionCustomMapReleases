@@ -783,6 +783,28 @@
       "UpdatedDate": "2021-07-19T12:34:54.725000+00:00"
     },
     {
+      "ID": "Revive_Jonny_Giger_Deck.rar",
+      "Name": "Revive_Jonny_Giger_Deck",
+      "Description": "<@!577891342743633952>",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/866841171514753044/Revive_Jonny_Giger_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/866841166242906132/Revive.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-20T00:37:20.464000+00:00"
+    },
+    {
+      "ID": "Supreme_Alessandro_Medini_Set.rar",
+      "Name": "Supreme_Alessandro_Medini_Set",
+      "Description": "",
+      "Version": 1,
+      "Author": "Sortofgreatnate#7702",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/866847956187480085/Supreme_Alessandro_Medini_Set.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/866847945974611968/sup2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-20T01:04:18.091000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -1177,6 +1199,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/866358012162736198/dirge_teamshirts_vol_1.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-07-18T16:37:29.537000+00:00"
+    },
+    {
+      "ID": "darcy_shirtpack_1.rar",
+      "Name": "darcy_shirtpack_1",
+      "Description": "7 Darcy shirts. Replaces all FlatFace, Schlaudie and Satori shirts. Designs by me and Fluffy.",
+      "Version": 1,
+      "Author": "deeku#0232",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/866793931294900224/darcy_shirtpack_1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/866793919852707880/darcy_shirtpack_1_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-19T21:29:37.545000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
@@ -1806,6 +1839,17 @@
       "UpdatedDate": "2021-07-19T04:33:27.118000+00:00"
     },
     {
+      "ID": "Cake_Shoes.zip",
+      "Name": "Cake_Shoes",
+      "Description": "Lol don't ask, saw these, looked cool and wanted them in Session haha",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/866859209866084383/Cake_Shoes.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/866859174255525888/Screenshot_78.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-07-20T01:49:01.163000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -2376,6 +2420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/866516224259391488/Screenshot_2021-07-19_040454.png",
       "Category": "session-trucks",
       "UpdatedDate": "2021-07-19T03:06:12.383000+00:00"
+    },
+    {
+      "ID": "Trucks1031s.zip",
+      "Name": "Trucks1031s",
+      "Description": "mesh from sketchfab... and also thanks to screwball for helping me..",
+      "Version": 1,
+      "Author": "rakk.xlse#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943631026978827/866915754502782986/Trucks1031s.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/866915758305968128/20210720113512_1.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2021-07-20T05:33:43.935000+00:00"
     },
     {
       "ID": "Spitfire_FF_Tablets_Blue.zip",
