@@ -827,6 +827,28 @@
       "UpdatedDate": "2021-07-20T12:41:45.219000+00:00"
     },
     {
+      "ID": "Baker_Black_Logo.zip",
+      "Name": "Baker_Black_Logo",
+      "Description": "",
+      "Version": 1,
+      "Author": "KibaTV#0841",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/867340213726609416/Baker_Black_Logo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867340190481383474/rd_BrandLogoBW.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-21T09:40:21.430000+00:00"
+    },
+    {
+      "ID": "Nervous_Deck_Pack.rar",
+      "Name": "Nervous_Deck_Pack",
+      "Description": "Replaces all ESP decks",
+      "Version": 1,
+      "Author": "don poldon#7928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/867464303799304222/Nervous_Deck_Pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867464246375219210/Nervous_Deck_pack.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-21T17:53:26.790000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2002,6 +2024,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/866660551992016896/polar_grip.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-07-19T12:39:42.517000+00:00"
+    },
+    {
+      "ID": "Shake_Junt_Griptape.zip",
+      "Name": "Shake_Junt_Griptape",
+      "Description": "",
+      "Version": 1,
+      "Author": "KibaTV#0841",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/867340038806437888/Shake_Junt_Griptape.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/867340074630119434/ripndip-lord-nermal-griptape.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-21T09:39:49.772000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
