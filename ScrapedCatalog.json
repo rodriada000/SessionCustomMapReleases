@@ -849,6 +849,94 @@
       "UpdatedDate": "2021-07-21T17:53:26.790000+00:00"
     },
     {
+      "ID": "MTHD Orange Logo Deck.zip",
+      "Name": "MTHD Orange Logo Deck",
+      "Description": "Method Skate Co. first release replaces Roger decks",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1ZRzQL8ViMb_uiBBbcMs3Pi2U155iDcCK",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690128246571008/Method_Orange_Logo_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:50:55.210000+00:00"
+    },
+    {
+      "ID": "MTHD Purple Logo Deck.zip",
+      "Name": "MTHD Purple Logo Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1pK54kJiBCzHUdPNqa_FlJvFgx50Fq-7e",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690257130848276/Method_Purple_Logo_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:51:18.156000+00:00"
+    },
+    {
+      "ID": "MTHD Blue Logo Deck.zip",
+      "Name": "MTHD Blue Logo Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1f1x8QmY40yFyreGMokGtjjYXNJ0FQSbP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690346979655680/Method_Blue_Logo_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:51:39.540000+00:00"
+    },
+    {
+      "ID": "MTHD Stoney Baloney Deck.zip",
+      "Name": "MTHD Stoney Baloney Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1Y6qLOVvBer_kjSP5hqWHo6D3s49HLibA",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690433743552532/Method_Stoney_Baloney_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:52:00.256000+00:00"
+    },
+    {
+      "ID": "MTHD Wu Deck.zip",
+      "Name": "MTHD Wu Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1D_el2-1sduyGgRbbFjwc-54rAWKs5SZm",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690534038405140/Method_Wu_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:52:24.188000+00:00"
+    },
+    {
+      "ID": "MTHD Mini Donut Deck.zip",
+      "Name": "MTHD Mini Donut Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1TK3QsvC6Mt8fzjzcX8dzRnzXZUOA0OE9",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690635800215572/Method_Mini-Donut_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:52:48.424000+00:00"
+    },
+    {
+      "ID": "MTHD The Block Deck.zip",
+      "Name": "MTHD The Block Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1C5kXNSzOMLdMu6KVJ_XidLSs7y2HWE4f",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690727123058718/Method_The_Block_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:53:10.186000+00:00"
+    },
+    {
+      "ID": "MTHD Henny Deck.zip",
+      "Name": "MTHD Henny Deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1GDAIzQ-pK6r0iXv45HZT_ijFMSJdUu2F",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/867690814317920256/Method_Henny_Deck_SS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-22T08:53:30.969000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2046,6 +2134,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/867340074630119434/ripndip-lord-nermal-griptape.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-07-21T09:39:49.772000+00:00"
+    },
+    {
+      "ID": "MTHD GRIP.zip",
+      "Name": "MTHD GRIP",
+      "Description": "Method Skate Co. grip",
+      "Version": 1,
+      "Author": "vRoomba#7053",
+      "DownloadLink": "rsmm://GDrive/1sfc2yTMOM-xdxT1Ul-cExkejLZs3U4BA",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/867691005138567198/MTHD_GRIP_SS.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-07-22T08:54:21.562000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
