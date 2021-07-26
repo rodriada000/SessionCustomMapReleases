@@ -1157,6 +1157,28 @@
       "UpdatedDate": "2021-07-26T02:29:26.438000+00:00"
     },
     {
+      "ID": "board_freddie_deck.rar.zip",
+      "Name": "board_freddie_deck.rar",
+      "Description": "Freddie Krueger Board Deck, replaces Flatface 02 (8,25)",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/869250704588562502/board_freddie_deck.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/869250751673794560/Session_26.07.2021_18_10_00.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-26T16:12:09.835000+00:00"
+    },
+    {
+      "ID": "board_gismo_deck.zip",
+      "Name": "board_gismo_deck",
+      "Description": "board GISMO replaces ESP 02 (8,25)",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/869258535509327932/board_gismo_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/869258594787405894/Session_26.07.2021_18_41_26.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-26T16:43:20.068000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
