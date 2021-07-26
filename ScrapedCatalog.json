@@ -266,6 +266,17 @@
       "UpdatedDate": "2021-07-25T22:24:08.108000+00:00"
     },
     {
+      "ID": "MVM1.1.zip",
+      "Name": "MVM1.1",
+      "Description": "Mt. Valley Museum.  Now with RMS Toolsuite support.\n\nPRE-PHYSICS BUILD RECOOK!!!!    NO PROPER COLLISION!!!(Old Map)",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1ARa6kAwHRl8o4Fk3X8-0gkZTQouKgBQT",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/869367690366697512/SMMPNG.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-26T23:57:08.232000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -1674,6 +1685,28 @@
       "UpdatedDate": "2021-07-25T23:38:23.076000+00:00"
     },
     {
+      "ID": "Hoodie_slightly_bigger.rar",
+      "Name": "Hoodie_slightly_bigger",
+      "Description": "hoodie slightly bigger, hood down",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1oITznN9T96biEv35zeMPt7mbKg4K649B",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/869310420182270003/Screenshot_3.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-26T20:09:34.501000+00:00"
+    },
+    {
+      "ID": "Flannel.zip",
+      "Name": "Flannel",
+      "Description": "Shirtless Heinous Flannel Rolled (replaces all shirts)\nAlso includes longsleeve flannel (over all hoodies)",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/869330061881401394/Flannel.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/869330003928694784/Session_7_24_2021_10_07_20_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-26T21:27:18.329000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -2842,7 +2875,7 @@
     {
       "ID": "TMNT_blue_red.rar",
       "Name": "TMNT_blue_red",
-      "Description": "TMNT\n\nreplaces both Ribsman",
+      "Description": "TMNT\n\nreplaces both RibsmanTMNT\n\nreplaces both Ribsman",
       "Version": 1,
       "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
       "DownloadLink": "rsmm://GDrive/1tv5A9ulQQEo_NZDTqwqrubNds1cqdJ2O",
