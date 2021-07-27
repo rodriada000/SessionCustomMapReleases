@@ -1212,6 +1212,28 @@
       "UpdatedDate": "2021-07-26T16:43:20.068000+00:00"
     },
     {
+      "ID": "HUMANSBDECKS.zip",
+      "Name": "HUMANSBDECKS",
+      "Description": "Human Skateboards decks, replaces 4 Heroin decks",
+      "Version": 1,
+      "Author": "MadFugginDecent (They/Them)#0788",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/869371108997103626/HUMANSBDECKS.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/869371181873135636/Session_7_24_2021_2_37_35_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-27T00:10:42.824000+00:00"
+    },
+    {
+      "ID": "Sheetz_Board.rar",
+      "Name": "Sheetz_Board",
+      "Description": "Sheetz Skateboard I won from Twitter. Thought it'd be cool to have in game",
+      "Version": 1,
+      "Author": "neverrelmer#5002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/869426913960132688/Sheetz_Board.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/869426958218461214/Screenshot_2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-07-27T03:52:20.579000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -1729,6 +1751,17 @@
       "UpdatedDate": "2021-07-26T21:27:18.329000+00:00"
     },
     {
+      "ID": "HUMANSB_TEES.zip",
+      "Name": "HUMANSB_TEES",
+      "Description": "Human Skateboards shirts, replaces the Zero shirts",
+      "Version": 1,
+      "Author": "MadFugginDecent (They/Them)#0788",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/869370881208614972/HUMANSB_TEES.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/869370985915244544/Session_7_24_2021_2_29_19_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-27T00:09:56.435000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -1947,6 +1980,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/867989872672120942/20210723123620_1.jpg",
       "Category": "session-pants",
       "UpdatedDate": "2021-07-25T14:28:10.337000+00:00"
+    },
+    {
+      "ID": "deny_shorts_black.zip",
+      "Name": "deny_shorts_black",
+      "Description": "Deny Clothing Beige & Black shorts (install 1 at a time, replaces StraightCut_Pants)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/869417761057689620/deny_shorts_black.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/869417744318222406/deny_shorts_ad.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-07-27T03:15:47.403000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
