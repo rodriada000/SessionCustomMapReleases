@@ -1806,6 +1806,17 @@
       "UpdatedDate": "2021-07-29T00:58:18.930000+00:00"
     },
     {
+      "ID": "deny_flaminghand_shirt.zip",
+      "Name": "deny_flaminghand_shirt",
+      "Description": "Deny Clothing \"Flaming Hand\" Shirt (Replaces Jenkem shirt)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/870118264221630464/deny_flaminghand_shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/870118252012003388/flaminghandshirt_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-07-29T01:39:20.263000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
