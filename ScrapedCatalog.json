@@ -1300,6 +1300,28 @@
       "UpdatedDate": "2021-07-30T11:33:33.316000+00:00"
     },
     {
+      "ID": "hook_ups_no_swimming.rar",
+      "Name": "hook_ups_no_swimming",
+      "Description": "first time making decks for sessions, hookups no swimming replace flatface 1.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/871207877325512784/hook_ups_no_swimming.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/871208127415070720/hu_ns.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-01T01:50:04.611000+00:00"
+    },
+    {
+      "ID": "jart_jartboro.rar",
+      "Name": "jart_jartboro",
+      "Description": "also jart jartboro, replace no comply 2",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/871208637576658944/jart_jartboro.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/871208882251382784/Screenshot_2021-08-01_093359.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-01T01:53:04.717000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
