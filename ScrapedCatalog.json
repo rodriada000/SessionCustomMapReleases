@@ -1377,6 +1377,39 @@
       "UpdatedDate": "2021-08-02T17:36:13.841000+00:00"
     },
     {
+      "ID": "HUF_Cammy.rar",
+      "Name": "HUF_Cammy",
+      "Description": "HUF Cammy, replace flat face 3",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/871852410916716624/HUF_Cammy.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/871852448610934904/huf_cammy.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-02T20:30:22.790000+00:00"
+    },
+    {
+      "ID": "Street_Fighter_X_Nsurgo.rar",
+      "Name": "Street_Fighter_X_Nsurgo",
+      "Description": "My Street Fighter X NSurgo pack from SXL. Replace 20 roger decks. Sakura and M bison one is low quality since i can't get a good pics.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/871865627973918751/Street_Fighter_X_Nsurgo.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/871865695342841876/nsurgo.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-02T21:23:00.914000+00:00"
+    },
+    {
+      "ID": "Street_Fighter_X_Finesse.rar",
+      "Name": "Street_Fighter_X_Finesse",
+      "Description": "The rest of the Street Fighter decks from my SXL collection. 7 FinesseXStreet Fighter deck, replacing the rest of the Roger decks.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/871948253183246417/Street_Fighter_X_Finesse.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/871947705692344340/sf_fin2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-03T02:51:03.707000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
