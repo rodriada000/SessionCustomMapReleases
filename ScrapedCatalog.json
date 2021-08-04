@@ -1410,6 +1410,39 @@
       "UpdatedDate": "2021-08-03T02:51:03.707000+00:00"
     },
     {
+      "ID": "Chocolate_Beavis_and_Butthead_Jer_and_MJ.rar",
+      "Name": "Chocolate_Beavis_and_Butthead_Jer_and_MJ",
+      "Description": "Chocolate Beavis and Butthead, replace ESP 1&3",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/872197655328088104/Chocolate_Beavis_and_Butthead_Jer_and_MJ.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/872197840607252480/chocolate_beavis_butthead.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-03T19:22:50.537000+00:00"
+    },
+    {
+      "ID": "PRod Primitive x Naruto - Replaces ESP.zip",
+      "Name": "PRod Primitive x Naruto - Replaces ESP",
+      "Description": "",
+      "Version": 1,
+      "Author": "KibaTV#0841",
+      "DownloadLink": "rsmm://GDrive/1NoCFc13-A6KgiZ8imlF8FP7q96OgBaOj",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/872344639938637854/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-04T05:06:10.190000+00:00"
+    },
+    {
+      "ID": "Primitive_Purple_Deck.rar",
+      "Name": "Primitive_Purple_Deck",
+      "Description": "Primitive Nuevo Script Purple Deck, replaces Zero Burman 8.5",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/872354041970184202/Primitive_Purple_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/872353969857503272/Session_8_4_2021_12_41_16_AM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-04T05:43:31.210000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2134,6 +2167,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/872168915567005757/Session_03.08.2021_18_41_54.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-08-03T17:29:02.239000+00:00"
+    },
+    {
+      "ID": "whiteshirt_flowers_mahagoni.rar.zip",
+      "Name": "whiteshirt_flowers_mahagoni.rar",
+      "Description": "Replaces Yellow Fallen Shirt",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/872325680610807889/whiteshirt_flowers_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/872169242504609812/Session_03.08.2021_19_11_47.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-04T03:50:49.362000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
