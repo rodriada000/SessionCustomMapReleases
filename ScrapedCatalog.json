@@ -3005,6 +3005,17 @@
       "UpdatedDate": "2021-08-03T15:01:28.935000+00:00"
     },
     {
+      "ID": "2STEPSHOESx5.zip",
+      "Name": "2STEPSHOESx5",
+      "Description": "Replaces all 5 Fallen Troopers.",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/872832791635697755/2STEPSHOESx5.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/872832774908817408/2STEPx5.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-05T13:25:54.296000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -3267,6 +3278,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/872612278908878879/shakejunt_ad.jpg",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-08-04T22:49:42.935000+00:00"
+    },
+    {
+      "ID": "evillair_woodcolor_extract_to_install.zip",
+      "Name": "evillair_woodcolor_extract_to_install",
+      "Description": "(Not grip tape but wood color) Wood color mods, extract zip to select your wood color! Replaces default green wood tops.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/872865317410463794/evillair_woodcolor_extract_to_install.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/872865301618888764/woodcolor_ad.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-08-05T15:35:08.901000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
