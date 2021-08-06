@@ -310,6 +310,17 @@
       "UpdatedDate": "2021-07-29T15:46:02.915000+00:00"
     },
     {
+      "ID": "FlatGaps426RMS.zip",
+      "Name": "FlatGaps426RMS",
+      "Description": "Flat Gaps 4.26 RMS compatible ",
+      "Version": 1,
+      "Author": "RyeDaddy16#1701",
+      "DownloadLink": "rsmm://GDrive/1vgb8PHhVk4XE93PoeQTsuKgdb9_wtAT_",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/873010381797330984/FlatGaps426RMS.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-08-06T01:11:34.237000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2224,6 +2235,61 @@
       "UpdatedDate": "2021-08-04T22:36:30.754000+00:00"
     },
     {
+      "ID": "blue_oyster_cult_raglan.rar",
+      "Name": "blue_oyster_cult_raglan",
+      "Description": "Blue Oyster Cult, replaces OG Session tshirt. Might upload more band shirts from my SXL collection.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/872993035032600606/blue_oyster_cult_raglan.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/872993057535066122/boc_raglan.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-06T00:02:44.912000+00:00"
+    },
+    {
+      "ID": "Doh-Doh_T-Shirts.zip",
+      "Name": "Doh-Doh_T-Shirts",
+      "Description": "Shorty's Doh-Doh T-shirts (Replaces all ZERO T-shirts)",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873016786004631582/Doh-Doh_T-Shirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873016652747403324/Doh-Doh_Thumbnail.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-06T01:37:02.088000+00:00"
+    },
+    {
+      "ID": "deny_hoodies_p1.zip",
+      "Name": "deny_hoodies_p1",
+      "Description": "Deny hoodie pack 1",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873041988256141372/deny_hoodies_p1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873041969826394122/hoodie_pack1_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-06T03:17:10.361000+00:00"
+    },
+    {
+      "ID": "deny_hoodies_p2.zip",
+      "Name": "deny_hoodies_p2",
+      "Description": "Deny hoodie pack 2",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873042070040887346/deny_hoodies_p2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873042053767000084/deny_hoodiepack2.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-06T03:17:30.036000+00:00"
+    },
+    {
+      "ID": "demonshirt_red_mahagoni.rar.zip",
+      "Name": "demonshirt_red_mahagoni.rar",
+      "Description": "Replaces Flat Face Green Shirt",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873094482709585972/demonshirt_red_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873094535423610920/Session_06.08.2021_08_34_34.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-06T06:46:00.020000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -3872,6 +3938,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/870498045962387486/Marty3.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-07-30T02:48:27.206000+00:00"
+    },
+    {
+      "ID": "Slayer.rar",
+      "Name": "Slayer",
+      "Description": "the Slayer\n\ncomes with the crucible deck, costum trucks and Cacodemon wheels",
+      "Version": 1,
+      "Author": "\ud835\udd38\ud835\udd53\ud835\udd52\ud835\udd55\ud835\udd55\ud835\udd60\ud835\udd5f#2459",
+      "DownloadLink": "rsmm://GDrive/1oS9KoIQdxg6WGiXXWCHIlqPRf2nC8cdg",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/872967357339934730/Screenshot_4.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-08-05T22:20:51.732000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
