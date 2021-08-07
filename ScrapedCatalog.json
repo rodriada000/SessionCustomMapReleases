@@ -2345,6 +2345,17 @@
       "UpdatedDate": "2021-08-06T18:04:32.698000+00:00"
     },
     {
+      "ID": "Mahagoni3shirt3hoodie.rar.zip",
+      "Name": "Mahagoni3shirt3hoodie.rar",
+      "Description": "replaces all limited run shirts/hoodeis",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873593181197971466/Mahagoni3shirt3hoodie.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873593142484541561/911417FC-84D5-4962-BF44-E1A2FC16DE49.jpeg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-07T15:47:25.164000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -4554,6 +4565,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/873396424778346536/unknown.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-08-07T02:46:18.201000+00:00"
+    },
+    {
+      "ID": "Bones_Reds.rar",
+      "Name": "Bones_Reds",
+      "Description": "Bones Reds",
+      "Version": 1,
+      "Author": "Sasafraz#5658",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/873531714981482526/Bones_Reds.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/873531681489973248/Bones_Reds.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-08-07T11:43:10.345000+00:00"
     }
   ]
 }
