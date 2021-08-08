@@ -1498,6 +1498,28 @@
       "UpdatedDate": "2021-08-07T22:24:37.007000+00:00"
     },
     {
+      "ID": "Blind.zip",
+      "Name": "Blind",
+      "Description": "",
+      "Version": 1,
+      "Author": "nibor#2118",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/873869708686921758/Blind.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/873869738999173120/Session_Screenshot_2021.08.08_-_12.04.13.78.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-08T10:06:22.773000+00:00"
+    },
+    {
+      "ID": "almost_smudge.zip",
+      "Name": "almost_smudge",
+      "Description": "replaces ghost with a boner",
+      "Version": 1,
+      "Author": "rab420#3468",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874000241895030855/almost_smudge.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874001549859364864/smudge.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-08T18:50:08.475000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2378,6 +2400,28 @@
       "UpdatedDate": "2021-08-07T15:47:25.164000+00:00"
     },
     {
+      "ID": "23orange_mahagoni.rar.zip",
+      "Name": "23orange_mahagoni.rar",
+      "Description": "replaces HEROIN white shirt",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873825224141987850/23orange_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873825220891410462/Session_08.08.2021_09_08_41.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-08T07:09:28.516000+00:00"
+    },
+    {
+      "ID": "dpm_mahagoni.rar.zip",
+      "Name": "dpm_mahagoni.rar",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/873825275648045096/dpm_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873825403532353576/Session_08.08.2021_09_07_52.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-08T07:10:12.263000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -3170,6 +3214,28 @@
       "UpdatedDate": "2021-08-05T13:25:54.296000+00:00"
     },
     {
+      "ID": "Black_Adidas_Gazelle_Shoes.rar",
+      "Name": "Black_Adidas_Gazelle_Shoes",
+      "Description": "**Adidas - Gazelle**",
+      "Version": 1,
+      "Author": "mtl_ghost#4031",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/873836735602233354/Black_Adidas_Gazelle_Shoes.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/873836718988611584/Black_Adidas_Gazelle_Shoes.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-08T07:55:12.934000+00:00"
+    },
+    {
+      "ID": "Fade4High.zip",
+      "Name": "Fade4High",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/873976541695049799/Fade4High.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/873976476469456896/image0.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-08T17:10:45.323000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -3465,6 +3531,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/873805590621724692/Session_08.08.2021_07_50_46.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-08-08T05:51:28.149000+00:00"
+    },
+    {
+      "ID": "greycamouflage_stickygrip.rar.zip",
+      "Name": "greycamouflage_stickygrip.rar",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/873863241049210880/greycamouflage_stickygrip.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/873863305649856552/Session_08.08.2021_11_39_41.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-08-08T09:40:48.324000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
