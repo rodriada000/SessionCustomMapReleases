@@ -321,6 +321,17 @@
       "UpdatedDate": "2021-08-06T01:11:34.237000+00:00"
     },
     {
+      "ID": "Newquays Concrete Waves.zip",
+      "Name": "Newquays Concrete Waves",
+      "Description": "Here\u2019s a link to Concrete Waves for Session. This park is a real-life park designed and built by Maverick Skateparks in the South-West of the UK. It\u2019s potentially one of the best-looking parks in the UK so I\u2019ve tried to do the map justice in-game. The transition skating in this map doesn\u2019t skate as well as XL but over time this map could skate nice when new physics get added. As for now there\u2019s plenty of obstacles in the park which skate perfect\n\nAlso it's RMS compatible, enjoy!\n\n",
+      "Version": 1,
+      "Author": "Ollie795#4653",
+      "DownloadLink": "rsmm://GDrive/13wDR9_E6UtLauUNcNyM1lJvghz-MtAvd",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/873664031788007464/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-08-07T20:28:57.021000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -1474,6 +1485,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/872655976052973608/privimitive_marvel_Lemos.PNG",
       "Category": "session-decks",
       "UpdatedDate": "2021-08-05T01:43:20.793000+00:00"
+    },
+    {
+      "ID": "new_wu_deck_esp.rar",
+      "Name": "new_wu_deck_esp",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/873693108469104640/new_wu_deck_esp.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/873693137233653810/Session_7_30_2021_8_22_59_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-07T22:24:37.007000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
@@ -3423,6 +3445,28 @@
       "UpdatedDate": "2021-08-05T15:35:08.901000+00:00"
     },
     {
+      "ID": "redbolts.rar.zip",
+      "Name": "redbolts.rar",
+      "Description": "replace default color bolts",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/873802247975338034/redbolts.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/873802241633562624/Session_08.08.2021_07_36_17.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-08-08T05:38:10.421000+00:00"
+    },
+    {
+      "ID": "goldbolts.rar.zip",
+      "Name": "goldbolts.rar",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/873805588801413130/goldbolts.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/873805590621724692/Session_08.08.2021_07_50_46.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-08-08T05:51:28.149000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
@@ -3751,6 +3795,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/872489919044538499/Session_04.08.2021_08_00_35.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-08-04T14:44:45.312000+00:00"
+    },
+    {
+      "ID": "darkblueyellowhat_mahagoni.rar.zip",
+      "Name": "darkblueyellowhat_mahagoni.rar",
+      "Description": "replace with and no hair : creature blue hat",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/873814888919756830/darkblueyellowhat_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/873814962328469514/Session_08.08.2021_08_26_50.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-08-08T06:28:42.296000+00:00"
     },
     {
       "ID": "Tabita.zip",
@@ -4576,6 +4631,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/873531681489973248/Bones_Reds.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2021-08-07T11:43:10.345000+00:00"
+    },
+    {
+      "ID": "wu_wheels.rar",
+      "Name": "wu_wheels",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/873692960745738261/wu_wheels.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/873692920174247936/Session_7_30_2021_8_24_23_PM.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-08-07T22:23:54.324000+00:00"
     }
   ]
 }
