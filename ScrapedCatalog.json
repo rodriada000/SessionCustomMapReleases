@@ -1542,6 +1542,28 @@
       "UpdatedDate": "2021-08-08T23:58:05.549000+00:00"
     },
     {
+      "ID": "BAKER_Dollin_Cure.rar",
+      "Name": "BAKER_Dollin_Cure",
+      "Description": "Baker Dustin Dollin Cure deck. Replace Donovan deck",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874218684908970014/BAKER_Dollin_Cure.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874218759437549568/Screenshot_2021-08-09_171142.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-09T09:13:15.041000+00:00"
+    },
+    {
+      "ID": "Board_Decks_New_Designs.rar",
+      "Name": "Board_Decks_New_Designs",
+      "Description": "replaces 4 Heroin Decks: Craig Scott Chainsaw(8,75)",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874282723504685086/Board_Decks_New_Designs.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874282481069727804/234557281_140316711583435_1854579632930385764_n_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-09T13:27:24.689000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3267,6 +3289,72 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/873976476469456896/image0.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2021-08-08T17:10:45.323000+00:00"
+    },
+    {
+      "ID": "BLACK2STEPEXPLORER.zip",
+      "Name": "BLACK2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219444711358464/BLACK2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219428521336842/BLACK.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:15:58.215000+00:00"
+    },
+    {
+      "ID": "BLUE2STEPEXPLORER.zip",
+      "Name": "BLUE2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219544753868830/BLUE2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219525850140682/BLUE.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:16:22.081000+00:00"
+    },
+    {
+      "ID": "GREEN2STEPEXPLORER.zip",
+      "Name": "GREEN2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219613444010014/GREEN2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219602618495027/GREEN.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:16:38.469000+00:00"
+    },
+    {
+      "ID": "MINT2STEPEXPLORER.zip",
+      "Name": "MINT2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219669282750534/MINT2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219655479316510/MINT.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:16:51.831000+00:00"
+    },
+    {
+      "ID": "PURP2STEPEXPLORER.zip",
+      "Name": "PURP2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219777999142912/PURP2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219756855648297/PURP.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:17:17.600000+00:00"
+    },
+    {
+      "ID": "RED2STEPEXPLORER.zip",
+      "Name": "RED2STEPEXPLORER",
+      "Description": "Replaces Es Explorer.\n(ONLY HAVE 1 AT A TIME IN SMM)",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874219861906173982/RED2STEPEXPLORER.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219848794791946/RED.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T09:17:37.638000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
