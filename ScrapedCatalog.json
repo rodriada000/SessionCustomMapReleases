@@ -1520,6 +1520,28 @@
       "UpdatedDate": "2021-08-08T18:50:08.475000+00:00"
     },
     {
+      "ID": "evillair_BOTTOMwoodcolor_extract_to_install.zip",
+      "Name": "evillair_BOTTOMwoodcolor_extract_to_install",
+      "Description": "(Not a deck, but bottom wood color) Bottom wood color mods, extract zip to select your bottom wood color. \nReplaces default bottom wood color, does not work on all decks.",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874017358056943626/evillair_BOTTOMwoodcolor_extract_to_install.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874017345792782396/bottomwood_colors_add.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-08T19:52:56.716000+00:00"
+    },
+    {
+      "ID": "PainBoard.rar",
+      "Name": "PainBoard",
+      "Description": "Replaces first FlatFace board",
+      "Version": 1,
+      "Author": "ImVibing#0577",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874078791184547870/PainBoard.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874079047251030096/Session_8_8_2021_7_49_46_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-08T23:58:05.549000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2420,6 +2442,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/873825403532353576/Session_08.08.2021_09_07_52.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-08-08T07:10:12.263000+00:00"
+    },
+    {
+      "ID": "deny_animals_shirts.zip",
+      "Name": "deny_animals_shirts",
+      "Description": "Deny 'Animal Series' pack! (replaces Roger shirts)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/874117318173655090/deny_animals_shirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/874117305636900944/anikmal_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-09T02:30:09.042000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
