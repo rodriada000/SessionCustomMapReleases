@@ -1564,6 +1564,17 @@
       "UpdatedDate": "2021-08-09T13:27:24.689000+00:00"
     },
     {
+      "ID": "Pivotal_Session_Boards_1.0.zip",
+      "Name": "Pivotal_Session_Boards_1.0",
+      "Description": "Pivotal decks replacing all schlaudie boards",
+      "Version": 1,
+      "Author": "heroinjoe#3694",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874420746460487690/Pivotal_Session_Boards_1.0.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874420734229905441/Screenshot_15.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-09T22:35:52.008000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2477,6 +2488,17 @@
       "UpdatedDate": "2021-08-09T02:30:09.042000+00:00"
     },
     {
+      "ID": "8ShirtzMahagoni_shirts.rar.zip",
+      "Name": "8ShirtzMahagoni_shirts.rar",
+      "Description": "replaces ALL Roger Shirts",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/874529018341376040/8ShirtzMahagoni_shirts.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/874528974695452712/image0.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-10T05:46:06.130000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -2750,6 +2772,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/872125341852909579/Session_03.08.2021_15_24_06.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-08-04T14:41:41.474000+00:00"
+    },
+    {
+      "ID": "deny_shorts_extract_to_install.zip",
+      "Name": "deny_shorts_extract_to_install",
+      "Description": "Deny Shorts (additional colors) Extract zip to install your color)\n",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://GDrive/12VqV5q2Z_n5mAqInByYb8RVkr7Gg2Tm6",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/874469020865294406/shorts_ad.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-08-10T01:47:41.306000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -3355,6 +3388,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874219848794791946/RED.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2021-08-09T09:17:37.638000+00:00"
+    },
+    {
+      "ID": "2STEP_PATRIOTS.zip",
+      "Name": "2STEP_PATRIOTS",
+      "Description": "Replaces all Fallen Patriots\n@2step.se",
+      "Version": 1,
+      "Author": "seeblunted#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/874407963098505236/2STEP_PATRIOTS.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/874407940617015327/2STEP_PATRIOT.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-09T21:45:04.743000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
