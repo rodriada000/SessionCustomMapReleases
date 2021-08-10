@@ -1575,6 +1575,17 @@
       "UpdatedDate": "2021-08-09T22:35:52.008000+00:00"
     },
     {
+      "ID": "Hook_Ups_small_packs.rar",
+      "Name": "Hook_Ups_small_packs",
+      "Description": "Small pack of 7 Hook Ups boards, replace some Heroin boards.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/874695019980812328/Hook_Ups_small_packs.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/874695592956272780/Untitled-4.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-10T16:48:01.219000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2497,6 +2508,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/874528974695452712/image0.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-08-10T05:46:06.130000+00:00"
+    },
+    {
+      "ID": "SC-Summer_21_Polos.zip",
+      "Name": "SC-Summer_21_Polos",
+      "Description": "Some FRESH polos (t-shirts) to rock before Summer is over (replaces all Roger shirts.",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/874701741814325319/SC-Summer_21_Polos.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/874701664072904844/Scrub_Club_Summer_2021.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-10T17:12:26.651000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
