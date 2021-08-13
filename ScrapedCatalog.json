@@ -1630,6 +1630,17 @@
       "UpdatedDate": "2021-08-12T15:37:35.526000+00:00"
     },
     {
+      "ID": "Artery_Block_Letter_Series.rar",
+      "Name": "Artery_Block_Letter_Series",
+      "Description": "Artery Collective's first deck drop! 7 decks in total, all replacing the Schlaudie Skate Co Decks",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/875787982072852510/Artery_Block_Letter_Series.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/875787927542710272/Artery_Collective.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-13T17:08:46.352000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2576,6 +2587,17 @@
       "UpdatedDate": "2021-08-12T02:17:02.322000+00:00"
     },
     {
+      "ID": "Artery_Tees_Drop_1.rar",
+      "Name": "Artery_Tees_Drop_1",
+      "Description": "Artery Collective's first shirt drop! 8 tees included in the pack, all replacing the No Comply shirts.",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/875788320100204554/Artery_Tees_Drop_1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/875788286310899722/Artery_First_Drop_Showcase.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-08-13T17:10:06.888000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -2860,6 +2882,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/874469020865294406/shorts_ad.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-08-10T01:47:41.306000+00:00"
+    },
+    {
+      "ID": "straightpants_mahagonilogofront.rar.zip",
+      "Name": "straightpants_mahagonilogofront.rar",
+      "Description": "replaces all straight cut pants",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/875659707115786260/straightpants_mahagonilogofront.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/875659637423243264/Session_13.08.2021_10_37_40.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-08-13T08:39:03.232000+00:00"
+    },
+    {
+      "ID": "2STEPCARGOWORKERS_2K.zip",
+      "Name": "2STEPCARGOWORKERS_2K",
+      "Description": "Replaces all cargos.",
+      "Version": 1,
+      "Author": "2STEP#0001",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/875766113445748776/2STEPCARGOWORKERS_2K.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/875766099050909706/Preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-08-13T15:41:52.680000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
