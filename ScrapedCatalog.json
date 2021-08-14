@@ -4193,6 +4193,17 @@
       "UpdatedDate": "2021-08-08T06:28:42.296000+00:00"
     },
     {
+      "ID": "Masks.zip",
+      "Name": "Masks",
+      "Description": "Mask Pack HockyMask (replaces Caps) More SkiMasks (replaces Beanies)",
+      "Version": 1,
+      "Author": "Tipahdis#3930",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/875940088721326141/Masks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/875939908324302858/Session_7_18_2021_1_50_42_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-08-14T03:13:11.585000+00:00"
+    },
+    {
       "ID": "Tabita.zip",
       "Name": "Tabita",
       "Description": "UwU, She's Back.",
