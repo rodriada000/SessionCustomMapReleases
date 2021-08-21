@@ -1663,6 +1663,39 @@
       "UpdatedDate": "2021-08-18T19:51:59.001000+00:00"
     },
     {
+      "ID": "antihero_9_pack.rar",
+      "Name": "antihero_9_pack",
+      "Description": "requested by <@359992459540955137> replace all of ESP, Flat face and Limited Run boards.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/878685710205456414/antihero_9_pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/878685746217746552/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-21T17:03:28.086000+00:00"
+    },
+    {
+      "ID": "WHITEY_PANDA_WIDE_LOGO.rar",
+      "Name": "WHITEY_PANDA_WIDE_LOGO",
+      "Description": "requested by <@!814978843126792203> replace Zero numero 8",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/878698527562301470/WHITEY_PANDA_WIDE_LOGO.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/878698528015253575/prev.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-21T17:54:15.180000+00:00"
+    },
+    {
+      "ID": "Krooked_3_deck_pack.rar",
+      "Name": "Krooked_3_deck_pack",
+      "Description": "requested by <@303154586380664834> replace 3 ESP boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/878699649316302928/Krooked_3_deck_pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/878699673060257862/prev.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-21T17:58:48.149000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
