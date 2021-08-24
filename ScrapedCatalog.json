@@ -4875,6 +4875,17 @@
       "UpdatedDate": "2021-08-04T10:23:52.951000+00:00"
     },
     {
+      "ID": "authoritygeo_truck.rar.zip",
+      "Name": "authoritygeo_truck.rar",
+      "Description": "replace GK Disruptor silver",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943631026978827/879691082915528704/authoritygeo_truck.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/879691068441002054/Session_24.08.2021_13_35_19.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2021-08-24T11:38:18.092000+00:00"
+    },
+    {
       "ID": "Spitfire_FF_Tablets_Blue.zip",
       "Name": "Spitfire_FF_Tablets_Blue",
       "Description": "Spitfire Formula Four Tablets 51mm Blue (Replaces all default Creature wheels so all sizes available)",
