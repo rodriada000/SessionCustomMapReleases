@@ -3654,6 +3654,17 @@
       "UpdatedDate": "2021-08-22T15:49:37.280000+00:00"
     },
     {
+      "ID": "whitevulc_downroses_shoe.rar.zip",
+      "Name": "whitevulc_downroses_shoe.rar",
+      "Description": "replaces all VUL A Shoes",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/880757208130912317/whitevulc_downroses_shoe.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/880757205106835506/Session_27.08.2021_12_13_03.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-08-27T10:14:42.167000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
