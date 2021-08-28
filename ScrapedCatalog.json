@@ -1729,6 +1729,28 @@
       "UpdatedDate": "2021-08-26T12:44:04.194000+00:00"
     },
     {
+      "ID": "April_pack_1.rar",
+      "Name": "April_pack_1",
+      "Description": "April pack 1 (OG logo pack) replace 11 roger boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/881214566858637393/April_pack_1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/881214579420594298/prev_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-28T16:32:09.089000+00:00"
+    },
+    {
+      "ID": "April_pack_2.rar",
+      "Name": "April_pack_2",
+      "Description": "April pack 2, replace the 16 (the rest) of Roger boards.",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/881216128251232276/April_pack_2.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/881216142381826058/prev_2.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-08-28T16:38:21.460000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
