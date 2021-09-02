@@ -343,6 +343,28 @@
       "UpdatedDate": "2021-08-30T21:32:38.823000+00:00"
     },
     {
+      "ID": "Donevan_Skate_Park_by_evillair.zip",
+      "Name": "Donevan_Skate_Park_by_evillair",
+      "Description": "This is my first map for Session, it's the Donevan skate park in Oshawa. I have included a day and night version and it's RMS compatible. Enjoy!\nThanks to those who helped me with this map in my discord channel, it's appreciated!\n",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://GDrive/1Oio0a1u77Llzl30Zxn6wXSaE127pH9O1",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/882983145874550835/donevan_release_ad.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-09-02T13:39:46.933000+00:00"
+    },
+    {
+      "ID": "TAMPA_2020_RMS_4.26.2.zip",
+      "Name": "TAMPA_2020_RMS_4.26.2",
+      "Description": "Hello guys ! Lots of people asked for the updated version, so here it is (RMS included) : ",
+      "Version": 1,
+      "Author": "mastaflex#7513",
+      "DownloadLink": "rsmm://GDrive/1BCV_yO4ZN9mXg7fTA9tXjxCUVnOIJigw",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/883041443944480788/tampa2020_unreal_artstation_09.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-09-02T17:31:27.101000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
