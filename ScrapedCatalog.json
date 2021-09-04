@@ -4083,6 +4083,17 @@
       "UpdatedDate": "2021-08-15T14:11:12.017000+00:00"
     },
     {
+      "ID": "ShakeJuntColl.zip",
+      "Name": "ShakeJuntColl",
+      "Description": "Shake Junt Collection (Replaces all Griptapes)",
+      "Version": 1,
+      "Author": "Tipahdis#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/883598558014619708/ShakeJuntColl.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/883598371057725471/Session_9_4_2021_2_22_47_AM.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-09-04T06:25:12.910000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
