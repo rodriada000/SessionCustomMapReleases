@@ -4116,6 +4116,17 @@
       "UpdatedDate": "2021-09-04T06:25:12.910000+00:00"
     },
     {
+      "ID": "TwistedTea.rar",
+      "Name": "TwistedTea",
+      "Description": "Twisted Tea (replaces all griptapes)",
+      "Version": 1,
+      "Author": "Mashani#5672",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/883803706775208007/TwistedTea.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/883803669487833088/blank.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-09-04T20:00:24.089000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
