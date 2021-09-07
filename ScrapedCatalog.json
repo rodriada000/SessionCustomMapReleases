@@ -1839,6 +1839,28 @@
       "UpdatedDate": "2021-09-04T14:42:44.191000+00:00"
     },
     {
+      "ID": "catdog.rar",
+      "Name": "catdog",
+      "Description": "CatDog Graphic (Replaces Shlaudie Logo)",
+      "Version": 1,
+      "Author": "Mashani#5672",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/884625023875301376/catdog.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/884624993370124378/catdog.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-09-07T02:24:01.336000+00:00"
+    },
+    {
+      "ID": "piso_mandala.zip",
+      "Name": "piso_mandala",
+      "Description": "Piso Mandala Deck replaces Flat Face 01 \n",
+      "Version": 1,
+      "Author": "quiet#0069",
+      "DownloadLink": "rsmm://GDrive/1JqIHJIG7DPlfvTvamN_y7UJc5G77jkoB",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/884873333542387792/Screenshot_15.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-09-07T18:50:42.814000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -4521,6 +4543,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/877209670127861770/preview.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2021-08-17T15:19:04.252000+00:00"
+    },
+    {
+      "ID": "PrisonDudeBeanie.zip",
+      "Name": "PrisonDudeBeanie",
+      "Description": "Prison Dude Slouche - Big thanks to Tipahdis for helping get it working...A rework of a mod by Redgouf",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/884602445026717736/PrisonDudeBeanie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/884602310716690462/Session_4_9_2021_10_38_11_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-09-07T00:54:18.110000+00:00"
     },
     {
       "ID": "Tabita.zip",
