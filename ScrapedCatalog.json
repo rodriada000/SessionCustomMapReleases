@@ -1861,6 +1861,17 @@
       "UpdatedDate": "2021-09-07T18:50:42.814000+00:00"
     },
     {
+      "ID": "piso_dragonfly_deck.zip",
+      "Name": "piso_dragonfly_deck",
+      "Description": "Piso Dragonfly deck replaces ESP 01\n",
+      "Version": 1,
+      "Author": "quiet#0069",
+      "DownloadLink": "rsmm://GDrive/16d0FHFnqS6lEQZdq9X2UFDuO8acK7bYJ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/884875966801907752/Screenshot_16.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-09-07T19:01:10.653000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -2838,6 +2849,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/877163866088431656/59A735FA-793D-4C0C-A838-A77C08651268.jpeg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-08-17T12:16:03.321000+00:00"
+    },
+    {
+      "ID": "Artery_Hoodie_Pack.rar",
+      "Name": "Artery_Hoodie_Pack",
+      "Description": "First hoodie drop from Artery Collective! Pack includes 6 hoodies and 3 shirts, all replaces ESP gear.",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/885023371132297296/Artery_Hoodie_Pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/885023348759859232/Artery_Hoodie_Pack.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-09-08T04:46:54.705000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
