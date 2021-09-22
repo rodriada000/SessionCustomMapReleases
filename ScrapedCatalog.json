@@ -3951,6 +3951,17 @@
       "UpdatedDate": "2021-09-19T02:13:18.403000+00:00"
     },
     {
+      "ID": "LastResortVM001Hi.zip",
+      "Name": "LastResortVM001Hi",
+      "Description": "",
+      "Version": 1,
+      "Author": "JoshLav64#6790",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/890026187953418280/LastResortVM001Hi.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/890026090783993936/Session_Screenshot_2021.09.21_-_20.03.52.98.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-09-22T00:06:19.257000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -4367,6 +4378,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/887307736038146139/Screenshot_48.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-09-14T12:04:13.857000+00:00"
+    },
+    {
+      "ID": "CustomJboogie8k.zip",
+      "Name": "CustomJboogie8k",
+      "Description": "This is a custom rework of Jboogie's 8k Grip from SkateXL.\nThis replaces the default grip tape.",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/890056097430401044/CustomJboogie8k.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/890056110998974484/unknown.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-09-22T02:05:13.957000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
