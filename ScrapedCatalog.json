@@ -2048,6 +2048,17 @@
       "UpdatedDate": "2021-09-25T21:01:35.975000+00:00"
     },
     {
+      "ID": "dirgeskateboard_diablodoll_deck.zip",
+      "Name": "dirgeskateboard_diablodoll_deck",
+      "Description": "Dirge Skateboards \"Diablo Doll\" deck mod. (Replaces SchlaudieSkateCo MovingCircus_01 deck)",
+      "Version": 1,
+      "Author": "YvesA#7871",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/893310798074642473/dirgeskateboard_diablodoll_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/893310785378467890/diablo_doll_ad.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-10-01T01:38:11.227000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
