@@ -376,6 +376,17 @@
       "UpdatedDate": "2021-09-19T08:17:07.298000+00:00"
     },
     {
+      "ID": "Garrett`s backyard.zip",
+      "Name": "Garrett`s backyard",
+      "Description": "The house of Garrett Ginner\n",
+      "Version": 1,
+      "Author": "S4shko#4832",
+      "DownloadLink": "rsmm://GDrive/1bOu0XbLwhMOueuizupJV4TJGte-vvqT1",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/893356322903457792/image0.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-10-01T04:39:05.098000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2057,6 +2068,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/893310785378467890/diablo_doll_ad.png",
       "Category": "session-decks",
       "UpdatedDate": "2021-10-01T01:38:11.227000+00:00"
+    },
+    {
+      "ID": "Landyatchz_Dinghy_Hoodoo_Tiger.rar",
+      "Name": "Landyatchz_Dinghy_Hoodoo_Tiger",
+      "Description": "So it's my first time porting an IRL  cruiser brand into Session and I have this cruiser board IRL so why not right? I present to you the Landyatchz Dinghy Hoodoo Tiger. Replaces Heroin Green Eyes Deck.",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/893892042512551956/Landyatchz_Dinghy_Hoodoo_Tiger.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/893892024263122974/Session_10_3_2021_12_05_04_AM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-10-02T16:07:50.693000+00:00"
+    },
+    {
+      "ID": "BOARD_Halloween_Pro_Model.rar",
+      "Name": "BOARD_Halloween_Pro_Model",
+      "Description": "replaces ESP and FLATFACES Decks",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/894156288211165184/BOARD_Halloween_Pro_Model.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/894156307064586282/image0.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-10-03T09:37:56.816000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
