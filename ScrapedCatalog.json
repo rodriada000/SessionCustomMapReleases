@@ -2103,6 +2103,17 @@
       "UpdatedDate": "2021-10-03T09:37:56.816000+00:00"
     },
     {
+      "ID": "TanjiroDeck.rar",
+      "Name": "TanjiroDeck",
+      "Description": "",
+      "Version": 1,
+      "Author": "KYOBI#0256",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/896826740125597726/TanjiroDeck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/896826712820699166/Screenshot_2021-10-10_195647.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-10-10T18:29:17.136000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -4534,6 +4545,17 @@
       "UpdatedDate": "2021-09-26T07:57:05.948000+00:00"
     },
     {
+      "ID": "NezukoGrip.rar",
+      "Name": "NezukoGrip",
+      "Description": "",
+      "Version": 1,
+      "Author": "KYOBI#0256",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/896826833327259648/NezukoGrip.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/896826789177999480/Screenshot_2021-10-10_193501.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-10-10T18:29:39.407000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
@@ -5291,6 +5313,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/896229190003724308/Screenshot_118.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-10-09T02:56:17.444000+00:00"
+    },
+    {
+      "ID": "replacesribman.zip",
+      "Name": "replacesribman",
+      "Description": "i dont mod much but i got bored today so i fucked around and it replaces ribsman",
+      "Version": 1,
+      "Author": "horrorscamgaming#2158",
+      "DownloadLink": "rsmm://GDrive/10dOg9x7g8qPqy25Muj_SwW5muEc77pvr",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/896793642780467220/20211010121339_1.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-10-10T16:19:01.250000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
