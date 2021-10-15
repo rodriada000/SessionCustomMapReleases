@@ -2125,6 +2125,17 @@
       "UpdatedDate": "2021-10-11T16:56:35.105000+00:00"
     },
     {
+      "ID": "Halloween_Set_Boards.zip",
+      "Name": "Halloween_Set_Boards",
+      "Description": "Replaces some Roger boards",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/898379404680495185/Halloween_Set_Boards.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/898379315102777394/SMMPicBoards.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-10-15T01:19:01.233000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -4114,6 +4125,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/890026090783993936/Session_Screenshot_2021.09.21_-_20.03.52.98.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-09-22T00:06:19.257000+00:00"
+    },
+    {
+      "ID": "Halloween_Set_Shoe_Headless.zip",
+      "Name": "Halloween_Set_Shoe_Headless",
+      "Description": "Replaces Mid Top Cups",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/898379232055533639/Halloween_Set_Shoe_Headless.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/898379153269751838/SMMPicShoes.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-10-15T01:18:20.141000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
