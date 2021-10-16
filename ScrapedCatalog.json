@@ -4149,6 +4149,28 @@
       "UpdatedDate": "2021-10-15T21:43:56.886000+00:00"
     },
     {
+      "ID": "DownDunkNewLogo.zip",
+      "Name": "DownDunkNewLogo",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/898819319453089802/DownDunkNewLogo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/898819291007311892/AFF67F2C-5984-4A4B-99B8-7D04E6784BF6.jpeg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-10-16T06:27:05.076000+00:00"
+    },
+    {
+      "ID": "Skate_3_Mid_Top_Cups.zip",
+      "Name": "Skate_3_Mid_Top_Cups",
+      "Description": "Mid Top Cup Skate 3's to go with the beta release of the Regs map in my Discord.  Textures are used for the other Mid Tops in game as well, so check for other looks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/898893208719884348/Skate_3_Mid_Top_Cups.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/898892947662192650/SMMPic.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-10-16T11:20:41.622000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
