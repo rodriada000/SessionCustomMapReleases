@@ -4138,6 +4138,17 @@
       "UpdatedDate": "2021-10-15T01:18:20.141000+00:00"
     },
     {
+      "ID": "low_top_mesh.zip",
+      "Name": "low_top_mesh",
+      "Description": "Seeing all these mid top shoes getting made I decided to recook low top shoe mesh...Credit to Redgouf for the mesh",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/898687667913523240/low_top_mesh.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/898687601031143445/Low_Top_Skate_Shoe_-_Thumbnail.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-10-15T21:43:56.886000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
