@@ -3192,6 +3192,17 @@
       "UpdatedDate": "2021-10-28T21:03:15.294000+00:00"
     },
     {
+      "ID": "Hoodie_Hood_Down.rar",
+      "Name": "Hoodie_Hood_Down",
+      "Description": "Recook of Redgouf's normal sized hood down mod.",
+      "Version": 1,
+      "Author": "blitzkow#1241",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/903596831114678282/Hoodie_Hood_Down.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/903596610171326525/Session_10_29_2021_5_43_56_AM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-10-29T10:51:12.527000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -3498,6 +3509,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/875766099050909706/Preview.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-08-13T15:41:52.680000+00:00"
+    },
+    {
+      "ID": "Slim_Pants_blitzkow_Pack.rar",
+      "Name": "Slim_Pants_blitzkow_Pack",
+      "Description": "Recook of Redgouf's Slim pants mesh, textures were done by Dirty WRX Guy.",
+      "Version": 1,
+      "Author": "blitzkow#1241",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/903592869959442432/Slim_Pants_blitzkow_Pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/903592855552032768/Preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-10-29T10:35:28.463000+00:00"
+    },
+    {
+      "ID": "Slim_Pants_Dirty_WRX_Pack.rar",
+      "Name": "Slim_Pants_Dirty_WRX_Pack",
+      "Description": "Could only get 3 colors working at a time so enjoy an alternative color pack.",
+      "Version": 1,
+      "Author": "blitzkow#1241",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/903593645331083344/Slim_Pants_Dirty_WRX_Pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/903593622358884403/Preview2.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-10-29T10:38:33.385000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -4213,6 +4246,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/898892947662192650/SMMPic.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-10-16T11:20:41.622000+00:00"
+    },
+    {
+      "ID": "Sk8-Hi.rar",
+      "Name": "Sk8-Hi",
+      "Description": "(Replaces ES Accel OGs) Bought this model off sketchfab to mess with, still somewhat working on it, Haven't gotten around to getting it set up for female skaters yet.",
+      "Version": 1,
+      "Author": "blitzkow#1241",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/903600433333932032/Sk8-Hi.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/903600346566373446/Viewport_2_10_29_2021_5_56_28_AM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-10-29T11:05:32.501000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
