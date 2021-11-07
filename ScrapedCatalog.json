@@ -4314,6 +4314,72 @@
       "UpdatedDate": "2021-10-30T19:05:27.754000+00:00"
     },
     {
+      "ID": "BlackRedSole.rar",
+      "Name": "BlackRedSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906642656166289418/BlackRedSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906642632829181992/Session_11_6_2021_12_33_21_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:34:13.878000+00:00"
+    },
+    {
+      "ID": "BlackLimeSole.rar",
+      "Name": "BlackLimeSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906642727633059920/BlackLimeSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906642712873291887/Session_11_6_2021_12_34_14_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:34:30.835000+00:00"
+    },
+    {
+      "ID": "BlackPinkSole.rar",
+      "Name": "BlackPinkSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906642908524998656/BlackPinkSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906642824848629800/Session_11_6_2021_12_33_41_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:35:13.964000+00:00"
+    },
+    {
+      "ID": "WhitePinkSole.rar",
+      "Name": "WhitePinkSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906643070827786260/WhitePinkSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906643040599412766/Session_11_6_2021_12_33_54_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:35:52.673000+00:00"
+    },
+    {
+      "ID": "WhiteBlackSole.rar",
+      "Name": "WhiteBlackSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906643183696486430/WhiteBlackSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906643158044135434/Session_11_6_2021_12_33_31_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:36:19.582000+00:00"
+    },
+    {
+      "ID": "WhiteGreenSole.rar",
+      "Name": "WhiteGreenSole",
+      "Description": "",
+      "Version": 1,
+      "Author": "Fraiboy!#7252",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/906643275933446184/WhiteGreenSole.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/906643248309755904/Session_11_6_2021_12_33_58_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-06T20:36:41.576000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -6215,6 +6281,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/891388855813537902/Session_25.09.2021_20_19_48.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-09-25T18:21:11.540000+00:00"
+    },
+    {
+      "ID": "Bearings_Pack_1.zip",
+      "Name": "Bearings_Pack_1",
+      "Description": "**Bearing Pack #1 (12-PACK)**\nThe ZIP file below **MUST BE EXTRACTED BEFORE UPLOADING to SMM.** After extracting simply choose the ZIP of the bearings you want and install in SMM.\n\n**IMPORTANT:** These bearings only works for all default Crea-ture wheels & board Cakes wheels.",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/906433010457530418/Bearings_Pack_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/906432945856856094/Bearings_Pack_Thumbnail.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2021-11-06T06:41:10.485000+00:00"
     }
   ]
 }
