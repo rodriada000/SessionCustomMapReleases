@@ -398,6 +398,17 @@
       "UpdatedDate": "2021-10-10T06:38:41.745000+00:00"
     },
     {
+      "ID": "S_Trials_Prototype.zip",
+      "Name": "S_Trials_Prototype",
+      "Description": "Session Trials Prototype Map   \n\nPRESS L FOR LAST CHECKPOINT AND B FOR BEGINNING.  Works with RMS Toolsuite.  Try it POV and in the rain for a challenge.\n\nHave you played Session?  At this point I hope so...  Have you played Trials?  Maybe, maybe not...  Have you ever thought time trials in Session might be cool?  Well so have I and now its a thing.  Ladies and Gentleman, I give you the first of what may be many Session Trials maps.  \n\nThis map is a prototype to test the idea of doing a Session Trials cross over.  I will NOT be fixing or updating anything in this map but WILL be building a forest map as the next Session Trials map. Share posts or thoughts for the next map in my discord, ask for invite.\n\n-Future improvements for Session Trials next map include-\n\n-Minutes and milliseconds.\n-Medal times\n-Controller support not just keyboard for resets.\n\n",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1IeoxGW4DkeMRZ_EpbYWuAyf0RfqHIX1s",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/906961000463478814/STrialsSMMPNG.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-11-07T17:39:13.137000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -3245,6 +3256,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/905256710208372736/unknown.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-11-03T00:47:30.705000+00:00"
+    },
+    {
+      "ID": "Donovans_Hoodie.rar",
+      "Name": "Donovans_Hoodie",
+      "Description": "Donovan's hoodie (Longer + Hood is down)",
+      "Version": 1,
+      "Author": "Kharon#8815",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/906963163516395580/Donovans_Hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/906963127281811506/Hoodie_02.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-07T17:47:48.927000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
