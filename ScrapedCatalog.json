@@ -2224,6 +2224,28 @@
       "UpdatedDate": "2021-11-09T18:15:45.815000+00:00"
     },
     {
+      "ID": "Polar_Dane_Brady_Blue.rar",
+      "Name": "Polar_Dane_Brady_Blue",
+      "Description": "Replaces Zero american wasteland deck.",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/908023419134697512/Polar_Dane_Brady_Blue.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/908023430857764884/2021-11-10_2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-10T16:00:56.502000+00:00"
+    },
+    {
+      "ID": "Board_Mexico.rar",
+      "Name": "Board_Mexico",
+      "Description": "Replaces 9 Roger Decks",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/908025558171017236/Board_Mexico.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/908025604048314398/Board_Mexico.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-10T16:09:34.636000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
