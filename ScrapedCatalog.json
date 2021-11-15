@@ -2268,6 +2268,17 @@
       "UpdatedDate": "2021-11-10T16:09:34.636000+00:00"
     },
     {
+      "ID": "CoachFrankSkateSchool.rar",
+      "Name": "CoachFrankSkateSchool",
+      "Description": "Replaces Schlaudie all red.",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/909352229776011294/CoachFrankSkateSchool.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/909352236147150898/2021-11-14_2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-14T08:01:09.045000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3322,6 +3333,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/906963127281811506/Hoodie_02.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-11-07T17:47:48.927000+00:00"
+    },
+    {
+      "ID": "GirlHoodie.zip",
+      "Name": "GirlHoodie",
+      "Description": "replaces creature-black hoodie",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/909837163150065745/GirlHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/909837069227020338/2021-11-15_2.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-15T16:08:03.635000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
@@ -4457,6 +4479,17 @@
       "UpdatedDate": "2021-11-06T20:36:41.576000+00:00"
     },
     {
+      "ID": "Fade8.zip",
+      "Name": "Fade8",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://GDrive/1j79MehjRqHblJP8n47iIpPoUi4TO7Dj3",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/909209898124996658/bdb_ad_2.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-11-13T22:35:31.963000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -5335,6 +5368,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/890291956985520138/Session_9_22_2021_1_34_03_PM_2.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-09-22T17:42:28.614000+00:00"
+    },
+    {
+      "ID": "mahagoni5panelfemale.rar.zip",
+      "Name": "mahagoni5panelfemale.rar",
+      "Description": "replace , white and bluepink 5panel hats",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/909164140440989716/mahagoni5panelfemale.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/909164024774680617/Session_13.11.2021_20_31_32.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-11-13T19:33:42.490000+00:00"
+    },
+    {
+      "ID": "female5panelcamo_mahagoni.rar.zip",
+      "Name": "female5panelcamo_mahagoni.rar",
+      "Description": "replace that original camo",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/909164259286614096/female5panelcamo_mahagoni.rar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/909164188537090108/Session_13.11.2021_20_31_18.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-11-13T19:34:10.922000+00:00"
     },
     {
       "ID": "Tabita.zip",
