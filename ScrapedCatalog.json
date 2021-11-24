@@ -431,6 +431,17 @@
       "UpdatedDate": "2021-11-13T01:56:13.555000+00:00"
     },
     {
+      "ID": "LACourthouseFinal.zip",
+      "Name": "LACourthouseFinal",
+      "Description": "LA Courthouse ",
+      "Version": 1,
+      "Author": "RicoSuaveGames#4979",
+      "DownloadLink": "rsmm://GDrive/1RpQuS--AHAUfU8Tu-VKDXa6QYYkHpkVB",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/912810833518686238/20211031102241_1.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-11-23T21:04:21.903000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -3520,6 +3531,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/911679793458729030/SMMPic.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-11-20T18:10:06.869000+00:00"
+    },
+    {
+      "ID": "Session_Holiday_Hoodie.zip",
+      "Name": "Session_Holiday_Hoodie",
+      "Description": "**Session Holiday Hoodie**\nWorks for male and female characters. This mod also looks good with the hood removed creating a sweater see mod created by <@!316191770998341633> for male characters. I will be sharing a NO HOOD mod for the female shortly after this post.\n\n**HAPPY HOLIDAYS EVERYONE!**",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/912915497467641866/Session_Holiday_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/912915439942762516/Session_Holiday_Sweater.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-24T04:00:16.107000+00:00"
+    },
+    {
+      "ID": "NoHoodie-Female.zip",
+      "Name": "NoHoodie-Female",
+      "Description": "::No Hood - Female Only::",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/912920603432988692/NoHoodie-Female.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/912920565537468417/No_Hood_Female.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-24T04:20:33.144000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
