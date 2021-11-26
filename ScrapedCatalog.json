@@ -2356,6 +2356,39 @@
       "UpdatedDate": "2021-11-23T14:30:41.200000+00:00"
     },
     {
+      "ID": "Schlaudie_Veterans_Pack.zip",
+      "Name": "Schlaudie_Veterans_Pack",
+      "Description": "Schlaudie Veterans Pack Rebuild.  With a bit of help from Schlaudie I was able to get a better look on the main board and made the shirt a replica of the IRL Schlaudie Veterans shirt.  Boards replace Roger boards and shirt is the Schlaudie shirt.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/913290442248966224/Schlaudie_Veterans_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/913290422875484190/SMMPic.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-25T04:50:09.621000+00:00"
+    },
+    {
+      "ID": "Board_Bonez_Series.rar",
+      "Name": "Board_Bonez_Series",
+      "Description": "",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/913442235243171870/Board_Bonez_Series.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/913442229404717147/Board_Bonez_Series.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-25T14:53:19.939000+00:00"
+    },
+    {
+      "ID": "Board_One_Piece_Series.rar",
+      "Name": "Board_One_Piece_Series",
+      "Description": "",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/913442273402974268/Board_One_Piece_Series.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/913442267530932284/Board_One_Piece_Series.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-25T14:53:28.945000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3553,6 +3586,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/912920565537468417/No_Hood_Female.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2021-11-24T04:20:33.144000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Veterans_Pack.zip",
+      "Name": "Schlaudie_Veterans_Pack",
+      "Description": "Schlaudie Veterans Pack Rebuild.  With a bit of help from Schlaudie I was able to get a better look on the main board and made the shirt a replica of the IRL Schlaudie Veterans shirt.  Boards replace Roger boards and shirt is the Schlaudie shirt.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/913290386758311996/Schlaudie_Veterans_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/913290360980144168/SMMPic.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-25T04:49:56.400000+00:00"
+    },
+    {
+      "ID": "diamond_hoodie.rar",
+      "Name": "diamond_hoodie",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/913553451701661766/diamond_hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/913553455220654140/Session_25.11.2021_23_04_55.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-11-25T22:15:17.348000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
@@ -5183,6 +5238,17 @@
       "UpdatedDate": "2021-10-10T18:29:39.407000+00:00"
     },
     {
+      "ID": "8kGripSet.zip",
+      "Name": "8kGripSet",
+      "Description": "Updated 8k to a full set.\n\nEach material has it's own textures that can be changed out to however you like.\nYou can customize the cutout/design by replacing the deck design texture listed below.\n\nDefault Grip Textures \n--8kGrip1\n--8kGrip_Normal_1",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1Rce5RosoIRrCdexgdXpchxTIrPPp_4hG",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/913366461647560714/DefaultGrip.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2021-11-25T09:52:14.720000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
@@ -6017,6 +6083,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/911679916347629618/SMMPic.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-11-20T18:10:41.704000+00:00"
+    },
+    {
+      "ID": "Test.rar",
+      "Name": "Test",
+      "Description": "Empty Gear Slots For The Male Character \n\nthis is only a test version of it to see if you guys like modding the gear this way so if you guys test it and like modding the gear this way let me know\n\nfor now it only adds twenty empty gear slots to each category Head , UpperBody , LowerBody and Feet for the male character \n\nto get the empty slots just go to experimental in the main menu and hit gimme all my stuff back then when you go to the apartment you'll see them \n\nalso if you find any problems with it let me know",
+      "Version": 1,
+      "Author": "Chuy#6528",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/913145370786279454/Test.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/913145370274570250/Screenshot_207.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-11-24T19:13:42.685000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Veterans_Pack.zip",
+      "Name": "Schlaudie_Veterans_Pack",
+      "Description": "Schlaudie Veterans Pack Rebuild.  With a bit of help from Schlaudie I was able to get a better look on the main board and made the shirt a replica of the IRL Schlaudie Veterans shirt.  Boards replace Roger boards and shirt is the Schlaudie shirt.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/913290539783290950/Schlaudie_Veterans_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/913290520099422218/SMMPic.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-11-25T04:50:32.828000+00:00"
+    },
+    {
+      "ID": "Wrists_and_Socks_Murica.zip",
+      "Name": "Wrists_and_Socks_Murica",
+      "Description": "Also slapped together a red, white and blue wrist band and sock body texture to go with the Schlaudie Veterans Pack.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/913459818918977566/Wrists_and_Socks_Murica.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/913459640296177704/Session_11_25_2021_10_56_21_AM.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-11-25T16:03:12.169000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
