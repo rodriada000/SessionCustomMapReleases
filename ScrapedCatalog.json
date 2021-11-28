@@ -442,6 +442,17 @@
       "UpdatedDate": "2021-11-23T21:04:21.903000+00:00"
     },
     {
+      "ID": "EasyDayHigh.zip",
+      "Name": "EasyDayHigh",
+      "Description": "Easy Day High ported from Skater XL: created by Easy Day Studio\n\nAutomatic light toggling at day/night.\nAll cones have physics.\nPress F to flip a coin for games of skate.\nPress S to toggle S.K.A.T.E. letters.\nPress R to reset all cones. \n\nENJOY!!!!!!!!!!!!\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1lKVEM4JxZI-HdaSHNns-_vEWIo3vjP3V",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/914474880915873813/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-11-28T11:16:41.691000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2409,6 +2420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/914287632278773781/squid_game_deck_2.png",
       "Category": "session-decks",
       "UpdatedDate": "2021-11-27T22:52:38.647000+00:00"
+    },
+    {
+      "ID": "squid_game_deck.rar",
+      "Name": "squid_game_deck",
+      "Description": "<@!498831459629531146>",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/914416169723760680/squid_game_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/914416174740156466/squid_game_deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-28T07:23:25.753000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
