@@ -2389,6 +2389,28 @@
       "UpdatedDate": "2021-11-25T14:53:28.945000+00:00"
     },
     {
+      "ID": "squid_game_deck.rar",
+      "Name": "squid_game_deck",
+      "Description": "<@!498831459629531146>",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/914287565954236456/squid_game_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/914287575584342017/squid_game_deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-27T22:52:25.123000+00:00"
+    },
+    {
+      "ID": "squid_game_deck_symbol.rar",
+      "Name": "squid_game_deck_symbol",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/914287618387226674/squid_game_deck_symbol.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/914287632278773781/squid_game_deck_2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-11-27T22:52:38.647000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
