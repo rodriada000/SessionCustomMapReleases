@@ -2433,6 +2433,17 @@
       "UpdatedDate": "2021-11-28T07:23:25.753000+00:00"
     },
     {
+      "ID": "city_stars_deck.rar",
+      "Name": "city_stars_deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/916075461237436426/city_stars_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/916075464672575628/Session_02.12.2021_22_14_42.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-02T21:16:51.124000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3663,6 +3674,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/915130570319728691/unknown.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-11-30T06:42:10.953000+00:00"
+    },
+    {
+      "ID": "iron_maiden_hoodie.rar",
+      "Name": "iron_maiden_hoodie",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/916017159317106698/iron_maiden_hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/916017160898351104/iron_maiden_hoodie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-12-02T17:25:10.631000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
