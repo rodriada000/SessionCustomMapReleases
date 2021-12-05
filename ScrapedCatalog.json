@@ -2466,6 +2466,17 @@
       "UpdatedDate": "2021-12-04T16:11:45.308000+00:00"
     },
     {
+      "ID": "PalaceDeck.zip",
+      "Name": "PalaceDeck",
+      "Description": "Replaces Zero American wasteland deck.",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/917010758041227294/PalaceDeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/917010758401921034/20211205120818_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-05T11:13:23.036000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
