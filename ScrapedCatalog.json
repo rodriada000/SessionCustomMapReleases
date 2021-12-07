@@ -2477,6 +2477,28 @@
       "UpdatedDate": "2021-12-05T11:13:23.036000+00:00"
     },
     {
+      "ID": "WalkwaySign.zip",
+      "Name": "WalkwaySign",
+      "Description": "replaces flatface deck nr.1.",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/917506923140616284/WalkwaySign.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/917506923333582889/20211206174217_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-06T20:04:57.559000+00:00"
+    },
+    {
+      "ID": "GirlDeckPurple.zip",
+      "Name": "GirlDeckPurple",
+      "Description": "",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/917507000345182218/GirlDeckPurple.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/917507000097714196/20211206173502_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-06T20:05:16.021000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -5819,6 +5841,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/911516476991737856/Session_20.11.2021_08_15_38.png",
       "Category": "session-hats",
       "UpdatedDate": "2021-11-20T07:21:03.928000+00:00"
+    },
+    {
+      "ID": "spitfire_hat.rar",
+      "Name": "spitfire_hat",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/917476699636129852/spitfire_hat.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/917476702970576986/Session_06.12.2021_19_01_00.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2021-12-06T18:04:53.060000+00:00"
     },
     {
       "ID": "Tabita.zip",
