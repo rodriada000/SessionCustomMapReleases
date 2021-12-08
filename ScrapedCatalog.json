@@ -2499,6 +2499,17 @@
       "UpdatedDate": "2021-12-06T20:05:16.021000+00:00"
     },
     {
+      "ID": "JLdeck.zip",
+      "Name": "JLdeck",
+      "Description": "replaces zero burman deck.",
+      "Version": 1,
+      "Author": "Integasse#3279",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/917865038222622770/JLdeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/917865037861888020/20211207204633_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-07T19:47:58.718000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
