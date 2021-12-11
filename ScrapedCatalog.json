@@ -2521,6 +2521,17 @@
       "UpdatedDate": "2021-12-10T01:08:12.682000+00:00"
     },
     {
+      "ID": "Board_SESSIONSXL_PRO.zip",
+      "Name": "Board_SESSIONSXL_PRO",
+      "Description": "Board PRO DECK : Session/Sxl Represent. replace 4 Roger Decks.",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/919150720891105280/Board_SESSIONSXL_PRO.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/919150684069310464/90573D4F-16C2-420F-A951-726E0BF0F134.jpeg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-11T08:56:48.934000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -6292,6 +6303,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/913459640296177704/Session_11_25_2021_10_56_21_AM.png",
       "Category": "session-characters",
       "UpdatedDate": "2021-11-25T16:03:12.169000+00:00"
+    },
+    {
+      "ID": "Fallen_Hope_-_Session_Drop_1.zip",
+      "Name": "Fallen_Hope_-_Session_Drop_1",
+      "Description": "Fallen Hope's First drop to Session includes a pack of hoodies that replace ESP and Limited run textures",
+      "Version": 1,
+      "Author": "ItsLewis93#4081",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/919220136056086568/Fallen_Hope_-_Session_Drop_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/919220076312416366/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-12-11T13:32:38.851000+00:00"
     },
     {
       "ID": "Thunder_Tyshaun.rar",
