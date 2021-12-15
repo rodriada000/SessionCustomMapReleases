@@ -2543,6 +2543,28 @@
       "UpdatedDate": "2021-12-12T23:32:40.146000+00:00"
     },
     {
+      "ID": "citystars_deck.rar",
+      "Name": "citystars_deck",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/920037727074922586/citystars_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/920037729692176384/Session_13.12.2021_20_39_52.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-13T19:41:28.472000+00:00"
+    },
+    {
+      "ID": "Real_Boards_3pk.rar",
+      "Name": "Real_Boards_3pk",
+      "Description": "",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/920184413499842590/Real_Boards_3pk.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/920184284705329162/Deckpreview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-14T05:24:20.389000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3806,6 +3828,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/919583539849216000/Session_12.12.2021_14_30_04.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-12-12T13:36:42.955000+00:00"
+    },
+    {
+      "ID": "citystars_hoodie.rar",
+      "Name": "citystars_hoodie",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/920037810092793866/citystars_hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/920037811107811398/Session_13.12.2021_20_39_28.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-12-13T19:41:47.838000+00:00"
+    },
+    {
+      "ID": "Primitive_Shirts-5pk.rar",
+      "Name": "Primitive_Shirts-5pk",
+      "Description": "",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/920410831269802064/Primitive_Shirts-5pk.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/920410875695874068/Primitiveshirtspreview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-12-14T20:24:13.550000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
