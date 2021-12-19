@@ -453,6 +453,17 @@
       "UpdatedDate": "2021-11-28T11:16:41.691000+00:00"
     },
     {
+      "ID": "SLSHangarByOtter.zip",
+      "Name": "SLSHangarByOtter",
+      "Description": "SLS Hangar By Otter \n\nOriginal mesh provided by <@!481251264240287764>, I did collision, audio, and blueprints.\nPreview image by <@!120717587968425986> \nLights toggle at day/night.\nAudio scales with game Sound slider.\n\nPress F to flip a coin for games of skate.\nPress S to toggle S.K.A.T.E. letters.\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/12Bcdu_LSTrfC5ITWevt9Iw8MtQuijNfY",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/921959690043269140/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-12-19T02:58:39.265000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2574,6 +2585,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/920627502018347028/unknown.png",
       "Category": "session-decks",
       "UpdatedDate": "2021-12-15T10:45:01.164000+00:00"
+    },
+    {
+      "ID": "new_stormshadow_zero.rar",
+      "Name": "new_stormshadow_zero",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/921596452881453096/new_stormshadow_zero.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/921596451769942016/Session_12_17_2021_9_36_34_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-18T02:55:17.238000+00:00"
+    },
+    {
+      "ID": "DGK_love_park_decks.rar",
+      "Name": "DGK_love_park_decks",
+      "Description": "",
+      "Version": 1,
+      "Author": "_puzzledpeach_#1640",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/922056817931071488/DGK_love_park_decks.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/922056814802112512/Session_19.12.2021_09_58_02.xcf-1.0_RGB_color_8-bit_gamma_integer_GIMP_built-in_sRGB_4_layers_553x696_GIMP_19.12.2021_10_23_06.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-19T09:24:36.457000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
