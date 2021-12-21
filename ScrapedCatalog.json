@@ -6437,6 +6437,17 @@
       "UpdatedDate": "2021-12-11T13:32:38.851000+00:00"
     },
     {
+      "ID": "Neon_Deck_Layers_Pack.zip",
+      "Name": "Neon_Deck_Layers_Pack",
+      "Description": "Neon deck layers pack. Thanks to Thatdamnvato and others for the tips on getting them to show in game. Extract which color you want and load with mod manager.",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/862201823694815282/922532701234421790/Neon_Deck_Layers_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/862201823694815282/922532700714332230/Neon_boards-min.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2021-12-20T16:55:36.142000+00:00"
+    },
+    {
       "ID": "Thunder_Tyshaun.rar",
       "Name": "Thunder_Tyshaun",
       "Description": "Thunder Trucks Tyshaun Replaces D1 Raw Mid 144",
