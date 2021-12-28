@@ -464,6 +464,17 @@
       "UpdatedDate": "2021-12-19T02:58:39.265000+00:00"
     },
     {
+      "ID": "Hudland.rar",
+      "Name": "Hudland",
+      "Description": "Hudland:\nSick flow, one of my favourite maps. Now in it's original style!\n",
+      "Version": 1,
+      "Author": "Kharon#8815",
+      "DownloadLink": "rsmm://GDrive/1fYqoKgyhg2qH3REx1yEW5_7J6fYfJnfm",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/925190731700764713/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-12-28T00:57:39.606000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2631,6 +2642,17 @@
       "UpdatedDate": "2021-12-27T04:55:54.689000+00:00"
     },
     {
+      "ID": "Board_New_Decks__Roger_.rar",
+      "Name": "Board_New_Decks__Roger_",
+      "Description": "",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/925115595417075722/Board_New_Decks__Roger_.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/925115595102515270/44313CEC-A5A9-4B27-B577-5EEA850D651A.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-27T19:59:06.099000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -3927,6 +3949,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/922741931312824400/LongHoodieShirtsPack.png",
       "Category": "session-shirts",
       "UpdatedDate": "2021-12-21T06:47:00.250000+00:00"
+    },
+    {
+      "ID": "AliensShirt.rar",
+      "Name": "AliensShirt",
+      "Description": "I made my Aliens shirt in the game cuz its sick...\n\"In space no one can hear you scream!\"\nreplaces Zero shirt",
+      "Version": 1,
+      "Author": "swimcarrey#8417",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/925157503900221460/AliensShirt.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/925157503644348496/alienshirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2021-12-27T22:45:37.748000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
