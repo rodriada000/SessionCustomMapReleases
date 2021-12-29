@@ -2675,6 +2675,17 @@
       "UpdatedDate": "2021-12-28T22:32:48.996000+00:00"
     },
     {
+      "ID": "27BOARDreplaceALLrogers.zip",
+      "Name": "27BOARDreplaceALLrogers",
+      "Description": "Replace all 27 Roger Decks",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/925718584334880868/27BOARDreplaceALLrogers.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/925718533718028338/D64E873B-B988-4105-8180-ED725CCE1E74.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2021-12-29T11:55:09.737000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -5161,6 +5172,17 @@
       "UpdatedDate": "2021-11-30T19:52:39.298000+00:00"
     },
     {
+      "ID": "downACCEL.zip",
+      "Name": "downACCEL",
+      "Description": "replace black accels",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/925778753303506944/downACCEL.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/925778752556892270/Session_29.12.2021_16_50_43.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2021-12-29T15:54:15.303000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -6798,6 +6820,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/891351389161263144/Session_25.09.2021_17_50_45.png",
       "Category": "session-trucks",
       "UpdatedDate": "2021-09-25T15:52:12.760000+00:00"
+    },
+    {
+      "ID": "AUTHORITY_GK6.zip",
+      "Name": "AUTHORITY_GK6",
+      "Description": "replace GrindKing GK6",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943631026978827/925634600204656650/AUTHORITY_GK6.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/925634600770895932/Session_29.12.2021_07_19_30.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2021-12-29T06:21:26.731000+00:00"
     },
     {
       "ID": "Spitfire_FF_Tablets_Blue.zip",
