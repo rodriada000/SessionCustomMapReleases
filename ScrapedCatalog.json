@@ -2708,6 +2708,17 @@
       "UpdatedDate": "2021-12-31T16:27:32.378000+00:00"
     },
     {
+      "ID": "Betty_White_Board.zip",
+      "Name": "Betty_White_Board",
+      "Description": "Replaces first Roger deck.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/926663885073838180/Betty_White_Board.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/926663859807338506/SMMPNG.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-01-01T02:31:26.834000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -4367,6 +4378,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/910656771679465512/Session_8_20_2021_10_09_07_PM.png",
       "Category": "session-pants",
       "UpdatedDate": "2021-11-17T22:24:54.485000+00:00"
+    },
+    {
+      "ID": "bigMlogoPants.zip",
+      "Name": "bigMlogoPants",
+      "Description": "replace all straightcut",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/926584769645514782/bigMlogoPants.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/926584770031419452/Session_31.12.2021_22_14_37.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2021-12-31T21:17:04.687000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
