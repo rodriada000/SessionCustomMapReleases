@@ -5326,6 +5326,17 @@
       "UpdatedDate": "2022-01-01T18:18:59.047000+00:00"
     },
     {
+      "ID": "esSALreplace.zip",
+      "Name": "esSALreplace",
+      "Description": "replace grey es sal",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/927181272667795546/esSALreplace.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/927181271963140116/Session_02.01.2022_13_45_40.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-01-02T12:47:21.914000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
@@ -5874,6 +5885,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/926465773042565211/Session_31.12.2021_14_22_28.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2021-12-31T13:24:13.691000+00:00"
+    },
+    {
+      "ID": "TrianglesCutout.zip",
+      "Name": "TrianglesCutout",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/927098884222775336/TrianglesCutout.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/927098883476176896/Session_02.01.2022_08_17_51.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-01-02T07:19:59.065000+00:00"
     },
     {
       "ID": "BostonRedSoxHat.zip",
@@ -7062,6 +7084,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/926747624281894942/Session_01.01.2022_09_01_48.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-01-01T08:04:12.221000+00:00"
+    },
+    {
+      "ID": "AuthorityPinkOrange.zip",
+      "Name": "AuthorityPinkOrange",
+      "Description": "replace Grindking GK6",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943631026978827/927147277770965002/AuthorityPinkOrange.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943631026978827/927147277053747200/Session_02.01.2022_11_29_32.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-01-02T10:32:16.981000+00:00"
     },
     {
       "ID": "Spitfire_FF_Tablets_Blue.zip",
