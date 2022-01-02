@@ -475,6 +475,28 @@
       "UpdatedDate": "2021-12-28T00:57:39.606000+00:00"
     },
     {
+      "ID": "The 808 Dojo.zip",
+      "Name": "The 808 Dojo",
+      "Description": "The 808 Dojo has returned.  With an environment around for atmosphere and a little bit or rearranging, we can once again train where the ancient masters did.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1y6Vv0vJ3OP9SvMzJNFnAOWmtajkZO4Qj",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/926884050814242816/SMM_Dojo.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-01-01T17:06:51.499000+00:00"
+    },
+    {
+      "ID": "Regs.zip",
+      "Name": "Regs",
+      "Description": "I finally finished Regs.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1O6dyKJibVV8tQKH8Hrg6yBuPX-rtI4IP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/926898672703250432/SMMPNG.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-01-01T18:04:47.443000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2717,6 +2739,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/926663859807338506/SMMPNG.png",
       "Category": "session-decks",
       "UpdatedDate": "2022-01-01T02:31:26.834000+00:00"
+    },
+    {
+      "ID": "ProCYBERreplace4Zero.zip",
+      "Name": "ProCYBERreplace4Zero",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/926950167817633852/ProCYBERreplace4Zero.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/926950127657164900/D338FF49-1131-40CC-A16E-95805AC47A92.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-01-01T21:29:01.974000+00:00"
     },
     {
       "ID": "Stripped_Tee.rar",
@@ -5269,6 +5302,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/926434529667874836/Session_31.12.2021_12_16_36.png",
       "Category": "session-shoes",
       "UpdatedDate": "2021-12-31T11:20:04.583000+00:00"
+    },
+    {
+      "ID": "Vul_1.Black_DOWN.zip",
+      "Name": "Vul_1.Black_DOWN",
+      "Description": "replace 1 VUL sHOES",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/926885274095599646/Vul_1.Black_DOWN.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/926885273634238514/Session_01.01.2022_18_08_17.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-01-01T17:11:10.415000+00:00"
+    },
+    {
+      "ID": "Coach_Frank_Shoes.zip",
+      "Name": "Coach_Frank_Shoes",
+      "Description": "",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/926902340089442384/Coach_Frank_Shoes.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/926902295940194354/SMMPNG.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-01-01T18:18:59.047000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
