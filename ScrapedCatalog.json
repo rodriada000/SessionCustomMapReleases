@@ -497,6 +497,17 @@
       "UpdatedDate": "2022-01-01T18:04:47.443000+00:00"
     },
     {
+      "ID": "Legacy DC Park.rar",
+      "Name": "Legacy DC Park",
+      "Description": "Legacy Skateparks brings you DC/Monster Park, a fun yet simple indoor park.  Special thanks to Sozzled Zebra for helping with substance stuff and Blitzkow for Bernie",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://GDrive/1nyNi1vO6VsRpke51DUhxQlXB1zEy2O7o",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943013919686666/928143225603108895/Legacy_DC_Park.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-01-05T04:29:52.988000+00:00"
+    },
+    {
       "ID": "dirge_23pack_decks.zip",
       "Name": "dirge_23pack_decks",
       "Description": "Dirge Skateboards 23 Pack, Compatible with the new v0.0.0.27 update! (replaces most Rogers skateboards)\nRe-patch your Session game and use SMM to install.",
@@ -2752,6 +2763,28 @@
       "UpdatedDate": "2022-01-01T21:29:01.974000+00:00"
     },
     {
+      "ID": "NatasKapasDeck.rar",
+      "Name": "NatasKapasDeck",
+      "Description": "Vintage Natas Kapas graphic. Replaces Curbcrusher",
+      "Version": 1,
+      "Author": "swimcarrey#8417",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/927513628284944404/NatasKapasDeck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/927513628737941505/20220103024030_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-01-03T10:48:01.665000+00:00"
+    },
+    {
+      "ID": "Board3DecksreplaceFlatface.zip",
+      "Name": "Board3DecksreplaceFlatface",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943474743672842/927876128926998548/Board3DecksreplaceFlatface.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943474743672842/927876128054575134/r.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-01-04T10:48:28.495000+00:00"
+    },
+    {
       "ID": "Stripped_Tee.rar",
       "Name": "Stripped_Tee",
       "Description": "Re-cooked",
@@ -4081,6 +4114,50 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/926796469258846218/l.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-01-01T11:18:17.877000+00:00"
+    },
+    {
+      "ID": "8soulz_TShirt.zip",
+      "Name": "8soulz_TShirt",
+      "Description": "My first mod! New fake brand 8soulz. Replaces ZERO t-shirt.",
+      "Version": 1,
+      "Author": "SirEiku#6292",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/928016627767853196/8soulz_TShirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/928016627302293595/ModImage.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-01-04T20:06:45.975000+00:00"
+    },
+    {
+      "ID": "Gorillaz-Hoodie.zip",
+      "Name": "Gorillaz-Hoodie",
+      "Description": "Gorillaz hoodie! Replaces ESP BlackHoodie.",
+      "Version": 1,
+      "Author": "SirEiku#6292",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/928029461738303538/Gorillaz-Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/928029461465661480/Gorillaz.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-01-04T20:57:45.791000+00:00"
+    },
+    {
+      "ID": "dying_to_laugh_zero_cd_spitfire.rar",
+      "Name": "dying_to_laugh_zero_cd_spitfire",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/928050270997471352/dying_to_laugh_zero_cd_spitfire.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/928050270158590058/Session_12_4_2021_12_38_54_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-01-04T22:20:27.402000+00:00"
+    },
+    {
+      "ID": "Devito-Hoodie.zip",
+      "Name": "Devito-Hoodie",
+      "Description": "The Devito hoodie! Only for chads.",
+      "Version": 1,
+      "Author": "SirEiku#6292",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/928064336545583104/Devito-Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/928064336008732702/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-01-04T23:16:20.657000+00:00"
     },
     {
       "ID": "dotOrgRawDenim.zip",
@@ -5898,6 +5975,39 @@
       "UpdatedDate": "2022-01-02T07:19:59.065000+00:00"
     },
     {
+      "ID": "stickygripSpitfireCUTOUT.zip",
+      "Name": "stickygripSpitfireCUTOUT",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/927489389838364682/stickygripSpitfireCUTOUT.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/927489389347602472/Session_03.01.2022_10_09_57.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-01-03T09:11:42.732000+00:00"
+    },
+    {
+      "ID": "hexagonCUTOUT.zip",
+      "Name": "hexagonCUTOUT",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/927507136253136916/hexagonCUTOUT.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/927507135766593586/Session_03.01.2022_11_16_38.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-01-03T10:22:13.822000+00:00"
+    },
+    {
+      "ID": "leopardCUTOUT.zip",
+      "Name": "leopardCUTOUT",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943585531232277/927507218146942986/leopardCUTOUT.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943585531232277/927507217412931634/Session_03.01.2022_11_21_13.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-01-03T10:22:33.971000+00:00"
+    },
+    {
       "ID": "BostonRedSoxHat.zip",
       "Name": "BostonRedSoxHat",
       "Description": "Boston Red Sox Hat",
@@ -6380,6 +6490,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/926724527143149598/Session_1_1_2022_2_30_59_PM.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-01-01T06:32:25.288000+00:00"
+    },
+    {
+      "ID": "MahagoniGREENreplaceLimited.zip",
+      "Name": "MahagoniGREENreplaceLimited",
+      "Description": "replaace limited run hat",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943137412710431/927443906847707146/MahagoniGREENreplaceLimited.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/927443906159861770/Session_03.01.2022_07_09_28.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-01-03T06:10:58.883000+00:00"
+    },
+    {
+      "ID": "Legacy Slouche.zip",
+      "Name": "Legacy Slouche",
+      "Description": "Rep some Legacy slouche",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://GDrive/1DbVIaNJ7j0r-Fto5ZnbaKrezbzRQ_LBh",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943137412710431/928146859392921620/BeanieWhair.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-01-05T04:44:18.078000+00:00"
     },
     {
       "ID": "Tabita.zip",
@@ -7568,6 +7700,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/926404623365984276/Online_Collage_Maker___photo-collage.net_und_1_weitere_Seite_-_Personlich_Microsoft_Edge_31.12.2021_10_19_41_2.png",
       "Category": "session-wheels",
       "UpdatedDate": "2021-12-31T09:21:14.252000+00:00"
+    },
+    {
+      "ID": "wu_wheels.rar",
+      "Name": "wu_wheels",
+      "Description": "using both aswell as changing wheel style IN game will give you the yellow base",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/927745009787240459/wu_wheels.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/927745008608632863/Session_1_3_2022_9_00_33_PM.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-01-04T02:07:27.383000+00:00"
+    },
+    {
+      "ID": "etaksPROreplaceSML12-15.zip",
+      "Name": "etaksPROreplaceSML12-15",
+      "Description": "replace SML 12-15",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/927926946321539072/etaksPROreplaceSML12-15.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/927926945990213643/w.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-01-04T14:10:24.273000+00:00"
     }
   ]
 }
