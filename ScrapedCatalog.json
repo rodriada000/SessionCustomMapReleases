@@ -4512,6 +4512,28 @@
       "UpdatedDate": "2021-12-31T21:17:04.687000+00:00"
     },
     {
+      "ID": "straightcutALLmahagoni.zip",
+      "Name": "straightcutALLmahagoni",
+      "Description": "replace straightcut pants",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/928203430781136926/straightcutALLmahagoni.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/928203430009393182/Session_05.01.2022_09_26_02.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-01-05T08:29:03.546000+00:00"
+    },
+    {
+      "ID": "betterqualiMAHAGONIstraight.zip",
+      "Name": "betterqualiMAHAGONIstraight",
+      "Description": "all straightcuts",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/928257368574263337/betterqualiMAHAGONIstraight.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/928257367919956048/Session_05.01.2022_13_00_39.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-01-05T12:03:23.279000+00:00"
+    },
+    {
       "ID": "AccelOGSimonsmix.zip",
       "Name": "AccelOGSimonsmix",
       "Description": "",
@@ -7722,6 +7744,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/927926945990213643/w.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-01-04T14:10:24.273000+00:00"
+    },
+    {
+      "ID": "ETAKSreplaceSatori54mm.zip",
+      "Name": "ETAKSreplaceSatori54mm",
+      "Description": "replace Satori RedEyes",
+      "Version": 1,
+      "Author": "zim_xl#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943675232059394/928295254992486450/ETAKSreplaceSatori54mm.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943675232059394/928295254371754014/Session_05.01.2022_15_32_11.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-01-05T14:33:55.939000+00:00"
     }
   ]
 }
