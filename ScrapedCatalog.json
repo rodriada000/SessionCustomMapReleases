@@ -4314,6 +4314,17 @@
       "UpdatedDate": "2022-01-20T17:20:35.465000+00:00"
     },
     {
+      "ID": "RUM_COM_Hoodie.rar",
+      "Name": "RUM_COM_Hoodie",
+      "Description": "(Replaces Limited Run Green Hoodie) Noticed this while digging around the in game files, thought it was pretty cool.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943222645686302/937922327679729684/RUM_COM_Hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943222645686302/937922326815711263/preview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-02-01T04:08:29.049000+00:00"
+    },
+    {
       "ID": "dotOrgRawDenim.zip",
       "Name": "dotOrgRawDenim",
       "Description": "",
@@ -4697,6 +4708,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/937039711229313084/Black_Crop_Pant_1.png",
       "Category": "session-pants",
       "UpdatedDate": "2022-01-29T17:41:16.485000+00:00"
+    },
+    {
+      "ID": "Slim_Pants.rar",
+      "Name": "Slim_Pants",
+      "Description": "(This mod automatically installs Chuy's gear mod, so you'll have to use the experimental setting to get your gear back to use them)\nRecook of Redgouf's Slim pants mesh, textures were done by Dirty WRX Guy.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943320401543188/937840359579471902/Slim_Pants.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943320401543188/937840359130665000/Untitled.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-01-31T22:42:46.653000+00:00"
     },
     {
       "ID": "AccelOGSimonsmix.zip",
@@ -5599,6 +5621,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/927181271963140116/Session_02.01.2022_13_45_40.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-01-02T12:47:21.914000+00:00"
+    },
+    {
+      "ID": "Sk8-Hi.rar",
+      "Name": "Sk8-Hi",
+      "Description": "(This mod automatically installs Chuy's gear mod, so you'll have to use the experimental setting to get your gear back to use them)\nBig thanks to <@!260573081884426240> for the custom files to make this not 2gb.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/937828719714791434/Sk8-Hi.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/937828719203057694/preview.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-01-31T21:56:32.042000+00:00"
     },
     {
       "ID": "dirge_oldgrip.zip",
