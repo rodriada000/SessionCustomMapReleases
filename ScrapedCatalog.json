@@ -5689,6 +5689,17 @@
       "UpdatedDate": "2022-02-01T22:28:22.248000+00:00"
     },
     {
+      "ID": "shoes-nikesb-low-panda.rar",
+      "Name": "shoes-nikesb-low-panda",
+      "Description": "Credit to Abaddon for the mesh.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/861943418662027264/939988743773896734/shoes-nikesb-low-panda.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/861943418662027264/939988743518052402/preview.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-02-06T20:59:41.436000+00:00"
+    },
+    {
       "ID": "dirge_oldgrip.zip",
       "Name": "dirge_oldgrip",
       "Description": "Old Grip (replaces default) works with v0.0.0.27 update!\nRe-patch your Session game and use SMM.",
