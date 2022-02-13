@@ -335,7 +335,8 @@ CHANNELS = {
     "861943137412710431" : "session-hats",
     "862201823694815282" : "session-characters",
     "861943631026978827" : "session-trucks",
-    "861943675232059394" : "session-wheels"
+    "861943675232059394" : "session-wheels",
+    "898369170679427103" : "session-meshes"
 }
 
 if __name__ == '__main__':
