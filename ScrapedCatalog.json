@@ -24,6 +24,17 @@
       "UpdatedDate": "2022-02-17T20:06:15.974000+00:00"
     },
     {
+      "ID": "PushMongoDecks_Deckheads.zip",
+      "Name": "PushMongoDecks_Deckheads",
+      "Description": "**Push Mongo** \"Deckheads\"\n```Replaces Anti Decks```",
+      "Version": 1,
+      "Author": "Suco#5538",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/943998466948997210/PushMongoDecks_Deckheads.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/943998466470862898/DeckHeadsDecks.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-02-17T22:32:53.480000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -55,6 +66,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/943956684882186280/unknown.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-02-17T19:46:52.040000+00:00"
+    },
+    {
+      "ID": "BeanieWithHairBackwardsHatWithHair.zip",
+      "Name": "BeanieWithHairBackwardsHatWithHair",
+      "Description": "Beanie with Hair and Backwards Hat with Hair (replaces all Caps and Beanies)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/943977067190562876/BeanieWithHairBackwardsHatWithHair.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/943973565521346701/Screenshot_2022-02-17_154830.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-17T21:07:51.142000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
