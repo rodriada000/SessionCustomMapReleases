@@ -2,6 +2,39 @@
   "Name": "Scraped Discord Catalog",
   "Assets": [
     {
+      "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
+      "Name": "hookup_assassiant_akiko_-_replaces_esp",
+      "Description": "Replaces ESP RockmanTile 8.25",
+      "Version": 1,
+      "Author": "KibaTV#0841",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/943905676260958279/hookup_assassiant_akiko_-_replaces_esp.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/943905675728265256/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-02-17T16:24:10.398000+00:00"
+    },
+    {
+      "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
+      "Name": "MahagoniSTUFFreplaceALLsamurai",
+      "Description": "replace all SAMURAI",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/943907466847072328/MahagoniSTUFFreplaceALLsamurai.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/943907465601376367/eeeee.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-02-17T16:31:17.441000+00:00"
+    },
+    {
+      "ID": "MAHAGONIreplacejenkem3.zip",
+      "Name": "MAHAGONIreplacejenkem3",
+      "Description": "replace JENKEM",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/943909299900530698/MAHAGONIreplacejenkem3.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/943909299409784836/ccccccccccccccc.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-02-17T16:38:34.438000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
@@ -33,6 +66,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/943892237903855626/ttttttttttt.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-02-17T15:30:46.608000+00:00"
+    },
+    {
+      "ID": "etaksPROreplaceSsml12-15.zip",
+      "Name": "etaksPROreplaceSsml12-15",
+      "Description": "replace12-15SML",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/943909773873664021/etaksPROreplaceSsml12-15.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/943909774171443210/wheeeeeeeels.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-02-17T16:40:27.618000+00:00"
     }
   ]
 }
