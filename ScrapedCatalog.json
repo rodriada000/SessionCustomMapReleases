@@ -2,48 +2,37 @@
   "Name": "Scraped Discord Catalog",
   "Assets": [
     {
-      "ID": "BlueBarrier.zip",
-      "Name": "BlueBarrier",
-      "Description": "Phillies Blue Barrier\nReplaces the circular bench",
+      "ID": "authorityUSEDreplaceSPARK.zip",
+      "Name": "authorityUSEDreplaceSPARK",
+      "Description": "replace GrindKing Spark",
       "Version": 1,
-      "Author": "Travis Bragg#5150",
-      "DownloadLink": "rsmm://GDrive/1yrpeFvpcedO0pvaRMsaKe4GIDztEooUI",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/898369170679427103/898372795573076038/unknown.png",
-      "Category": "session-meshes",
-      "UpdatedDate": "2021-10-15T00:53:31.493000+00:00"
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/943882803706228746/authorityUSEDreplaceSPARK.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/943882804368900216/usedBLACK.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-02-17T14:53:17.473000+00:00"
     },
     {
-      "ID": "PoppedTile.zip",
-      "Name": "PoppedTile",
-      "Description": "Popped Tile and a Heinous Napper (forget whats replaced)Should work in SMM, if not,  Unzip Drop Art Folder into Content inside Session game, manual install do to Custom Materials",
+      "ID": "gk6tAUTHORITYglossyteal.zip",
+      "Name": "gk6tAUTHORITYglossyteal",
+      "Description": "replace Grindking GK6",
       "Version": 1,
-      "Author": "Tipahdis#1039",
-      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/898369170679427103/899107710488961034/PoppedTile.zip",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/898369170679427103/899107354518372382/Session_9_25_2021_11_22_43_PM.png",
-      "Category": "session-meshes",
-      "UpdatedDate": "2021-10-17T01:33:03.303000+00:00"
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/943882912611328070/gk6tAUTHORITYglossyteal.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/943882913542471700/teal.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-02-17T14:53:43.533000+00:00"
     },
     {
-      "ID": "ExplodingElectricalBox.zip",
-      "Name": "ExplodingElectricalBox",
-      "Description": "Exploding Electrical Box (replaces diy rail)\nhttps://streamable.com/hxzy0cPlywood upgrade\nComes complete with a small piece of sheet metal, audio included.\nAudio scales with game's Sound slider in volume settings.\nReplaces the plywood object.\nPreview image by <@!740323199916572703> \n\nhttps://drive.google.com/file/d/1Xv3wJTijCH0MnogOW9ay0qaKI0gwA9x1/view?usp=sharing",
+      "ID": "etaksPROreplaceSML17-20.zip",
+      "Name": "etaksPROreplaceSML17-20",
+      "Description": "replace 17-20SML",
       "Version": 1,
-      "Author": "Travis Bragg#5150",
-      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/898369170679427103/904355179619557426/ExplodingElectricalBox.zip",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/898369170679427103/919415503200600064/PlywoodScreeny.png",
-      "Category": "session-meshes",
-      "UpdatedDate": "2021-12-12T02:28:57.821000+00:00"
-    },
-    {
-      "ID": "ConstructionGenerator.zip",
-      "Name": "ConstructionGenerator",
-      "Description": "Construction Generator with lights\nWalk up and interact with E.\nCan change light distance, intensity, inner and outer cone angles, color, and generator volume.\nPreview image by <@!740323199916572703> \n",
-      "Version": 1,
-      "Author": "Travis Bragg#5150",
-      "DownloadLink": "rsmm://GDrive/1MCNZY6n2KbAKo2JhSiBHbOQl2s9gOyuv",
-      "PreviewImage": "https://cdn.discordapp.com/attachments/898369170679427103/925145975343947826/preview.png",
-      "Category": "session-meshes",
-      "UpdatedDate": "2021-12-27T21:59:48.885000+00:00"
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/943892238201683978/etaksPROreplaceSML17-20.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/943892237903855626/ttttttttttt.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-02-17T15:30:46.608000+00:00"
     }
   ]
 }
