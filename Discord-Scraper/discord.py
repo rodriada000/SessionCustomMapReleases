@@ -203,40 +203,40 @@ class Discord:
         return folder
 
 
-    def grab_channel_data(self, server, channel, cutoff=None, isdm=False):
+    def grab_channel_data(self, server, channel, start_date=None, isdm=False):
         """Returns dict of all messages pulled from server/channel up to a given day.
         pulls for the past day if no cutoff date given 
 
         :param server: The server name.
         :param channel: The channel name.
-        :param cutoff: the cutoff date to pull up to.
+        :param start_date: the date to start pulling
         :param isdm: A flag to check whether we're in a DM or not.
         """
 
-        date = datetime.today().date()
+        today = datetime.today().date()
 
-        if cutoff is None:
-            cutoff = (date + timedelta(days=-1))
+        if start_date is None:
+            start_date = (today + timedelta(days=-1))
 
         results = []
 
-        while date >= cutoff.date(): 
+        while start_date.date() <= today: 
             request = SimpleRequest(self.headers).request
-            today = self.get_day(date.day, date.month, date.year)
+            loop_date = self.get_day(start_date.day, start_date.month, start_date.year)
 
-            print('   pull for {}'.format(date.isoformat()))
+            print('   pull for {}'.format(start_date.isoformat()))
 
             if not isdm:
                 request.set_header('referer', 'https://discordapp.com/channels/%s/%s' % (server, channel))
                 content = request.grab_page(
                     'https://discordapp.com/api/%s/guilds/%s/messages/search?channel_id=%s&min_id=%s&max_id=%s&%s' %
-                    (self.api, server, channel, today['00:00'], today['23:59'], self.query)
+                    (self.api, server, channel, loop_date['00:00'], loop_date['23:59'], self.query)
                 )
             else:
                 request.set_header('referer', 'https://discordapp.com/channels/@me/%s' % channel)
                 content = request.grab_page(
                     'https://discordapp.com/api/%s/channels/%s/messages/search?min_id=%s&max_id=%s&%s' %
-                    (self.api, channel, today['00:00'], today['23:59'], self.query)
+                    (self.api, channel, loop_date['00:00'], loop_date['23:59'], self.query)
                 )
 
             try:
@@ -255,8 +255,8 @@ class Discord:
             except TypeError:
                 continue
             
-            date += timedelta(days=-1)
-            sleep(randint(2,4))
+            start_date += timedelta(days=1)
+            sleep(randint(5,10))
         
         return results
 
@@ -326,17 +326,17 @@ class Discord:
 #
 
 CHANNELS = {
-    "861943013919686666" : "session-maps",
-    "861943474743672842" : "session-decks",
-    "861943222645686302" : "session-shirts",
-    "861943320401543188" : "session-pants",
-    "861943418662027264" : "session-shoes",
-    "861943585531232277" : "session-griptapes",
-    "861943137412710431" : "session-hats",
-    "862201823694815282" : "session-characters",
-    "861943631026978827" : "session-trucks",
-    "861943675232059394" : "session-wheels",
-    "898369170679427103" : "session-meshes"
+    "943801307280584724" : "session-maps",
+    "943801688513454080" : "session-decks",
+    "943801383491092481" : "session-shirts",
+    "943801432174370886" : "session-pants",
+    "943801467133919262" : "session-shoes",
+    "943801712551014400" : "session-griptapes",
+    "943801342474981396" : "session-hats",
+    "943801531998818334" : "session-characters",
+    "943801765390864384" : "session-trucks",
+    "943801783317299253" : "session-wheels",
+    "943801917908348928" : "session-meshes"
 }
 
 if __name__ == '__main__':
