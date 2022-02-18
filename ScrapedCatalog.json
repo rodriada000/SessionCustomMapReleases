@@ -35,6 +35,28 @@
       "UpdatedDate": "2022-02-18T03:33:57.544000+00:00"
     },
     {
+      "ID": "EasyDayHigh.zip",
+      "Name": "EasyDayHigh",
+      "Description": "",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1lKVEM4JxZI-HdaSHNns-_vEWIo3vjP3V",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/944112739494821928/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-02-18T06:06:57.827000+00:00"
+    },
+    {
+      "ID": "SLSHangarByOtter.zip",
+      "Name": "SLSHangarByOtter",
+      "Description": "",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/12Bcdu_LSTrfC5ITWevt9Iw8MtQuijNfY",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/944186672369774592/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-02-18T11:00:44.800000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -66,6 +88,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/943998466470862898/DeckHeadsDecks.jpg",
       "Category": "session-decks",
       "UpdatedDate": "2022-02-17T22:32:53.480000+00:00"
+    },
+    {
+      "ID": "DUCKOboardreplaceESP.zip",
+      "Name": "DUCKOboardreplaceESP",
+      "Description": "replace all 3 ESP",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/944100097803821086/DUCKOboardreplaceESP.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/944100098210672650/rrr.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-02-18T05:16:44.288000+00:00"
+    },
+    {
+      "ID": "boardTMNTreplace3FLATFACE.zip",
+      "Name": "boardTMNTreplace3FLATFACE",
+      "Description": "replace all 3 flatface",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/944198170328580106/boardTMNTreplace3FLATFACE.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/944198170009821234/tmnt.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-02-18T11:46:26.378000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
@@ -209,6 +253,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944071171459133510/Cut_Hair_Hat_Tilt.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-02-18T03:21:47.234000+00:00"
+    },
+    {
+      "ID": "Slouch_Beanie.rar",
+      "Name": "Slouch_Beanie",
+      "Description": "Slouch Beanie is back. Works with every beanie color, going to try and figure out how to get logos on them still. thanks to Dirty WRX Guy for supplying me with the mesh.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/944129569252851742/Slouch_Beanie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944129568497868840/Session_2_18_2022_1_07_54_AM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-18T07:13:50.847000+00:00"
+    },
+    {
+      "ID": "MAHAGONIreplace3JENKEM.zip",
+      "Name": "MAHAGONIreplace3JENKEM",
+      "Description": "replace all 3 Jenkem",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/944137196640829450/MAHAGONIreplace3JENKEM.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944137196359786506/FotoJet.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-18T07:44:09.146000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
