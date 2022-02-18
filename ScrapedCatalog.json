@@ -2,6 +2,28 @@
   "Name": "Scraped Discord Catalog",
   "Assets": [
     {
+      "ID": "The 808 Dojo.zip",
+      "Name": "The 808 Dojo",
+      "Description": "",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1O4a4elqw1-IqCmE0vBUu93deDMJcM0Nc",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/944017137004073011/SMM_Dojo.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-02-17T23:47:08.533000+00:00"
+    },
+    {
+      "ID": "Mt_Olympus.zip",
+      "Name": "Mt_Olympus",
+      "Description": "Updated with new background and distance field shadows\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1WMiM3aqgK28Xc8wxMfI2JQSMniiRraxt",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/944045107362009118/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-02-18T01:38:13.040000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -55,6 +77,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/943909299409784836/ccccccccccccccc.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-02-17T16:38:34.438000+00:00"
+    },
+    {
+      "ID": "PM_SE01_UPPER_Pack01.zip",
+      "Name": "PM_SE01_UPPER_Pack01",
+      "Description": "*New Shirt*WhoDis?\n```replaces roger```",
+      "Version": 1,
+      "Author": "Suco#5538",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/944025977728684043/PM_SE01_UPPER_Pack01.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/944025977409900584/PMGupper.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-02-18T00:22:12.511000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -121,6 +154,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/943909774171443210/wheeeeeeeels.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-02-17T16:40:27.618000+00:00"
+    },
+    {
+      "ID": "Bearings_Pack_1.zip",
+      "Name": "Bearings_Pack_1",
+      "Description": "**Bearing Pack #1 (12-PACK)**\nThe ZIP file below **MUST BE EXTRACTED BEFORE UPLOADING** to SMM. After extracting simply choose the ZIP of the bearings you want and install in SMM.\n\n**IMPORTANT:** These bearings only works for thumbnails that display orange bearings in the thumbnail.  The bearing show on other wheels but they are grey.",
+      "Version": 1,
+      "Author": "SoapySensei#6399",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/944051069531586580/Bearings_Pack_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/944050992830349332/Bearings_Pack_Thumbnail.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-02-18T02:01:54.845000+00:00"
     }
   ]
 }
