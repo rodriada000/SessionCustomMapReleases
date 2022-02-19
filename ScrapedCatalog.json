@@ -233,6 +233,28 @@
       "UpdatedDate": "2022-02-19T00:41:47.851000+00:00"
     },
     {
+      "ID": "Red_Nike_New_Years.rar",
+      "Name": "Red_Nike_New_Years",
+      "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/944476811608330291/Red_Nike_New_Years.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/944476812971487282/Screenshot_188.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-02-19T06:13:40.240000+00:00"
+    },
+    {
+      "ID": "Fallen_Shoe_Pack.rar",
+      "Name": "Fallen_Shoe_Pack",
+      "Description": "Now that we have atlas maps for certain shoes, might as well group them together. Here is a Fallen pack with Cole EVH, Rising Sun and Marks Card Suit shoes.",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/944478498909741136/Fallen_Shoe_Pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/944478498624524348/shoes.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-02-19T06:20:21.970000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -297,6 +319,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944137196359786506/FotoJet.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2022-02-18T07:44:09.146000+00:00"
+    },
+    {
+      "ID": "Slouch_No_Beard.rar",
+      "Name": "Slouch_No_Beard",
+      "Description": "Slouch Beanie No Beard",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/944457876800421948/Slouch_No_Beard.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944457876318089298/Session_2_18_2022_10_56_58_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-19T04:58:25.379000+00:00"
+    },
+    {
+      "ID": "Slouch_Bald.rar",
+      "Name": "Slouch_Bald",
+      "Description": "Slouch Beanie for the bald folks.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/944460795272642570/Slouch_Bald.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944460794551234613/Session_2_18_2022_11_08_28_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-19T05:10:01.196000+00:00"
+    },
+    {
+      "ID": "Hats_With_Hair.rar",
+      "Name": "Hats_With_Hair",
+      "Description": "Adds hair to all default hats.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/944478236082077706/Hats_With_Hair.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/944478235440345138/Session_2_19_2022_12_16_51_AM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-02-19T06:19:19.453000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
@@ -385,6 +440,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/944050992830349332/Bearings_Pack_Thumbnail.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-02-18T02:01:54.845000+00:00"
+    },
+    {
+      "ID": "ETAKSsatorilast5.zip",
+      "Name": "ETAKSsatorilast5",
+      "Description": "replace last 5 Satori Wheels",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/944531096064913439/ETAKSsatorilast5.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/944531096308166656/etakssss.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-02-19T09:49:22.232000+00:00"
     }
   ]
 }
