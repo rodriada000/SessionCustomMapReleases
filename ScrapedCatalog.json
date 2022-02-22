@@ -299,6 +299,17 @@
       "UpdatedDate": "2022-02-21T20:58:44.962000+00:00"
     },
     {
+      "ID": "CD_Holo_3.zip",
+      "Name": "CD_Holo_3",
+      "Description": "Concrete Dishonour Holographic Deck (replaces Schlaudie Green Tentacle shaped deck)",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/945758462380482621/CD_Holo_3.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/945758463018029086/Session_Screenshot_2022.02.21_-_15.40.30.83.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-02-22T19:06:29.699000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -486,6 +497,17 @@
       "UpdatedDate": "2022-02-22T02:49:38.780000+00:00"
     },
     {
+      "ID": "CD_Jacket_4_Camo2.zip",
+      "Name": "CD_Jacket_4_Camo2",
+      "Description": "Concrete Dishonour Camo Daewon Jacket (must install daewon jacket mod first)",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/945757948712452137/CD_Jacket_4_Camo2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/945757949542936636/Session_Screenshot_2022.02.21_-_13.06.13.61.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-02-22T19:04:27.883000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -550,6 +572,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/945086657244303380/Ame_Dabs_Kush_Shoe_Session.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-02-20T22:36:58.496000+00:00"
+    },
+    {
+      "ID": "EtniesMarana.zip",
+      "Name": "EtniesMarana",
+      "Description": "Etnies Marana (Replaces Accel OG)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/945779231894425690/EtniesMarana.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/945779231261065226/sessiongame-win64-shipping.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-02-22T20:29:01.293000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -814,6 +847,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/944908674122534922/20220220104628_1.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-02-20T10:49:44.768000+00:00"
+    },
+    {
+      "ID": "ETAKSlast3SML.zip",
+      "Name": "ETAKSlast3SML",
+      "Description": "replace SML 31,32,33",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/945771699830415470/ETAKSlast3SML.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/945771699553595453/FotoJet.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-02-22T19:59:05.124000+00:00"
     }
   ]
 }
