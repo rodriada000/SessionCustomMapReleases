@@ -618,6 +618,17 @@
       "UpdatedDate": "2022-03-03T04:28:22.700000+00:00"
     },
     {
+      "ID": "FrigidDeckPack1.zip",
+      "Name": "FrigidDeckPack1",
+      "Description": "**2022 FRIGID CULTURE DEBUT DECK PACK**\n(replaces all Sugar decks)",
+      "Version": 1,
+      "Author": "thenefariousaquarius#1057",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/948922391575265310/FrigidDeckPack1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/948922391013261312/Blue_and_Yellow_Playful_Illustrated_Breakfast_A2_Landscape_Poster_Poster_24_36_in_Poster_Landscape_6.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-03T12:38:48.691000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -959,6 +970,17 @@
       "UpdatedDate": "2022-02-25T04:47:18.712000+00:00"
     },
     {
+      "ID": "Slim_Jeans_v2.zip",
+      "Name": "Slim_Jeans_v2",
+      "Description": "Slim Jeans v2\nJust a simple mesh edit, so it's the same texture as vanilla and is still customizable",
+      "Version": 1,
+      "Author": "JammieDodger#5836",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/948816942796509224/Slim_Jeans_v2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/948816942205128735/preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-03-03T05:39:47.877000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -1265,6 +1287,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/948719415262867526/DSOTGpack.jpg",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-03-02T23:12:15.312000+00:00"
+    },
+    {
+      "ID": "FrigidGriptapePack1.zip",
+      "Name": "FrigidGriptapePack1",
+      "Description": "**FRIGID CULTURE GRIP PACK #1**\n(replaces Flypaper griptapes)",
+      "Version": 1,
+      "Author": "thenefariousaquarius#1057",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/949129471498285106/FrigidGriptapePack1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/949129471066263563/Blue_and_Yellow_Playful_Illustrated_Breakfast_A2_Landscape_Poster_Poster_24_36_in_Poster_Landscape_8.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-03-04T02:21:40.303000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -1705,6 +1738,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/948525748812128267/Session_Screenshot_2022.03.02_-_01.58.28.14.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-03-02T10:22:41.855000+00:00"
+    },
+    {
+      "ID": "1031trucks427.zip",
+      "Name": "1031trucks427",
+      "Description": "recook \u2764\ufe0f",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/949091906204364820/1031trucks427.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/949091906980282388/20210720113512_1.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-03-03T23:52:24.050000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
