@@ -629,6 +629,50 @@
       "UpdatedDate": "2022-03-03T12:38:48.691000+00:00"
     },
     {
+      "ID": "Artery_Block_Letter_Series.rar",
+      "Name": "Artery_Block_Letter_Series",
+      "Description": "Block Letter Series from Artery, recooked for the new update. Replaces 7 Sugar Decks.",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/949335125282406430/Artery_Block_Letter_Series.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/949335096895373402/Artery_Collective.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-04T15:58:51.707000+00:00"
+    },
+    {
+      "ID": "Artery_Lined_Series.rar",
+      "Name": "Artery_Lined_Series",
+      "Description": "Lined Series from Artery. Replaces 5 Roger Skate Co. Decks",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/949335304848953384/Artery_Lined_Series.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/949335276017319976/ArteryLined.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-04T15:59:34.518000+00:00"
+    },
+    {
+      "ID": "StonedApe_Decks.zip",
+      "Name": "StonedApe_Decks",
+      "Description": "first deck pack, replaces all ESP decks",
+      "Version": 1,
+      "Author": "LBonTheBeat#5742",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/949481288790859856/StonedApe_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/949481289369657344/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-05T01:39:40.288000+00:00"
+    },
+    {
+      "ID": "UmistyleSignature1.zip",
+      "Name": "UmistyleSignature1",
+      "Description": "",
+      "Version": 1,
+      "Author": "thenefariousaquarius#1057",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/949502326543118407/UmistyleSignature1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/949502325721014292/Blue_and_Yellow_Playful_Illustrated_Breakfast_A2_Landscape_Poster_Poster_24_36_in_Poster_Landscape_Poster_24_36_in_Poster_Landscape_Poster_24_36_in.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-05T03:03:15.987000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -915,6 +959,28 @@
       "UpdatedDate": "2022-03-02T23:17:51.888000+00:00"
     },
     {
+      "ID": "Artery_Script_3pk.rar",
+      "Name": "Artery_Script_3pk",
+      "Description": "Artery Script Tees, available in 3 colors. Replaces ESP shirts",
+      "Version": 1,
+      "Author": "resist_revolt#3853",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/949337518023786506/Artery_Script_3pk.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/949337448561926194/Session_Screenshot_2022.02.22_-_08.31.27.84.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-03-04T16:08:22.163000+00:00"
+    },
+    {
+      "ID": "FrigidMerchDrop1.zip",
+      "Name": "FrigidMerchDrop1",
+      "Description": "**2022 FRIGID CULTURE WINTER MERCH DROP**\n(replaces ESP Gear)",
+      "Version": 1,
+      "Author": "thenefariousaquarius#1057",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/949502231680532530/FrigidMerchDrop1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/949502231097520138/Blue_and_Yellow_Playful_Illustrated_Breakfast_A2_Landscape_Poster_Poster_24_36_in_Poster_Landscape_Poster_24_36_in_Poster_Landscape.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-03-05T03:02:53.286000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -979,6 +1045,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/948816942205128735/preview.png",
       "Category": "session-pants",
       "UpdatedDate": "2022-03-03T05:39:47.877000+00:00"
+    },
+    {
+      "ID": "str8jorts1031427.zip",
+      "Name": "str8jorts1031427",
+      "Description": "shorts use default straight jeans in game and texture",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/949465156902092880/str8jorts1031427.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/949465156478451742/2022-03-04_2.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-03-05T00:35:34.058000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -1232,6 +1309,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/948319334122541116/preview.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2022-03-01T20:43:08.589000+00:00"
+    },
+    {
+      "ID": "vulaconswsocks427.zip",
+      "Name": "vulaconswsocks427",
+      "Description": "",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://GDrive/1KJ4yIm6tgHT71f6Wv01EAYjvV4dcQWy7",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/949464569716301844/2022-03-04_2.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-03-05T00:33:13.585000+00:00"
+    },
+    {
+      "ID": "vansesxpl427.zip",
+      "Name": "vansesxpl427",
+      "Description": "  mesh from sketchfab",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://GDrive/1oh-xzCcGwtjF2enmMFyx3MqVNQPxk1iE",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/949467068275773440/2022-03-05_1.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-03-05T00:43:09.264000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
