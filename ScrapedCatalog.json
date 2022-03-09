@@ -1542,6 +1542,17 @@
       "UpdatedDate": "2022-03-04T02:21:40.303000+00:00"
     },
     {
+      "ID": "gripmats3.zip",
+      "Name": "gripmats3",
+      "Description": "replace default griptapes.. all textures use is from sxlmodio credits to them..and also thanks to suco \ud83d\ude4c\ud83c\udffd",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/951083762492534784/gripmats3.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/951083763457208360/2022-03-09.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-03-09T11:47:19.740000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
