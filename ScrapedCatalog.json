@@ -1630,6 +1630,28 @@
       "UpdatedDate": "2022-03-14T19:49:41.337000+00:00"
     },
     {
+      "ID": "Cargo_Shorts.rar",
+      "Name": "Cargo_Shorts",
+      "Description": "Cargo Shorts (Replaces Cargo Pants) [Mesh is influenced by YvesA's from last update]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/955071211623301170/Cargo_Shorts.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/955071209366753350/Untitled.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-03-20T11:52:01.452000+00:00"
+    },
+    {
+      "ID": "Baggy_Cargo_Shorts.rar",
+      "Name": "Baggy_Cargo_Shorts",
+      "Description": "Baggy Cargo Shorts (Replaces Cargo Pants) [Mesh is influenced by YvesA's from last update]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/955071702763716608/Baggy_Cargo_Shorts.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/955071702537240606/Untitled2.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-03-20T11:53:58.531000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
