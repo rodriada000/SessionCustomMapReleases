@@ -1146,6 +1146,17 @@
       "UpdatedDate": "2022-03-24T21:36:24.408000+00:00"
     },
     {
+      "ID": "CustomizableBlankDecks.rar",
+      "Name": "CustomizableBlankDecks",
+      "Description": "this mod adds 50 deck graphics variations that are shared between all the blank decks in this mod so you can have the size of deck you want with the graphic you want       \n\nyou can set the 50 deck graphics with a texture or with a material\n\nthe path to textures is Content\\CustomDeckGraphics\\Textures    and name your textures 001 - 050\nthe path to materials is Content\\CustomDeckGraphics\\Materials  and name your materials MAI_DG_001 - MAI_DG_050\n\nDONT REPLACE MATERIAL   MAI_DG_001  ,  TEXTURE 000  AND  ICON TEX_DG_000_ICON  \nMAI_DG_001 is used for the blank decks   \nTexture 000 is the default texture when you don't have a deck graphic assigned to one of the variations\nTEX_DG_000_ICON  is the icon used for all the blank decks \n\n\nif try out this mod and you find any problems with it let me know so i can fix it or if you cant figure out how to use it let me know and ill help you out with it",
+      "Version": 1,
+      "Author": "Chuy#6528",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/957098033366052934/CustomizableBlankDecks.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/957098033009557534/Screenshot_354.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-26T02:05:53.405000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -1683,6 +1694,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/956683946991706243/SessionRoadmap.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-03-24T22:40:27.585000+00:00"
+    },
+    {
+      "ID": "ThrasherFoil.zip",
+      "Name": "ThrasherFoil",
+      "Description": "Thrasher Metallic\nreplaces jenkem tshirt\n\ngot bored...",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/957117631641567283/ThrasherFoil.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/957117631092121640/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-03-26T03:23:46.108000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -2915,6 +2937,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/956933015844569088/unknown.png",
       "Category": "session-characters",
       "UpdatedDate": "2022-03-25T15:10:09.816000+00:00"
+    },
+    {
+      "ID": "T\u00e1bita.zip",
+      "Name": "T\u00e1bita",
+      "Description": "T\u00e1bita in casual shorts and tank top.",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://GDrive/1cFrI7MecyWRiufkGEzuKC9oqMyBmunyh",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/957044034759720960/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-03-25T22:31:21.957000+00:00"
+    },
+    {
+      "ID": "T\u00e1bita_Bikini.zip",
+      "Name": "T\u00e1bita_Bikini",
+      "Description": "Bikini version.",
+      "Version": 1,
+      "Author": "Dizzy#2953",
+      "DownloadLink": "rsmm://GDrive/1yLcBBCYF-ZEXA9J-MYmsRfQfFQxX0F1R",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/957044327043956846/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-03-25T22:32:31.729000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
