@@ -1157,6 +1157,39 @@
       "UpdatedDate": "2022-03-26T02:05:53.405000+00:00"
     },
     {
+      "ID": "BOARD_BadBunnies_Rep_ZERO.zip",
+      "Name": "BOARD_BadBunnies_Rep_ZERO",
+      "Description": "Bad Rabbits\nReplaces last 5 ZERO boards",
+      "Version": 1,
+      "Author": "Dynamic Menace#7801",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/957358398645628978/BOARD_BadBunnies_Rep_ZERO.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/957358397727051777/Poster_v2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-26T19:20:29.578000+00:00"
+    },
+    {
+      "ID": "XERO_Collection.zip",
+      "Name": "XERO_Collection",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/957445169072975953/XERO_Collection.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/957445119584391238/Xero_Board_series.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-27T01:05:16.843000+00:00"
+    },
+    {
+      "ID": "deckhomiesforcustomizabledeck.zip",
+      "Name": "deckhomiesforcustomizabledeck",
+      "Description": "homies boards if you wanna use this.. you need this install this first https://discord.com/channels/612703594134634498/943801688513454080/957098034326564934 then just click X on your joystick for different variant.. only choose the 8.5 deck size..also you need to go to the skateshop to use this..thanks to chuy for this mod",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/957450525266296882/deckhomiesforcustomizabledeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/957450526587506769/2022-03-27_4.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-27T01:26:35.894000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -1716,6 +1749,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/957181064307167242/unknown.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-03-26T07:35:49.462000+00:00"
+    },
+    {
+      "ID": "MahagoniHomies.rar",
+      "Name": "MahagoniHomies",
+      "Description": "Replaces Samurai Punk Hoodies, Shirt, and Jenkem Hat",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/957331875721011261/MahagoniHomies.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/957331873602891817/Session_3_27_2022_1_28_09_AM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-03-26T17:35:07.006000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -2761,6 +2805,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/955169590604886026/mod_lookdiscord.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-03-20T18:23:11.648000+00:00"
+    },
+    {
+      "ID": "MahagoniHomies.rar",
+      "Name": "MahagoniHomies",
+      "Description": "Replaces Samurai Punk Hoodies, Shirt, and Jenkem Hat",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/957331969983787048/MahagoniHomies.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/957331970235437076/Session_3_27_2022_1_29_52_AM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-03-26T17:35:28.437000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
