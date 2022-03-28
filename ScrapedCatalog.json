@@ -1190,6 +1190,17 @@
       "UpdatedDate": "2022-03-27T01:26:35.894000+00:00"
     },
     {
+      "ID": "BOARD_Mega_Pack_1.zip",
+      "Name": "BOARD_Mega_Pack_1",
+      "Description": "BOARD Collection 1st drop. Use with Chuy's CustomizableBlankDecks mod. Uses slots 001-005. To be updated with future drops.",
+      "Version": 1,
+      "Author": "Dynamic Menace#7801",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/957808174965080104/BOARD_Mega_Pack_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/957808174465953802/BOARD_Mega_FirstEd.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-28T01:07:44.566000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -1771,6 +1782,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/957519997285068840/2022-03-27_9.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-03-27T06:02:37.562000+00:00"
+    },
+    {
+      "ID": "Molotov_Wheels_Frick_capsule.zip",
+      "Name": "Molotov_Wheels_Frick_capsule",
+      "Description": "Molotov wheels - Frick clothing capsule replaces Jenkem clothing",
+      "Version": 1,
+      "Author": "Conomedia#1063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/957739697201877012/Molotov_Wheels_Frick_capsule.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/957739696975409212/frick_ad.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-03-27T20:35:38.064000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -3509,6 +3531,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/953663214078554122/wde.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-03-16T14:37:08.810000+00:00"
+    },
+    {
+      "ID": "Molotov_Wheels_Frick_signature.zip",
+      "Name": "Molotov_Wheels_Frick_signature",
+      "Description": "Frick signature wheels for Molotov, replaces 46mm crea-ture",
+      "Version": 1,
+      "Author": "Conomedia#1063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/957739351473790986/Molotov_Wheels_Frick_signature.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/957739351754825768/frick_ad.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-03-27T20:34:15.585000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
