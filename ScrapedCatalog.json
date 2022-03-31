@@ -3500,6 +3500,39 @@
       "UpdatedDate": "2022-03-30T04:27:42.429000+00:00"
     },
     {
+      "ID": "Thunder_Trucks_Hollow_Lights.rar",
+      "Name": "Thunder_Trucks_Hollow_Lights",
+      "Description": "<@!159031287175315456> \n\nThunder Trucks Hollow Lights: Replaces Destructo 144",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/958959567155372042/Thunder_Trucks_Hollow_Lights.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/958959566480097280/Session_Screenshot_2022.03.31_-_05.30.51.29.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-03-31T05:22:57.678000+00:00"
+    },
+    {
+      "ID": "Thunder_Trucks_Hollow_Lights_Gold.rar",
+      "Name": "Thunder_Trucks_Hollow_Lights_Gold",
+      "Description": "Thunder Trucks Hollow Lights Gold: Replaces Destructo 144",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/958959896336937000/Thunder_Trucks_Hollow_Lights_Gold.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/958959895674245130/Session_Screenshot_2022.03.31_-_05.52.10.46.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-03-31T05:24:16.326000+00:00"
+    },
+    {
+      "ID": "Thunder_Trucks_Hollow_Lights_Glow.rar",
+      "Name": "Thunder_Trucks_Hollow_Lights_Glow",
+      "Description": "Thunder Trucks Glow: Replaces Destructo 144",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/958961498233917460/Thunder_Trucks_Hollow_Lights_Glow.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/958961497709613056/Session_Screenshot_2022.03.31_-_06.29.17.64.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-03-31T05:30:38.039000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
