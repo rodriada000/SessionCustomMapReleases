@@ -310,6 +310,17 @@
       "UpdatedDate": "2022-03-31T18:51:01.325000+00:00"
     },
     {
+      "ID": "Emerald Oasis 1.0.zip",
+      "Name": "Emerald Oasis 1.0",
+      "Description": "The Emerald Oasis 1.0",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1WewpFRTdVaLxmdvYLIYr6jSPJ8bGYFC_",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/959458032708886559/SMMPicEO.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-04-01T14:24:23.129000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -1234,6 +1245,17 @@
       "UpdatedDate": "2022-03-31T17:31:11.085000+00:00"
     },
     {
+      "ID": "Nomad_April_1st_Shop_Opening_Pack.zip",
+      "Name": "Nomad_April_1st_Shop_Opening_Pack",
+      "Description": "Replaces Roger decks and No-Comply shirts.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/959444353116438568/Nomad_April_1st_Shop_Opening_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/959444335651356712/SMMPNG.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-04-01T13:29:19.448000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -1892,6 +1914,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/958139956239429722/Golf_Wang_-_Save_The_Bees_Hoodie.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-03-28T23:06:07.191000+00:00"
+    },
+    {
+      "ID": "Nomad_April_1st_Shop_Opening_Pack.zip",
+      "Name": "Nomad_April_1st_Shop_Opening_Pack",
+      "Description": "Replaces Roger decks and No-Comply shirts.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/959444407067746384/Nomad_April_1st_Shop_Opening_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/959444389787230249/SMMPNG.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-04-01T13:29:32.337000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
