@@ -299,6 +299,17 @@
       "UpdatedDate": "2022-03-22T18:16:14.955000+00:00"
     },
     {
+      "ID": "HopePlaza.zip",
+      "Name": "HopePlaza",
+      "Description": "Hope plaza\nDesigned by <@!310585220023713796> \n\nNPC's do not work and i'm unsure why, will update when i find a solution to this. \n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#5150",
+      "DownloadLink": "rsmm://GDrive/1PJgROVH6TMhQSTDXP9OKWVI4zOCEu5Dl",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/959162923593392159/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-03-31T18:51:01.325000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -1210,6 +1221,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/958202573763006554/preview.png",
       "Category": "session-decks",
       "UpdatedDate": "2022-03-29T03:14:55.909000+00:00"
+    },
+    {
+      "ID": "BOARD_Mega_Pack_2.zip",
+      "Name": "BOARD_Mega_Pack_2",
+      "Description": "Second edition of the BOARD Mega Pack! Includes and replaces the first edition. Same deal as before, you need Chuy's CustomizableBlankDecks mod from Illusory. Feel free to DM me if there are any problems.",
+      "Version": 1,
+      "Author": "Dynamic Menace#7801",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/959142830683594892/BOARD_Mega_Pack_2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/959142830373224478/BOARD_Mega_SecEd.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-03-31T17:31:11.085000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
