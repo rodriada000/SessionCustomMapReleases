@@ -1278,6 +1278,17 @@
       "UpdatedDate": "2022-04-03T01:09:17.537000+00:00"
     },
     {
+      "ID": "BOARD_Mega_Pack_3.zip",
+      "Name": "BOARD_Mega_Pack_3",
+      "Description": "",
+      "Version": 1,
+      "Author": "Dynamic Menace#7801",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/960317354120732742/BOARD_Mega_Pack_3.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/960317353491591209/Collection_3.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-04-03T23:18:19.404000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2717,6 +2728,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/959588216690835466/Shuco73s.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2022-04-01T23:00:58.966000+00:00"
+    },
+    {
+      "ID": "FADE3s7s.zip",
+      "Name": "FADE3s7s",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/960295855989084230/FADE3s7s.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/960295833188835358/Fade3s7s.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-04-03T21:52:53.678000+00:00"
+    },
+    {
+      "ID": "Fade8.zip",
+      "Name": "Fade8",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/960295920099033168/Fade8.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/960295890533367819/Fade_8_pic.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-04-03T21:53:08.991000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
