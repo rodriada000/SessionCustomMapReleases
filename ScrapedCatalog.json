@@ -321,6 +321,28 @@
       "UpdatedDate": "2022-04-01T14:24:23.129000+00:00"
     },
     {
+      "ID": "HollywoodHigh.zip",
+      "Name": "HollywoodHigh",
+      "Description": "Hollywood High\n\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#4979",
+      "DownloadLink": "rsmm://GDrive/1au_fnnxvWEmMtMAWbOCPf3CS5FuGZqI2",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/962039969973682196/HHpreview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-04-08T17:23:22.646000+00:00"
+    },
+    {
+      "ID": "MacysLedges.zip",
+      "Name": "MacysLedges",
+      "Description": "Macy's Ledges\n\nby: <@229804108075237376> \nPorted by: Uncle Rico\n\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#4979",
+      "DownloadLink": "rsmm://GDrive/13IqQ7YAlNMkPe_LLr_Zg0RQuErPvqakS",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/962045378654511135/Session_4_8_2022_10_42_12_AM.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-04-08T17:44:52.570000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
