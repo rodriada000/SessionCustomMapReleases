@@ -3379,6 +3379,28 @@
       "UpdatedDate": "2022-04-13T02:32:03.574000+00:00"
     },
     {
+      "ID": "ClevelandHats.zip",
+      "Name": "ClevelandHats",
+      "Description": "Cleveland Indians Hat (3 Colors) (replaces Jenkem Hats) Request from <@815261303059775508>",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/964752492141371452/ClevelandHats.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/964752491667419136/unknown.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-16T05:01:58.781000+00:00"
+    },
+    {
+      "ID": "JenkemAsDefaultCaps.zip",
+      "Name": "JenkemAsDefaultCaps",
+      "Description": "Jenkem Caps as Default Cap (Replaces Jenkem)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/964753944641421352/JenkemAsDefaultCaps.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/964753944247140432/unknown.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-16T05:07:44.905000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
