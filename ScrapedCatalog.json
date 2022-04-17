@@ -343,6 +343,17 @@
       "UpdatedDate": "2022-04-08T17:44:52.570000+00:00"
     },
     {
+      "ID": "SLS_2017_SC_Kaiouthia.rar",
+      "Name": "SLS_2017_SC_Kaiouthia",
+      "Description": "My first map upload. 2017 SLS Super Crown Course. More to come! Open to any feedback.\n\n",
+      "Version": 1,
+      "Author": "kaiouthia#2744",
+      "DownloadLink": "rsmm://GDrive/1CGirRVH90oErH04fvB0DIvsGlnwhOLvF",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/965147532638429194/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-04-17T07:11:43.338000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3399,6 +3410,94 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/964753944247140432/unknown.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-04-16T05:07:44.905000+00:00"
+    },
+    {
+      "ID": "LA_Lakers_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "LA_Lakers_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "LA Lakers.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136050710249512/LA_Lakers_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136015608152094/LA_Lakers1.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:26:05.950000+00:00"
+    },
+    {
+      "ID": "JenkemAsDefaultCaps.zip",
+      "Name": "JenkemAsDefaultCaps",
+      "Description": "Cubs Hat.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136054984261652/JenkemAsDefaultCaps.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136118154678333/Cubs_Hat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:26:22.171000+00:00"
+    },
+    {
+      "ID": "Cubs_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "Cubs_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Red Soxs Hat.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136146839535646/Cubs_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136257766293554/Red_Sox_Hat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:26:55.555000+00:00"
+    },
+    {
+      "ID": "Red_Sox_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "Red_Sox_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Fantasy Factory Big Cat Hat.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136293484970004/Red_Sox_Hat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136359671074946/FF_Hat_Big_Cat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:27:19.716000+00:00"
+    },
+    {
+      "ID": "FF_Hat_Big_Cat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "FF_Hat_Big_Cat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Fantasy Factory Big Black Hat.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136414519992350/FF_Hat_Big_Cat---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136489304440842/FF_Hat_Do_Work.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:27:50.579000+00:00"
+    },
+    {
+      "ID": "FF_Hat_Do_Work---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "FF_Hat_Do_Work---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Fantasy Factory DC Hat Red.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136515661447208/FF_Hat_Do_Work---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136594917023824/FF_DC_Hat_Red.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:28:15.766000+00:00"
+    },
+    {
+      "ID": "FF_DC_Hat_Red---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "FF_DC_Hat_Red---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Fantasy Factory DC Monster Hat.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136616224088104/FF_DC_Hat_Red---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136724474880030/FF_DC_Hat_Monster.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:28:46.692000+00:00"
+    },
+    {
+      "ID": "FF_DC_Hat_Monster---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "FF_DC_Hat_Monster---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Fantasy Factory DC Hat Blue.\nReplaces 1st Jenkem Hat and REQUIRES JenkemAsDefaultCaps Mod by Tipahdis.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136750441791519/FF_DC_Hat_Monster---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136846621392976/FF_DC_Hat_Blue.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-04-17T06:29:15.785000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
