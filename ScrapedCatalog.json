@@ -2180,6 +2180,17 @@
       "UpdatedDate": "2022-04-12T08:54:57.458000+00:00"
     },
     {
+      "ID": "Sweater.zip",
+      "Name": "Sweater",
+      "Description": "Sweater replaces hoodie. (just to make it easier to texture) uses hoodie texture",
+      "Version": 1,
+      "Author": "SID.ROTTEN#2133",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/965324050815647744/Sweater.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/965324051071528960/Screenshot_214.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-04-17T18:53:08.984000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -4114,6 +4125,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/958961497709613056/Session_Screenshot_2022.03.31_-_06.29.17.64.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-03-31T05:30:38.039000+00:00"
+    },
+    {
+      "ID": "OMNSWeekdayHashtagPros.zip",
+      "Name": "OMNSWeekdayHashtagPros",
+      "Description": "OMNS WeekdayForecast Hastag Pro's (Replace D1's/PNG in zip for SMM)",
+      "Version": 1,
+      "Author": "ChariotFighter#5454",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/965457312959565914/OMNSWeekdayHashtagPros.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/965457311739052053/Screenshot_157.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-04-18T03:42:41.233000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
