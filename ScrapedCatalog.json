@@ -1454,6 +1454,28 @@
       "UpdatedDate": "2022-04-18T19:02:25.213000+00:00"
     },
     {
+      "ID": "ALLTIMERSDUSTIN.zip",
+      "Name": "ALLTIMERSDUSTIN",
+      "Description": "ALLTIMERS - Dustin Seahorse 8.75\" | Replaces: Heroin - Craig Scott Chainsaw",
+      "Version": 1,
+      "Author": "ryandogsling#7439",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/967879478921531522/ALLTIMERSDUSTIN.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/967879479378735215/seahorse.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-04-24T20:07:30.437000+00:00"
+    },
+    {
+      "ID": "SANTACRUZSICKCAT.zip",
+      "Name": "SANTACRUZSICKCAT",
+      "Description": "SANTA CRUZ - BOD BOYLE \"SICK CAT\" | Replaces HEROIN - CURB CRUSHER 9.0\"",
+      "Version": 1,
+      "Author": "ryandogsling#7439",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/967957637067063336/SANTACRUZSICKCAT.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/967957635552903179/SICKCATSESSION.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-04-25T01:18:05.121000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
