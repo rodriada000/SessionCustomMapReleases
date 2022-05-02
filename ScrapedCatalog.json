@@ -1531,6 +1531,17 @@
       "UpdatedDate": "2022-04-30T22:27:46.524000+00:00"
     },
     {
+      "ID": "Session_Spots_Boards.zip",
+      "Name": "Session_Spots_Boards",
+      "Description": "Session Spots Board Pack.  Replaces Roger Decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/970392788363518053/Session_Spots_Boards.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/970392762128138300/SMMPNG.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-05-01T18:34:29.877000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2310,6 +2321,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/967310509957324830/dinotee.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-04-23T06:26:37.638000+00:00"
+    },
+    {
+      "ID": "Session Spots Shirts.zip",
+      "Name": "Session Spots Shirts",
+      "Description": "Session Spots Shirts.  Replaces No-Comply shirts.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1H6N25XFQHL02fg-9zs2JA4ltRaG6aCpe",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/970392909268537426/SMMPNG.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-05-01T18:35:08.416000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -3707,6 +3729,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/965136846621392976/FF_DC_Hat_Blue.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-04-17T06:29:15.785000+00:00"
+    },
+    {
+      "ID": "FF_DC_Hat_Blue---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "Name": "FF_DC_Hat_Blue---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis",
+      "Description": "Session Spots Hats.  Replaces Jenkem Hats.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/965136886668607548/FF_DC_Hat_Blue---REQUIRES_JenkemAsDefaultCaps_Mod_by_Tipahdis.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/970393155583213658/SMMPNG1.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-05-01T18:35:57.547000+00:00"
+    },
+    {
+      "ID": "Session_Spots_Hats_1.zip",
+      "Name": "Session_Spots_Hats_1",
+      "Description": "",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/970393180832952320/Session_Spots_Hats_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/970393194044981248/SMMPNG2.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-05-01T18:36:06.676000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
