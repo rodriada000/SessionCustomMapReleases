@@ -3192,6 +3192,17 @@
       "UpdatedDate": "2022-04-30T02:21:06.178000+00:00"
     },
     {
+      "ID": "CustomizableHalfcabs.zip",
+      "Name": "CustomizableHalfcabs",
+      "Description": "Customizable HalfCabs (Male n Female) (Replaces MidTopCup)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/971244411004547102/CustomizableHalfcabs.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/971244410543177781/unknown.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-05-04T02:58:32.803000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
