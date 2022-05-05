@@ -1542,6 +1542,17 @@
       "UpdatedDate": "2022-05-01T18:34:29.877000+00:00"
     },
     {
+      "ID": "Myles_Willard_Caged.zip",
+      "Name": "Myles_Willard_Caged",
+      "Description": "Toy Machine Myles Willard Caged deck (replaces Sugar 80's Chrome 8.38)",
+      "Version": 1,
+      "Author": "Shitty Bill#7385",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/971573523145433088/Myles_Willard_Caged.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/971573496884916275/preview.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-05-05T00:46:18.950000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3212,6 +3223,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/971270695894003732/unknown.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-05-04T04:42:59.843000+00:00"
+    },
+    {
+      "ID": "Customizable_Janoski_Mid_Crafted.rar",
+      "Name": "Customizable_Janoski_Mid_Crafted",
+      "Description": "Customizable Janoski Mid Crafted for male and female (Replaces MidTop Cup)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/971578007212937216/Customizable_Janoski_Mid_Crafted.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/971578006994841600/janoskimid.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-05-05T01:04:08.540000+00:00"
+    },
+    {
+      "ID": "Janoski_Slip.rar",
+      "Name": "Janoski_Slip",
+      "Description": "Janoski Slip for male and female (Replaces Fallen The Easy)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/971578731703468072/Janoski_Slip.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/971578731393065050/slip.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-05-05T01:07:00.876000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
