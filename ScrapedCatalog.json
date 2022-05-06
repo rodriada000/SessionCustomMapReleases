@@ -2598,6 +2598,17 @@
       "UpdatedDate": "2022-04-29T22:47:20.364000+00:00"
     },
     {
+      "ID": "Baggy_Cuffed_Jeans.rar",
+      "Name": "Baggy_Cuffed_Jeans",
+      "Description": "Baggy Cuffed Jeans Male Character Only (Replaces Straight Cut) [Uses Default Textures]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/971969232533352489/Baggy_Cuffed_Jeans.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/971969232306831430/pant.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-05-06T02:58:43.651000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -4081,6 +4092,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/961144045944598579/nwhom.PNG",
       "Category": "session-characters",
       "UpdatedDate": "2022-04-06T06:03:25.679000+00:00"
+    },
+    {
+      "ID": "Male_Long_Socks_Black.rar",
+      "Name": "Male_Long_Socks_Black",
+      "Description": "Male Long Sock Meshes With Black Socks. Will not effect your skin/tattoos.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/971972140951805972/Male_Long_Socks_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/971972140654014504/blklng.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-06T03:10:17.091000+00:00"
+    },
+    {
+      "ID": "Male_Short_Socks_Black.rar",
+      "Name": "Male_Short_Socks_Black",
+      "Description": "Male Short Sock Meshes With Black Socks. Will not effect your skin/tattoos.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/971972230705733652/Male_Short_Socks_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/971972230437302322/blksrt.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-06T03:10:38.441000+00:00"
+    },
+    {
+      "ID": "Arm_Tattoos.rar",
+      "Name": "Arm_Tattoos",
+      "Description": "Arm Tattoos. Just something I threw together one night.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/971982106538434560/Arm_Tattoos.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/971982106051874836/tattoos.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-06T03:49:53.006000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
