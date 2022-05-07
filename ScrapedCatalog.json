@@ -2609,6 +2609,17 @@
       "UpdatedDate": "2022-05-06T02:58:43.651000+00:00"
     },
     {
+      "ID": "Ripped_Pants.rar",
+      "Name": "Ripped_Pants",
+      "Description": "Ripped Pants Male Character Only (Replaces Straight Cut) [Uses Default Textures]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/972398802369662986/Ripped_Pants.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/972398802138955856/ripped.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-05-07T07:25:41.522000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
