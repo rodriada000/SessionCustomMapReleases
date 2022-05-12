@@ -3313,6 +3313,17 @@
       "UpdatedDate": "2022-05-10T17:09:27.459000+00:00"
     },
     {
+      "ID": "VansAuthentics.zip",
+      "Name": "VansAuthentics",
+      "Description": "Vans Authentics (replaces Accel OG) (Male and Female)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/974147248374050836/VansAuthentics.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/974147247874916402/unknown.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-05-12T03:13:23.080000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
