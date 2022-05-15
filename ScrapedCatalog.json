@@ -4391,6 +4391,17 @@
       "UpdatedDate": "2022-05-09T22:15:07.620000+00:00"
     },
     {
+      "ID": "RickAndMorty.zip",
+      "Name": "RickAndMorty",
+      "Description": "Rick and Morty (Replaces Mark Appleyard and Ribsman) (recook of <@316191770998341633> Mod) ",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1kS1B_x-uQBPskyAGwpPDA6ED2DVYUyC7",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/975182581354074132/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-14T23:47:25.356000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
