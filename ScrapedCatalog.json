@@ -1586,6 +1586,17 @@
       "UpdatedDate": "2022-05-08T17:31:52.425000+00:00"
     },
     {
+      "ID": "blank-plank_test.rar",
+      "Name": "blank-plank_test",
+      "Description": "replaces all blanks but looks dope on unfinished \ud83e\udd1f",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/975976633368449074/blank-plank_test.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/975976633657860096/Session_5_16_2022_11_30_37_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-05-17T04:22:42.507000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2662,6 +2673,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/972398802138955856/ripped.png",
       "Category": "session-pants",
       "UpdatedDate": "2022-05-07T07:25:41.522000+00:00"
+    },
+    {
+      "ID": "Vans_Pants.rar",
+      "Name": "Vans_Pants",
+      "Description": "Vans Pants Male & Female (Replaces Straight Cut & Jeans) [Uses Default Textures]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/976130857112850432/Vans_Pants.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/976130856693432330/Vanpan.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-05-17T14:35:32.337000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
