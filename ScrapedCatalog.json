@@ -4424,6 +4424,17 @@
       "UpdatedDate": "2022-05-14T23:47:25.356000+00:00"
     },
     {
+      "ID": "HandyMan.zip",
+      "Name": "HandyMan",
+      "Description": "HandyMan (Replaces Jesse) Shoutout <@152444356387799040> for the OG MOD [Uses TEX_AMXX_Body_BC]",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/975896193794211870/HandyMan.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/975896193316057158/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-16T23:03:04.127000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
