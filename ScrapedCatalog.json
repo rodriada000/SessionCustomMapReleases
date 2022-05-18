@@ -3357,6 +3357,17 @@
       "UpdatedDate": "2022-05-12T03:13:23.080000+00:00"
     },
     {
+      "ID": "Vans_Slip_On.rar",
+      "Name": "Vans_Slip_On",
+      "Description": "Vans Slip On For Male And Female (Replaces Fallen The Easy) [I recommend using the \"Crew Socks\" for both characters if you want to use socks with these, other socks wont cover enough of the foot]",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/976209615123537950/Vans_Slip_On.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/976209614842527814/slipin.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-05-17T19:48:29.714000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -4455,6 +4466,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/975896193316057158/unknown.png",
       "Category": "session-characters",
       "UpdatedDate": "2022-05-16T23:03:04.127000+00:00"
+    },
+    {
+      "ID": "Female_Crew_Socks.rar",
+      "Name": "Female_Crew_Socks",
+      "Description": "Crew Socks Mesh For Female Characters. Uses Textures from the male version. (Will Not Effect Your Skin/Tattoos)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/976209310029848616/Female_Crew_Socks.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/976209309740453908/fmalecrew.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-05-17T19:47:16.891000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
