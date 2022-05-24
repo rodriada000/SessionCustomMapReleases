@@ -2400,6 +2400,17 @@
       "UpdatedDate": "2022-05-08T00:30:21.326000+00:00"
     },
     {
+      "ID": "Conomedia.zip",
+      "Name": "Conomedia",
+      "Description": "Conomedia video magazine gear drop replaces Flatface. Catch the latest issue here: https://bit.ly/3LEwnzg",
+      "Version": 1,
+      "Author": "Conomedia#1063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/978418066394316840/Conomedia.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/978418066994106418/CMVM_gear.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-05-23T22:04:05.079000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
