@@ -1597,6 +1597,17 @@
       "UpdatedDate": "2022-05-17T04:22:42.507000+00:00"
     },
     {
+      "ID": "Sept22Pack.zip",
+      "Name": "Sept22Pack",
+      "Description": "Replaces Roger deck and No-Comply shirt.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/981075115041226782/Sept22Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/981075102361854012/Sept22.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-05-31T06:02:14.978000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2409,6 +2420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/978418066994106418/CMVM_gear.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-05-23T22:04:05.079000+00:00"
+    },
+    {
+      "ID": "Sept22Pack.zip",
+      "Name": "Sept22Pack",
+      "Description": "Replaces Roger deck and No-Comply shirt.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/981075157370150922/Sept22Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/981075141918359642/Sept22.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-05-31T06:02:25.068000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
