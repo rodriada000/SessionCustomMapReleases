@@ -1608,6 +1608,17 @@
       "UpdatedDate": "2022-05-31T06:02:14.978000+00:00"
     },
     {
+      "ID": "Massacre_Deck_Pack.zip",
+      "Name": "Massacre_Deck_Pack",
+      "Description": "Massacre Decks - replaces Madrid boards - first drop for the new Massacre Deck Sponsor.",
+      "Version": 1,
+      "Author": "cazeyjonez#0237",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/982383365137236039/Massacre_Deck_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/982383365636370492/Massacre_Decks.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-06-03T20:40:46.503000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
