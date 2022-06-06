@@ -4545,6 +4545,17 @@
       "UpdatedDate": "2022-05-29T04:51:00.112000+00:00"
     },
     {
+      "ID": "RoundGlasses.zip",
+      "Name": "RoundGlasses",
+      "Description": "Round Glasses (male 1-4) [ may mess with LegFix]",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/983203700933804133/RoundGlasses.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/983203700380164176/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-06-06T03:00:29.705000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
