@@ -409,6 +409,17 @@
       "UpdatedDate": "2022-06-24T05:00:07.788000+00:00"
     },
     {
+      "ID": "Burrillville.zip",
+      "Name": "Burrillville",
+      "Description": "Burrillville local Skatepark.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/16_fqY0Ht5Qj5rodpzHY64uAoQzEkN4C6",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/990040571177484328/SMM.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-06-24T23:47:49.054000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
