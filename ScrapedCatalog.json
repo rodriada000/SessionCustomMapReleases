@@ -420,6 +420,17 @@
       "UpdatedDate": "2022-06-24T23:47:49.054000+00:00"
     },
     {
+      "ID": "ministreetmap.rar",
+      "Name": "ministreetmap",
+      "Description": "a small Alley street map, like a secret spot\n",
+      "Version": 1,
+      "Author": "Rafael PNog#1446",
+      "DownloadLink": "rsmm://GDrive/1I7vnwWdl3asinncv8xvjrCv1RDbsvlzq",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/999304541772197928/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-07-20T13:19:28.915000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
