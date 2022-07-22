@@ -1696,6 +1696,17 @@
       "UpdatedDate": "2022-07-20T17:22:54.793000+00:00"
     },
     {
+      "ID": "Heathen_Boes_Deck.rar",
+      "Name": "Heathen_Boes_Deck",
+      "Description": "Heathen Boes Deck\nReplaces Madrid Heshlord",
+      "Version": 1,
+      "Author": "Kharon#8815",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/999995617919111259/Heathen_Boes_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/999995617638088734/preview.png.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-07-22T11:05:34.560000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2530,6 +2541,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/983584582798540860/unknown.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-06-07T04:13:59.022000+00:00"
+    },
+    {
+      "ID": "DoobiesBasicTees.rar",
+      "Name": "DoobiesBasicTees",
+      "Description": "Doobies Basic Tees. Replaces All No Comply shirts.",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1000012022504755230/DoobiesBasicTees.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1000012022995505182/Session_7_19_2022_12_08_01_AM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-07-22T12:10:45.910000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -4136,6 +4158,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/997605472943210566/unknown.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-07-15T20:47:59.308000+00:00"
+    },
+    {
+      "ID": "DoobiesBasicHat.rar",
+      "Name": "DoobiesBasicHat",
+      "Description": "Doobies Basic Hats. Replaces All Jenkem hats. Might need the Jenkem as Default Cap if you don't like the 5 panel design.",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1000012713700900894/DoobiesBasicHat.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1000012714241949796/Session_7_19_2022_11_36_09_PM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-07-22T12:13:30.813000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
