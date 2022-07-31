@@ -1751,6 +1751,17 @@
       "UpdatedDate": "2022-07-28T20:02:51.781000+00:00"
     },
     {
+      "ID": "Schlaudie_SYLS_Board.zip",
+      "Name": "Schlaudie_SYLS_Board",
+      "Description": "Replaces Schlaudie Birds Eye View Deck.  Check in <#943801712551014400>  for grip cutout to go with this deck.  Looks nice with clear grip also.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1003116479744593990/Schlaudie_SYLS_Board.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1003116449478479922/SMM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-07-31T01:46:45.840000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3729,6 +3740,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/955557389694828584/BOARD_Rep_Trumpet.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-03-21T20:03:56.655000+00:00"
+    },
+    {
+      "ID": "Schlaudie_SYLS_Grips.zip",
+      "Name": "Schlaudie_SYLS_Grips",
+      "Description": "Goes with the Schlaudie Support Your Local Skate Shop Deck in <#943801688513454080>",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1003116613949730826/Schlaudie_SYLS_Grips.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1003116597000552468/SMM.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-07-31T01:47:17.804000+00:00"
     },
     {
       "ID": "Ferg.zip",
