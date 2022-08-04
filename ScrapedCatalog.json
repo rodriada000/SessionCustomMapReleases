@@ -453,6 +453,17 @@
       "UpdatedDate": "2022-07-24T23:47:45.391000+00:00"
     },
     {
+      "ID": "TESTINGMAP.rar",
+      "Name": "TESTINGMAP",
+      "Description": "TESTING skatepark\nThe colors of the skatepark were inspired by Asap Rocky's album \"TESTING\" and after that a glowing sign and a drawing on one of the figures were added\nThe map is especially beautiful at night\nHave a good game)\n",
+      "Version": 1,
+      "Author": "ZILLAkami#1657",
+      "DownloadLink": "rsmm://GDrive/1eJuh6YQoYruwoLaBVBVHd2OdJfscXPqo",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1003676066201731173/Preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-08-01T14:50:21.550000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -1760,6 +1771,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1003116449478479922/SMM.png",
       "Category": "session-decks",
       "UpdatedDate": "2022-07-31T01:46:45.840000+00:00"
+    },
+    {
+      "ID": "Tommy_Guerrero_Graff.zip",
+      "Name": "Tommy_Guerrero_Graff",
+      "Description": "Replaces 10.0 Egg Deck",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1003782086831911012/Tommy_Guerrero_Graff.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1003781813090652240/ALL5.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-01T21:51:38.933000+00:00"
+    },
+    {
+      "ID": "HeroinZaneTimpsonFoiledDeck.rar",
+      "Name": "HeroinZaneTimpsonFoiledDeck",
+      "Description": "Heroin Zane Timpson Foiled Gold Deck. Replace Heroin Deer Man deck.",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004418568223473725/HeroinZaneTimpsonFoiledDeck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004418567942438922/Session_8_3_2022_11_57_18_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-03T16:00:48.125000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
