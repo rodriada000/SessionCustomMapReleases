@@ -1795,6 +1795,116 @@
       "UpdatedDate": "2022-08-03T16:00:48.125000+00:00"
     },
     {
+      "ID": "ASTA_MYSTERY.zip",
+      "Name": "ASTA_MYSTERY",
+      "Description": "Tom Asta Mystery Revolver Deck Enjoi!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004892408854622328/ASTA_MYSTERY.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004892408607154256/ASTA.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:23:40.497000+00:00"
+    },
+    {
+      "ID": "BAKER_BLACK.zip",
+      "Name": "BAKER_BLACK",
+      "Description": "Baker Black Logo Deck",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004892619681316874/BAKER_BLACK.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004892619396087928/BAKER.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:24:30.755000+00:00"
+    },
+    {
+      "ID": "DEFAULT_TRUCK__1_DAMASCUS_TEXTURE.zip",
+      "Name": "DEFAULT_TRUCK__1_DAMASCUS_TEXTURE",
+      "Description": "Replaces all Default Truck 01 all Sizes! You must install all 4 zip files to get the colorway, you can just install the texture zips and those look sweet too, entirely up to you! Enjoi!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004893725933187182/DEFAULT_TRUCK__1_DAMASCUS_TEXTURE.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004893725731868762/DEFAULT_RED_DAMASCUS.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:28:54.716000+00:00"
+    },
+    {
+      "ID": "DGK_LOGO.zip",
+      "Name": "DGK_LOGO",
+      "Description": "DGK Logo Black and Gold Deck",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004894082860073041/DGK_LOGO.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004894082667126874/DGK_LOGO.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:30:21.185000+00:00"
+    },
+    {
+      "ID": "GX1000.zip",
+      "Name": "GX1000",
+      "Description": "The FatAss GX1000 Deck, for the filmers out there!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004894404437364816/GX1000.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004894404156334131/GX1000.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:31:36.344000+00:00"
+    },
+    {
+      "ID": "VERB93TIL.zip",
+      "Name": "VERB93TIL",
+      "Description": "The Verb 93 Til Infinity Deck! Enjoi!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004894726585073864/VERB93TIL.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004894726383734834/HE_VERB.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:32:53.041000+00:00"
+    },
+    {
+      "ID": "JL_DECK.zip",
+      "Name": "JL_DECK",
+      "Description": "I thought JL Nightmare could use an updated New beginings Deck! Shred those hystorical challellnges and go subscribe to his YouTube Channel",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004895368925958256/JL_DECK.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004895368707842138/JL.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:35:26.209000+00:00"
+    },
+    {
+      "ID": "LIQUID_CHROME_DISCORD_HANGER_DEFAULT_TRUCK__2.zip",
+      "Name": "LIQUID_CHROME_DISCORD_HANGER_DEFAULT_TRUCK__2",
+      "Description": "Replaces all default truck 02 with Liquid chrome Discord Logod hangers and red geo textured baseplates!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004896073778725004/LIQUID_CHROME_DISCORD_HANGER_DEFAULT_TRUCK__2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004896073518690404/LIQUID_CHROME_TRUCKS_DISCORD_LOGO_WITH_RED_GEO_BASE_PLATES.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:38:14.451000+00:00"
+    },
+    {
+      "ID": "TRAFHARDWARE.zip",
+      "Name": "TRAFHARDWARE",
+      "Description": "Ricky Oyolas Traffic Hardware Deck! Go kill the Illadel in this blazing blue deck!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004896428876894288/TRAFHARDWARE.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004896428650410114/TRAFFIC.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:39:38.904000+00:00"
+    },
+    {
+      "ID": "Spargo808Deck.zip",
+      "Name": "Spargo808Deck",
+      "Description": "SHOW YOUR FAVORITE MODDERS SUPPORT! WHICH EVER MODDER YOU CHOOSE THAT ZIP WILL REPLACE ALL NO COMPLY DECKS SO THAT YOU HAVE SIZE OPTIONS! NOW SUPPORT ALL THESE MODDERS BY ROCKING THEIR DECKS WHO WORK SO HARD TO BRING YOU SO MUCH CONTENT!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1004898190329393202/Spargo808Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1004898189154992189/TUFFYNECK.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-08-04T23:46:39.569000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3797,6 +3907,17 @@
       "UpdatedDate": "2022-07-31T01:47:17.804000+00:00"
     },
     {
+      "ID": "TUFLYGRIP12.zip",
+      "Name": "TUFLYGRIP12",
+      "Description": "TRASHER CUT OUT GRIP AND TUFFYNECK PAINTED GRIP, REPLACES FLY GRIP! ROCK THIS ON YOUR FAVORITE TOP LAYERED COLORWAY DECKS!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1004903508283240508/TUFLYGRIP12.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1004903507427602492/THRASHER_CUTOUT_GRIP.jpg",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-08-05T00:07:47.084000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -5205,6 +5326,28 @@
       "UpdatedDate": "2022-04-29T19:09:46.245000+00:00"
     },
     {
+      "ID": "DEFAULT_TRUCK__1_BASE_PLATE_COLOR.zip",
+      "Name": "DEFAULT_TRUCK__1_BASE_PLATE_COLOR",
+      "Description": "DOWNLOAD ALL 4 FILES TO GET THE COLORWAY OR JUST THE TEXTURE FOR DOPE LOOKING TRUCKS AS WELL, REPLACES DEFAULT TRUCKS NUMERO UNO. THAT BE  ALL SIZES OF DEFAULT TRUCK # 1",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1004899750866321530/DEFAULT_TRUCK__1_BASE_PLATE_COLOR.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1004899750681784490/DEFAULT_RED_DAMASCUS.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-08-04T23:52:51.486000+00:00"
+    },
+    {
+      "ID": "DEFAULT_TRUCK__2_BASE_PLATE_COLOR.zip",
+      "Name": "DEFAULT_TRUCK__2_BASE_PLATE_COLOR",
+      "Description": "LIQUID CHROME DISCORD LOGO GEO BASEPLATED TRUCKS! REPLACES DEFAULT TRUCK # 2 ALL SIZES",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1004900209911922739/DEFAULT_TRUCK__2_BASE_PLATE_COLOR.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1004900209668673616/LIQUID_CHROME_TRUCKS_DISCORD_LOGO_WITH_RED_GEO_BASE_PLATES.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-08-04T23:54:40.510000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -5401,6 +5544,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/970024202486837258/20220430194306_1.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-04-30T18:09:51.973000+00:00"
+    },
+    {
+      "ID": "SPITFACERED.zip",
+      "Name": "SPITFACERED",
+      "Description": "ROCK THE RED! SPITFIRE FACE WHEELS! REPLACES WHAT YOU SEE IN THE IMAGE! ENJOI!",
+      "Version": 1,
+      "Author": "Tuffyneck#7743",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1004903745026535444/SPITFACERED.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1004903744774885408/SPIT_FIRE_FACE_RED.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-08-05T00:08:43.325000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
