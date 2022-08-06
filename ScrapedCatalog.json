@@ -5599,6 +5599,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/967148876089946142/unknown.png",
       "Category": "session-meshes",
       "UpdatedDate": "2022-04-22T19:44:20.779000+00:00"
+    },
+    {
+      "ID": "TDV_ModLoader.zip",
+      "Name": "TDV_ModLoader",
+      "Description": "TDV_ModLoader\n\nI have restructured the way my mods will be working and this will be required to load any, and will be updated singularly if any new types of mods are added. \n\n\n\n**Instructions**\nInstall through SMM in the gear sections. Replaces the Security Light object in the object dropper (first item)\nPlace a single object (it is invisible and has collision, can place it out of the way in the level) **<<<will be changing this soon**\nOnce the object is placed, it will auto load all other TDV mods you have installed.\n\nAs of this post, this is required to spawn:\nTDV_PinDropperMod\nTDV_PhysicsMenu\nTDV_RMSLoader\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1GatTG4QrzyeGchN20dOXCwdu_ApQn1IY",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1005256236431835299/TDV_ModLoaderICON.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2022-08-05T23:29:23.500000+00:00"
+    },
+    {
+      "ID": "TDV_PinDropperMod.zip",
+      "Name": "TDV_PinDropperMod",
+      "Description": "TDV_PinDropperMod\n**Requires \"TDV_ModLoader\"**\n\nINSTRUCTIONS\nInstall through the gear section of SMM\n\n**Use TDV_ModLoader instructions to make this spawnable.**\n\n\n\n**Once the TDV_ModLoader has been placed --**\n\nHold RB/R1 and double click right stick to spawn dropper, again to spawn skater at pin dropper location\nLeft stick -  move dropper\nRight stick - move camera\nTriggers - Move up/down\nLeft bumper - Hold to move faster\n\n\n\nhttps://streamable.com/lutc9o",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1zCvOhZahZXFn0TnOJYR_4IG307e4siQd",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1005258554292318228/TDV_PinDropperICON.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2022-08-05T23:38:36.109000+00:00"
+    },
+    {
+      "ID": "TDV_RMSLoader.zip",
+      "Name": "TDV_RMSLoader",
+      "Description": "TDV_RMSLoader\n\n**Requires \"TDV_ModLoader\"**\n\n**Instructions**\nFollow TDV_ModLoader instructions to make this spawnable\nInstalls through the gear section of SMM\n\nUpon loading into a level, If the level does not currently support the <@414939259267448832> toolsuite, this mod will load it and create a new save based off the name of the current level to allow toolsuite functionality and saving/loading your spawned NPC's.\n\nMany thanks to <@414939259267448832> for his mod and the help to make sure this loader works properly for the map makers who have not currently added support for his toolsuite. \n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/12TKAVqfRsDiRZvIScBqBaK9aKqg0oPdH",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1005262256986140752/TDV_RMSLoaderICON.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2022-08-05T23:53:18.894000+00:00"
     }
   ]
 }
