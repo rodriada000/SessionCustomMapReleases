@@ -464,6 +464,17 @@
       "UpdatedDate": "2022-08-01T14:50:21.550000+00:00"
     },
     {
+      "ID": "LloydsBig3_v1.zip",
+      "Name": "LloydsBig3_v1",
+      "Description": "Lloyds Big 3\n\nRecreation of a skate spot in the UK.\n\nBig thanks to mtl_ghost & the Primo crew for help with testing!\n\n",
+      "Version": 1,
+      "Author": "JammieDodger#5836",
+      "DownloadLink": "rsmm://GDrive/1Ob28SE5etusOjYI4rf0llJ82Eu964sT8",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1008186994691678238/unknown.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-08-14T01:35:10.592000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -4446,6 +4457,17 @@
       "UpdatedDate": "2022-07-22T12:13:30.813000+00:00"
     },
     {
+      "ID": "HatDoRag.zip",
+      "Name": "HatDoRag",
+      "Description": "",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1008880622787371048/HatDoRag.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1008880622393118871/unknown.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-08-15T23:31:24.747000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -5381,6 +5403,17 @@
       "UpdatedDate": "2022-08-04T23:54:40.510000+00:00"
     },
     {
+      "ID": "Lurpiv.rar",
+      "Name": "Lurpiv",
+      "Description": "Lurpiv Trucks:\n Replaces Destructo 149 Mid\n\n",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://GDrive/11T63HSiv_WA9z8BHsDN2IJO5AD8XHG42",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1008879305696235600/Session_Screenshot_2022.08.15_-_23.36.19.01.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-08-15T23:26:10.506000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -5588,6 +5621,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1004903744774885408/SPIT_FIRE_FACE_RED.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-08-05T00:08:43.325000+00:00"
+    },
+    {
+      "ID": "Glit_5_Green.rar",
+      "Name": "Glit_5_Green",
+      "Description": "Translucent Green Glitter Wheel\nReplaces all Translucent wheels",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1008114449300852896/Glit_5_Green.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1008114449787396137/Session_Screenshot_2022.08.05_-_10.02.24.78.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-08-13T20:46:55.449000+00:00"
+    },
+    {
+      "ID": "Glit_5_Pink.rar",
+      "Name": "Glit_5_Pink",
+      "Description": "Same deal as Green Glitter abover",
+      "Version": 1,
+      "Author": "Dewski_Dude_520#8442",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1008114621338632243/Glit_5_Pink.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1008114621804183712/Session_Screenshot_2022.08.05_-_10.27.29.100.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-08-13T20:47:36.400000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
