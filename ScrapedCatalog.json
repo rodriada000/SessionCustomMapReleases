@@ -1960,6 +1960,28 @@
       "UpdatedDate": "2022-09-04T06:13:08.098000+00:00"
     },
     {
+      "ID": "MMDeck.zip",
+      "Name": "MMDeck",
+      "Description": "My personal deck (replaces Faded BYOB 8.5)",
+      "Version": 1,
+      "Author": "Moose McDunkley#9209",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1016111921142976603/MMDeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1016111921574981682/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-09-04T22:26:00.742000+00:00"
+    },
+    {
+      "ID": "MassacreDeckDrop.zip",
+      "Name": "MassacreDeckDrop",
+      "Description": "A bunch of new Massacre Decks...",
+      "Version": 1,
+      "Author": "cazeyjonez#0237",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1016134475152896040/MassacreDeckDrop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1016134478374109194/SPOILER_Untitled-1.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-09-04T23:55:38.814000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -2838,6 +2860,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1006580147689889894/Session_8_9_2022_11_01_35_PM.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-08-09T15:10:09.609000+00:00"
+    },
+    {
+      "ID": "MMSweater.zip",
+      "Name": "MMSweater",
+      "Description": "MM Hoodie, replaces Jenkem Black",
+      "Version": 1,
+      "Author": "Moose McDunkley#9209",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1016118292320096367/MMSweater.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1016118292089425920/preview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-09-04T22:51:19.704000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -4512,6 +4545,17 @@
       "UpdatedDate": "2022-08-29T07:37:05.697000+00:00"
     },
     {
+      "ID": "HatBackHairJenkem.zip",
+      "Name": "HatBackHairJenkem",
+      "Description": "Hat Backwards with Hair (works Best With <@655928691557138445> 's Team/SessionSpot Hat Textures)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1016067921396641863/HatBackHairJenkem.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1016067921094660277/unknown.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-09-04T19:31:10.270000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -5060,6 +5104,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/992280224651817000/preview.png",
       "Category": "session-characters",
       "UpdatedDate": "2022-07-01T04:07:27.272000+00:00"
+    },
+    {
+      "ID": "Male_Tattoos.rar",
+      "Name": "Male_Tattoos",
+      "Description": "Tattoos for all male characters.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1016094211013103717/Male_Tattoos.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1016094210564296764/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-04T21:15:38.525000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
@@ -5687,6 +5742,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1008114621804183712/Session_Screenshot_2022.08.05_-_10.27.29.100.png",
       "Category": "session-wheels",
       "UpdatedDate": "2022-08-13T20:47:36.400000+00:00"
+    },
+    {
+      "ID": "Outcast Wheel Pack.zip",
+      "Name": "Outcast Wheel Pack",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://GDrive/1ohMKrvhcnx6PO4AQH0Mvs-AzkZzrRHYM",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1016173219885105232/OUTCAST.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-09-05T02:30:02.536000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
