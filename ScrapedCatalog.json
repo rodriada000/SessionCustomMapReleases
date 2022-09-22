@@ -5304,6 +5304,17 @@
       "UpdatedDate": "2022-09-16T10:23:47.162000+00:00"
     },
     {
+      "ID": "Hex_Sunglasses.rar",
+      "Name": "Hex_Sunglasses",
+      "Description": "Last mod before 1.0 Hexagonal Sunglasses. Just for male 1 for now, will add other characters later.",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1022293065618178058/Hex_Sunglasses.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1022293065303601222/Screenshot_7.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-21T23:47:40.249000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
