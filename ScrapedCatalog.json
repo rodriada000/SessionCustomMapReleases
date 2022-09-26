@@ -2125,6 +2125,28 @@
       "UpdatedDate": "2022-09-25T21:31:29.999000+00:00"
     },
     {
+      "ID": "Massacre_Deck_Drop_V1.zip",
+      "Name": "Massacre_Deck_Drop_V1",
+      "Description": "Some new Massacre Decks\nReplaces a few Madrid boards",
+      "Version": 1,
+      "Author": "cazeyjonez#0237",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1023880150254882836/Massacre_Deck_Drop_V1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1023880148522651768/Session_26_09_2022_09_47_25.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-09-26T08:54:10.677000+00:00"
+    },
+    {
+      "ID": "board_WARRIORPROS4rogers.zip",
+      "Name": "board_WARRIORPROS4rogers",
+      "Description": "Replace 4x Roger Decks (8.5)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1023966011847872564/board_WARRIORPROS4rogers.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1023965979732103250/62391176-7CAD-49D7-B41A-2A949826B546.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-09-26T14:35:21.663000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -6336,6 +6358,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1005262256986140752/TDV_RMSLoaderICON.png",
       "Category": "session-meshes",
       "UpdatedDate": "2022-08-05T23:53:18.894000+00:00"
+    },
+    {
+      "ID": "TDV_PlaceableSkateboard.zip",
+      "Name": "TDV_PlaceableSkateboard",
+      "Description": "Placeable Skateboards Object Dropper\n**Replaces Parking Block**\n\nWill read the current board you have equipped.\nIf you want multiple different boards placed, you will have to be on a level where you can buy a new board as it will reset to your current board at level start.\nYou can place a board, go buy a new setup, place, buy another... place....... rinse repeat. \n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1QHmcdJG3AutoyHQ-X1IRpfVFfRp3fODW",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1023883643745214515/unknown.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2022-09-26T09:08:03.443000+00:00"
     }
   ]
 }
