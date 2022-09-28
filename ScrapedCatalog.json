@@ -2180,6 +2180,17 @@
       "UpdatedDate": "2022-09-27T19:02:51.462000+00:00"
     },
     {
+      "ID": "DGK_Tuner_Deck.rar",
+      "Name": "DGK_Tuner_Deck",
+      "Description": "DGK Tuner Deck (Replaces DGK Viper 8.38)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1024669997248823346/DGK_Tuner_Deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1024669996770664538/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-09-28T13:12:44.878000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5678,6 +5689,204 @@
       "UpdatedDate": "2022-09-26T16:23:25.412000+00:00"
     },
     {
+      "ID": "Crew_Socks_White.rar",
+      "Name": "Crew_Socks_White",
+      "Description": "Crew Socks (White).",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024707193628545044/Crew_Socks_White.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024707193288802314/White.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:40:33.199000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Black.rar",
+      "Name": "Crew_Socks_Black",
+      "Description": "Crew Socks (Black).",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024707312159555766/Crew_Socks_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024707311748526080/black.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:41:01.452000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Vans.rar",
+      "Name": "Crew_Socks_Vans",
+      "Description": "Crew Socks (Vans).",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024707525343449209/Crew_Socks_Vans.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024707524965978214/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:41:52.281000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Heinous_Black.rar",
+      "Name": "Crew_Socks_Heinous_Black",
+      "Description": "Crew Socks (Heinous). Credit to Tipahdis for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024707836883779584/Crew_Socks_Heinous_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024707836514685038/spam.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:43:06.497000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Heinous_Red.rar",
+      "Name": "Crew_Socks_Heinous_Red",
+      "Description": "Crew Socks (Heinous). Credit to Tipahdis for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024708045370036234/Crew_Socks_Heinous_Red.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024708044933836863/red.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:43:56.245000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Buildabong.rar",
+      "Name": "Crew_Socks_Buildabong",
+      "Description": "Crew Socks (Bildabong). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024708453542928444/Crew_Socks_Buildabong.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024708453152866398/bong.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:45:33.578000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_FlatSpot.rar",
+      "Name": "Crew_Socks_FlatSpot",
+      "Description": "Crew Socks (FlatSpot). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024708611563335740/Crew_Socks_FlatSpot.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024708611219394570/flat.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:46:11.255000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_KOH.rar",
+      "Name": "Crew_Socks_KOH",
+      "Description": "Crew Socks (KOH). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024708755230822460/Crew_Socks_KOH.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024708754857533490/koh.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:46:45.541000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Push_Mongo_Black_Teal.rar",
+      "Name": "Crew_Socks_Push_Mongo_Black_Teal",
+      "Description": "Crew Socks (Push Mongo). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024708948839903282/Crew_Socks_Push_Mongo_Black_Teal.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024708948470808597/mongo_black.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:47:31.658000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Push_Mongo_White_Teal.rar",
+      "Name": "Crew_Socks_Push_Mongo_White_Teal",
+      "Description": "Crew Socks (Push Mongo). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709074660638780/Crew_Socks_Push_Mongo_White_Teal.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709068738273320/mongo_white.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:48:01.695000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Push_Mongo_Cart_White.rar",
+      "Name": "Crew_Socks_Push_Mongo_Cart_White",
+      "Description": "Crew Socks (Push Mongo). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709262619967600/Crew_Socks_Push_Mongo_Cart_White.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709262250876979/cart_green.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:48:46.459000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Push_Mongo_White_Teal.rar",
+      "Name": "Crew_Socks_Push_Mongo_White_Teal",
+      "Description": "Crew Socks (Push Mongo). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709325656182784/Crew_Socks_Push_Mongo_White_Teal.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709325320630382/cart_White.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:49:01.489000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Seshcord.rar",
+      "Name": "Crew_Socks_Seshcord",
+      "Description": "Crew Socks (Seshcord). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709471190130788/Crew_Socks_Seshcord.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709470837805086/seshcord.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:49:36.211000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Sesher_Black.rar",
+      "Name": "Crew_Socks_Sesher_Black",
+      "Description": "Crew Socks (Sesher). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709658172211200/Crew_Socks_Sesher_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709657811496960/sesherb.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:50:21.061000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Sesher_White.rar",
+      "Name": "Crew_Socks_Sesher_White",
+      "Description": "Crew Socks (Sesher). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709777395290193/Crew_Socks_Sesher_White.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709777080725545/sesherw.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:50:49.205000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Superb_Fade_Red.rar",
+      "Name": "Crew_Socks_Superb_Fade_Red",
+      "Description": "Crew Socks (Superb). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024709824849641543/Crew_Socks_Superb_Fade_Red.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024709824451186870/red_fade.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:51:00.576000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Superb_Fade_White.rar",
+      "Name": "Crew_Socks_Superb_Fade_White",
+      "Description": "Crew Socks (Superb). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024710134162796564/Crew_Socks_Superb_Fade_White.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024710133823066183/white_fade.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:52:14.680000+00:00"
+    },
+    {
+      "ID": "Crew_Socks_Superb_Fade_White.rar",
+      "Name": "Crew_Socks_Superb_Fade_White",
+      "Description": "Crew Socks (Superb). Credit to Suco for the textures.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1024710264362373170/Crew_Socks_Superb_Fade_White.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1024710264035213392/superb.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-09-28T15:52:45.302000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
@@ -6140,6 +6349,17 @@
       "UpdatedDate": "2022-09-27T18:58:53.219000+00:00"
     },
     {
+      "ID": "pumpkinAUTHORITYGkspark.zip",
+      "Name": "pumpkinAUTHORITYGkspark",
+      "Description": "GKSpark Replace.",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1024556813531762700/pumpkinAUTHORITYGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1024556813095538708/Session_28.09.2022_07_41_56.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-09-28T05:42:59.776000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -6402,6 +6622,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1023103248116232212/Session_24.09.2022_07_26_01.png",
       "Category": "session-wheels",
       "UpdatedDate": "2022-09-24T05:27:36.985000+00:00"
+    },
+    {
+      "ID": "Spitfire_Classic_1.0.rar",
+      "Name": "Spitfire_Classic_1.0",
+      "Description": "Spitfire Classic (Replaces Haze Prime Cut 52)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1024673098273914920/Spitfire_Classic_1.0.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1024673097930002582/unknown.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-09-28T13:25:04.277000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
