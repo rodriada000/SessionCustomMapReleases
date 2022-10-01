@@ -508,6 +508,17 @@
       "UpdatedDate": "2022-09-27T03:16:47.618000+00:00"
     },
     {
+      "ID": "Leeside.zip",
+      "Name": "Leeside",
+      "Description": "Leeside Skatepark\nVancouver, BC\nBy <@299916826475757568> \nPorted from XL by me.\nPreview pic by <@491213114637811722> \n\n",
+      "Version": 1,
+      "Author": "RicoSuaveGames#4979",
+      "DownloadLink": "rsmm://GDrive/1X6MUMsJ27RrkPz1PkdgbEOX_EASW9e0x",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1025681815110955048/Leeside.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-10-01T08:13:20.905000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3654,6 +3665,17 @@
       "UpdatedDate": "2022-09-30T07:03:23.892000+00:00"
     },
     {
+      "ID": "SOFTPANTSX19.rar",
+      "Name": "SOFTPANTSX19",
+      "Description": "Soft pants x19 (Replaces all straight cuts)",
+      "Version": 1,
+      "Author": "Seeblunted#9657",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1025775144142110882/SOFTPANTSX19.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1025775143752044555/unknown.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-01T14:24:12.432000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -4433,6 +4455,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1025584527374028820/2022-09-30_16.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-10-01T01:46:45.647000+00:00"
+    },
+    {
+      "ID": "COURTS2replacesaccels.rar",
+      "Name": "COURTS2replacesaccels",
+      "Description": "2step Courts II (Replaces all eS Accel ogs)",
+      "Version": 1,
+      "Author": "Seeblunted#9657",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1025665527428960296/COURTS2replacesaccels.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1025665527017906236/unknown.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-01T07:08:37.755000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
@@ -6613,6 +6646,28 @@
       "UpdatedDate": "2022-09-30T19:42:33.014000+00:00"
     },
     {
+      "ID": "AuthorityGoldSilverGkspark.zip",
+      "Name": "AuthorityGoldSilverGkspark",
+      "Description": "GKSPARK replace...",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1025719821565956168/AuthorityGoldSilverGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1025719821263982632/Session_01.10.2022_12_42_22.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-01T10:44:22.488000+00:00"
+    },
+    {
+      "ID": "AuthorityROSEgk6.zip",
+      "Name": "AuthorityROSEgk6",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1025759820827086848/AuthorityROSEgk6.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1025760159026388993/Session_01.10.2022_15_19_56.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-01T13:24:39.782000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -6886,6 +6941,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1024673097930002582/unknown.png",
       "Category": "session-wheels",
       "UpdatedDate": "2022-09-28T13:25:04.277000+00:00"
+    },
+    {
+      "ID": "ETAKSreplace4xHAZE.zip",
+      "Name": "ETAKSreplace4xHAZE",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1025646432977428521/ETAKSreplace4xHAZE.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1025646435762438194/142EAFD1-D518-4CD4-91AB-6829D0A670E2.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-10-01T05:52:45.897000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
