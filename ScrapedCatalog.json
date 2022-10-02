@@ -519,6 +519,17 @@
       "UpdatedDate": "2022-10-01T08:13:20.905000+00:00"
     },
     {
+      "ID": "Coorparoo.zip",
+      "Name": "Coorparoo",
+      "Description": "Coorparoo Skatepark\n\n\n\nTrailer by <@740323199916572703> \nhttps://www.youtube.com/watch?v=N4GDAP4p-c0",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/14nz800_U8ETCCQgYDYnywAcVXM1i24FB",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1025829268623720488/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-10-01T17:59:16.456000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -4666,6 +4677,28 @@
       "UpdatedDate": "2022-09-28T00:31:29.631000+00:00"
     },
     {
+      "ID": "Shake_Junt_Grip.rar",
+      "Name": "Shake_Junt_Grip",
+      "Description": "Shake Junt Grips (Replaces Mob Grips)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1025889494320283739/Shake_Junt_Grip.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1025889494014111824/unknown.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-01T21:58:35.686000+00:00"
+    },
+    {
+      "ID": "Deathwish_Grips.rar",
+      "Name": "Deathwish_Grips",
+      "Description": "Deathwish Griptape (Replaces Magenta Grips)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1025890931423051796/Deathwish_Grips.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1025890904642441336/unknown.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-01T22:04:18.260000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -6666,6 +6699,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1025760159026388993/Session_01.10.2022_15_19_56.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-01T13:24:39.782000+00:00"
+    },
+    {
+      "ID": "DirtNastyAUTHORITYGkspark.zip",
+      "Name": "DirtNastyAUTHORITYGkspark",
+      "Description": "Authority DirtNasty Pro Model replacemGK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1025841345887215656/DirtNastyAUTHORITYGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1025841345270657054/Session_01.10.2022_20_43_26.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-01T18:47:16.142000+00:00"
+    },
+    {
+      "ID": "Thunder_Sonora_Black.rar",
+      "Name": "Thunder_Sonora_Black",
+      "Description": "Thunder Sonora Black (Replaces Destructo D1 Raw Mid)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1025867568281563156/Thunder_Sonora_Black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1025867567480451154/20221001210244_1.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-01T20:31:28.057000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
