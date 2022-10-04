@@ -2323,6 +2323,61 @@
       "UpdatedDate": "2022-10-03T13:16:33.783000+00:00"
     },
     {
+      "ID": "BOARD4xMEOW.zip",
+      "Name": "BOARD4xMEOW",
+      "Description": "Replace 3x MEOW GREEN Logo 1x MEOW Precarious",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1026783821426872380/BOARD4xMEOW.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1026783818776059974/2EE33937-48EC-4836-BD3D-E9F4DD6C00B7.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-04T09:12:19.757000+00:00"
+    },
+    {
+      "ID": "hockey_littlerock.zip",
+      "Name": "hockey_littlerock",
+      "Description": "hockey little rock deck (replaces zero \"painkiller\")",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1026847766804189204/hockey_littlerock.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1026847766590259224/20221004061332_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-04T13:26:25.599000+00:00"
+    },
+    {
+      "ID": "exalt.zip",
+      "Name": "exalt",
+      "Description": "halloween stickers exalt deck (replaces madrid \"explosion white 8.5\")",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1026849173007503380/exalt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1026849172793602078/20221004052245_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-04T13:32:00.876000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Foil_Decks.zip",
+      "Name": "Schlaudie_Foil_Decks",
+      "Description": "A collaboration between Noddy and I.  Replaces Schlaudie decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1026850726774845560/Schlaudie_Foil_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1026850680977227807/SMMFoils.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-04T13:38:11.307000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Grip_Cutouts_Alt_Tops.zip",
+      "Name": "Schlaudie_Grip_Cutouts_Alt_Tops",
+      "Description": "A collaboration between Noddy and I.  New top layers and grip cutouts for the schlaudie decks.  MATCH DECK & GRIP @ SHOP & APP.  Works great with foils if in stalled after.  Red from flag is shining on the Treasure Map top in pic.  Its not red like that.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1026850823562600568/Schlaudie_Grip_Cutouts_Alt_Tops.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1026850797604065370/SMMtopGrips.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-04T13:38:34.465000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3775,6 +3830,17 @@
       "UpdatedDate": "2022-10-03T05:15:40.335000+00:00"
     },
     {
+      "ID": "Shorts.rar",
+      "Name": "Shorts",
+      "Description": "Male Shorts Replaces Baggy Pants",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1026734615697825872/Shorts.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1026734615383265310/short.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-04T05:56:48.276000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -4906,6 +4972,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1026258698412240966/Screenshot_2022-10-02_180026.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-02T22:25:41.027000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Alt_Tops__Grip_Cutouts.zip",
+      "Name": "Schlaudie_Alt_Tops__Grip_Cutouts",
+      "Description": "A collaboration between Noddy and I.  New top layers and grip cutouts for the schlaudie decks.  MATCH DECK & GRIP @ SHOP & APP.   Red from flag is shining on the Treasure Map top in pic.  Its not red like that.  Works great with foils if in stalled after.  Schlaudie foils found here https://discord.com/channels/612703594134634498/943801688513454080/1026850681337942086",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1026851036209619054/Schlaudie_Alt_Tops__Grip_Cutouts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1026851009538031696/SMMtopGrips.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-04T13:39:25.092000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -7029,6 +7106,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026563875363106898/Substance_Painter_-_Unity_HD_Render_Pipeline_Metallic_Standard_Read_only_03.10.2022_20_24_45.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-03T18:38:20.805000+00:00"
+    },
+    {
+      "ID": "RustUsedAuthoritykreeper.zip",
+      "Name": "RustUsedAuthoritykreeper",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1026765956267114586/RustUsedAuthoritykreeper.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026765955994497034/Substance_Painter_-_SESSIONgkkreper_04.10.2022_09_51_31.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-04T08:01:20.455000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
