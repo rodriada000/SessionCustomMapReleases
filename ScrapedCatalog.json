@@ -4644,6 +4644,17 @@
       "UpdatedDate": "2022-10-03T15:16:07.336000+00:00"
     },
     {
+      "ID": "DCWilliams.zip",
+      "Name": "DCWilliams",
+      "Description": "DC Williams [Replaces Sal23] [Male n Female] ",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1WrlXzpSqX6RBBjMx3WUiB2H42_rpzPQq",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1026556629497417808/unknown-5.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-03T18:09:32.941000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -6987,6 +6998,39 @@
       "UpdatedDate": "2022-10-03T15:02:44.091000+00:00"
     },
     {
+      "ID": "ZIM2.ProGkspark.zip",
+      "Name": "ZIM2.ProGkspark",
+      "Description": "Zim 2.Pro Authority replace GKSpark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1026524544187506738/ZIM2.ProGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026524543487058081/Session_03.10.2022_18_01_10.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-03T16:02:03.322000+00:00"
+    },
+    {
+      "ID": "AuthorityIRISHTEMPERGkspark.zip",
+      "Name": "AuthorityIRISHTEMPERGkspark",
+      "Description": "Authority IRISHTEMPER Pro (GKSPARK)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1026543819249963048/AuthorityIRISHTEMPERGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026543819887489024/Session_03.10.2022_19_15_00.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-03T17:18:39.016000+00:00"
+    },
+    {
+      "ID": "AuthoritySTARgkkreper.zip",
+      "Name": "AuthoritySTARgkkreper",
+      "Description": "replace GK Kreper",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1026563876227121152/AuthoritySTARgkkreper.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026563875363106898/Substance_Painter_-_Unity_HD_Render_Pipeline_Metallic_Standard_Read_only_03.10.2022_20_24_45.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-03T18:38:20.805000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -7293,6 +7337,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1026505745392480286/Session_03_10_2022_15_44_02.png",
       "Category": "session-wheels",
       "UpdatedDate": "2022-10-03T14:47:36.167000+00:00"
+    },
+    {
+      "ID": "Raw_Bearings.rar",
+      "Name": "Raw_Bearings",
+      "Description": "Pops the shields off the bearings",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1026677503634440253/Raw_Bearings.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1026677503349248030/Raw_Bearings.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-10-04T02:09:51.826000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
