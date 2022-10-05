@@ -2378,6 +2378,28 @@
       "UpdatedDate": "2022-10-04T13:38:34.465000+00:00"
     },
     {
+      "ID": "Bam-heartagram.zip",
+      "Name": "Bam-heartagram",
+      "Description": "Classic Element  Bam heartagram deck (replaces Almost scum-red deck)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027045973530255420/Bam-heartagram.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027045973962264576/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-05T02:34:01.889000+00:00"
+    },
+    {
+      "ID": "GIRL_MCCRANK_SKULL_OF_FAME.zip",
+      "Name": "GIRL_MCCRANK_SKULL_OF_FAME",
+      "Description": "Girl- McCrank skull of fame deck (replaces Almost mostly red deck)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027054646591750144/GIRL_MCCRANK_SKULL_OF_FAME.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027054647065710612/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-05T03:08:29.729000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3454,6 +3476,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1026362536863486023/SessionGame-Win64-Shipping_gxtp8UZOxp.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-03T05:18:17.738000+00:00"
+    },
+    {
+      "ID": "slipknot_hoody_rep_default_blak.rar",
+      "Name": "slipknot_hoody_rep_default_blak",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1027036735823151215/slipknot_hoody_rep_default_blak.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027036736280350760/Session_Screenshot_2022.10.01_-_02.13.07.28.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-05T01:57:19.731000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -4985,6 +5018,17 @@
       "UpdatedDate": "2022-10-04T13:39:25.092000+00:00"
     },
     {
+      "ID": "massacregrip_rep.magentacam1.rar",
+      "Name": "massacregrip_rep.magentacam1",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1027036018878193714/massacregrip_rep.magentacam1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1027036018194530405/Session_Screenshot_2022.10.02_-_12.03.26.81.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-05T01:54:28.403000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -6481,6 +6525,116 @@
       "UpdatedDate": "2022-10-03T02:21:56.761000+00:00"
     },
     {
+      "ID": "Bones.rar",
+      "Name": "Bones",
+      "Description": "here comes the weird shit. \n\nBones\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1aimIGPNwd36MkjqjeQpCmdqlMTJyl9Hh",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026916388394250290/bones.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T17:59:11.430000+00:00"
+    },
+    {
+      "ID": "Postal guy.rar",
+      "Name": "Postal guy",
+      "Description": "Postal guy\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1HrVnCpIpJCQJ5HlB0QZqBtffBDOC1LtT",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026916521987018752/postal.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:00:00.471000+00:00"
+    },
+    {
+      "ID": "John Wick.rar",
+      "Name": "John Wick",
+      "Description": "John Wick\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1LsupFp7af3zC418OjPI2iH-NZ2HsCamO",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026916697409585243/wick.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:00:36.855000+00:00"
+    },
+    {
+      "ID": "Goku 1.rar",
+      "Name": "Goku 1",
+      "Description": "Goku\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/12zUjq971NhIWdfkz7UiLZ2H32oNrBsSW",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026916864691011684/goku1.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:01:12.696000+00:00"
+    },
+    {
+      "ID": "Nep.rar",
+      "Name": "Nep",
+      "Description": "Nep\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/13QRvQYYW3vHSpedx6OGMtRlKXwa6A4Ch",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026916994903199905/nep.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:01:43.179000+00:00"
+    },
+    {
+      "ID": "Rayman.rar",
+      "Name": "Rayman",
+      "Description": "Rayman\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1GVxPURujO6sPGNHfuy1-JE8paTNz-oqZ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917102097023036/rayman.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:02:08.822000+00:00"
+    },
+    {
+      "ID": "Donatello.rar",
+      "Name": "Donatello",
+      "Description": "Donatello\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1p5cpYR7sdBUAnbHvHvkQUMsuv1BdzYWQ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917238562881567/tmnt.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:02:42.249000+00:00"
+    },
+    {
+      "ID": "Raphael.rar",
+      "Name": "Raphael",
+      "Description": "Raphael\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1wDxfgH3adwr_d7X-cb2YaDeeZAUf0vqy",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917398638493706/tmnt.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:03:19.999000+00:00"
+    },
+    {
+      "ID": "Michelangelo.rar",
+      "Name": "Michelangelo",
+      "Description": "Michelangelo\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1D6fXaV5zuOXBD1MrLMDvh5CFtltvTBo-",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917520185237596/tmnt.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:03:48.172000+00:00"
+    },
+    {
+      "ID": "Leonardo.rar",
+      "Name": "Leonardo",
+      "Description": "Leonardo\n\nreplaces Ribsman",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1IM0yUlmLWOu1sTxHWIlm3MEislMcnMTb",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917663567515698/tmnt.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-04T18:04:21.882000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
@@ -7117,6 +7271,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026765955994497034/Substance_Painter_-_SESSIONgkkreper_04.10.2022_09_51_31.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-04T08:01:20.455000+00:00"
+    },
+    {
+      "ID": "GoldCopperChromeAUTHORITY.zip",
+      "Name": "GoldCopperChromeAUTHORITY",
+      "Description": "replace GK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1026903582416568421/GoldCopperChromeAUTHORITY.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026903580919201813/Session_04.10.2022_19_06_57.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-04T17:08:13.104000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
