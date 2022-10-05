@@ -2400,6 +2400,39 @@
       "UpdatedDate": "2022-10-05T03:08:29.729000+00:00"
     },
     {
+      "ID": "TOYMACHINE3flatface.zip",
+      "Name": "TOYMACHINE3flatface",
+      "Description": "Toy Machine 3 colors replace all 3 Flatface",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027072346776928297/TOYMACHINE3flatface.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027072346445586512/Session_05.10.2022_06_15_50.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-05T04:18:49.621000+00:00"
+    },
+    {
+      "ID": "Massacre_Horror_Decks.zip",
+      "Name": "Massacre_Horror_Decks",
+      "Description": "Coming up to Halloween, so here's a bunch of horror poster decks - replaces DGK",
+      "Version": 1,
+      "Author": "cazeyjonez#0237",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027151810194055208/Massacre_Horror_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027151810546380840/decks_Cover.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-05T09:34:35.356000+00:00"
+    },
+    {
+      "ID": "passport_violets.zip",
+      "Name": "passport_violets",
+      "Description": "passport violets deck (replaces zero \"damn it all\")",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027160920570462218/passport_violets.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027160920356565074/20221005030803_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-05T10:10:47.266000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3487,6 +3520,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027036736280350760/Session_Screenshot_2022.10.01_-_02.13.07.28.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-05T01:57:19.731000+00:00"
+    },
+    {
+      "ID": "Diamond_Hoodie.rar",
+      "Name": "Diamond_Hoodie",
+      "Description": "Diamond Supply Hoodie (Replaces Purple Flatface Hoodie)",
+      "Version": 1,
+      "Author": "Tazz#0093",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1027225996073644042/Diamond_Hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027225999970156584/Diamond_Supply_Hoodie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-05T14:29:23.419000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -5027,6 +5071,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1027036018194530405/Session_Screenshot_2022.10.02_-_12.03.26.81.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-05T01:54:28.403000+00:00"
+    },
+    {
+      "ID": "5StickyGripsREPLACEmagenta.zip",
+      "Name": "5StickyGripsREPLACEmagenta",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1027214779334541342/5StickyGripsREPLACEmagenta.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1027214779036733460/sdddddd.jpg",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-05T13:44:48.161000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -7282,6 +7337,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1026903580919201813/Session_04.10.2022_19_06_57.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-04T17:08:13.104000+00:00"
+    },
+    {
+      "ID": "AUTHORITYheartagramgk6.zip",
+      "Name": "AUTHORITYheartagramgk6",
+      "Description": "replace GK6",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1027241329559871568/AUTHORITYheartagramgk6.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1027241328750362624/Session_05.10.2022_17_26_09.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-05T15:30:18.283000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
