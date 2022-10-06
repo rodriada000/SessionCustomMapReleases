@@ -2466,6 +2466,17 @@
       "UpdatedDate": "2022-10-06T00:47:31.231000+00:00"
     },
     {
+      "ID": "BlindDeckTiles.rar",
+      "Name": "BlindDeckTiles",
+      "Description": "Blind Tiles Deck (replaces jart 8.375 deck)",
+      "Version": 1,
+      "Author": "SteezyJ.Skate#0372",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027493946403864576/BlindDeckTiles.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027493945560793128/Session_Screenshot_2022.10.06_-_00.50.24.65.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-06T08:14:06.823000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4873,6 +4884,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1027398333926486086/C478CC6A-CF6F-4D98-8B25-35E01F31E26F.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2022-10-06T01:54:34.082000+00:00"
+    },
+    {
+      "ID": "Down_Margarine.rar",
+      "Name": "Down_Margarine",
+      "Description": "replace Fallen The Easy and Fallen Trooper thx <@537055098354925569> ^^",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1027601304966664353/Down_Margarine.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1027601304681447495/Foto_06.10.22_12_43_08.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-06T15:20:43.093000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
@@ -7436,6 +7458,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1027266195428221049/Session_05.10.2022_19_07_30.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-05T17:09:06.887000+00:00"
+    },
+    {
+      "ID": "AuthorityHOODYGkspark.zip",
+      "Name": "AuthorityHOODYGkspark",
+      "Description": "Authority Pro Model <@405774094278328321> replace GK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1027583341333074021/AuthorityHOODYGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1027583340435484702/Session_06.10.2022_16_06_01.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-06T14:09:20.265000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
