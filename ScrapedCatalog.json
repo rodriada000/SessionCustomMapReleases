@@ -2510,6 +2510,28 @@
       "UpdatedDate": "2022-10-06T22:13:27.877000+00:00"
     },
     {
+      "ID": "BOARDhorrorMadrid.zip",
+      "Name": "BOARDhorrorMadrid",
+      "Description": "replace 6 Madrid Decks 8.25-8.5",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027933870550700082/BOARDhorrorMadrid.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027933861847519263/FECCA4DA-FF3C-4DFC-8E79-0DB93ED7EC37.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-07T13:22:12.905000+00:00"
+    },
+    {
+      "ID": "JovontaeAtNight.zip",
+      "Name": "JovontaeAtNight",
+      "Description": "classic Jovontae Turner \"Jovontae At Night\" deck. Replaces Very Big Egg 10.0",
+      "Version": 1,
+      "Author": "FashowThaFoola#6344",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1027967292111323207/JovontaeAtNight.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1027967503705579520/Picsart_22-10-07_09-38-32-187.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-07T15:35:51.678000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3641,6 +3663,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027618474614341683/RWH_Thumb.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-06T16:28:56.769000+00:00"
+    },
+    {
+      "ID": "Bladee_Virus_Tee.zip",
+      "Name": "Bladee_Virus_Tee",
+      "Description": "Bladee Virus tee (Replaces tan Flatface tee)",
+      "Version": 1,
+      "Author": "b \ud835\ude98 z \ud835\ude98 n \ud835\ude8e r#7907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1027933382425989161/Bladee_Virus_Tee.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027933382853791845/BVT_Thumb.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-07T13:20:16.839000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
