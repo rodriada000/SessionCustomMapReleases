@@ -2532,6 +2532,17 @@
       "UpdatedDate": "2022-10-07T15:35:51.678000+00:00"
     },
     {
+      "ID": "Wolverine_Decks.zip",
+      "Name": "Wolverine_Decks",
+      "Description": "Replaces two roger decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1028416003295686696/Wolverine_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1028415978712875038/MTVUSMMboards.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-08T21:18:02.306000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3674,6 +3685,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1027933382853791845/BVT_Thumb.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-07T13:20:16.839000+00:00"
+    },
+    {
+      "ID": "Mazzy_Star_Faded_shirt.zip",
+      "Name": "Mazzy_Star_Faded_shirt",
+      "Description": "Mazzy star shirt - replaces Jenkem white t-shirt",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1028340404573180047/Mazzy_Star_Faded_shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028340405382676551/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-08T16:17:38.320000+00:00"
+    },
+    {
+      "ID": "Wu_Tang_Hoodie_Tan.rar",
+      "Name": "Wu_Tang_Hoodie_Tan",
+      "Description": "Wu-Tang Clan Hoodie (replaces Flatface Tan Hoodie)",
+      "Version": 1,
+      "Author": "Brxndo#0002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1028405271187423284/Wu_Tang_Hoodie_Tan.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028405270877061132/Screenshot_2022-10-08_163422.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-08T20:35:23.575000+00:00"
+    },
+    {
+      "ID": "vrocks_Ts.rar",
+      "Name": "vrocks_Ts",
+      "Description": "Virginity Rocks Ts (replaces Blind Shirts)",
+      "Version": 1,
+      "Author": "Brxndo#0002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1028413283566354462/vrocks_Ts.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028413282761060372/Screenshot_2022-10-08_170414.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-08T21:07:13.887000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -5964,6 +6008,17 @@
       "UpdatedDate": "2022-09-29T11:48:21.081000+00:00"
     },
     {
+      "ID": "Monster_Energy_Hat.zip",
+      "Name": "Monster_Energy_Hat",
+      "Description": "Replaces Jenkem hat.  MUST USE 1 OF 2 MODS BELOW TO MAKE IT WORK.  One says backwards and has hair, the other is forwards no hair.  Install one of bottom two first then monster hat.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1028416281700999258/Monster_Energy_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1028416230123655189/MTVUSMM.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-08T21:19:08.684000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -7656,6 +7711,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1028215477748645999/Session_08.10.2022_09_58_41.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-08T08:01:13.376000+00:00"
+    },
+    {
+      "ID": "Thunder_Malto_Hollow_Lights.rar",
+      "Name": "Thunder_Malto_Hollow_Lights",
+      "Description": "Thunder Trucks Malto Hollow Lights\n\nReplaces Destructo 149",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1028395643099697152/Thunder_Malto_Hollow_Lights.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1028395642801893416/Session_Screenshot_2022.10.08_-_20.52.51.50.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-08T19:57:08.055000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
