@@ -2543,6 +2543,17 @@
       "UpdatedDate": "2022-10-08T21:18:02.306000+00:00"
     },
     {
+      "ID": "3requests.zip",
+      "Name": "3requests",
+      "Description": "3Requests(AWS,Blind,Revive) replace all 3 Flatface (8.25)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1028634969171574784/3requests.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1028634969549053992/Fotos_09.10.2022_13_44_40.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-09T11:48:07.919000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3718,6 +3729,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028413282761060372/Screenshot_2022-10-08_170414.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-08T21:07:13.887000+00:00"
+    },
+    {
+      "ID": "Misfits_T.rar",
+      "Name": "Misfits_T",
+      "Description": "Misfits T (replaces jenkem black t)",
+      "Version": 1,
+      "Author": "Brxndo#0002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1028613178004873306/Misfits_T.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028613177677725796/Screenshot_2022-10-09_061955.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-09T10:21:32.424000+00:00"
+    },
+    {
+      "ID": "WuWear.zip",
+      "Name": "WuWear",
+      "Description": "Wu Wear Shirts(replaces white/yellow No-Comply shirts)",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1028690425344700486/WuWear.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1028690424686194698/Session_10_9_2022_11_20_49_AM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-09T15:28:29.622000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -7722,6 +7755,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1028395642801893416/Session_Screenshot_2022.10.08_-_20.52.51.50.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-08T19:57:08.055000+00:00"
+    },
+    {
+      "ID": "Authoritytrippykreper.zip",
+      "Name": "Authoritytrippykreper",
+      "Description": "GK Kreeper replace",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1028671171597717594/Authoritytrippykreper.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1028671170750447636/Substance_Painter_-_SESSIONgkkreper_09.10.2022_15_09_42.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-09T14:11:59.168000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
