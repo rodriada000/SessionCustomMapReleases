@@ -3907,6 +3907,17 @@
       "UpdatedDate": "2022-10-11T08:06:04.871000+00:00"
     },
     {
+      "ID": "Salem_Pack.zip",
+      "Name": "Salem_Pack",
+      "Description": "Salem merch pack (Replaces Flatface purple hoodie, Rick & Morty t-shirt and black/yellow Jenkem hat)",
+      "Version": 1,
+      "Author": "b \ud835\ude98 z \ud835\ude98 n \ud835\ude8e r#7907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1029766042236493934/Salem_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1029766042634944582/Thumbn_slm.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-12T14:42:36.789000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -8030,6 +8041,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1029422689024229516/Substance_Painter_-_GKSPARKindylookSESSION_11.10.2022_17_46_36.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-11T15:58:15.150000+00:00"
+    },
+    {
+      "ID": "AuthorityMONSTAgkkreper.zip",
+      "Name": "AuthorityMONSTAgkkreper",
+      "Description": "GK Kreper",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1029762901982068766/AuthorityMONSTAgkkreper.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1029762898433687652/Session_12.10.2022_16_28_49.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-12T14:30:07.962000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
