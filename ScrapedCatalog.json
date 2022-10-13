@@ -2642,6 +2642,17 @@
       "UpdatedDate": "2022-10-11T02:27:29.939000+00:00"
     },
     {
+      "ID": "Supreme_ScarHeroDecks.zip",
+      "Name": "Supreme_ScarHeroDecks",
+      "Description": "Supreme Scarface & Antihero/Supreme collab decks!\n\nReplaces two Suger decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1029813575528763463/Supreme_ScarHeroDecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1029813153900544051/MTVUSMMDecks.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-12T17:51:29.503000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -3916,6 +3927,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1029766042634944582/Thumbn_slm.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-12T14:42:36.789000+00:00"
+    },
+    {
+      "ID": "SupremeBandanaLogoTs.zip",
+      "Name": "SupremeBandanaLogoTs",
+      "Description": "Replaces two No-Comply shirts",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1029813758605938708/SupremeBandanaLogoTs.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1029813663030333440/MTVUSMMTs.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-12T17:52:13.144000+00:00"
+    },
+    {
+      "ID": "ZooYorkHoodie.zip",
+      "Name": "ZooYorkHoodie",
+      "Description": "Zoo York \"Blockletters\" hoodie (replaces the black hoodie)",
+      "Version": 1,
+      "Author": "b \ud835\ude98 z \ud835\ude98 n \ud835\ude8e r#7907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1029870968061034547/ZooYorkHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1029870968505630740/ZY.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-12T21:39:33.044000+00:00"
+    },
+    {
+      "ID": "Irish_Breathalyzer_shirt.zip",
+      "Name": "Irish_Breathalyzer_shirt",
+      "Description": "Done by request.  Replaces first No-Comply shirt",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1029899502204755998/Irish_Breathalyzer_shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1029899475398971392/MTVUSMMshirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-12T23:32:56.007000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -5348,6 +5392,17 @@
       "UpdatedDate": "2022-10-11T13:28:29.515000+00:00"
     },
     {
+      "ID": "antifergbootsrepesexplorer.zip",
+      "Name": "antifergbootsrepesexplorer",
+      "Description": "anti ferg (just a recook added some mask) rep es explorer",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1029957397806075935/antifergbootsrepesexplorer.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1029957397474725918/2022-10-13_6.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-13T03:22:59.401000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -5654,6 +5709,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1029198212889841745/Preview.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-11T01:06:15.704000+00:00"
+    },
+    {
+      "ID": "THPS-_Can_I_live_grip.zip",
+      "Name": "THPS-_Can_I_live_grip",
+      "Description": "THPS can i live  - replaces MOB grip logo griptape",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1029815362327420978/THPS-_Can_I_live_grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1029815362050588802/unknown.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-12T17:58:35.509000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -8052,6 +8118,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1029762898433687652/Session_12.10.2022_16_28_49.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-12T14:30:07.962000+00:00"
+    },
+    {
+      "ID": "Thunder_Trucks_Northern_Lights_Navy-Green.rar",
+      "Name": "Thunder_Trucks_Northern_Lights_Navy-Green",
+      "Description": "Thunder Trucks: Northern lights Navy/Green\nReplaces Destructo 149\n\n",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://GDrive/1Gdwvbu00Zclrf2RlIXID-IKQ0X_FeSUw",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1029855270089785435/Northern_Lights.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-12T20:37:10.145000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
