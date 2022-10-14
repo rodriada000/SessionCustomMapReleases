@@ -2653,6 +2653,39 @@
       "UpdatedDate": "2022-10-12T17:51:29.503000+00:00"
     },
     {
+      "ID": "THUG.zip",
+      "Name": "THUG",
+      "Description": "thps undergound THUG deck (replaces Almost most red deck)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1030176603419975782/THUG.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1030176603084443659/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-13T17:54:02.090000+00:00"
+    },
+    {
+      "ID": "BOARD5xthankureplace.zip",
+      "Name": "BOARD5xthankureplace",
+      "Description": "Replace 5 thankyou",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1030196089074221158/BOARD5xthankureplace.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1030196092152840314/769B2EDB-BA1B-4525-ACDD-403EF21527DA.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-13T19:11:28.544000+00:00"
+    },
+    {
+      "ID": "ElementClassicLogoDeckreplaceSEAL8.5.zip",
+      "Name": "ElementClassicLogoDeckreplaceSEAL8.5",
+      "Description": "replace seal element",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1030214799650459738/ElementClassicLogoDeckreplaceSEAL8.5.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1030214799239421952/Session_13.10.2022_22_25_01.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-13T20:25:48.800000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5447,6 +5480,17 @@
       "UpdatedDate": "2022-10-13T13:04:13.672000+00:00"
     },
     {
+      "ID": "Es_Gum_Sole.zip",
+      "Name": "Es_Gum_Sole",
+      "Description": "Not sure anyone else wanted this but Its the black sal 23 with a gum sole..",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1030176748324794378/Es_Gum_Sole.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1030176716502605885/preview.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-13T17:54:36.644000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -5764,6 +5808,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1029815362050588802/unknown.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-12T17:58:35.509000+00:00"
+    },
+    {
+      "ID": "cd_grips4pakrep.magenta.rar",
+      "Name": "cd_grips4pakrep.magenta",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1030151420416118824/cd_grips4pakrep.magenta.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1030151420084752404/Desktop_Screenshot_2022.10.13_-_12.05.20.53.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-13T16:13:57.990000+00:00"
+    },
+    {
+      "ID": "100_Custom_Griptapes.rar",
+      "Name": "100_Custom_Griptapes",
+      "Description": "",
+      "Version": 1,
+      "Author": "Chuy#6528",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1030275701481427025/100_Custom_Griptapes.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1030275651820847114/Screenshot_574.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-14T00:27:48.886000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -6402,6 +6468,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1029085347147157544/GMH_Thumb.jpg",
       "Category": "session-hats",
       "UpdatedDate": "2022-10-10T17:37:46.318000+00:00"
+    },
+    {
+      "ID": "Vintage_NY_cap.zip",
+      "Name": "Vintage_NY_cap",
+      "Description": "Vintage NY cap (Replace all 3 Jenkem caps)",
+      "Version": 1,
+      "Author": "b \ud835\ude98 z \ud835\ude98 n \ud835\ude8e r#7907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1030185204670804018/Vintage_NY_cap.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1030185205060866079/NYcap_preview.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-13T18:28:12.898000+00:00"
+    },
+    {
+      "ID": "AFXXPony.zip",
+      "Name": "AFXXPony",
+      "Description": "Nora Ponytail [Replaces Curly Hair] (Female Only)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1030194933635764234/AFXXPony.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1030194933249871943/unknown.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-13T19:06:52.352000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
