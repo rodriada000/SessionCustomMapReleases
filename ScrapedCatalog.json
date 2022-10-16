@@ -4556,6 +4556,17 @@
       "UpdatedDate": "2022-10-15T00:14:58.130000+00:00"
     },
     {
+      "ID": "Better_Baggy.rar",
+      "Name": "Better_Baggy",
+      "Description": "Replaces the male baggy pants with the female ones.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1031020771570618408/Better_Baggy.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1031020771193139291/Screenshot_2022-10-15_195320.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-16T01:48:27.516000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -5621,6 +5632,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1030691203253022860/53C4EF8C-C752-4FDD-AE28-A68D3CFBB32C.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2022-10-15T03:58:52.263000+00:00"
+    },
+    {
+      "ID": "DCLynxGucci.rar",
+      "Name": "DCLynxGucci",
+      "Description": "DC Lynx Gucci Colorway. Replaces DC Lynx in game.",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1030883623383089284/DCLynxGucci.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1030883622581973064/Session_10_16_2022_12_39_08_AM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-15T16:43:28.795000+00:00"
+    },
+    {
+      "ID": "bagginzREDBLKDCredlacesLOGO4.rar",
+      "Name": "bagginzREDBLKDCredlacesLOGO4",
+      "Description": "my new shoes!",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1030972401569255424/bagginzREDBLKDCredlacesLOGO4.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1030972399233024091/Session_Screenshot_2022.10.15_-_17.37.36.62.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-15T22:36:15.120000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
@@ -7656,6 +7689,94 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1026917663567515698/tmnt.png",
       "Category": "session-characters",
       "UpdatedDate": "2022-10-04T18:04:21.882000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersRed.zip",
+      "Name": "BandanaAllCharactersRed",
+      "Description": "Adds a Bandana to your characters face (red) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030916851577921596/BandanaAllCharactersRed.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030916851145904198/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T18:55:31.011000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersBlue.zip",
+      "Name": "BandanaAllCharactersBlue",
+      "Description": "Adds a Bandana to your characters face (Blue) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030918836226105364/BandanaAllCharactersBlue.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030918835957682246/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:03:24.184000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersGreen.zip",
+      "Name": "BandanaAllCharactersGreen",
+      "Description": "Adds a Bandana to your characters face (Green) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030920942471352400/BandanaAllCharactersGreen.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030920942098063491/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:11:46.348000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersPink.zip",
+      "Name": "BandanaAllCharactersPink",
+      "Description": "Adds a Bandana to your characters face (Pink) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030922419642302496/BandanaAllCharactersPink.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030922419302567997/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:17:38.529000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersBlack.zip",
+      "Name": "BandanaAllCharactersBlack",
+      "Description": "Adds a Bandana to your characters face (Black) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030923893642366987/BandanaAllCharactersBlack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030923893340381256/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:23:29.960000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersWhite.zip",
+      "Name": "BandanaAllCharactersWhite",
+      "Description": "Adds a Bandana to your characters face (White) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030925654713192558/BandanaAllCharactersWhite.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030925654402793522/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:30:29.847000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersPurple.zip",
+      "Name": "BandanaAllCharactersPurple",
+      "Description": "Adds a Bandana to your characters face (Purple) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030927139698114560/BandanaAllCharactersPurple.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030927139249344523/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:36:23.892000+00:00"
+    },
+    {
+      "ID": "BandanaAllCharactersYellow.zip",
+      "Name": "BandanaAllCharactersYellow",
+      "Description": "Adds a Bandana to your characters face (Yellow) [Male and Female] Mesh and texture credit to @kurbdogg420",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1030929711532093581/BandanaAllCharactersYellow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1030929711125254184/unknown.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-15T19:46:37.061000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
