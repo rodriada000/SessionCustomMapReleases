@@ -2763,6 +2763,50 @@
       "UpdatedDate": "2022-10-16T11:32:19.500000+00:00"
     },
     {
+      "ID": "BOARDpros5Magenta.zip",
+      "Name": "BOARDpros5Magenta",
+      "Description": "replace all  5 Magenta",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031314166704771152/BOARDpros5Magenta.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031314173084303410/45A5369D-4756-4121-BB6A-D1FD084D44EA.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-16T21:14:19.985000+00:00"
+    },
+    {
+      "ID": "DGK_x_Popeye.zip",
+      "Name": "DGK_x_Popeye",
+      "Description": "DGK x Popeye ( replaces DGK Bloom 8.0)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031356930200977469/DGK_x_Popeye.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031356929840263229/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T00:04:13.985000+00:00"
+    },
+    {
+      "ID": "Trix_Deck.zip",
+      "Name": "Trix_Deck",
+      "Description": "FOUNDATION CREAGER TRIX DECK ( replaces DGK aztec 8.1)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031364230538076200/Trix_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031364230227701821/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T00:33:14.458000+00:00"
+    },
+    {
+      "ID": "Supreme_Purp_Super__Shrek.zip",
+      "Name": "Supreme_Purp_Super__Shrek",
+      "Description": "Replaces two Thank You decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031397245985234974/Supreme_Purp_Super__Shrek.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031397203794731109/SMMShPS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T02:44:25.955000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4147,6 +4191,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1030829576936501339/mod_jenkem.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-15T13:08:43.158000+00:00"
+    },
+    {
+      "ID": "SupremeBapeShirts.zip",
+      "Name": "SupremeBapeShirts",
+      "Description": "Replaces two No-Comply shirts",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1031397561417867344/SupremeBapeShirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1031397534884712468/MTVUSMMTs2.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-17T02:45:41.159000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -5700,6 +5755,17 @@
       "UpdatedDate": "2022-10-16T15:33:59.239000+00:00"
     },
     {
+      "ID": "AJ4.rar",
+      "Name": "AJ4",
+      "Description": "AJ 4's. Textures by <@442881192811823107>. Replaces the Es Accel OG.  6 designs. ",
+      "Version": 1,
+      "Author": "Noddygoodboy#3804",
+      "DownloadLink": "rsmm://GDrive/11F7ehAlSWyGASAp7o6WXkqP0CIlTWzRF",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1031245300666474506/Session_10_16_2022_8_49_18_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-16T16:40:39.174000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -6743,6 +6809,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1030194933249871943/unknown.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-10-13T19:06:52.352000+00:00"
+    },
+    {
+      "ID": "SupremeHat.zip",
+      "Name": "SupremeHat",
+      "Description": "Replaces Jenkem hat 1",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1031397054674649158/SupremeHat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1031397020319092786/MTVUSMMSupremeHat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-17T02:43:40.336000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
