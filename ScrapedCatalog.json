@@ -2807,6 +2807,39 @@
       "UpdatedDate": "2022-10-17T02:44:25.955000+00:00"
     },
     {
+      "ID": "teamtoday_request.zip",
+      "Name": "teamtoday_request",
+      "Description": "toy machine hell monster 8.25. replaces madrid reaper deck",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031510131864780811/teamtoday_request.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031510131646681138/20221017030948_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T10:13:00.047000+00:00"
+    },
+    {
+      "ID": "chocolate_perez.zip",
+      "Name": "chocolate_perez",
+      "Description": "chocolate stevie perez deck. replaces magenta medley 8.25",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031517491601621012/chocolate_perez.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031517491362545694/20221017034017_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T10:42:14.753000+00:00"
+    },
+    {
+      "ID": "fa_society.zip",
+      "Name": "fa_society",
+      "Description": "FA society deck (replaces DGK connect)",
+      "Version": 1,
+      "Author": "bug#6063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1031525693701505066/fa_society.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1031525693433073705/20221017041107_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-17T11:14:50.282000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4644,6 +4677,17 @@
       "UpdatedDate": "2022-10-16T04:04:01.593000+00:00"
     },
     {
+      "ID": "rmjean.zip",
+      "Name": "rmjean",
+      "Description": "replaces slimpant",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1031503222810083378/rmjean.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1031503223229517875/SessionGame-Win64-Shipping_uDGSm7EJ6t.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-17T09:45:32.895000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
@@ -5764,6 +5808,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1031245300666474506/Session_10_16_2022_8_49_18_PM.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-10-16T16:40:39.174000+00:00"
+    },
+    {
+      "ID": "conslow.zip",
+      "Name": "conslow",
+      "Description": "replaces fallen easy <@276424249101516802> <@695224476157345802> \u2764\ufe0f",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1031508217399873546/conslow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1031508217748008970/SessionGame-Win64-Shipping_NvxiifS7jW.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-17T10:05:23.906000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
@@ -7900,6 +7955,61 @@
       "UpdatedDate": "2022-10-15T19:46:37.061000+00:00"
     },
     {
+      "ID": "beard short black 1.0.rar",
+      "Name": "beard short black 1.0",
+      "Description": "beard short black 1.0",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1rOpmvUUyrFALAyS3Ky7YGgA_xEkJNCUt",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031503495792164955/beard_short_black.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-17T09:46:55.984000+00:00"
+    },
+    {
+      "ID": "beard mid black 1.0.rar",
+      "Name": "beard mid black 1.0",
+      "Description": "beard mid black 1.0",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1-HDFWxsXzwd_MHAJoahPoQ5CqHut1Vno",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031503639338024990/beard_mid_black.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-17T09:47:44.711000+00:00"
+    },
+    {
+      "ID": "beard short blond 1.0.rar",
+      "Name": "beard short blond 1.0",
+      "Description": "beard short blond 1.0",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1Mj-cRORPjnE1Op60vsIO7DvYzJQO-NQB",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031503844250767360/beard_short_blond.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-17T09:48:17.619000+00:00"
+    },
+    {
+      "ID": "beard mid blond 1.0.rar",
+      "Name": "beard mid blond 1.0",
+      "Description": "beard mid blond 1.0",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1W18yZB_P2WCIngqE8YsxP3ovfPO8EnYB",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031503969446539314/beard_mid_blond.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-17T09:48:40.727000+00:00"
+    },
+    {
+      "ID": "Slayer.rar",
+      "Name": "Slayer",
+      "Description": "Slayer\n\nreplaces Ribsmann\n7.5 decks get replaced with the sword",
+      "Version": 1,
+      "Author": "Abaddon#2459",
+      "DownloadLink": "rsmm://GDrive/1HMA0qpLVFe6jLaW484QKoz8E_hPVFbu1",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031504459425140796/Screenshot_4.jpg",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-17T09:50:41.236000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
@@ -8703,6 +8813,17 @@
       "UpdatedDate": "2022-10-15T03:29:29.737000+00:00"
     },
     {
+      "ID": "AuthorityGreenPurpleGkspark.zip",
+      "Name": "AuthorityGreenPurpleGkspark",
+      "Description": "replace GK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1031466183435755530/AuthorityGreenPurpleGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1031466183985217557/Substance_Painter_-_sessionsparkDEFINED_17.10.2022_09_07_53.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-17T07:18:22.052000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -9086,6 +9207,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1030830088842924112/molotov_logo_wheels.png",
       "Category": "session-wheels",
       "UpdatedDate": "2022-10-15T13:10:45.180000+00:00"
+    },
+    {
+      "ID": "ETAKSwheelsSML.zip",
+      "Name": "ETAKSwheelsSML",
+      "Description": "Etaks Wheels , replace ALL SML Wheels",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1031558866615414874/ETAKSwheelsSML.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1031558860776931411/24872405-94A1-4BE3-AC97-D8FEC5891B1F.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-10-17T13:26:39.341000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
