@@ -3038,6 +3038,61 @@
       "UpdatedDate": "2022-10-20T18:46:49.510000+00:00"
     },
     {
+      "ID": "Shoko_deck.rar",
+      "Name": "Shoko_deck",
+      "Description": "Shoko deck - Replace almost",
+      "Version": 1,
+      "Author": "Zearmy#7127",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1032886925926858782/Shoko_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1032886925138329712/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-21T05:23:53.377000+00:00"
+    },
+    {
+      "ID": "FROGCHICKENS825.zip",
+      "Name": "FROGCHICKENS825",
+      "Description": "Frog Skateboards - Chickens 8.25 | Replaces: Element - Daydream Section",
+      "Version": 1,
+      "Author": "ryandogsling#7439",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1032898856578465823/FROGCHICKENS825.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1032898856930791464/FROGDECK1.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-21T06:11:17.956000+00:00"
+    },
+    {
+      "ID": "terminatorNpred-Roger.zip",
+      "Name": "terminatorNpred-Roger",
+      "Description": "Made by <@947885461316186122>  Replaces Roger decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033044782022414356/terminatorNpred-Roger.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033044744802152610/20221020221308_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-21T15:51:09.153000+00:00"
+    },
+    {
+      "ID": "streetshark-thankyoucandycloud.zip",
+      "Name": "streetshark-thankyoucandycloud",
+      "Description": "Made by <@947885461316186122>",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033045053880410173/streetshark-thankyoucandycloud.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033045013036273835/20221020222949_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-21T15:52:13.974000+00:00"
+    },
+    {
+      "ID": "THPS-Element-daydreamsection.zip",
+      "Name": "THPS-Element-daydreamsection",
+      "Description": "Made by <@947885461316186122>",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033045668312391731/THPS-Element-daydreamsection.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033045636276289606/20221021084852_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-21T15:54:40.457000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -9196,6 +9251,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1032694724852719686/Substance_Painter_-_sessiongk6nr2_20.10.2022_18_11_52.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-20T16:40:09.232000+00:00"
+    },
+    {
+      "ID": "AuthorityFREDDYGkspark.zip",
+      "Name": "AuthorityFREDDYGkspark",
+      "Description": "Authority FreddyKrueger Specials ^^ GK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1033043356399435796/AuthorityFREDDYGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1033043357003436032/Session_21.10.2022_17_43_08.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-21T15:45:29.544000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
