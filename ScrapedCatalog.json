@@ -3115,6 +3115,28 @@
       "UpdatedDate": "2022-10-22T08:32:39.022000+00:00"
     },
     {
+      "ID": "RAW_hide.zip",
+      "Name": "RAW_hide",
+      "Description": "Raw Hide -mod request ( replaces Almost Greener- green 8.5 )",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033497216272322561/RAW_hide.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033497215932563527/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-22T21:48:58.186000+00:00"
+    },
+    {
+      "ID": "Palace.zip",
+      "Name": "Palace",
+      "Description": "Palace - mod request ( replaces DGK Friends 8.25)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033569992807022702/Palace.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033569992521814166/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-23T02:38:09.185000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -6261,6 +6283,17 @@
       "UpdatedDate": "2022-10-22T15:05:39.982000+00:00"
     },
     {
+      "ID": "EsExplorerBlackWhite.zip",
+      "Name": "EsExplorerBlackWhite",
+      "Description": "Es Explore(Recolor) replaces explorer",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1033475004391768255/EsExplorerBlackWhite.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1033475004056227880/Session_10_22_2022_2_36_47_PM.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-22T20:20:42.158000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -9361,6 +9394,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1033394040898584636/Substance_Painter_-_sessiongk6nr2_22.10.2022_16_48_15.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-22T14:58:59.061000+00:00"
+    },
+    {
+      "ID": "AuthorityCLASSICGkspark.zip",
+      "Name": "AuthorityCLASSICGkspark",
+      "Description": "gkspark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1033456315693027378/AuthorityCLASSICGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1033456315265204295/Substance_Painter_-_sessionsparkspargo2_22.10.2022_20_57_57.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-22T19:06:26.431000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
