@@ -3137,6 +3137,17 @@
       "UpdatedDate": "2022-10-23T02:38:09.185000+00:00"
     },
     {
+      "ID": "Hook_ups-_Red_Eyes.zip",
+      "Name": "Hook_ups-_Red_Eyes",
+      "Description": "Hook Ups - Red Eyes, Mod Request  (replaces Almost Greener-Black 8.25)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1033939396262641715/Hook_ups-_Red_Eyes.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1033939395893538886/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-24T03:06:01.808000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4622,6 +4633,28 @@
       "UpdatedDate": "2022-10-23T07:12:58.616000+00:00"
     },
     {
+      "ID": "Primitive_-Dirty_ColonyHoodie.zip",
+      "Name": "Primitive_-Dirty_ColonyHoodie",
+      "Description": "Primitive -Dirty Colony(Hoodie) mod request - (replaces Jenkem black Hoodie)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1033917041662496938/Primitive_-Dirty_ColonyHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1033917040647487538/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-24T01:37:12.069000+00:00"
+    },
+    {
+      "ID": "Silverstein_-_Skate_or_Die_t-shirt.zip",
+      "Name": "Silverstein_-_Skate_or_Die_t-shirt",
+      "Description": "Silverstein -  Skate or die (replaces No comply white tee)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1033947976940408863/Silverstein_-_Skate_or_Die_t-shirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1033947976609046598/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-24T03:40:07.599000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -5082,6 +5115,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1032061234868146186/SessionGame-Win64-Shipping_yOi7Rego1J.png",
       "Category": "session-pants",
       "UpdatedDate": "2022-10-18T22:42:53.205000+00:00"
+    },
+    {
+      "ID": "Alt_Cargo_Pants.rar",
+      "Name": "Alt_Cargo_Pants",
+      "Description": "Replaces male cargo pants.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1033885995457843311/Alt_Cargo_Pants.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1033885995134894121/preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-23T23:33:50.068000+00:00"
+    },
+    {
+      "ID": "BlueJeanCuffed.zip",
+      "Name": "BlueJeanCuffed",
+      "Description": "Cuffed Blue Jeans - Replaces all pants with different colorways",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://GDrive/1LKgTGTrsKVzcc4cZIyrjDJk5mux3uZ_C",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1033900543346749460/preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-24T00:31:41.550000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -6303,6 +6358,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1033475004056227880/Session_10_22_2022_2_36_47_PM.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-10-22T20:20:42.158000+00:00"
+    },
+    {
+      "ID": "StrayeShoes.rar",
+      "Name": "StrayeShoes",
+      "Description": "Straye Shoes W 6 Colorways - Replaces Accel",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://GDrive/16JvXz_zEYdHACHuGnMoQGqs36YvESjc9",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1033899270698446928/preview.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-24T00:26:38.648000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
