@@ -3148,6 +3148,17 @@
       "UpdatedDate": "2022-10-24T03:06:01.808000+00:00"
     },
     {
+      "ID": "ax_deck.zip",
+      "Name": "ax_deck",
+      "Description": "Mod request Deck ( replaces almost  Greener Green 8.5)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034072367263137822/ax_deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034072366881460294/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-24T11:54:24.573000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -9900,6 +9911,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1033327419844722739/381F1E65-1782-48B7-AF25-4C7C76326871.jpg",
       "Category": "session-wheels",
       "UpdatedDate": "2022-10-22T10:34:29.854000+00:00"
+    },
+    {
+      "ID": "Spitfire_Formula_Four_Radial_Blackout_101D.zip",
+      "Name": "Spitfire_Formula_Four_Radial_Blackout_101D",
+      "Description": "Spitfire Formula Four Radial Blackout 101D ( replaces Haze death on acid 54mm)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1034085522433396736/Spitfire_Formula_Four_Radial_Blackout_101D.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1034085522118815784/unknown.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2022-10-24T12:46:41.015000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
