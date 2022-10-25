@@ -3159,6 +3159,39 @@
       "UpdatedDate": "2022-10-24T11:54:24.573000+00:00"
     },
     {
+      "ID": "HookUPs_-_Masked_Death.zip",
+      "Name": "HookUPs_-_Masked_Death",
+      "Description": "Hook Ups - Masked Death  (Replaces Almost Scum Red 8.0)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034182469852872754/HookUPs_-_Masked_Death.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034182469483769876/unknown.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-24T19:11:54.997000+00:00"
+    },
+    {
+      "ID": "Vincent_Nava_Pro_Deck.zip",
+      "Name": "Vincent_Nava_Pro_Deck",
+      "Description": "Vincent Nava Pro Deck | including shop icon (Replaces Heroin \u201eToxic Eyes Fade 8.25\u201c) , Mod Request",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034204179599728721/Vincent_Nava_Pro_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034204179159318568/Vincent_Nava_Deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-24T20:38:11.078000+00:00"
+    },
+    {
+      "ID": "FADeckDrop.zip",
+      "Name": "FADeckDrop",
+      "Description": "FA Deck Pack(replaces 5 zero decks)",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034248014212112384/FADeckDrop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034248011850727545/Session_10_24_2022_7_24_04_PM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-24T23:32:22.057000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4666,6 +4699,17 @@
       "UpdatedDate": "2022-10-24T03:40:07.599000+00:00"
     },
     {
+      "ID": "Camo_T.rar",
+      "Name": "Camo_T",
+      "Description": "camo shirt (replaces purple flatface)\nsleeves not included.",
+      "Version": 1,
+      "Author": "Brxndo#0002",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1034168453436805201/Camo_T.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034168453139005551/Screenshot_2022-10-24_141514.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-24T18:16:13.293000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -5148,6 +5192,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1033900543346749460/preview.png",
       "Category": "session-pants",
       "UpdatedDate": "2022-10-24T00:31:41.550000+00:00"
+    },
+    {
+      "ID": "volpant.zip",
+      "Name": "volpant",
+      "Description": "replaces slim pant",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1034212837381382188/volpant.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1034212837805011024/SessionGame-Win64-Shipping_vu00HZ4M15.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-10-24T21:12:35.421000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -6776,6 +6831,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1033713232944312320/Foto_23.10.22_13_22_31.jpg",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-23T12:07:20.363000+00:00"
+    },
+    {
+      "ID": "MOB_x_Van_Styles_Girls_Grip_Tape.zip",
+      "Name": "MOB_x_Van_Styles_Girls_Grip_Tape",
+      "Description": "MOB X VANS Girls griptape (replaces MOB logo griptape)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1034194379323220078/MOB_x_Van_Styles_Girls_Grip_Tape.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1034194378924773477/unknown.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-24T19:59:14.516000+00:00"
+    },
+    {
+      "ID": "Vincent_Nava_Griptape.zip",
+      "Name": "Vincent_Nava_Griptape",
+      "Description": "Vincent Nava Griptape | including shop icon (Replaces Grizzly \u201eSittin on Chrome\u201c)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1034204433137020928/Vincent_Nava_Griptape.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1034204432826646638/Vincent_Nava_Griptape.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-24T20:39:11.460000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -9504,6 +9581,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1033456315265204295/Substance_Painter_-_sessionsparkspargo2_22.10.2022_20_57_57.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-22T19:06:26.431000+00:00"
+    },
+    {
+      "ID": "AuthorityBlackzV1gk6.zip",
+      "Name": "AuthorityBlackzV1gk6",
+      "Description": "gk6",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1034282378564210688/AuthorityBlackzV1gk6.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1034282379080118313/Substance_Painter_-_sessionGK6nr2versionLINE_25.10.2022_03_47_44.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-25T01:48:55.726000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
