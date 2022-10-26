@@ -585,6 +585,17 @@
       "UpdatedDate": "2022-10-25T08:08:40.267000+00:00"
     },
     {
+      "ID": "lofi.zip",
+      "Name": "lofi",
+      "Description": "",
+      "Version": 1,
+      "Author": "DH13#6372",
+      "DownloadLink": "rsmm://GDrive/1mNjERcEa-BOrJw_B8WC3wVTR7Ayf-InZ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1034531561061744650/unknown.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-10-25T18:19:07.016000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3203,6 +3214,17 @@
       "UpdatedDate": "2022-10-24T23:32:22.057000+00:00"
     },
     {
+      "ID": "Random_Skateboard_Decks.zip",
+      "Name": "Random_Skateboard_Decks",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034666195271557151/Random_Skateboard_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034666173859643402/RandomDeck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-26T03:14:04.218000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4719,6 +4741,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034168453139005551/Screenshot_2022-10-24_141514.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-24T18:16:13.293000+00:00"
+    },
+    {
+      "ID": "Element_tshirt.zip",
+      "Name": "Element_tshirt",
+      "Description": "Element shirt - mod request ( replaces Heroin Eggxorcist )",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1034643626518642748/Element_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034643625990168656/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-26T01:44:23.383000+00:00"
+    },
+    {
+      "ID": "Random_ShirtsHoodie.zip",
+      "Name": "Random_ShirtsHoodie",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1034665882607165530/Random_ShirtsHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034665829033320488/RandomShirts.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-26T03:12:49.715000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -6877,6 +6921,17 @@
       "UpdatedDate": "2022-10-24T20:39:11.460000+00:00"
     },
     {
+      "ID": "Mob_Stripe_Griptape_-_Green-Yellow-Red.zip",
+      "Name": "Mob_Stripe_Griptape_-_Green-Yellow-Red",
+      "Description": "Mob Stripe Griptape - Green-Yellow-Red | including shop icon (Replaces MOB Grip \u201eLogo\u201c)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1034539977834496001/Mob_Stripe_Griptape_-_Green-Yellow-Red.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1034539978165854329/Mob_Stripe_Griptape_-_Green-Yellow-Red.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-25T18:52:31.694000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -7557,6 +7612,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1032701265584594974/Session_10_20_2022_10_56_31_PM.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-10-20T17:06:09.084000+00:00"
+    },
+    {
+      "ID": "Random_Hat.zip",
+      "Name": "Random_Hat",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1034666031031005194/Random_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1034666016183177236/RandomHat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-26T03:13:25.045000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
