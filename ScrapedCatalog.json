@@ -3225,6 +3225,17 @@
       "UpdatedDate": "2022-10-26T03:14:04.218000+00:00"
     },
     {
+      "ID": "Supreme_LV__Yankees_Decks.zip",
+      "Name": "Supreme_LV__Yankees_Decks",
+      "Description": "Replaces 3 Thank You Decks.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034678539468939344/Supreme_LV__Yankees_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034678504702353428/SMMLVYank.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-26T04:03:07.278000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -4763,6 +4774,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034665829033320488/RandomShirts.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-10-26T03:12:49.715000+00:00"
+    },
+    {
+      "ID": "SupremeLVHoodie.zip",
+      "Name": "SupremeLVHoodie",
+      "Description": "Replaces Creature Black Hoodie.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1034678296379662406/SupremeLVHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034678266998554674/SMMSLVHoodie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-26T04:02:09.338000+00:00"
+    },
+    {
+      "ID": "Supreme_Pink_Bandana_T.zip",
+      "Name": "Supreme_Pink_Bandana_T",
+      "Description": "Replaces a No-Comply Shirt",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1034678404039069807/Supreme_Pink_Bandana_T.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1034678366541975632/SMMSPink.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-26T04:02:36.057000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
