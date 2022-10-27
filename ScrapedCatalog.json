@@ -596,6 +596,17 @@
       "UpdatedDate": "2022-10-25T18:19:07.016000+00:00"
     },
     {
+      "ID": "royalhigh.zip",
+      "Name": "royalhigh",
+      "Description": "",
+      "Version": 1,
+      "Author": "DH13#6372",
+      "DownloadLink": "rsmm://GDrive/1htyBCHx_DfdkdbApoKfqu13MLtXW9eyj",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1034885112296378438/unknown.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-10-26T17:44:02.623000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3234,6 +3245,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034678504702353428/SMMLVYank.png",
       "Category": "session-decks",
       "UpdatedDate": "2022-10-26T04:03:07.278000+00:00"
+    },
+    {
+      "ID": "Deckpack.zip",
+      "Name": "Deckpack",
+      "Description": "Palace Decks (Replaces some Jart Boards)",
+      "Version": 1,
+      "Author": "Stevyy#9796",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1034861947700650075/Deckpack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1034861948208152596/SessionGame-Win64-Shipping_2022-10-26_12-09-56.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-26T16:11:55.624000+00:00"
+    },
+    {
+      "ID": "Polar_Decks.zip",
+      "Name": "Polar_Decks",
+      "Description": "Polar Decks",
+      "Version": 1,
+      "Author": "Shitty Bill#7385",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035037198090772550/Polar_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035037173306634271/Preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-27T03:48:18.159000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
