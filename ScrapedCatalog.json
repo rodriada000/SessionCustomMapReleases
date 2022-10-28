@@ -3280,6 +3280,61 @@
       "UpdatedDate": "2022-10-27T20:37:12.895000+00:00"
     },
     {
+      "ID": "GrimmBlueFlag.zip",
+      "Name": "GrimmBlueFlag",
+      "Description": "Grimm's Blue Flag - 8.0 | Replaces (Blind: OG Ripped Purple | 8.0) The Neon Pink Outline Is From Another Mod Sorry",
+      "Version": 1,
+      "Author": "Grimm#4787",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035414921678168104/GrimmBlueFlag.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035414861682856038/Session_-_Skate_Sim_Screenshot_2022.10.28_-_00.44.58.39_2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-28T04:49:14.488000+00:00"
+    },
+    {
+      "ID": "AlmostXHannaBarbera.zip",
+      "Name": "AlmostXHannaBarbera",
+      "Description": "11 Almost X Hanna Barbera decks, replace the last 11 Roger boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035567678401826896/AlmostXHannaBarbera.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035567677969793056/AlmostXHannaBarbera.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-28T14:56:14.519000+00:00"
+    },
+    {
+      "ID": "Fiveboro_VHS.zip",
+      "Name": "Fiveboro_VHS",
+      "Description": "15 Fiveboro VHS decks, replace the first 15 Roger boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035567903027773550/Fiveboro_VHS.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035567902549626930/Fiveboro_VHS.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-28T14:57:08.123000+00:00"
+    },
+    {
+      "ID": "Hook_Ups_No_Swimming.zip",
+      "Name": "Hook_Ups_No_Swimming",
+      "Description": "recook my old no swimming deck, replace flatface 1",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035568078597128212/Hook_Ups_No_Swimming.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035568074771922954/Hook_Ups_No_Swimming.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-28T14:57:49.940000+00:00"
+    },
+    {
+      "ID": "Chocolate_x_Beavis_and_Butthead.zip",
+      "Name": "Chocolate_x_Beavis_and_Butthead",
+      "Description": "recook of my old Chocolate x Beavis and Butthead decks, replace flatface 2and flatface 3",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1035568221597737061/Chocolate_x_Beavis_and_Butthead.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1035568221186687126/Chocolate_x_Beavis_and_Butthead.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-10-28T14:58:24.054000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -7735,6 +7790,17 @@
       "UpdatedDate": "2022-10-27T19:08:23.373000+00:00"
     },
     {
+      "ID": "BULLSjenkem.zip",
+      "Name": "BULLSjenkem",
+      "Description": "replace 1 jenkem",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1035437856816111616/BULLSjenkem.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1035437856476381214/Session_28.10.2022_08_19_26.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-28T06:20:22.659000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -9801,6 +9867,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1035262386724163615/Substance_Painter_-_sessionsparkkibagrillz_27.10.2022_20_34_04.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-10-27T18:43:07.409000+00:00"
+    },
+    {
+      "ID": "AuthorityBATTEREDgk6.zip",
+      "Name": "AuthorityBATTEREDgk6",
+      "Description": "gk6",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1035415936041226240/AuthorityBATTEREDgk6.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1035415936628432927/Session_28.10.2022_06_51_22.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-28T04:53:16.627000+00:00"
+    },
+    {
+      "ID": "AuthoritySpitfireGkspark.zip",
+      "Name": "AuthoritySpitfireGkspark",
+      "Description": "gkspark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1035510839416999976/AuthoritySpitfireGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1035510840004182058/Substance_Painter_-_sessionsparkkibagrillz_28.10.2022_12_59_16.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-10-28T11:10:23.295000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
