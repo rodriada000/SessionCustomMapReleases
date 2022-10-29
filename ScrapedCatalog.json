@@ -4908,6 +4908,28 @@
       "UpdatedDate": "2022-10-27T18:13:34.644000+00:00"
     },
     {
+      "ID": "Motorhead_Louder.zip",
+      "Name": "Motorhead_Louder",
+      "Description": "Request by <@401942378589716483>    Motorhead Shirt replaces purple flat face",
+      "Version": 1,
+      "Author": "Dirty WRX Guy#7485",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1035676685825216572/Motorhead_Louder.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1035676685498068993/Motorhead.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-28T22:09:23.961000+00:00"
+    },
+    {
+      "ID": "Classics.zip",
+      "Name": "Classics",
+      "Description": "Some Classics ( Replaces all Flatface T-shirts)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1035707743580987482/Classics.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1035707743249641492/unknown.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-10-29T00:12:48.665000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -6646,6 +6668,17 @@
       "UpdatedDate": "2022-10-25T15:50:30.196000+00:00"
     },
     {
+      "ID": "Fade_Cons.zip",
+      "Name": "Fade_Cons",
+      "Description": "",
+      "Version": 1,
+      "Author": "CESP#0041",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1035606529136676954/Fade_Cons.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1035606501458460722/Skater_XL_Screenshot_2022.10.02_-_04.18.25.43.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-10-28T17:30:37.246000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -7084,6 +7117,50 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1035291402675957790/JART_MOVIE_GRIPTAPE.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-10-27T20:38:25.313000+00:00"
+    },
+    {
+      "ID": "Powell-Peralta_Griptape_Pack_1.zip",
+      "Name": "Powell-Peralta_Griptape_Pack_1",
+      "Description": "Powell-Peralta Griptape Pack 1 | including shop icons (Replaces Grizzly Griptapes)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1035712669564555335/Powell-Peralta_Griptape_Pack_1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1035712669950410762/Powell-Peralta_Griptape_Pack_1.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-29T00:32:23.248000+00:00"
+    },
+    {
+      "ID": "Powell-Peralta_Griptape_Pack_2.zip",
+      "Name": "Powell-Peralta_Griptape_Pack_2",
+      "Description": "Powell-Peralta Griptape Pack 2 | including shop icons (Replaces Grizzly Griptapes)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1035712730503585792/Powell-Peralta_Griptape_Pack_2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1035712731086585907/Powell-Peralta_Griptape_Pack_2.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-29T00:32:37.773000+00:00"
+    },
+    {
+      "ID": "Powell-Peralta_Griptape_Pack_3.zip",
+      "Name": "Powell-Peralta_Griptape_Pack_3",
+      "Description": "Powell-Peralta Griptape Pack 3 | including shop icons (Replaces Grizzly Griptapes)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1035712788011683900/Powell-Peralta_Griptape_Pack_3.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1035712787697119272/Powell-Peralta_Griptape_Pack_3.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-29T00:32:51.380000+00:00"
+    },
+    {
+      "ID": "Powell-Peralta_Griptape_Pack_4.zip",
+      "Name": "Powell-Peralta_Griptape_Pack_4",
+      "Description": "Powell-Peralta Griptape Pack 4 | including shop icons (Replaces Grizzly Griptapes)",
+      "Version": 1,
+      "Author": "MarkMcfly#0709",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1035712846614503564/Powell-Peralta_Griptape_Pack_4.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1035712846320906270/Powell-Peralta_Griptape_Pack_4.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-10-29T00:33:05.317000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -8932,6 +9009,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1031504459425140796/Screenshot_4.jpg",
       "Category": "session-characters",
       "UpdatedDate": "2022-10-17T09:50:41.236000+00:00"
+    },
+    {
+      "ID": "louiehair.zip",
+      "Name": "louiehair",
+      "Description": "replaces amxx hair2",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1035678230063104060/louiehair.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1035678230474133534/SessionGame-Win64-Shipping_mqox34bobu.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-28T22:15:32.196000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
