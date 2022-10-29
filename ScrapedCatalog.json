@@ -7878,6 +7878,17 @@
       "UpdatedDate": "2022-10-28T06:20:22.659000+00:00"
     },
     {
+      "ID": "Short Hair.rar",
+      "Name": "Short Hair",
+      "Description": "\nShort hair, works for all male characters and default hats (Replaces Hair 1&2 & All Hats)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1weF6lZkpX1h5fwVs-AYN-EdRz2ecCsr6",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1035774548123074590/preview.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-10-29T04:38:16.010000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -9020,6 +9031,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1035678230474133534/SessionGame-Win64-Shipping_mqox34bobu.png",
       "Category": "session-characters",
       "UpdatedDate": "2022-10-28T22:15:32.196000+00:00"
+    },
+    {
+      "ID": "Blitzkow Beard.rar",
+      "Name": "Blitzkow Beard",
+      "Description": "\nBeard. Replaces all male characters.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1-0IdVtTsOoUvxqdu-9DA_1DKVNpL8CAD",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1035802016666095666/Screenshot_2022-10-29_010736.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-10-29T06:27:25.028000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
