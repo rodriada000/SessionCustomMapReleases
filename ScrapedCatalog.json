@@ -5106,6 +5106,28 @@
       "UpdatedDate": "2022-11-04T12:52:57.375000+00:00"
     },
     {
+      "ID": "2pacBiggie.zip",
+      "Name": "2pacBiggie",
+      "Description": "2pac and Biggie Shirts (replaces 2 FlatFace Shirts)",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1038978873976696832/2pacBiggie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1038978873360126075/Session_11_6_2022_7_33_44_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-07T00:51:06.922000+00:00"
+    },
+    {
+      "ID": "MisfitsShirts.zip",
+      "Name": "MisfitsShirts",
+      "Description": "Misfits Shirts (Replaces 2 Heroin Shirts)",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1038979230115057716/MisfitsShirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1038979229490090045/Session_11_6_2022_7_46_14_PM.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-07T00:52:31.826000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
