@@ -3489,6 +3489,17 @@
       "UpdatedDate": "2022-11-08T08:18:47.292000+00:00"
     },
     {
+      "ID": "Mixed_Pack.zip",
+      "Name": "Mixed_Pack",
+      "Description": "Mixed deck pack, replace 7 Brandalised boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1039625130659303424/Mixed_Pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1039625133687582822/Untitled-1.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-08T19:39:07.264000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5192,6 +5203,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1039418600013975572/Session_11_8_2022_12_06_54_AM.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-11-08T05:58:25.846000+00:00"
+    },
+    {
+      "ID": "Hey_you_project-_Mental_Health_Matters.zip",
+      "Name": "Hey_you_project-_Mental_Health_Matters",
+      "Description": "Hey you project - mental health matters sweater (replaces jenkem black)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1039701444477063229/Hey_you_project-_Mental_Health_Matters.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1039701443621425222/image.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-09T00:42:21.169000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
