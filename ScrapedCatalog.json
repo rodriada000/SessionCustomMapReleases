@@ -3511,6 +3511,28 @@
       "UpdatedDate": "2022-11-09T15:54:54.838000+00:00"
     },
     {
+      "ID": "Deathwish_pack.zip",
+      "Name": "Deathwish_pack",
+      "Description": "Deathwish pack, replace all Madrid boards",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1039961276727689227/Deathwish_pack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1039961277033877596/Untitled-2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-09T17:54:50.055000+00:00"
+    },
+    {
+      "ID": "Random_Skateboard_Decks.zip",
+      "Name": "Random_Skateboard_Decks",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1040100760853151794/Random_Skateboard_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1040100776598581318/RandomDeckAD.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-10T03:09:09.352000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5225,6 +5247,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1039701443621425222/image.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-11-09T00:42:21.169000+00:00"
+    },
+    {
+      "ID": "shirt_w_black_under_sleeve_rep_tshirt.zip",
+      "Name": "shirt_w_black_under_sleeve_rep_tshirt",
+      "Description": "shirt w/ under sleeve rep default shirt(also uses all default texture in game for the shirt) black undersleeve credits to <@537055098354925569>  for the under sleeve \ud83d\ude4c",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1040093671439224873/shirt_w_black_under_sleeve_rep_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1040093671808319498/2022-11-10_1.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-10T02:40:55.436000+00:00"
+    },
+    {
+      "ID": "shirt_with_white_under_sleeve_rep_tshirt.zip",
+      "Name": "shirt_with_white_under_sleeve_rep_tshirt",
+      "Description": "white under sleeve.. you cant use them both..chose only 1",
+      "Version": 1,
+      "Author": "\ud835\udd98\ud835\udd9a\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd94\ud835\udd87\ud835\udd8a\ud835\udd97\ud835\udd8e#6307",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1040095831560294471/shirt_with_white_under_sleeve_rep_tshirt.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1040095831879057448/2022-11-10.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-10T02:49:30.516000+00:00"
+    },
+    {
+      "ID": "Random_ShirtsHoodie.zip",
+      "Name": "Random_ShirtsHoodie",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1040100621002494052/Random_ShirtsHoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1040100625473605692/RandomShirtAD.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-10T03:08:33.353000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -8360,6 +8415,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1036380473947070495/blk.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-10-30T20:45:59.972000+00:00"
+    },
+    {
+      "ID": "Random_Hat.zip",
+      "Name": "Random_Hat",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1040100909088251965/Random_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1040100932395991141/RandomHatAD.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-11-10T03:09:46.503000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
