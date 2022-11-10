@@ -629,6 +629,17 @@
       "UpdatedDate": "2022-11-01T02:45:12.664000+00:00"
     },
     {
+      "ID": "Fergusson Remix 2.0.rar",
+      "Name": "Fergusson Remix 2.0",
+      "Description": "Fergusson Remix 2.0 is here! My Fergusson map but in a cyberworld! 3 secret areas too, if you can find them!\n\nPS. Still need some polish and cleaning but I'll do that when UE5 drops and maybe add more. IMO 9:PM is my favorite anything after is too dark (I do need to fix that eventually)\n\n",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://GDrive/1p_sVfQru-u9fBTPszkERgeEMmmafkNYH",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1040150767748776017/Screenshot_20.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-11-10T06:27:48.073000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3533,6 +3544,17 @@
       "UpdatedDate": "2022-11-10T03:09:09.352000+00:00"
     },
     {
+      "ID": "BoardFOILEDpackage.zip",
+      "Name": "BoardFOILEDpackage",
+      "Description": "",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1040236969323667456/BoardFOILEDpackage.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1040236891137646662/6789A0B2-2C5A-4453-A720-2A7829B04191.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-10T12:10:20.217000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5775,6 +5797,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1034212837805011024/SessionGame-Win64-Shipping_vu00HZ4M15.jpg",
       "Category": "session-pants",
       "UpdatedDate": "2022-10-24T21:12:35.421000+00:00"
+    },
+    {
+      "ID": "ekjean.zip",
+      "Name": "ekjean",
+      "Description": "replaces cargo pants",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1040209688026943588/ekjean.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1040209688425402399/SessionGame-Win64-Shipping_fZuEWdhZA2.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-11-10T10:21:55.954000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -10637,6 +10670,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1038705260983767050/Session_06.11.2022_07_42_39.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-06T06:43:52.491000+00:00"
+    },
+    {
+      "ID": "AuthorityZimNewLogo.zip",
+      "Name": "AuthorityZimNewLogo",
+      "Description": "Authority Zim Pros3 .. replace 90% deafaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1040154630488854638/AuthorityZimNewLogo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1040154630904086548/Session_10.11.2022_07_40_10.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-10T06:43:09.226000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
