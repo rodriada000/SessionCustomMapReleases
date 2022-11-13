@@ -3577,6 +3577,17 @@
       "UpdatedDate": "2022-11-10T12:10:20.217000+00:00"
     },
     {
+      "ID": "Hellbent_Skateboards.zip",
+      "Name": "Hellbent_Skateboards",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1041103413318000691/Hellbent_Skateboards.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1041103431127023666/HellbentDecks.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-12T21:33:20.838000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5335,6 +5346,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1040510132481687592/EDEBABF8-832B-449B-9FF4-55FD1004DE7B.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-11-11T06:15:47.411000+00:00"
+    },
+    {
+      "ID": "Hellbent_Baggy.zip",
+      "Name": "Hellbent_Baggy",
+      "Description": "Hellbent Skateboards brought from real life into the Fake Skate world!",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1041103255377281024/Hellbent_Baggy.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1041103287174316102/HellbentShirtAD.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-12T21:32:46.451000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -7238,6 +7260,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1038765223982673980/NKF-4.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-11-06T10:42:08.710000+00:00"
+    },
+    {
+      "ID": "DownUrbanReplaceExplorer.zip",
+      "Name": "DownUrbanReplaceExplorer",
+      "Description": "Down Urban (RedWhite) replace Es Explorer",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1041045482908172368/DownUrbanReplaceExplorer.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1041045483281453156/Substance_Painter_-_sessionEXPLORER_12.11.2022_18_33_21.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-12T17:43:05.072000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
