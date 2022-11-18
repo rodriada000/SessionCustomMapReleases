@@ -5370,6 +5370,17 @@
       "UpdatedDate": "2022-11-16T04:29:45.579000+00:00"
     },
     {
+      "ID": "SupBB.zip",
+      "Name": "SupBB",
+      "Description": "Supreme X Bad Brains 'i Against i' shirt, replace flat face green tshirt",
+      "Version": 1,
+      "Author": "NotPatches#6923",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1042857417353998416/SupBB.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1042857417148473444/Screenshot_2022-11-17_160112.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-17T17:43:03.661000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -5874,6 +5885,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1040209688425402399/SessionGame-Win64-Shipping_fZuEWdhZA2.jpg",
       "Category": "session-pants",
       "UpdatedDate": "2022-11-10T10:21:55.954000+00:00"
+    },
+    {
+      "ID": "dickycrop.zip",
+      "Name": "dickycrop",
+      "Description": "replaces straight cut pants",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1042923436399398962/dickycrop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1042923436189679636/SessionGame-Win64-Shipping_qLgmBAlJZW.jpg",
+      "Category": "session-pants",
+      "UpdatedDate": "2022-11-17T22:05:23.891000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -7328,6 +7350,28 @@
       "UpdatedDate": "2022-11-17T01:00:56.098000+00:00"
     },
     {
+      "ID": "DownArgonIIColorways_replaceAccel.zip",
+      "Name": "DownArgonIIColorways_replaceAccel",
+      "Description": "replace accels",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1042874705268453486/DownArgonIIColorways_replaceAccel.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1042874682807943168/F4ED64B4-E53F-4E27-AF75-E00C013E603A.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-17T18:51:45.480000+00:00"
+    },
+    {
+      "ID": "hanzoadi.zip",
+      "Name": "hanzoadi",
+      "Description": "replaces midcup <@695224476157345802> for insane textures",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1042916894426026044/hanzoadi.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1042908205581357248/cover_adidasbusenitzii.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-17T21:39:24.166000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -7876,6 +7920,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1042202425035071549/chubbygrip1.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2022-11-15T22:21:09.925000+00:00"
+    },
+    {
+      "ID": "Pink_black_grip.zip",
+      "Name": "Pink_black_grip",
+      "Description": "Pink/black checkered  Grip (replaces Grizzle Sitting On Chrome Grip)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1042876174973538386/Pink_black_grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1042876174549930014/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-11-17T18:57:35.886000+00:00"
     },
     {
       "ID": "Ferg.zip",
@@ -10923,6 +10978,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1042530401295536189/Substance_Painter_-_indysjape210822_16.11.2022_20_50_20.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-16T20:03:37.143000+00:00"
+    },
+    {
+      "ID": "AuthorityGoldBlackNEW.zip",
+      "Name": "AuthorityGoldBlackNEW",
+      "Description": "replace again 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1042877830414995548/AuthorityGoldBlackNEW.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1042877831258054754/Session_17.11.2022_20_03_19.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-17T19:04:10.887000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
