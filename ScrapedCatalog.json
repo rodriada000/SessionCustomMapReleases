@@ -673,6 +673,17 @@
       "UpdatedDate": "2022-11-19T01:51:20.252000+00:00"
     },
     {
+      "ID": "DHheights.zip",
+      "Name": "DHheights",
+      "Description": "DH Heights By DH13",
+      "Version": 1,
+      "Author": "DH13#6372",
+      "DownloadLink": "rsmm://GDrive/1zKJFT8Fj8xLdLSZmuMAXx07eoKRzwt1F",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1043566309213999135/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-11-19T16:40:08.269000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -11000,6 +11011,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1042877831258054754/Session_17.11.2022_20_03_19.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-17T19:04:10.887000+00:00"
+    },
+    {
+      "ID": "AuthorityPrismaRaws.zip",
+      "Name": "AuthorityPrismaRaws",
+      "Description": "replace 90% Defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043436660953722981/AuthorityPrismaRaws.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043436660676907089/Session_19.11.2022_09_03_55.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-19T08:04:46.154000+00:00"
+    },
+    {
+      "ID": "AuthorityBLACKFloralUsed.zip",
+      "Name": "AuthorityBLACKFloralUsed",
+      "Description": "replace 90% Defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043567468863574066/AuthorityBLACKFloralUsed.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043567469350109244/Session_19.11.2022_17_43_22.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-19T16:44:33.319000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
