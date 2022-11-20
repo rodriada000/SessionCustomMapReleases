@@ -5414,6 +5414,17 @@
       "UpdatedDate": "2022-11-17T17:43:03.661000+00:00"
     },
     {
+      "ID": "MahagoniHoodieBlackWhiteOld.zip",
+      "Name": "MahagoniHoodieBlackWhiteOld",
+      "Description": "replace creature Black hoodie",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1043840079724036186/MahagoniHoodieBlackWhiteOld.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1043840078910328902/Session_20.11.2022_11_46_52.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-20T10:47:48.719000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -11044,6 +11055,50 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043567469350109244/Session_19.11.2022_17_43_22.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-19T16:44:33.319000+00:00"
+    },
+    {
+      "ID": "AuthorityLightningNew.zip",
+      "Name": "AuthorityLightningNew",
+      "Description": "90% Defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043834742904205402/AuthorityLightningNew.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043834742518325268/Session_20.11.2022_11_25_46.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T10:26:36.359000+00:00"
+    },
+    {
+      "ID": "ThunderRaw.zip",
+      "Name": "ThunderRaw",
+      "Description": "\"Thunder\" Raw Used replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043855778794197052/ThunderRaw.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043855778458648676/Session_20.11.2022_12_49_20.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T11:50:11.577000+00:00"
+    },
+    {
+      "ID": "IndependentTexturesBongofiles.zip",
+      "Name": "IndependentTexturesBongofiles",
+      "Description": "\"Independent\"Used replace 90 % defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043859166575464518/IndependentTexturesBongofiles.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043859166952964136/Session_20.11.2022_13_02_35.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T12:03:39.397000+00:00"
+    },
+    {
+      "ID": "RoyalTieDye.zip",
+      "Name": "RoyalTieDye",
+      "Description": "\"Royal TieDyes\" replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043887016137457795/RoyalTieDye.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043887015869030460/Session_20.11.2022_14_53_23.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T13:54:19.197000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
