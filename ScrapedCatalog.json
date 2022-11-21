@@ -695,6 +695,17 @@
       "UpdatedDate": "2022-11-20T02:49:38.170000+00:00"
     },
     {
+      "ID": "Biome-V1-V2.zip",
+      "Name": "Biome-V1-V2",
+      "Description": "Hey. So i'm happy to release a 1st version of the small indoor skatepark le biome de dr nozman : the two versions in one map !!!! here s the link to download the map (ps this is only this park) :                                                                                                                      Gone snowskating.",
+      "Version": 1,
+      "Author": "TiSzma#6939",
+      "DownloadLink": "rsmm://GDrive/1rN1EKvS7ZmVvMFpvdtw9ckPzrZ7aDQG7",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1044040748024221736/biome-img.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-11-21T00:05:11.632000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -11099,6 +11110,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043887015869030460/Session_20.11.2022_14_53_23.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-20T13:54:19.197000+00:00"
+    },
+    {
+      "ID": "AuthoritySilverCARBON_DestructoD1.zip",
+      "Name": "AuthoritySilverCARBON_DestructoD1",
+      "Description": "replace Destructo D1s",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043943897040175154/AuthoritySilverCARBON_DestructoD1.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043943897543479326/Session_20.11.2022_18_39_34.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T17:40:20.881000+00:00"
+    },
+    {
+      "ID": "Teal_KNDRM_Trucks.zip",
+      "Name": "Teal_KNDRM_Trucks",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1043985894752923658/Teal_KNDRM_Trucks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043985880265785364/KNDRMtrucks.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-20T20:27:13.688000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
