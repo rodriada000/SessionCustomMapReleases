@@ -3632,6 +3632,17 @@
       "UpdatedDate": "2022-11-12T21:33:20.838000+00:00"
     },
     {
+      "ID": "Steeze Deck Pack.zip",
+      "Name": "Steeze Deck Pack",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://GDrive/1yiURFRp5IyiG8xypOltDWbqpf3AHNSkR",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1044437320381763634/STeezeDecks.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-22T02:21:23.213000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5434,6 +5445,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1043840078910328902/Session_20.11.2022_11_46_52.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-11-20T10:47:48.719000+00:00"
+    },
+    {
+      "ID": "Steeze Shirts.zip",
+      "Name": "Steeze Shirts",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://GDrive/1kLJ2H7kmuW31W-Xa9mIF2MKb0ob59erQ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1044437058124533850/STeezeShirts.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-22T02:20:27.726000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -9933,6 +9955,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1036656212764270682/Heinous_Jack.jpg",
       "Category": "session-characters",
       "UpdatedDate": "2022-10-31T15:01:41.339000+00:00"
+    },
+    {
+      "ID": "Thick Stache Black.rar",
+      "Name": "Thick Stache Black",
+      "Description": "https://drive.google.com/file/d/1XuYK9bNt8__4lu3wk3MhGXFTRwgTtn74/view?usp=share_link\nThick Mustache. Replaces all male characters.\nThick Mustache Black. Replaces all male characters.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1ZU758grbTOl7qZuqTg3JWI9LLYALAR8_",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1044372974028980234/Untitled.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-11-21T22:31:50.134000+00:00"
+    },
+    {
+      "ID": "Goatee.rar",
+      "Name": "Goatee",
+      "Description": "\nGoatee. Replaces all male characters.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1go5ovxAi4UBZ2APZ6cI-kra4oEmWGOl4",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1044394910960328734/Screenshot_2022-11-21_172953.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2022-11-21T23:32:30.677000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
