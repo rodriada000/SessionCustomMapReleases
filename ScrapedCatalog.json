@@ -5535,6 +5535,17 @@
       "UpdatedDate": "2022-11-22T16:58:35.448000+00:00"
     },
     {
+      "ID": "East_Side_Skate_Shop_Hoodie.zip",
+      "Name": "East_Side_Skate_Shop_Hoodie",
+      "Description": "East Side Skate shop (My Local skate Shop)  - Replaces Flatface Tan Hoodie",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1045076132204118076/East_Side_Skate_Shop_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1045076131256205313/image.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-23T20:39:26.597000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -8846,6 +8857,17 @@
       "UpdatedDate": "2022-11-22T16:59:40.275000+00:00"
     },
     {
+      "ID": "Poutine_Hat.zip",
+      "Name": "Poutine_Hat",
+      "Description": "Poutine, The Canadian Salad Hat - Replace Jenkem black hat",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1045076762951950406/Poutine_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1045076762620604426/image.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-11-23T20:41:56.949000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -11264,6 +11286,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1043985880265785364/KNDRMtrucks.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-20T20:27:13.688000+00:00"
+    },
+    {
+      "ID": "IndependentReynoldsGreen.zip",
+      "Name": "IndependentReynoldsGreen",
+      "Description": "\"Independent Reynolds\" replace 90% defaults (Fernz Textures)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1045035441042227250/IndependentReynoldsGreen.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045035440794775682/Session_23.11.2022_18_56_52.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-23T17:57:45.031000+00:00"
+    },
+    {
+      "ID": "ThunderTHOMASOrange.zip",
+      "Name": "ThunderTHOMASOrange",
+      "Description": "\"Thunder Thomas\" replace 90% defaults (Fernz Textures)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1045037281649643691/ThunderTHOMASOrange.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045037282064859206/Session_23.11.2022_19_03_46.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-23T18:05:03.973000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
