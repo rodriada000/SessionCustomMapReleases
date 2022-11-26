@@ -3687,6 +3687,39 @@
       "UpdatedDate": "2022-11-22T17:38:31.731000+00:00"
     },
     {
+      "ID": "BoardFlagProSeries_8.5Zeros.zip",
+      "Name": "BoardFlagProSeries_8.5Zeros",
+      "Description": "replace 5 Zeros (8.5)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1045754110965727402/BoardFlagProSeries_8.5Zeros.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1045754114174373938/FED4C3E6-2401-4BC6-A3F5-1FD1B7DDA70A.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-25T17:33:30.080000+00:00"
+    },
+    {
+      "ID": "GuardianDecks.zip",
+      "Name": "GuardianDecks",
+      "Description": "Replaces 3 Heroin Decks",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1045786203741507594/GuardianDecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1045786203389177896/DankGuardian.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-25T19:41:00.826000+00:00"
+    },
+    {
+      "ID": "DankFlowersPack.zip",
+      "Name": "DankFlowersPack",
+      "Description": "Replaces 3 Heroin Decks",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1045786507144868050/DankFlowersPack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1045786506834493471/DankFlowersPack.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-25T19:42:13.133000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5555,6 +5588,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1045076131256205313/image.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-11-23T20:39:26.597000+00:00"
+    },
+    {
+      "ID": "DankBoxLogoTShirts.zip",
+      "Name": "DankBoxLogoTShirts",
+      "Description": "Replaces 2 Heroin Shirts",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1045787395972415538/DankBoxLogoTShirts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1045787395582349332/DankBoxLogo.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-25T19:45:45.080000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -11352,6 +11396,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045400813318701096/Spargo_BLUE.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-24T18:09:37.138000+00:00"
+    },
+    {
+      "ID": "AuthorityGRTXpurpleGreen.zip",
+      "Name": "AuthorityGRTXpurpleGreen",
+      "Description": "replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1045775194880483420/AuthorityGRTXpurpleGreen.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045775195295723530/Session_25.11.2022_19_56_30.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-25T18:57:16.212000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
