@@ -11409,6 +11409,17 @@
       "UpdatedDate": "2022-11-25T18:57:16.212000+00:00"
     },
     {
+      "ID": "AuthorityIrishTemper2.zip",
+      "Name": "AuthorityIrishTemper2",
+      "Description": "Authority <@776264417398226996>  Pros 2(FlagSeries)replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1045965924030746645/AuthorityIrishTemper2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045965920318787654/Session_26.11.2022_08_32_33.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-26T07:35:09.474000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
