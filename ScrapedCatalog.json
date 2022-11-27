@@ -3720,6 +3720,28 @@
       "UpdatedDate": "2022-11-25T19:42:13.133000+00:00"
     },
     {
+      "ID": "NirtDastyFoiledBOARD.zip",
+      "Name": "NirtDastyFoiledBOARD",
+      "Description": "BOARD 1.pro Deck  <@536093014196486145>  replaces Schlaudie Moving Circus (8,5)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1046169368796598432/NirtDastyFoiledBOARD.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1046169368448475186/Session_26.11.2022_21_39_59.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-26T21:03:34.488000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Dark_Decks.zip",
+      "Name": "Schlaudie_Dark_Decks",
+      "Description": "Makes all deck layers and default tops black. Plus Schlaudie Logo deck in black & red and inverted Schlaudie Pip and rooftop decks to bring out the black.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1046172622641188964/Schlaudie_Dark_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1046172597706047509/SMMDarks.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-26T21:16:30.291000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -8153,6 +8175,28 @@
       "UpdatedDate": "2022-11-17T18:57:35.886000+00:00"
     },
     {
+      "ID": "Schlaudie_Official_Spaceman__Support_Grip.zip",
+      "Name": "Schlaudie_Official_Spaceman__Support_Grip",
+      "Description": "Replaces 2 Grizzly grips.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1046172155076939896/Schlaudie_Official_Spaceman__Support_Grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1046172137792225330/SMMOffGripPack1.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-11-26T21:14:38.789000+00:00"
+    },
+    {
+      "ID": "Monocle_Grip_First_Drop.zip",
+      "Name": "Monocle_Grip_First_Drop",
+      "Description": "Replaces 8 Grizzly Grips",
+      "Version": 1,
+      "Author": "WildestPirateOnTheSeas#9047",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1046178458331529236/Monocle_Grip_First_Drop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1046178458675445860/monocle_ad.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2022-11-26T21:39:41.679000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -8943,6 +8987,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1045499245853159524/SMMGONZ.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-11-25T00:40:56.689000+00:00"
+    },
+    {
+      "ID": "FlippedBill.zip",
+      "Name": "FlippedBill",
+      "Description": "Replaces Male Caps. Thanx <@537055098354925569> for the hair ",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1p47tamW9WCcvI-N-sIWryduL-tCizaQf",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1046171248465555536/image.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-11-26T21:11:02.516000+00:00"
+    },
+    {
+      "ID": "Schlaudie_Official_Camo_Brim_Hat.zip",
+      "Name": "Schlaudie_Official_Camo_Brim_Hat",
+      "Description": "Replaces first Jenkem hat.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1046171629027328110/Schlaudie_Official_Camo_Brim_Hat.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1046171607007236166/SMMOffHat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-11-26T21:12:33.374000+00:00"
+    },
+    {
+      "ID": "AltBeanie.zip",
+      "Name": "AltBeanie",
+      "Description": "Replaces All Male Beanies. Thanx <@537055098354925569> for the hair",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1EGm5xhGPU80T2GTRKitorZSTco-QJFEP",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1046175075356913674/image.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-11-26T21:26:14.944000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
