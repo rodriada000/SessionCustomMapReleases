@@ -7614,6 +7614,39 @@
       "UpdatedDate": "2022-11-17T21:39:24.166000+00:00"
     },
     {
+      "ID": "DownFusion_2.zip",
+      "Name": "DownFusion_2",
+      "Description": "Replace Creature Midcups (Adidas Busenitz II Mesh)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1046504473406746704/DownFusion_2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1046504480058916945/CC1EE8F5-9C60-45B3-86B0-1A10BEE8282F.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-27T19:15:11.195000+00:00"
+    },
+    {
+      "ID": "DownSlipOnz.zip",
+      "Name": "DownSlipOnz",
+      "Description": "replace fallen easy",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1046517929782554767/DownSlipOnz.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1046517910908186664/C62F0692-28F0-4F8C-B6B0-DCD72E9DB117.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-27T20:08:37.896000+00:00"
+    },
+    {
+      "ID": "DownPierre.zip",
+      "Name": "DownPierre",
+      "Description": "replace Globe Mahalo",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1046521584707436634/DownPierre.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1046521585026224159/Session_27.11.2022_21_21_46.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-27T20:23:09.364000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
