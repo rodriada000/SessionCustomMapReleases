@@ -739,6 +739,17 @@
       "UpdatedDate": "2022-11-24T17:47:28.215000+00:00"
     },
     {
+      "ID": "ShiddyCampusV2.zip",
+      "Name": "ShiddyCampusV2",
+      "Description": "Shiddy Campus V2 -  Delete V1 and reinstall V2 the same way  ",
+      "Version": 1,
+      "Author": "Moser#2324",
+      "DownloadLink": "rsmm://GDrive/1U0Q1RqusBPC-uiJE2gi0giVNNnkyoIxl",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1046859824920526868/shiddycampusv2.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-11-28T18:47:11.965000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -7667,6 +7678,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1046810121067581581/substance_painter_-_callicutnew_30.04.2022_08_16_24.png",
       "Category": "session-shoes",
       "UpdatedDate": "2022-11-28T15:29:41.632000+00:00"
+    },
+    {
+      "ID": "DownConz.zip",
+      "Name": "DownConz",
+      "Description": "Replace Fallen Easy(mesh speeskeek)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1047011596293115945/DownConz.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1047011592950255667/E67AE1DC-E3DD-4709-89C9-B0E4F28D52E5.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-29T04:50:17.162000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
