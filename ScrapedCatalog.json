@@ -3753,6 +3753,28 @@
       "UpdatedDate": "2022-11-26T21:16:30.291000+00:00"
     },
     {
+      "ID": "OC_Pack_Nov._2022.zip",
+      "Name": "OC_Pack_Nov._2022",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1047015740433252422/OC_Pack_Nov._2022.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1047015765913632789/OC2022novemberAD.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-29T05:06:51.245000+00:00"
+    },
+    {
+      "ID": "OktyabrDeck.zip",
+      "Name": "OktyabrDeck",
+      "Description": "Oktyabr deck \nreplaces antilanta anti leaf",
+      "Version": 1,
+      "Author": "wakeup#5524",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1047163569554329640/OktyabrDeck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1047163569982160967/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-11-29T14:54:10.526000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12111,6 +12133,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1023883643745214515/unknown.png",
       "Category": "session-meshes",
       "UpdatedDate": "2022-09-26T09:08:03.443000+00:00"
+    },
+    {
+      "ID": "HeinousPopTile.zip",
+      "Name": "HeinousPopTile",
+      "Description": "Heinous Popped Tile (uses Material of where ever placed) [Replaces RibsKicker] Shoutout <@663954775276126225> for helping",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801917908348928/1047036053380407377/HeinousPopTile.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1047036053111963668/image.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2022-11-29T06:27:28.178000+00:00"
     }
   ]
 }
