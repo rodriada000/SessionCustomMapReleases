@@ -7757,6 +7757,17 @@
       "UpdatedDate": "2022-11-29T04:50:17.162000+00:00"
     },
     {
+      "ID": "ShaneOneillPro.zip",
+      "Name": "ShaneOneillPro",
+      "Description": "Shane O'neill Pro (replaces Sal 23) [Male and Female] ",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1PYG6nkvNgneQ7Kutp6nq2--6d3syB9LX",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1047399353511317604/image.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-11-30T06:31:05.458000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -11649,6 +11660,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1047246005088817252/Screenshot_117.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-29T20:21:44.694000+00:00"
+    },
+    {
+      "ID": "AuthorityMajesticBlueOrangedefaults.zip",
+      "Name": "AuthorityMajesticBlueOrangedefaults",
+      "Description": "replace 90% defaults (thx <@537055098354925569>  for helping out with Mesh)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1047378425461084190/AuthorityMajesticBlueOrangedefaults.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1047378425024892968/Session_30.11.2022_06_05_50.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-30T05:07:55.987000+00:00"
+    },
+    {
+      "ID": "VENTUREprodFENIX.zip",
+      "Name": "VENTUREprodFENIX",
+      "Description": "\"Venture PROD Fenix\" replace  again 90% defaults (textured JD mod.io)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1047386148122669087/VENTUREprodFENIX.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1047386147782938644/Session_30.11.2022_06_36_22.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-30T05:38:37.282000+00:00"
+    },
+    {
+      "ID": "AuthorityLuxuryPatternsBlackGold.zip",
+      "Name": "AuthorityLuxuryPatternsBlackGold",
+      "Description": "replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1047509906565115954/AuthorityLuxuryPatternsBlackGold.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1047509906967765042/Session_30.11.2022_14_49_44.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-30T13:50:23.697000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
