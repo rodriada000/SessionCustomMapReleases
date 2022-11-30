@@ -5656,6 +5656,50 @@
       "UpdatedDate": "2022-11-25T19:45:45.080000+00:00"
     },
     {
+      "ID": "Staple_cortlandt_hoodie.zip",
+      "Name": "Staple_cortlandt_hoodie",
+      "Description": "Replaces Creature black hoodie.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1047194704497868872/Staple_cortlandt_hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1047194671421595729/SMMSCH.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-29T16:57:53.548000+00:00"
+    },
+    {
+      "ID": "Staple_Pigeon_Hoodie.zip",
+      "Name": "Staple_Pigeon_Hoodie",
+      "Description": "Replaces Creature black hoodie.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1047194788585283665/Staple_Pigeon_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1047194735913222214/SMMSPH.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-29T16:58:13.606000+00:00"
+    },
+    {
+      "ID": "Comme_Des_GarconKAWS_Hoodie.zip",
+      "Name": "Comme_Des_GarconKAWS_Hoodie",
+      "Description": "Replaces Creature black hoodie.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1047194886933336144/Comme_Des_GarconKAWS_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1047194844071727157/SMMCDGKAWSH.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-29T16:58:37.068000+00:00"
+    },
+    {
+      "ID": "Supreme_Classic_NY_T.zip",
+      "Name": "Supreme_Classic_NY_T",
+      "Description": "Replaces the last No-Comply shirt",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1047195034254053527/Supreme_Classic_NY_T.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1047195000921935912/SMMNYT.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-11-29T16:59:12.184000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -11594,6 +11638,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1045965920318787654/Session_26.11.2022_08_32_33.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-11-26T07:35:09.474000+00:00"
+    },
+    {
+      "ID": "DreSessionBlueBlazerPROSWorn.zip",
+      "Name": "DreSessionBlueBlazerPROSWorn",
+      "Description": "OMNS Dre_Session Blue Blazer PRO clean and worn variants",
+      "Version": 1,
+      "Author": "ChariotFighter#5454",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1047246004338032830/DreSessionBlueBlazerPROSWorn.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1047246005088817252/Screenshot_117.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-11-29T20:21:44.694000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
