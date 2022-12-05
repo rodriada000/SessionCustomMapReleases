@@ -3885,6 +3885,17 @@
       "UpdatedDate": "2022-12-04T10:06:41.484000+00:00"
     },
     {
+      "ID": "Black_Christmas.zip",
+      "Name": "Black_Christmas",
+      "Description": "Just in time Chris Cole Black Christmas deck (recook) Replaces one of the Heroine decks.",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1049181681162129499/Black_Christmas.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1049181681640288317/Screenshot_27.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-05T04:33:25.900000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -8054,6 +8065,17 @@
       "UpdatedDate": "2022-12-01T04:51:49.067000+00:00"
     },
     {
+      "ID": "DownMethodRedGumBlack.zip",
+      "Name": "DownMethodRedGumBlack",
+      "Description": "Down Method RedGumBlack replace Globe Mahalo",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1049013249317810266/DownMethodRedGumBlack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1049013249863073802/Session_04.12.2022_18_23_00.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-12-04T17:24:08.615000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -12023,6 +12045,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1048854192795701258/Session_04.12.2022_07_50_55.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-04T06:52:06.473000+00:00"
+    },
+    {
+      "ID": "Authority_XMAS2.zip",
+      "Name": "Authority_XMAS2",
+      "Description": "Authority XMAS2 replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1049009690647994429/Authority_XMAS2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049009690358591548/Session_04.12.2022_18_08_24.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-04T17:09:59.991000+00:00"
+    },
+    {
+      "ID": "Venture_Orange.zip",
+      "Name": "Venture_Orange",
+      "Description": "replace 90% defaultds",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1049028278855413841/Venture_Orange.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049028278545043578/Substance_Painter_-_OMNSventure_04.12.2022_19_19_50.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-04T18:23:51.742000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
