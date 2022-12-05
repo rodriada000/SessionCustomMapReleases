@@ -3896,6 +3896,17 @@
       "UpdatedDate": "2022-12-05T04:33:25.900000+00:00"
     },
     {
+      "ID": "DankNuggedout.zip",
+      "Name": "DankNuggedout",
+      "Description": "Replaces 2 Heroin decks",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1049292081908154378/DankNuggedout.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1049292081585213440/Session_11_27_2022_7_26_23_AM.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-05T11:52:07.298000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -5973,6 +5984,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1048865221042786344/5B7D4ADC-6F0E-4FD9-B073-DACB77F9FFF0.jpg",
       "Category": "session-shirts",
       "UpdatedDate": "2022-12-04T07:35:55.733000+00:00"
+    },
+    {
+      "ID": "MahagoniSweaterWingLogo.zip",
+      "Name": "MahagoniSweaterWingLogo",
+      "Description": "Replace idabble 80s",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1049226961559502858/MahagoniSweaterWingLogo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1049226970984087552/EC34CBFA-606C-4D3C-BE2F-613000BF53BF.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-05T07:33:23.626000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -12067,6 +12089,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049028278545043578/Substance_Painter_-_OMNSventure_04.12.2022_19_19_50.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-04T18:23:51.742000+00:00"
+    },
+    {
+      "ID": "AuthorityChromeGold.zip",
+      "Name": "AuthorityChromeGold",
+      "Description": "replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1049360337398415490/AuthorityChromeGold.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049360337767518258/Session_05.12.2022_17_22_19.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-05T16:23:20.772000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
