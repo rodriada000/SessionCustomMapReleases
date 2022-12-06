@@ -750,6 +750,17 @@
       "UpdatedDate": "2022-11-28T18:47:11.965000+00:00"
     },
     {
+      "ID": "Ramp Room.zip",
+      "Name": "Ramp Room",
+      "Description": "The Ramp Room.  With Session 1.0 not having vert, I am dropping this version AS IS while I do a complete overhaul to account for the current state of the game.  There's still a lot of fun to be had there, so shred on!!",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://GDrive/1OcnURfje-kJe4JmzynTlyxIVzu4w2Jjy",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1049450897803055145/SMMPNG.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-12-05T22:23:37.924000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -3905,6 +3916,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1049292081585213440/Session_11_27_2022_7_26_23_AM.png",
       "Category": "session-decks",
       "UpdatedDate": "2022-12-05T11:52:07.298000+00:00"
+    },
+    {
+      "ID": "DankxMagicDecks.zip",
+      "Name": "DankxMagicDecks",
+      "Description": "Replaces 3 Zero decks",
+      "Version": 1,
+      "Author": "DTGxLCW#1928",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1049493585923428412/DankxMagicDecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1049493585617223750/DankxMagicAD.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-06T01:12:49.600000+00:00"
+    },
+    {
+      "ID": "QUESTSHUNSVOLXX.zip",
+      "Name": "QUESTSHUNSVOLXX",
+      "Description": "\u00bfQUEST-SHUNS? Vol.0 Drop! - Repaces some Heroin decks with some older design ideas that I don't wanna go back to...Vol. 1 COMING SOON!",
+      "Version": 1,
+      "Author": "FashowThaFoola#6344",
+      "DownloadLink": "rsmm://GDrive/1r2lt5BTdzpmk7ZOSAEro7BdHp08C5NUq",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1049515482627182632/spread.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-06T02:39:54.540000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
@@ -12100,6 +12133,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049360337767518258/Session_05.12.2022_17_22_19.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-05T16:23:20.772000+00:00"
+    },
+    {
+      "ID": "AuthorityWutangBlackYellowGkspark.zip",
+      "Name": "AuthorityWutangBlackYellowGkspark",
+      "Description": "replace GK Spark",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1049393760422867056/AuthorityWutangBlackYellowGkspark.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1049393759751786547/Session_05.12.2022_19_35_30.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-05T18:36:09.345000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
