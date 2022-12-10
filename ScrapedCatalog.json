@@ -3995,6 +3995,17 @@
       "UpdatedDate": "2022-12-07T13:28:14.602000+00:00"
     },
     {
+      "ID": "smoking_monk_decks.zip",
+      "Name": "smoking_monk_decks",
+      "Description": "Replaces Element Blazin and Element Daydream Section",
+      "Version": 1,
+      "Author": "Iain#0812",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1050916637576003665/smoking_monk_decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1050916637244674118/smoking_munk.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-09T23:27:31.549000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
