@@ -12289,6 +12289,28 @@
       "UpdatedDate": "2022-12-05T18:36:09.345000+00:00"
     },
     {
+      "ID": "AuthorityTMNT.zip",
+      "Name": "AuthorityTMNT",
+      "Description": "replace 90% defaults 129-169",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1051025719389605938/AuthorityTMNT.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1051025719750299739/Session_10.12.2022_07_38_51.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-10T06:40:58.837000+00:00"
+    },
+    {
+      "ID": "AuthorityLagoonBlackz.zip",
+      "Name": "AuthorityLagoonBlackz",
+      "Description": "90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1051139374043111424/AuthorityLagoonBlackz.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1051139373623685230/Session_10.12.2022_15_07_48.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-10T14:12:36.095000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
