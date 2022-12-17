@@ -4061,6 +4061,39 @@
       "UpdatedDate": "2022-12-15T07:03:44.796000+00:00"
     },
     {
+      "ID": "FancyLad_replacesHEROIN.rar",
+      "Name": "FancyLad_replacesHEROIN",
+      "Description": "\nFancy Lad decks replace all HEROIN Skateboards. STAY TUNED FOR THE VIDEO!",
+      "Version": 1,
+      "Author": "Conomedia#1063",
+      "DownloadLink": "rsmm://Url/https$bit.ly/3FHFaj0",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1053423320869113906/fancyladboards.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-16T21:28:11.322000+00:00"
+    },
+    {
+      "ID": "LOD_gowron_foilboard.zip",
+      "Name": "LOD_gowron_foilboard",
+      "Description": "Legion of Decks Gowron foil deck. Replaces Jart Sculptural",
+      "Version": 1,
+      "Author": "Iain#0812",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1053436023146811434/LOD_gowron_foilboard.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1053436022832250920/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-16T22:18:39.881000+00:00"
+    },
+    {
+      "ID": "BTTFHoverboard.zip",
+      "Name": "BTTFHoverboard",
+      "Description": "**Back To The Future Hoverboard by <@440728861706027009> **\n\nReplaces Heroin Green Eye Deck\n\nUses same trucks/wheels as snowskate mod (Created by Chuy) : https://discord.com/channels/612703594134634498/943801688513454080/1052843190132166686\n\nIf trucks/wheels are not disappearing after uninstill this or snowskate, reinstall the one you wish to use.\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1XhMv0aRTkZmuPqnR2X04YFOB_QWm5keG",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1053471955640139827/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-17T00:41:26.758000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -6193,6 +6226,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1053184905078644736/sessiongame-win64_Screenshot_2022.12.15_-_23.31.32.70.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-12-16T05:40:48.991000+00:00"
+    },
+    {
+      "ID": "Alexisonfire-_Knife_Fight_Hoodie.zip",
+      "Name": "Alexisonfire-_Knife_Fight_Hoodie",
+      "Description": "Alexisonfire - Knife fight hoodie - ( relaces Jenkem black Hoodie)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1053406797047795802/Alexisonfire-_Knife_Fight_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1053406795995033610/image.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-16T20:22:31.799000+00:00"
+    },
+    {
+      "ID": "FancyLad_replacesJENKEM.rar",
+      "Name": "FancyLad_replacesJENKEM",
+      "Description": "Fancy Lad clothing pack replaces Jenkem. STAY TUNED FOR A VIDEO!",
+      "Version": 1,
+      "Author": "Conomedia#1063",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1053421198656155698/FancyLad_replacesJENKEM.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1053421198362558464/fancyladclothes.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-16T21:19:45.460000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
