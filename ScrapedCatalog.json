@@ -9990,6 +9990,17 @@
       "UpdatedDate": "2022-12-21T05:14:08.565000+00:00"
     },
     {
+      "ID": "FittedMLBHats.zip",
+      "Name": "FittedMLBHats",
+      "Description": "MLB Fitted Hats (replaces Jenkem) [Male Only] ",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://GDrive/1-8rvRwOoQBwu5dQ7b5-1-_839H3ozKW7",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1055721403271368714/MLBFittedHats.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-12-23T05:39:56.871000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -12694,6 +12705,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1055218269793030216/Session_21.12.2022_21_19_32.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-21T20:20:40.788000+00:00"
+    },
+    {
+      "ID": "AuthorityVKX.zip",
+      "Name": "AuthorityVKX",
+      "Description": "replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1055755938163863622/AuthorityVKX.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1055755938650406962/Session_23.12.2022_08_55_07.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-23T07:57:10.970000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
