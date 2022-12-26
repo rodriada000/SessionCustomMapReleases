@@ -827,6 +827,17 @@
       "UpdatedDate": "2022-12-22T02:02:49.886000+00:00"
     },
     {
+      "ID": "NorthSydneySkatepark.zip",
+      "Name": "NorthSydneySkatepark",
+      "Description": "North Sydney/Lawrence Mansfield Memorial Skatepark\n\n",
+      "Version": 1,
+      "Author": "DarcyPWorld#0855",
+      "DownloadLink": "rsmm://GDrive/1LmV8kTnkq2rKDWMgybtZzxl2ht10afZ8",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1056728853227245568/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-12-26T00:23:11.639000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
