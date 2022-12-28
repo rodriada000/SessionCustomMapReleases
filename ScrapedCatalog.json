@@ -4281,6 +4281,39 @@
       "UpdatedDate": "2022-12-28T01:47:03.483000+00:00"
     },
     {
+      "ID": "blind_red.rar",
+      "Name": "blind_red",
+      "Description": "Made my first mod : Blind Red Black Logo - replaces Almost Most Red",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1057577718172094524/blind_red.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1057577718759292979/blind_red.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-28T08:36:17.445000+00:00"
+    },
+    {
+      "ID": "Blind_Romar.rar",
+      "Name": "Blind_Romar",
+      "Description": "Blind Romar - replaces Almost most green",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1057591720478515220/Blind_Romar.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1057591720122007562/blind_romar.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-28T09:31:55.348000+00:00"
+    },
+    {
+      "ID": "Blind_Purple_logo.rar",
+      "Name": "Blind_Purple_logo",
+      "Description": "Blind Purple Green Logo - replaces Almost scum punk red",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1057631933942743040/Blind_Purple_logo.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1057631934295056464/blind_purple_deck.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-28T12:11:43.072000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12947,6 +12980,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1057176164461969429/Session_27.12.2022_06_59_37.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-27T06:00:39.124000+00:00"
+    },
+    {
+      "ID": "AuthorityVXXArtistic.zip",
+      "Name": "AuthorityVXXArtistic",
+      "Description": "Authority VKX Artistic replace 90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1057699922369052692/AuthorityVXXArtistic.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1057699921668608021/Session_28.12.2022_17_41_01.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2022-12-28T16:41:52.683000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
