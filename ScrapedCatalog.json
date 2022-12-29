@@ -838,6 +838,17 @@
       "UpdatedDate": "2022-12-26T00:23:11.639000+00:00"
     },
     {
+      "ID": "Schoolyard_by_s4shko.zip",
+      "Name": "Schoolyard_by_s4shko",
+      "Description": "SchoolYard ",
+      "Version": 1,
+      "Author": "S4shko#6783",
+      "DownloadLink": "rsmm://GDrive/1UwD6B16cmjjFLx29PEDB6xeMSG0bkYsZ",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1058057385333235743/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2022-12-29T16:22:18.360000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -6622,6 +6633,50 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1057801517102547004/Thrasher_Cop_Car_replaces_jenken_white.png",
       "Category": "session-shirts",
       "UpdatedDate": "2022-12-28T23:25:34.838000+00:00"
+    },
+    {
+      "ID": "Spitfire_Hoodie_replaces_flatline_tan.rar",
+      "Name": "Spitfire_Hoodie_replaces_flatline_tan",
+      "Description": "Spitfire Black Hoodie - replaces Flatline TanHoodie",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1057917482083549245/Spitfire_Hoodie_replaces_flatline_tan.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1057917482502995978/spitfirehoodie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-29T07:06:23.070000+00:00"
+    },
+    {
+      "ID": "blind_shirt_replaces_jenkem_black.rar",
+      "Name": "blind_shirt_replaces_jenkem_black",
+      "Description": "Blind shirt replaces Jenkem black",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1057945877295157258/blind_shirt_replaces_jenkem_black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1057945877634879548/blind_shirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-29T08:59:12.981000+00:00"
+    },
+    {
+      "ID": "Spitfire_shirt_replace_flatline_purple.rar",
+      "Name": "Spitfire_shirt_replace_flatline_purple",
+      "Description": "Spitfire black t shirt, replaces flatline purple shirt, really happy with how this one turned out",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1057959371520360448/Spitfire_shirt_replace_flatline_purple.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1057959371218358312/spitfire_shirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-29T09:52:50.162000+00:00"
+    },
+    {
+      "ID": "Emerica_navy_blue_hoodie_replaces_grey_session_hoodie.rar",
+      "Name": "Emerica_navy_blue_hoodie_replaces_grey_session_hoodie",
+      "Description": "Emerica navy blue hoodie - replaces session grey hoodie",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1058016376612200498/Emerica_navy_blue_hoodie_replaces_grey_session_hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1058016376209539092/emerica.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-29T13:39:21.272000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
