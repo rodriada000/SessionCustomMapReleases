@@ -4424,6 +4424,28 @@
       "UpdatedDate": "2022-12-30T03:14:26.763000+00:00"
     },
     {
+      "ID": "Blind_red_blue_logo_deck.rar",
+      "Name": "Blind_red_blue_logo_deck",
+      "Description": "blind red blue logo replaces antilanta voorhees",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1058703213567680622/Blind_red_blue_logo_deck.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1058703213307641856/blind_blue_red.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-31T11:08:35.943000+00:00"
+    },
+    {
+      "ID": "SparkyTheHempHog_AlmostReplace.zip",
+      "Name": "SparkyTheHempHog_AlmostReplace",
+      "Description": "<@704815606641328158> Request - Baker Deck Multipack | Replaces Almost \"Greener Black\" \"Greener Green\" \"Most Red\" \"Most Royal\" |",
+      "Version": 1,
+      "Author": "icodestuff#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1058780469279338526/SparkyTheHempHog_AlmostReplace.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1058780469740707840/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2022-12-31T16:15:35.248000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -6756,6 +6778,39 @@
       "UpdatedDate": "2022-12-30T09:40:53.946000+00:00"
     },
     {
+      "ID": "Pirate_flag_shirt_replaces_flatline_Tan_shirt.rar",
+      "Name": "Pirate_flag_shirt_replaces_flatline_Tan_shirt",
+      "Description": "Pirate flag shirt - replaces flatline tan shirt",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1058668730751647744/Pirate_flag_shirt_replaces_flatline_Tan_shirt.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1058668731057840168/white_skull.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-31T08:51:34.666000+00:00"
+    },
+    {
+      "ID": "Pirate_flag_red_shirt_replaces_4LL_wine_shirt.rar",
+      "Name": "Pirate_flag_red_shirt_replaces_4LL_wine_shirt",
+      "Description": "Pirate flag red shirt - replaces 4LL Wine shirt",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1058688735367143535/Pirate_flag_red_shirt_replaces_4LL_wine_shirt.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1058688735669129237/red_skull.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-31T10:11:04.140000+00:00"
+    },
+    {
+      "ID": "darkstar_blue_shirt_replaces_jenkem_white_shirt.rar",
+      "Name": "darkstar_blue_shirt_replaces_jenkem_white_shirt",
+      "Description": "Darkstar blue shirt - replaces Jenkem white shirt",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1058726882612346900/darkstar_blue_shirt_replaces_jenkem_white_shirt.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1058726882947895327/darkstar_blue_shirt.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2022-12-31T12:42:39.181000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -8956,6 +9011,17 @@
       "UpdatedDate": "2022-12-29T17:36:00.736000+00:00"
     },
     {
+      "ID": "Down_SauceBoss_4k.zip",
+      "Name": "Down_SauceBoss_4k",
+      "Description": "Down Pro\u2018s SAUCE BOSS\nReplace es accel OG\n(Works Male & Female )",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1058788206654525471/Down_SauceBoss_4k.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1058772605705920562/C5B09843-7484-4F9E-B622-E3C2DC994EE6.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2022-12-31T16:46:19.881000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -10450,6 +10516,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1055721403271368714/MLBFittedHats.png",
       "Category": "session-hats",
       "UpdatedDate": "2022-12-23T05:39:56.871000+00:00"
+    },
+    {
+      "ID": "Vans_hat_replaces_jenkem_black.rar",
+      "Name": "Vans_hat_replaces_jenkem_black",
+      "Description": "Vans hat - replaces jenkem black",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1058665048987422740/Vans_hat_replaces_jenkem_black.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1058665048710578286/vans_hat.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2022-12-31T08:36:56.805000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
