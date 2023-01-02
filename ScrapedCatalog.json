@@ -6866,6 +6866,17 @@
       "UpdatedDate": "2023-01-01T00:36:08.528000+00:00"
     },
     {
+      "ID": "world_industrie_shirt_replaces_no_comply_white.rar",
+      "Name": "world_industrie_shirt_replaces_no_comply_white",
+      "Description": "world industries shirt replaces no comply white shirt",
+      "Version": 1,
+      "Author": "teranom#8963",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1059443038650376243/world_industrie_shirt_replaces_no_comply_white.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1059443039065620540/world_industrie.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-01-02T12:08:24.092000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -11860,6 +11871,17 @@
       "UpdatedDate": "2022-12-08T08:21:58.531000+00:00"
     },
     {
+      "ID": "Tattoos__Underwear.zip",
+      "Name": "Tattoos__Underwear",
+      "Description": "Simple B&W Neck-Down Tats w/ Black Underwear",
+      "Version": 1,
+      "Author": "icodestuff#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1059450470315331634/Tattoos__Underwear.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1059450469971415070/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2023-01-02T12:37:55.798000+00:00"
+    },
+    {
       "ID": "authorityUSEDreplaceSPARK.zip",
       "Name": "authorityUSEDreplaceSPARK",
       "Description": "replace GrindKing Spark",
@@ -13365,6 +13387,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1057718042970292315/Session_28.12.2022_18_51_31.png",
       "Category": "session-trucks",
       "UpdatedDate": "2022-12-28T17:53:53.055000+00:00"
+    },
+    {
+      "ID": "Hardware.zip",
+      "Name": "Hardware",
+      "Description": "Black Hardware + Dark Red Bushings & Red Bearings | Replaces Defaults",
+      "Version": 1,
+      "Author": "icodestuff#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1059362582441500702/Hardware.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1059362582743482419/preview.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-01-02T06:48:41.793000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
