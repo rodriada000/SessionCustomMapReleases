@@ -4776,6 +4776,39 @@
       "UpdatedDate": "2023-01-17T06:16:32.697000+00:00"
     },
     {
+      "ID": "GirlTokyoBlack.zip",
+      "Name": "GirlTokyoBlack",
+      "Description": "Girl Breana Geering Tokyo Speed Deck, first mod attempt",
+      "Version": 1,
+      "Author": "modernhippie#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1066473996406771842/GirlTokyoBlack.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1066473996788441088/20230121164121_1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-01-21T21:46:55.001000+00:00"
+    },
+    {
+      "ID": "SchlaudieFoiledDecks.rar",
+      "Name": "SchlaudieFoiledDecks",
+      "Description": "IMPORTANT - INSTALL SCLAUDIE FOIL PACK FIRST,  then Supreme Gold and Silver pack, to get the foil look.  Replaces two Schlaudie decks.Sclaudie Foil Pack by Noddy.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1066474448162652281/SchlaudieFoiledDecks.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1066474325026283590/SMMSuGoldSilver.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-01-21T21:48:42.645000+00:00"
+    },
+    {
+      "ID": "GIRLxSANRIO.rar",
+      "Name": "GIRLxSANRIO",
+      "Description": "A bunch of Girl x Sanrio decks from the 60th Anniversary and Arcade collections - replaces Enjoi boards",
+      "Version": 1,
+      "Author": "FashowThaFoola#6344",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1066505805202989076/GIRLxSANRIO.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1066501270434758696/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-01-21T23:53:18.750000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -7427,6 +7460,28 @@
       "UpdatedDate": "2023-01-17T20:00:07.592000+00:00"
     },
     {
+      "ID": "SupremeComme_Des_Garcons_hoodie.zip",
+      "Name": "SupremeComme_Des_Garcons_hoodie",
+      "Description": "Replaces Creature black hoodie.",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1066475640913670265/SupremeComme_Des_Garcons_hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1066475608936300625/SMMSupBackw.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-01-21T21:53:27.003000+00:00"
+    },
+    {
+      "ID": "Sopranos_Tee_PackHeroin.rar",
+      "Name": "Sopranos_Tee_PackHeroin",
+      "Description": "The Sopranos 2x T-shirt pack\nReplaces the Heroin T-shirts",
+      "Version": 1,
+      "Author": "Mr Lateshift#2984",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1066483056229241024/Sopranos_Tee_PackHeroin.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1066483055734292520/preview-1.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-01-21T22:22:54.918000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -7975,6 +8030,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1063556346705891358/image.png",
       "Category": "session-pants",
       "UpdatedDate": "2023-01-13T20:33:13.132000+00:00"
+    },
+    {
+      "ID": "dotOrgSweatPants.zip",
+      "Name": "dotOrgSweatPants",
+      "Description": "IMPORTANT - INSTALL SWEAPANTS MOD FIRST, then Supreme sweatpants mod.Sweatpants mod by JoshLav",
+      "Version": 1,
+      "Author": "Spargo808#4579",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1066475234418511962/dotOrgSweatPants.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1066475150259794010/SMMSupreSweatpants.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2023-01-21T21:51:50.106000+00:00"
     },
     {
       "ID": "Red_Nike_New_Years.rar",
@@ -9834,6 +9900,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1066025099507007628/B712FEB7-B83E-4C80-BAC9-250C5D50132A.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2023-01-20T16:03:18.985000+00:00"
+    },
+    {
+      "ID": "Down_Meteora_4K.zip",
+      "Name": "Down_Meteora_4K",
+      "Description": "Down Meteora , replace Es Accel OG\u2018s",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1066471871018705008/Down_Meteora_4K.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1066471889972772884/61D0B905-C5A4-4CF5-AC4A-8B2A2042D6CF.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-01-21T21:38:32.738000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
