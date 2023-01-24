@@ -4908,6 +4908,17 @@
       "UpdatedDate": "2023-01-22T22:40:53.760000+00:00"
     },
     {
+      "ID": "blackriver_anchor.zip",
+      "Name": "blackriver_anchor",
+      "Description": "Blackriver Anchor - replaces Sugar Skate Co Good Vibes",
+      "Version": 1,
+      "Author": "Pablovskite#6099",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1067403562268770324/blackriver_anchor.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1067403562574942308/blackriver_anchor.png.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-01-24T11:20:40.778000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
