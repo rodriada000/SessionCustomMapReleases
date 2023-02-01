@@ -10221,6 +10221,28 @@
       "UpdatedDate": "2023-01-28T22:07:45.573000+00:00"
     },
     {
+      "ID": "oldskool.zip",
+      "Name": "oldskool",
+      "Description": "replaces fallen trooper",
+      "Version": 1,
+      "Author": "Pandiction#6336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1070048989166190632/oldskool.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1070049125950824518/SessionGame-Win64-Shipping_fZuEWdhZA2.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-01-31T18:33:12.246000+00:00"
+    },
+    {
+      "ID": "DOWN_FINN_USED_4K.zip",
+      "Name": "DOWN_FINN_USED_4K",
+      "Description": "Replace Fallen Trooper (Mesh by  THPS and ported by <@713108710872055830>",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1070049892027863122/DOWN_FINN_USED_4K.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1070049891675553924/Preview.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-01-31T18:36:14.898000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
