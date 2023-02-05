@@ -5007,6 +5007,28 @@
       "UpdatedDate": "2023-02-01T12:12:24.059000+00:00"
     },
     {
+      "ID": "brewboard.zip",
+      "Name": "brewboard",
+      "Description": "this is my first mod, it replaces the blue almost board",
+      "Version": 1,
+      "Author": "kai_#5217",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1071552887282479184/brewboard.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1071552886946926623/Preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-04T22:08:36.893000+00:00"
+    },
+    {
+      "ID": "DGK_initiald.zip",
+      "Name": "DGK_initiald",
+      "Description": "this replaces the dgk good luck santos board (i fixed the tail textures i just didnt get another screenshot)",
+      "Version": 1,
+      "Author": "kai_#5217",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1071575912610549890/DGK_initiald.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1071575912941891594/Preview.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-04T23:40:06.632000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
