@@ -5062,6 +5062,17 @@
       "UpdatedDate": "2023-02-08T03:13:34.775000+00:00"
     },
     {
+      "ID": "Hikage.zip",
+      "Name": "Hikage",
+      "Description": "Custom Deck Design Featuring Hikage from Senran Kagura - Replaces Sugar Skate Co Crayon",
+      "Version": 1,
+      "Author": "Mat the Brawler#4953",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1072778683745583145/Hikage.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1072778682931875860/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-08T07:19:29.536000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -10342,6 +10353,28 @@
       "UpdatedDate": "2023-02-07T14:03:48.677000+00:00"
     },
     {
+      "ID": "LastResortAB_VM003HI_rp._EasyTrooper.zip",
+      "Name": "LastResortAB_VM003HI_rp._EasyTrooper",
+      "Description": "Last Resort AB // VM003 Hi. (+ lace variations & few extra colorways than shown)\nreplaces Fallen The Easy **&** Trooper",
+      "Version": 1,
+      "Author": "BigCat#0420",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1072777000172912650/LastResortAB_VM003HI_rp._EasyTrooper.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1072776999812214874/Last_Resort_AB_VM003_Hi_Session.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-02-08T07:12:48.149000+00:00"
+    },
+    {
+      "ID": "Down_ALPHA_USED_4K.zip",
+      "Name": "Down_ALPHA_USED_4K",
+      "Description": "Down Alpha USED  , replace Es Accels (Mesh from <@152444356387799040>   THPS Pack, Upgraded few Things by Whynot_J and ported by <@249973103927623694>",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1072900598518788127/Down_ALPHA_USED_4K.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1072900598132899990/Foto_08.02.23_15_15_59.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-02-08T15:23:56.284000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -11055,6 +11088,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1071098019975536711/Liberty.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-02-03T16:01:08.978000+00:00"
+    },
+    {
+      "ID": "Creature_Grip.zip",
+      "Name": "Creature_Grip",
+      "Description": "Creature Griptape (replaces Grizzly Stage Dive)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1072908357016506450/Creature_Grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1072908356773232765/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-02-08T15:54:46.054000+00:00"
     },
     {
       "ID": "Ferg.zip",
