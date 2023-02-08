@@ -5040,6 +5040,28 @@
       "UpdatedDate": "2023-02-04T23:40:06.632000+00:00"
     },
     {
+      "ID": "HOOKUPS_11xDecks.zip",
+      "Name": "HOOKUPS_11xDecks",
+      "Description": "Hook-Ups 11 Decks ( replaces 11 DGK decks) I did blur a couple of the decks in photo, not blured in game",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1072622822796574802/HOOKUPS_11xDecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1072622822041583736/imageblur.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-07T21:00:09.373000+00:00"
+    },
+    {
+      "ID": "Enoji_Censored_-_Enjoi_Blank_Decks.zip",
+      "Name": "Enoji_Censored_-_Enjoi_Blank_Decks",
+      "Description": "Enjoi Censored by the man Deck / Enjoi Blank Deck  ( replaces two blind decks)",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1072716797767327905/Enoji_Censored_-_Enjoi_Blank_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1072716797389852682/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-08T03:13:34.775000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
