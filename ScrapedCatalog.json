@@ -5084,6 +5084,17 @@
       "UpdatedDate": "2023-02-10T02:02:54.560000+00:00"
     },
     {
+      "ID": "S.I._Debut_Deck_PackSchlaudie.rar",
+      "Name": "S.I._Debut_Deck_PackSchlaudie",
+      "Description": "Standard Issue Debut Deck Pack. Replaces the Schlaudie decks.",
+      "Version": 1,
+      "Author": "Mr Lateshift#2984",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1073986683189596231/S.I._Debut_Deck_PackSchlaudie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1073986683638403223/S.I._Debut_Deck_Pack_Preview-1.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-11T15:19:39.203000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
