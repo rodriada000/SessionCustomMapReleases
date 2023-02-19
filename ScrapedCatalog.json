@@ -10573,6 +10573,17 @@
       "UpdatedDate": "2023-02-18T20:43:09.620000+00:00"
     },
     {
+      "ID": "Down_Lasek_USED.zip",
+      "Name": "Down_Lasek_USED",
+      "Description": "Down Lasek Used, replace Fallen Bomber.( Mesh by <@152444356387799040>  and ported by <@537055098354925569> )",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1076765301804371998/Down_Lasek_USED.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1076765292128120852/AB08A8B1-11DA-4944-87E8-E86F015439DB.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-02-19T07:20:53.355000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -15202,6 +15213,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1070419252990971934/Session_01.02.2023_20_02_16.png",
       "Category": "session-trucks",
       "UpdatedDate": "2023-02-01T19:03:57.645000+00:00"
+    },
+    {
+      "ID": "Authority_RAW_ROSEE_4K.zip",
+      "Name": "Authority_RAW_ROSEE_4K",
+      "Description": "90% defaults",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1076900370816696340/Authority_RAW_ROSEE_4K.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1076900370594418870/Substance_Painter_-_indyselfmadehollow_19.02.2023_17_07_01.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-02-19T16:17:36.317000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
