@@ -10606,6 +10606,17 @@
       "UpdatedDate": "2023-02-21T15:15:34.163000+00:00"
     },
     {
+      "ID": "Down_ETZ_Slippi.zip",
+      "Name": "Down_ETZ_Slippi",
+      "Description": "Down <@395268084547715072>  Slippi Pros, replace Fallen Patriot. Mesh by <@537055098354925569>",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1077948553311293531/Down_ETZ_Slippi.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1077948503545872504/1236CD0C-FE5B-493D-995C-1C227C847433.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-02-22T13:42:42.511000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
