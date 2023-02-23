@@ -5205,6 +5205,28 @@
       "UpdatedDate": "2023-02-20T07:55:18.829000+00:00"
     },
     {
+      "ID": "new_bartzero_rep_almost.rar",
+      "Name": "new_bartzero_rep_almost",
+      "Description": "",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1078106003821842522/new_bartzero_rep_almost.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1078106002399969311/Session_Screenshot_2023.02.22_-_19.06.56.26.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-23T00:08:21.621000+00:00"
+    },
+    {
+      "ID": "Outcast_Anarchy_Pros.zip",
+      "Name": "Outcast_Anarchy_Pros",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1078129279243661412/Outcast_Anarchy_Pros.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1078129258477666406/Outcast2023.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-02-23T01:40:50.957000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -10617,6 +10639,17 @@
       "UpdatedDate": "2023-02-22T13:42:42.511000+00:00"
     },
     {
+      "ID": "Customizable Vans Old Skool.rar",
+      "Name": "Customizable Vans Old Skool",
+      "Description": "\nCustomizable Vans Old Skool. Credit to Tipahdis for the mesh work. (Replaces MidTopCup)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1HG4PFcyRxTFkhh2t3WIcERSpoD-wRy5G",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1078044118292365513/preview.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-02-22T20:02:26.797000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -11352,6 +11385,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1075474184311947324/PNG.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-02-15T17:50:27.063000+00:00"
+    },
+    {
+      "ID": "toastyREP.ThankYou.rar",
+      "Name": "toastyREP.ThankYou",
+      "Description": "TOASTY grip",
+      "Version": 1,
+      "Author": "BilboBagginz#1581",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1078098384944103454/toastyREP.ThankYou.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1078098384218505257/Session_Screenshot_2023.01.29_-_11.59.39.24.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-02-22T23:38:05.185000+00:00"
     },
     {
       "ID": "Ferg.zip",
