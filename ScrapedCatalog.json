@@ -5304,6 +5304,17 @@
       "UpdatedDate": "2023-02-28T20:06:12.603000+00:00"
     },
     {
+      "ID": "DGK_Futurama.zip",
+      "Name": "DGK_Futurama",
+      "Description": "DGK Futurama Bender Dirty Ghetto Kids (7.75) - Replaces Thank You Skateboards \"Health Nut\"",
+      "Version": 1,
+      "Author": "kai_#5217",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1080336472860799107/DGK_Futurama.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1080336472420393041/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-01T03:51:26.900000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -10791,6 +10802,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1079804315314683914/738CBB6A-94E2-4129-AC73-FB0338AD723F.jpg",
       "Category": "session-shoes",
       "UpdatedDate": "2023-02-27T16:36:50.750000+00:00"
+    },
+    {
+      "ID": "DOWN_PROZ_DTG_Session.zip",
+      "Name": "DOWN_PROZ_DTG_Session",
+      "Description": "Down Proz <@815261303059775508>  , replace Fallen Easy & Trooper. (Mesh by <@529002635525619772>   & <@737821006072250439>  )",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1080363335872159834/DOWN_PROZ_DTG_Session.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1080363335297544202/Foto_01.03.23_06_11_01.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-03-01T05:38:11.496000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
