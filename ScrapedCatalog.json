@@ -8329,6 +8329,39 @@
       "UpdatedDate": "2023-03-09T02:48:48.690000+00:00"
     },
     {
+      "ID": "Blonde_Hoodie.rar",
+      "Name": "Blonde_Hoodie",
+      "Description": "Frank Ocean Blonde Hoodie (replaces Flatface tan hoodie)",
+      "Version": 1,
+      "Author": "diogope2#4671",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1083410229833760898/Blonde_Hoodie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1083410230311923772/Session_09_03_2023_15_19_55.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-03-09T15:25:27.989000+00:00"
+    },
+    {
+      "ID": "DW_Drip_replaces_no_comply_bright_yellow.zip",
+      "Name": "DW_Drip_replaces_no_comply_bright_yellow",
+      "Description": "Death Wish Drip - replaces no comply bright yellow",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1083593351149920297/DW_Drip_replaces_no_comply_bright_yellow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1083593350764048414/DW_Drip_replaces_no_comply_bright_yellow.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-03-10T03:33:07.195000+00:00"
+    },
+    {
+      "ID": "Slappy_2_replaces_flatface_tan.zip",
+      "Name": "Slappy_2_replaces_flatface_tan",
+      "Description": "Slappy's Garage 2 (Local San Diego Skateshop) replaces flatface tan",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1083593648211492924/Slappy_2_replaces_flatface_tan.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1083593647552995378/Slappy_2_replaces_flatface_tan.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-03-10T03:34:18.001000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
@@ -12905,6 +12938,28 @@
       "UpdatedDate": "2023-03-03T21:23:23.792000+00:00"
     },
     {
+      "ID": "Curly Hair Brown.rar",
+      "Name": "Curly Hair Brown",
+      "Description": "\nCurly Hair Brown (Replaces Default hats and hair)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1yZ4zieFXj2Q79szT5xRRat7dmfOicvx_",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1083578257783394344/image.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-03-10T02:33:08.531000+00:00"
+    },
+    {
+      "ID": "Curly Hair Black.rar",
+      "Name": "Curly Hair Black",
+      "Description": "\nCurly Hair Black (Replaces default hair and hats)",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1MTaVwsgiYR9-EqKVSRy2bHlCKzt-eHfL",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1083578481369169942/BLK.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-03-10T02:34:01.841000+00:00"
+    },
+    {
       "ID": "Cut Hair.rar",
       "Name": "Cut Hair",
       "Description": "Cut Hair ",
@@ -14179,6 +14234,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1059633921920344104/preview.png",
       "Category": "session-characters",
       "UpdatedDate": "2023-01-03T00:46:54.212000+00:00"
+    },
+    {
+      "ID": "Better Brows.rar",
+      "Name": "Better Brows",
+      "Description": "\nTexture by Provo",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1IUGTtZFfLenIX2NpatHnCvlMapvw5Y-J",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1083435536162758787/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2023-03-09T17:06:01.050000+00:00"
+    },
+    {
+      "ID": "Better Brows Stubble.rar",
+      "Name": "Better Brows Stubble",
+      "Description": "\nTexture by Provo",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://GDrive/1aj-yw1ri3d7zYMaU5fH1zrAvIqTX5QZf",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1083436100384739348/preview.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2023-03-09T17:08:15.570000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
