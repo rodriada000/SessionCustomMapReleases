@@ -5557,6 +5557,17 @@
       "UpdatedDate": "2023-03-12T14:31:33.969000+00:00"
     },
     {
+      "ID": "Steeze_2023_Logo_Decks.zip",
+      "Name": "Steeze_2023_Logo_Decks",
+      "Description": "",
+      "Version": 1,
+      "Author": "RellimSaibot#1937",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1084601038016880760/Steeze_2023_Logo_Decks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1084601107726205040/SteezeAD.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-12T22:17:35.111000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -16115,6 +16126,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1081406628013813770/Screenshot_2023-03-04_032637.png",
       "Category": "session-trucks",
       "UpdatedDate": "2023-03-04T02:43:51.533000+00:00"
+    },
+    {
+      "ID": "Authority_Nytro_WHITEGOLD.zip",
+      "Name": "Authority_Nytro_WHITEGOLD",
+      "Description": "replace Defaults 129-169 (Hollow Faked Bolts/Kingpin included lol)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1084509501530574898/Authority_Nytro_WHITEGOLD.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1084509501908074688/Substance_Painter_-_venturehollow_12.03.2023_17_01_14.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-03-12T16:13:34.522000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
