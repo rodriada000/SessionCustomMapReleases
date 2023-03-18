@@ -5612,6 +5612,28 @@
       "UpdatedDate": "2023-03-16T23:55:07.594000+00:00"
     },
     {
+      "ID": "GlobeRed.zip",
+      "Name": "GlobeRed",
+      "Description": "Replaces Antilanta - Anti Leaf\n(my 2nd mod)",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1086371622409224232/GlobeRed.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1086371622807666698/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-17T19:32:58.739000+00:00"
+    },
+    {
+      "ID": "Revajvdek.zip",
+      "Name": "Revajvdek",
+      "Description": "Revive Pizza vs Nachos deck\nReplaces Script Black - Flip Skateboards",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1086437299061010432/Revajvdek.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1086437299488817192/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-17T23:53:57.335000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12210,6 +12232,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1085006184769134602/20230314014839_13.jpg",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-03-14T01:07:13.168000+00:00"
+    },
+    {
+      "ID": "Dicktape.zip",
+      "Name": "Dicktape",
+      "Description": "Replaces No Comply Logo\n(My first mod)",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1086371002155540560/Dicktape.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1086371002667249734/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-17T19:30:30.887000+00:00"
+    },
+    {
+      "ID": "PaintedCutOuts.zip",
+      "Name": "PaintedCutOuts",
+      "Description": "Painted cut outs griptape\nReplaces Dae La - Thank You Skateboards",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1086432211525447811/PaintedCutOuts.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1086432211156353124/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-17T23:33:44.315000+00:00"
     },
     {
       "ID": "Ferg.zip",
