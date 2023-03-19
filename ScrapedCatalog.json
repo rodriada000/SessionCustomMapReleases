@@ -5689,6 +5689,50 @@
       "UpdatedDate": "2023-03-18T22:40:13.875000+00:00"
     },
     {
+      "ID": "BrockmanZero-EnjoiWpanda.rar",
+      "Name": "BrockmanZero-EnjoiWpanda",
+      "Description": "James Brockman Rocky Horror Zero Deck(learned to do this today\ud83e\udd73 ) replaces Enjoi Whity Panda",
+      "Version": 1,
+      "Author": "CalienteCarl#7794",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1086922861219942471/BrockmanZero-EnjoiWpanda.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1086922860687269928/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T08:03:24.237000+00:00"
+    },
+    {
+      "ID": "GrizzlyHaslam-AlmostMostGreen.rar",
+      "Name": "GrizzlyHaslam-AlmostMostGreen",
+      "Description": "Chris Haslam Grizzly Almost deck, replaces Almost Most Green",
+      "Version": 1,
+      "Author": "CalienteCarl#7794",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1086933153924522065/GrizzlyHaslam-AlmostMostGreen.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1086933153400246288/Session_Screenshot_2023.03.19_-_01.35.56.81.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T08:44:18.247000+00:00"
+    },
+    {
+      "ID": "FreddyDreamer.rar",
+      "Name": "FreddyDreamer",
+      "Description": "This is just a cool picture that my wife has on a Tshirt, felt like slapping it on a deck.",
+      "Version": 1,
+      "Author": "CalienteCarl#7794",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1086946946792574998/FreddyDreamer.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1086946945920151602/Session_Screenshot_2023.03.19_-_02.33.32.32.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T09:39:06.739000+00:00"
+    },
+    {
+      "ID": "SucodeFrutadecks.zip",
+      "Name": "SucodeFrutadecks",
+      "Description": "These 3 decks requested by \"Suco de Fruta\" Replaces first 3 decks in Flip Skateboards",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1087000071083655229/SucodeFrutadecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1087000070504849418/deckssss.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T13:10:12.520000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -11541,6 +11585,17 @@
       "UpdatedDate": "2023-03-18T21:26:33.516000+00:00"
     },
     {
+      "ID": "kalimDC.zip",
+      "Name": "kalimDC",
+      "Description": "DC Vulcan Black and Gray Replaces Kalis Vulc XSSH - DC Shoes",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1086993013458350220/kalimDC.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1086993013957464164/image.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-03-19T12:42:09.894000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -12386,6 +12441,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1086781892352823347/image.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-03-18T22:43:14.703000+00:00"
+    },
+    {
+      "ID": "Griptapeabajur.zip",
+      "Name": "Griptapeabajur",
+      "Description": "Griptape requested by \"Abajur de Prostituta\" Replaces Split Stamped - Grizzly Griptape",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1087000461682425866/Griptapeabajur.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087000461372035082/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-19T13:11:45.639000+00:00"
     },
     {
       "ID": "Ferg.zip",
