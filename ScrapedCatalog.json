@@ -5733,6 +5733,28 @@
       "UpdatedDate": "2023-03-19T13:10:12.520000+00:00"
     },
     {
+      "ID": "Crockdecks.zip",
+      "Name": "Crockdecks",
+      "Description": "Kinda low res, replaces Thank You skateboard decks circled in the picture,",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1087064681711153152/Crockdecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1087064681287516221/croooooc.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T17:26:56.889000+00:00"
+    },
+    {
+      "ID": "Crocmany.zip",
+      "Name": "Crocmany",
+      "Description": "a deck with bunch of crocs. Replaces Eye Spy - Thank You Skateboards",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1087068916150448178/Crocmany.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1087068915890389002/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-19T17:43:46.454000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12452,6 +12474,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087000461372035082/image.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-03-19T13:11:45.639000+00:00"
+    },
+    {
+      "ID": "croctape.zip",
+      "Name": "croctape",
+      "Description": "Replaces Dae La - Thank You Skateboards",
+      "Version": 1,
+      "Author": "\ud835\ude34\ud835\ude35\ud835\ude22\ud835\ude2f#3907",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1087069086858612767/croctape.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087069086615355532/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-19T17:44:27.166000+00:00"
     },
     {
       "ID": "Ferg.zip",
