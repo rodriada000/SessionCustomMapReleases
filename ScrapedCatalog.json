@@ -12498,6 +12498,17 @@
       "UpdatedDate": "2023-03-19T17:44:27.166000+00:00"
     },
     {
+      "ID": "Zero_Grip.zip",
+      "Name": "Zero_Grip",
+      "Description": "Some Zero grip (replaces Grizzly)",
+      "Version": 1,
+      "Author": "ndaoud360#9323",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1087585059739009054/Zero_Grip.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087585060179415090/Zero_Grip_FULL.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-21T03:54:44.811000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
