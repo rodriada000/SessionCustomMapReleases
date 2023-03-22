@@ -5755,6 +5755,28 @@
       "UpdatedDate": "2023-03-19T17:43:46.454000+00:00"
     },
     {
+      "ID": "ELEMENT_X_STAR_WARS_REBEL_DROIDS_V2.rar",
+      "Name": "ELEMENT_X_STAR_WARS_REBEL_DROIDS_V2",
+      "Description": "ELEMENT X STAR WARS REBEL DROIDS V2 (replaces Almost Skateboards Greener-Black 8.25)",
+      "Version": 1,
+      "Author": "Dobby#6434",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1087876226728853534/ELEMENT_X_STAR_WARS_REBEL_DROIDS_V2.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1087876226359762964/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-21T23:11:44.302000+00:00"
+    },
+    {
+      "ID": "GoodTimes_Artistic_5Diz.zip",
+      "Name": "GoodTimes_Artistic_5Diz",
+      "Description": "GoodTimes Artistic Decks.\nReplace 5 Diz (posting for <@819928415436013569> )designed by ME",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1087941981075931186/GoodTimes_Artistic_5Diz.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1087942033278242876/3A2F034D-8E79-4B14-BA38-242720C10BA3.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-03-22T03:33:13.768000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12507,6 +12529,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087585060179415090/Zero_Grip_FULL.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-03-21T03:54:44.811000+00:00"
+    },
+    {
+      "ID": "Star_Wars_Mando_Griptape.rar",
+      "Name": "Star_Wars_Mando_Griptape",
+      "Description": "Star Wars x Mando. Replaces Snake Eyes Grizzly",
+      "Version": 1,
+      "Author": "Dobby#6434",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1087875583947591782/Star_Wars_Mando_Griptape.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1087875583586873486/image.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-03-21T23:09:11.039000+00:00"
     },
     {
       "ID": "Ferg.zip",
