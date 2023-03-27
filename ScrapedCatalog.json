@@ -959,6 +959,17 @@
       "UpdatedDate": "2023-03-18T10:43:46.067000+00:00"
     },
     {
+      "ID": "DHHS.zip",
+      "Name": "DHHS",
+      "Description": "Desert Hills High School by DH13\n\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1oVjoS7SFrvcmWm_ohBZWtncsVI7I_lta",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1089851275551711302/image.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-03-27T09:59:52.473000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
