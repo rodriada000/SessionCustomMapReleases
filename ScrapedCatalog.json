@@ -5810,6 +5810,17 @@
       "UpdatedDate": "2023-04-16T03:44:44.431000+00:00"
     },
     {
+      "ID": "VYZER_VINCENT_NAVA_PRO.zip",
+      "Name": "VYZER_VINCENT_NAVA_PRO",
+      "Description": "VYZER VINCENT NAVA PRO",
+      "Version": 1,
+      "Author": "\u5c06\u6765\u306e\u5922\u306f\u30a4\u30e2\u30fc\u30bf\u30eb#6641",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1103758242070396978/VYZER_VINCENT_NAVA_PRO.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1103758206708232353/24.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-04T19:01:11.849000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13728,6 +13739,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1097504398332137552/preview.png",
       "Category": "session-hats",
       "UpdatedDate": "2023-04-17T12:50:39.172000+00:00"
+    },
+    {
+      "ID": "SmallDreads.zip",
+      "Name": "SmallDreads",
+      "Description": "Mask Off Small Dreads (Replaces Jenkem Hats)",
+      "Version": 1,
+      "Author": "Tipahdis#1039",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1103542403324981278/SmallDreads.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1103542403803119636/image.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-05-04T04:43:31.958000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
