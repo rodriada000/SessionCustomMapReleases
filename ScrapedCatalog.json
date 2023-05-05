@@ -5821,6 +5821,17 @@
       "UpdatedDate": "2023-05-04T19:01:11.849000+00:00"
     },
     {
+      "ID": "TotalSteez.zip",
+      "Name": "TotalSteez",
+      "Description": "Total Steez Classics Replace FlatFace",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1103905107369807912/TotalSteez.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1103905107835363369/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-05T04:44:47.341000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -8888,6 +8899,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1097005504737333359/image.png",
       "Category": "session-shirts",
       "UpdatedDate": "2023-04-16T03:48:13.618000+00:00"
+    },
+    {
+      "ID": "TotalSteez_Hoodie.zip",
+      "Name": "TotalSteez_Hoodie",
+      "Description": "Total Steez Hoodie Replaces Jenkem",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1103905512770244658/TotalSteez_Hoodie.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1103905512568934400/preview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-05-05T04:46:23.894000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
