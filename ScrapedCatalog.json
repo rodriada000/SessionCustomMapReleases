@@ -970,6 +970,17 @@
       "UpdatedDate": "2023-03-27T09:59:52.473000+00:00"
     },
     {
+      "ID": "SundaySchool.zip",
+      "Name": "SundaySchool",
+      "Description": "Sunday School\n",
+      "Version": 1,
+      "Author": "Travis Bragg#7800",
+      "DownloadLink": "rsmm://GDrive/1B-ABb2lukffNOSZLFEoaBklpIFTi1XTp",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1104199879875641465/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-05-06T00:16:06.306000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -5832,6 +5843,17 @@
       "UpdatedDate": "2023-05-05T04:44:47.341000+00:00"
     },
     {
+      "ID": "TotalSteezDecks.zip",
+      "Name": "TotalSteezDecks",
+      "Description": "Total Steez Decks Replace FlatFace",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1104141578806775809/TotalSteezDecks.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1104141578597040138/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-05T20:24:26.415000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -8910,6 +8932,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1103905512568934400/preview.png",
       "Category": "session-shirts",
       "UpdatedDate": "2023-05-05T04:46:23.894000+00:00"
+    },
+    {
+      "ID": "DW_Tee_replaces_FF_purp.zip",
+      "Name": "DW_Tee_replaces_FF_purp",
+      "Description": "Deathwish Tee - Replaces Flatface Purple Shirt",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1104223997639532665/DW_Tee_replaces_FF_purp.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1104223997064925224/DW_Tee_replaces_FF_purp.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-05-06T01:51:56.602000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
