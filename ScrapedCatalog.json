@@ -981,6 +981,17 @@
       "UpdatedDate": "2023-05-06T00:16:06.306000+00:00"
     },
     {
+      "ID": "HIDEOUT.zip",
+      "Name": "HIDEOUT",
+      "Description": "HIDEOUT v1\n\nplease DM me with any bugs or funky stuff you find, so I can patch it fast.\nHF \u270c\ufe0f",
+      "Version": 1,
+      "Author": "solid_x#8527",
+      "DownloadLink": "rsmm://GDrive/1ynespN3IffqA_LmFDJ_sGioSKfQyngEu",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1104762708223606814/HIDEOUTv1.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-05-07T13:32:35.099000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
