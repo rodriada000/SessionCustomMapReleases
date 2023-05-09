@@ -8956,6 +8956,28 @@
       "UpdatedDate": "2023-05-06T01:51:56.602000+00:00"
     },
     {
+      "ID": "S.I._Icon_Logo_Krux_ReplacementKrux.rar",
+      "Name": "S.I._Icon_Logo_Krux_ReplacementKrux",
+      "Description": "Standard Issue Icon Tees\n\nReplaces Krux",
+      "Version": 1,
+      "Author": "Mr Lateshift#2984",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1105416450065305650/S.I._Icon_Logo_Krux_ReplacementKrux.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1105416449444544582/preview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-05-09T08:50:19.420000+00:00"
+    },
+    {
+      "ID": "S.I._Icon_Logo_Windbreaker_Setdefault.rar",
+      "Name": "S.I._Icon_Logo_Windbreaker_Setdefault",
+      "Description": "Standard Issue Icon Logo Windbreakers\n\nAdds the Icon Logo to the default windbreakers",
+      "Version": 1,
+      "Author": "Mr Lateshift#2984",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1105420229363896360/S.I._Icon_Logo_Windbreaker_Setdefault.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1105420228730560552/preview.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-05-09T09:05:20.441000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
