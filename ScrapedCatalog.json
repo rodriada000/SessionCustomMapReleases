@@ -12828,6 +12828,17 @@
       "UpdatedDate": "2023-05-10T00:04:29.213000+00:00"
     },
     {
+      "ID": "100_Custom_Griptapes.rar",
+      "Name": "100_Custom_Griptapes",
+      "Description": "updated version of the 100_Custom_Griptapes mod\n\nthis mod add 100 more griptape to  Default Grip Tape - Black\n\nthe griptape materials in this mod are setup like the defaults so each texture has 4 griptape designs in them \n\nthe path to the textures is Content/CustomGripTape/Textures/    \n\nthe texture names are \nTEX_GT_001-004\nTEX_GT_005-008\nTEX_GT_009-012\nTEX_GT_013-016\nTEX_GT_017-020\nTEX_GT_021-024\nTEX_GT_025-028\nTEX_GT_029-032\nTEX_GT_033-036\nTEX_GT_037-040\nTEX_GT_041-044\nTEX_GT_045-048\nTEX_GT_049-052\nTEX_GT_053-056\nTEX_GT_057-060\nTEX_GT_061-064\nTEX_GT_065-068\nTEX_GT_069-072\nTEX_GT_073-076\nTEX_GT_077-080\nTEX_GT_081-084\nTEX_GT_085-088\nTEX_GT_089-092\nTEX_GT_093-096\nTEX_GT_097-100",
+      "Version": 1,
+      "Author": "Papa Nurgle#4336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1106667607257530550/100_Custom_Griptapes.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1106667606859059290/Screenshot_211.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-05-12T19:41:58.570000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
