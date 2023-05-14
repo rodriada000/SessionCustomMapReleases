@@ -5865,6 +5865,50 @@
       "UpdatedDate": "2023-05-05T20:24:26.415000+00:00"
     },
     {
+      "ID": "DW_Blk_Orange_re_Meow_Catmeowtain.zip",
+      "Name": "DW_Blk_Orange_re_Meow_Catmeowtain",
+      "Description": "DeathWish Black & Orange Gang Sign - replaces Meow Catmeowtain",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1107107123512475709/DW_Blk_Orange_re_Meow_Catmeowtain.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1107107123290185789/DW_Blk_Orange_re_Meow_Catmeowtain.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-14T00:48:27.393000+00:00"
+    },
+    {
+      "ID": "DW_Shatter_re_almost_greenerblk.zip",
+      "Name": "DW_Shatter_re_almost_greenerblk",
+      "Description": "DeathWish Shatter Gang Sign - replaces almost greener black",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1107107334779584582/DW_Shatter_re_almost_greenerblk.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1107107334183985222/DW_Shatter_re_almost_greenerblk.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-14T00:49:17.748000+00:00"
+    },
+    {
+      "ID": "DW_Stacked_grey_re_almost_most_Royal.zip",
+      "Name": "DW_Stacked_grey_re_almost_most_Royal",
+      "Description": "DeathWish Stacked Grey - replaces almost most Royal",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1107107578875478046/DW_Stacked_grey_re_almost_most_Royal.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1107107578636419193/DW_Stacked_grey_re_almost_most_Royal.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-14T00:50:15.972000+00:00"
+    },
+    {
+      "ID": "DW_Tie_Die_re_TY_Yellow.zip",
+      "Name": "DW_Tie_Die_re_TY_Yellow",
+      "Description": "DeathWish Tie Die - replaces Thank You Yellow",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1107107792873078784/DW_Tie_Die_re_TY_Yellow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1107107792533344266/DW_Tie_Die_re_TY_Yellow.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-14T00:51:06.975000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13959,6 +14003,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1106416768173490247/preview.png",
       "Category": "session-hats",
       "UpdatedDate": "2023-05-12T03:05:13.743000+00:00"
+    },
+    {
+      "ID": "DW_Hat_re_jenkem_yellow.zip",
+      "Name": "DW_Hat_re_jenkem_yellow",
+      "Description": "DeathWish Hat - replaces jenkem yellow",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1107106650252382350/DW_Hat_re_jenkem_yellow.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1107106649719709716/DW_Hat_re_jenkem_yellow.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-05-14T00:46:34.550000+00:00"
+    },
+    {
+      "ID": "Shake_Junt_Hat_re_Jenkem_Grn.zip",
+      "Name": "Shake_Junt_Hat_re_Jenkem_Grn",
+      "Description": "Shake Junt Hat - replaces Jenkem Green",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1107106816376197172/Shake_Junt_Hat_re_Jenkem_Grn.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1107106815998689340/Shake_Junt_Hat_re_Jenkem_Grn.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-05-14T00:47:14.162000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
