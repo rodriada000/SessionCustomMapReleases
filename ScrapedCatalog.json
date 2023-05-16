@@ -5931,6 +5931,17 @@
       "UpdatedDate": "2023-05-15T23:53:10.607000+00:00"
     },
     {
+      "ID": "S.I._Team_Series_2_by_TENLBSSchlaudie.rar",
+      "Name": "S.I._Team_Series_2_by_TENLBSSchlaudie",
+      "Description": "Standard Issue - Team Series 2\n\n8 new team decks, designed by <@1059246811811946576> \nReplaces Schlaudie decks\n***reuploaded to fix***",
+      "Version": 1,
+      "Author": "Mr Lateshift#2984",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1108013517015097354/S.I._Team_Series_2_by_TENLBSSchlaudie.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1108013516625039390/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-16T12:50:08.441000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -17173,6 +17184,17 @@
       "UpdatedDate": "2023-03-22T18:14:27.235000+00:00"
     },
     {
+      "ID": "OC_Trucks_destructo.zip",
+      "Name": "OC_Trucks_destructo",
+      "Description": "Outcast Distribution Trucks Replace Destructo Raw Mids",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1107925489294770217/OC_Trucks_destructo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1107925489634521098/preview.jpg",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-05-16T07:00:21.086000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
@@ -17677,6 +17699,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1087424732481208460/preview.png",
       "Category": "session-wheels",
       "UpdatedDate": "2023-03-20T17:17:39.837000+00:00"
+    },
+    {
+      "ID": "OC_Wheels_Satori.zip",
+      "Name": "OC_Wheels_Satori",
+      "Description": "Outcast Distribution Wheels Fully Replace Satori",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1107925773068816394/OC_Wheels_Satori.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1107925772829720637/preview.jpg",
+      "Category": "session-wheels",
+      "UpdatedDate": "2023-05-16T07:01:28.655000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
