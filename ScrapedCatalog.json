@@ -17206,6 +17206,17 @@
       "UpdatedDate": "2023-05-16T07:00:21.086000+00:00"
     },
     {
+      "ID": "AUTHORITY_GALVAZ_Skull.zip",
+      "Name": "AUTHORITY_GALVAZ_Skull",
+      "Description": "replace 90% defaults...",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1108603562751176754/AUTHORITY_GALVAZ_Skull.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1108603561782280283/Session_18.05.2023_05_53_26.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-05-18T03:54:46.293000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
