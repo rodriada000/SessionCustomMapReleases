@@ -9715,6 +9715,17 @@
       "UpdatedDate": "2023-03-18T22:00:09.133000+00:00"
     },
     {
+      "ID": "Shorts.rar",
+      "Name": "Shorts",
+      "Description": "Male shorts (replaces baggy pants)\nUpdated to fix the body mask issue.",
+      "Version": 1,
+      "Author": "blitzkow#3666",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801432174370886/1108501285755420682/Shorts.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801432174370886/1108501286128730193/preview.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2023-05-17T21:08:21.653000+00:00"
+    },
+    {
       "ID": "Red_Nike_New_Years.rar",
       "Name": "Red_Nike_New_Years",
       "Description": "Recooked my red and black Nike Chinese New Year shoes. You have to change the color of the shoes to match the original unfortunately (due to the cup sole shoe mesh) but on the bright side, you can change the color to whatever you want.",
