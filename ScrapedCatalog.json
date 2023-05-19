@@ -5942,6 +5942,17 @@
       "UpdatedDate": "2023-05-16T12:50:08.441000+00:00"
     },
     {
+      "ID": "OC_Classics_sugar.zip",
+      "Name": "OC_Classics_sugar",
+      "Description": "Outcast Distribution Decks Fully Replace Sugar",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1108825069674823792/OC_Classics_sugar.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1108825069318312079/preview.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-18T18:34:57.698000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -9108,6 +9119,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1106317928535691396/NBA_Run.png",
       "Category": "session-shirts",
       "UpdatedDate": "2023-05-11T20:32:28.893000+00:00"
+    },
+    {
+      "ID": "OC_Clothing_flatface.zip",
+      "Name": "OC_Clothing_flatface",
+      "Description": "Outcast Distribution Clothing Fully Replaces FlatFace",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1108824549786669167/OC_Clothing_flatface.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1108824549547573360/preview.jpg",
+      "Category": "session-shirts",
+      "UpdatedDate": "2023-05-18T18:32:53.731000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -14091,6 +14113,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1107510822378414130/Preview1.png",
       "Category": "session-hats",
       "UpdatedDate": "2023-05-15T03:32:36.576000+00:00"
+    },
+    {
+      "ID": "OC_Hats_jenkem.zip",
+      "Name": "OC_Hats_jenkem",
+      "Description": "Outcast Distribution Hats Replace Jenkem",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1108824204696100936/OC_Hats_jenkem.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1108824204444446760/preview.jpg",
+      "Category": "session-hats",
+      "UpdatedDate": "2023-05-18T18:31:31.478000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
