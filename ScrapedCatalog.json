@@ -6030,6 +6030,28 @@
       "UpdatedDate": "2023-05-22T01:57:54.942000+00:00"
     },
     {
+      "ID": "OC.Pro.Zero.Drop.zip",
+      "Name": "OC.Pro.Zero.Drop",
+      "Description": "Outcast Zero Pro Models with Bonus Outcast Decks. Fully replaces Enjoi Skateboards",
+      "Version": 1,
+      "Author": "derekgatz#7240",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1110069956466446336/OC.Pro.Zero.Drop.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1110069955816333392/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-22T05:01:41.803000+00:00"
+    },
+    {
+      "ID": "9GoodTimes_MEOWreplace.zip",
+      "Name": "9GoodTimes_MEOWreplace",
+      "Description": "GoodTimes Skateboards..Replace 9 Meow( Designs by Me & <@819928415436013569> )",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1110099220410671166/9GoodTimes_MEOWreplace.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1110099299376840734/5CDD2A77-EF12-492F-9BC7-93BDF9571852.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-22T06:58:17.691000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -18007,6 +18029,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1047036053111963668/image.png",
       "Category": "session-meshes",
       "UpdatedDate": "2022-11-29T06:27:28.178000+00:00"
+    },
+    {
+      "ID": "100_Object_Dropper_Slots.rar",
+      "Name": "100_Object_Dropper_Slots",
+      "Description": "100_Object_Dropper_Slots\nthis mod add a new category to the object dropper with 100 empty object slots\nthanks to <@537055098354925569> for the updated data asset\n\nPath: Content/ObjectPlacement/CustomObjects/  \nFolder Names: Object_001 - Object_100\nIcon Names: UI_001 - UI_100\nMesh Names: SM_001 - SM_100\nBlueprint Names: BP_001 - BP_100\n\nexample if you want to make an object for slot 001\n01.in ue4 make Content/ObjectPlacement/CustomObjects/Object_001\n\n02.in the Object_001 folder add your mesh and icon and properly name them the mesh name should be SM_001 and the icon name should be UI_001 the names of the textures and materials don't matter\n\n03. now just cook your mod and copy over the files to your game\n\nif you want a animated character it requires you setting up your character blueprint then make an actor blueprint and name it BP_001 now add your character blueprint to it \n\nif you have any issues with it let me know",
+      "Version": 1,
+      "Author": "Papa Nurgle#4336",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801917908348928/1110053714938572800/100_Object_Dropper_Slots.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1110053712937877574/Screenshot_224.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2023-05-22T03:57:09.525000+00:00"
     }
   ]
 }
