@@ -6063,6 +6063,17 @@
       "UpdatedDate": "2023-05-23T03:04:55.540000+00:00"
     },
     {
+      "ID": "East_Side_Bunny_Hop_Deck.zip",
+      "Name": "East_Side_Bunny_Hop_Deck",
+      "Description": "East Side Skate Shop (my local skate shop) - Bunny Hop Deck - Replaces Almost Most green",
+      "Version": 1,
+      "Author": "tireddadwhogames#1437",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1111771253796257802/East_Side_Bunny_Hop_Deck.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1111771253343256776/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-05-26T21:42:02.707000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13167,6 +13178,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1111572833584304208/ZIon_Dev.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2023-05-26T08:33:35.774000+00:00"
+    },
+    {
+      "ID": "Deathwish_Grip_replaces_grizzly_A.zip",
+      "Name": "Deathwish_Grip_replaces_grizzly_A",
+      "Description": "Deathwish Grip - replaces grizzly a",
+      "Version": 1,
+      "Author": "IR\u24b6TE#3595",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1111835261081485382/Deathwish_Grip_replaces_grizzly_A.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1111835260553019413/Deathwish_Grip_replaces_grizzly_A.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-05-27T01:56:23.146000+00:00"
     },
     {
       "ID": "Ferg.zip",
