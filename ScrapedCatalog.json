@@ -17591,6 +17591,17 @@
       "UpdatedDate": "2023-05-31T18:58:29.424000+00:00"
     },
     {
+      "ID": "VENTURE_RASTA.zip",
+      "Name": "VENTURE_RASTA",
+      "Description": "Venture Rasta replace 90% defaults... (Texture from Bongofiles on mod.io)",
+      "Version": 1,
+      "Author": "zim#1850",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1113780325848457247/VENTURE_RASTA.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1113780324896350218/Session_01.06.2023_12_42_47.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-06-01T10:45:22.826000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
