@@ -6107,6 +6107,28 @@
       "UpdatedDate": "2023-06-05T02:23:14.357000+00:00"
     },
     {
+      "ID": "Zero_Fright_Night.rar",
+      "Name": "Zero_Fright_Night",
+      "Description": "Zero Fright Night Collection. Replaces Jart Frame/Texture/Woodstock/Sculptural decks",
+      "Version": 1,
+      "Author": "CalienteCarl#7794",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1115343732103979128/Zero_Fright_Night.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1115343846591696906/preview.webp",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-05T18:18:15.099000+00:00"
+    },
+    {
+      "ID": "Darks_Souls_Default_Board.rar",
+      "Name": "Darks_Souls_Default_Board",
+      "Description": "Replaces the default board you get when you break your board",
+      "Version": 1,
+      "Author": "MitPfeife UndHut Session Edits#2698",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1115435240849150082/Darks_Souls_Default_Board.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1115435241272782919/ds_default.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-06T00:21:25.183000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -18381,6 +18403,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1115080299483758612/Bent_Sign.png",
       "Category": "session-meshes",
       "UpdatedDate": "2023-06-05T00:51:00.544000+00:00"
+    },
+    {
+      "ID": "Manny_Pads_Object_Dropper.rar",
+      "Name": "Manny_Pads_Object_Dropper",
+      "Description": "Manny Pads For 100_Object_Dropper_Slots Mod\n\nSet for 010\n\nBuy from the skateshop\n\nThis will work with SMM I'll try to fix up the others to work too.",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801917908348928/1115446906999550012/Manny_Pads_Object_Dropper.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1115446907435745310/Screenshot_2023-06-06_020407.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2023-06-06T01:07:46.526000+00:00"
     }
   ]
 }
