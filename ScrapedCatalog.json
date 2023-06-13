@@ -13444,6 +13444,17 @@
       "UpdatedDate": "2023-06-04T06:18:55.197000+00:00"
     },
     {
+      "ID": "Weed_Smoker_Grip_pack.rar",
+      "Name": "Weed_Smoker_Grip_pack",
+      "Description": "replaces some of the MoB Griptapes thanks for zion as inspiration for this  grippack",
+      "Version": 1,
+      "Author": "MitPfeife UndHut Session Edits#2698",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1118026662269952170/Weed_Smoker_Grip_pack.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1118026663020736603/Smoker_Pack_WiA_Grips.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2023-06-13T03:58:48.550000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
@@ -18579,6 +18590,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1116695899599544340/Screenshot_2023-06-09_124832.png",
       "Category": "session-meshes",
       "UpdatedDate": "2023-06-09T11:50:49.893000+00:00"
+    },
+    {
+      "ID": "Curved_Rail_DLC_Map_ObjectDropper.rar",
+      "Name": "Curved_Rail_DLC_Map_ObjectDropper",
+      "Description": "curved rail for stairs on the DLC Map for 100_Object_Dropper_Slots Mod \n\nThanks <@742186484609581156> for Idea/Request, testing and Screenshot and <@1007121558810152990> for the mesh for reference.\n\nSet for 014",
+      "Version": 1,
+      "Author": "screwball#0668",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801917908348928/1118197212153909330/Curved_Rail_DLC_Map_ObjectDropper.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1118197211700928542/image.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2023-06-13T15:16:30.554000+00:00"
     }
   ]
 }
