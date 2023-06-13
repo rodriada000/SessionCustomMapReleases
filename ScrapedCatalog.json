@@ -1025,6 +1025,17 @@
       "UpdatedDate": "2023-06-11T18:40:45.739000+00:00"
     },
     {
+      "ID": "PKY.zip",
+      "Name": "PKY",
+      "Description": "Based on the ATB Shop/Park in Wiltshire UK! Any issues with the map please contact me and i will try fix them ASAP! Enjoy!\n**(When installing with mod manager, check it unzipped into custom maps as for some reason its going into the session content folder instead)**\n",
+      "Version": 1,
+      "Author": "pky#0",
+      "DownloadLink": "rsmm://GDrive/13EkfVx4xCcCD8jAcE4BLtbfJUAOAbOvx",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1117866674603970662/Preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-12T17:23:04.147000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
