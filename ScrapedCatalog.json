@@ -1047,6 +1047,17 @@
       "UpdatedDate": "2023-06-15T09:27:03.049000+00:00"
     },
     {
+      "ID": "TheSlums.zip",
+      "Name": "TheSlums",
+      "Description": "",
+      "Version": 1,
+      "Author": "mindofblaze#0",
+      "DownloadLink": "rsmm://GDrive/1F894enchdHeqxIFQDYxev882Ef8VTPsH",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1119773132765540502/Slums.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-17T23:38:39.215000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
