@@ -1058,6 +1058,28 @@
       "UpdatedDate": "2023-06-17T23:38:39.215000+00:00"
     },
     {
+      "ID": "sls-chicago-2023.zip",
+      "Name": "sls-chicago-2023",
+      "Description": "Hello. We finally release the SLS Chicago 2023 course (version beta (3.0)). Here's the link :  . Gone skateboarding.",
+      "Version": 1,
+      "Author": "tiszma#0",
+      "DownloadLink": "rsmm://GDrive/14IVRjyBjqi8WvCuauenIw3yfMk3w_lft",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1120077165573177465/sls-chicago-2023-pictures.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-18T19:46:46.180000+00:00"
+    },
+    {
+      "ID": "MitchyByFuj1_v_1_2_W_Glasses_Shader.zip",
+      "Name": "MitchyByFuj1_v_1_2_W_Glasses_Shader",
+      "Description": "MITCHY SKATEPARK V1.2 | Indoor map kind of inspired by hudland. \nYou can move a few props in the park using M and P to place them where you like and turn off the light by going to the switch next to the garage door.  \nI made a version that change the glasses shader here :  and only the map here : https://drive.google.com/file/d/1XZQX3qY05Y6SoJj1MPghAr8b7-FBzvyC/view?usp=sharing",
+      "Version": 1,
+      "Author": "fuj1ma#0",
+      "DownloadLink": "rsmm://GDrive/1iv2znQK5ZwVVv6S-dr75bemNz-51kXd5",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1120148193003446324/Mitchy.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-19T00:29:00.511000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -6237,6 +6259,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1119979975215419422/Session_18.06.2023_15_15_57.png",
       "Category": "session-decks",
       "UpdatedDate": "2023-06-18T13:20:34.636000+00:00"
+    },
+    {
+      "ID": "Matt_Mills_Decks.rar",
+      "Name": "Matt_Mills_Decks",
+      "Description": "Replaces 8 Meow decks",
+      "Version": 1,
+      "Author": "Rufal#5355",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1120096672341569586/Matt_Mills_Decks.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1120096671888576562/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-18T21:04:17.150000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
