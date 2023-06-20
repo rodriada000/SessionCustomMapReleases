@@ -6294,6 +6294,39 @@
       "UpdatedDate": "2023-06-19T14:15:15.379000+00:00"
     },
     {
+      "ID": "BakerPDDollin.zip",
+      "Name": "BakerPDDollin",
+      "Description": "Baker PD Dollin Replaces ( Enjoi Whitey Panda )",
+      "Version": 1,
+      "Author": "sparkythehemphog#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1120403045197553695/BakerPDDollin.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1120403045700882533/SessionGame-Win64-Shipping_2023.06.19-13.15.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-19T17:21:42.402000+00:00"
+    },
+    {
+      "ID": "Birdhouse-ClintWalker.rar",
+      "Name": "Birdhouse-ClintWalker",
+      "Description": "Birdhouse Clint Walker - Replaces ThankYou Junk Food (req by <@606897536812187648> )",
+      "Version": 1,
+      "Author": "calientecarl#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1120432134000222248/Birdhouse-ClintWalker.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1120432133580804327/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-19T19:17:17.443000+00:00"
+    },
+    {
+      "ID": "Zero_Fright_Night.rar",
+      "Name": "Zero_Fright_Night",
+      "Description": "Zero Fright Night Collection. Replaces Jart Frame/Texture/Woodstock/Sculptural decks\n(REup cause the link was all messed up)",
+      "Version": 1,
+      "Author": "calientecarl#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1120435404529733733/Zero_Fright_Night.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1120435404324216933/preview.webp",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-19T19:30:17.215000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
