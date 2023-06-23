@@ -1080,6 +1080,17 @@
       "UpdatedDate": "2023-06-19T00:29:00.511000+00:00"
     },
     {
+      "ID": "ErieSLS.rar",
+      "Name": "ErieSLS",
+      "Description": "SLS Erie, Colorado. First street league certified skatepark built in 2013, based on 2012 Arizona stop.\nLet me know if any issues\n\n",
+      "Version": 1,
+      "Author": "joshiewahhh#0",
+      "DownloadLink": "rsmm://GDrive/1mEYoyii110nGP9Xf_jI9RRjCqzUwbwoI",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1121608093164376185/20230622190109_1.jpg",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-23T01:10:07.854000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -6325,6 +6336,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1120435404324216933/preview.webp",
       "Category": "session-decks",
       "UpdatedDate": "2023-06-19T19:30:17.215000+00:00"
+    },
+    {
+      "ID": "Falcon1.rar",
+      "Name": "Falcon1",
+      "Description": "Tony Hawk Falcon One Birdhouse deck. Replaces Madrid Explosion White (req by <@548693347477487617> )",
+      "Version": 1,
+      "Author": "calientecarl#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1121557699847524382/Falcon1.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1121557699327434772/preview.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-22T21:49:53.269000+00:00"
     },
     {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
