@@ -6349,6 +6349,28 @@
       "UpdatedDate": "2023-06-22T21:49:53.269000+00:00"
     },
     {
+      "ID": "maid-chan.rar",
+      "Name": "maid-chan",
+      "Description": "RDZ-Deck (replace - damn it all - zero)",
+      "Version": 1,
+      "Author": "zearmy#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1121684225595277352/maid-chan.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1121684224878067722/Skateboards_Mockup-MAID.jpg",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-23T06:12:39.349000+00:00"
+    },
+    {
+      "ID": "Circle-DGK.rar",
+      "Name": "Circle-DGK",
+      "Description": "RDZ x Circle-Deck (replace DGK wet paint)",
+      "Version": 1,
+      "Author": "zearmy#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1121744311650898003/Circle-DGK.rar",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1121744310983991356/image.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2023-06-23T10:11:24.985000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
