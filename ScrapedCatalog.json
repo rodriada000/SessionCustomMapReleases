@@ -1091,6 +1091,17 @@
       "UpdatedDate": "2023-06-23T01:10:07.854000+00:00"
     },
     {
+      "ID": "Curbside.rar",
+      "Name": "Curbside",
+      "Description": "Curbside skatepark\nSheridan, Colorado\n\nCamera light is too bright, My in game brightness is set 3 ticks down from the center\nlet me know if any issues\n",
+      "Version": 1,
+      "Author": "joshiewahhh#0",
+      "DownloadLink": "rsmm://GDrive/18W-CjJh99Uk9pl75uEuHfF--vG0ICYJd",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1122296554523459675/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2023-06-24T22:45:49.803000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -12696,6 +12707,28 @@
       "UpdatedDate": "2023-06-20T15:24:59.587000+00:00"
     },
     {
+      "ID": "Down_Aura_Used_Colors2.zip",
+      "Name": "Down_Aura_Used_Colors2",
+      "Description": "Down Aura (ColorsII) ,replace Fallen Easy (Mesh by SkaterXL and ported by <@276424249101516802> )",
+      "Version": 1,
+      "Author": "_z_i_m_#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1122238757366677535/Down_Aura_Used_Colors2.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1122238667507908679/1E27EC87-48A5-4E99-A457-AE020D49578F.jpg",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-06-24T18:56:10.014000+00:00"
+    },
+    {
+      "ID": "globe_tilt_rep_globe_mahalo.zip",
+      "Name": "globe_tilt_rep_globe_mahalo",
+      "Description": "globe tilt replaces globe mahalo",
+      "Version": 1,
+      "Author": "sutoroberi_#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1122311262005629019/globe_tilt_rep_globe_mahalo.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1122311261649121311/preview.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2023-06-24T23:44:16.470000+00:00"
+    },
+    {
       "ID": "polar_griptape.zip",
       "Name": "polar_griptape",
       "Description": "Polar griptape (replaces no comply grip)",
@@ -18205,6 +18238,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1119929129626771526/Substance_Painter_-_IndyMeshTruck_18.06.2023_11_48_31.png",
       "Category": "session-trucks",
       "UpdatedDate": "2023-06-18T09:58:31.923000+00:00"
+    },
+    {
+      "ID": "Authority_Zeus_RedGold.zip",
+      "Name": "Authority_Zeus_RedGold",
+      "Description": "again 90% default Replace",
+      "Version": 1,
+      "Author": "_z_i_m_#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1122217153203011584/Authority_Zeus_RedGold.zip",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1122217153584713939/Substance_Painter_-_IndyMeshTruck_24.06.2023_19_20_49.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2023-06-24T17:30:19.356000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
