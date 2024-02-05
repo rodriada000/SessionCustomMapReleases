@@ -8263,6 +8263,17 @@
       "UpdatedDate": "2024-02-02T17:56:00.978000+00:00"
     },
     {
+      "ID": "OC_F4NR_Series.zip",
+      "Name": "OC_F4NR_Series",
+      "Description": "Outcast F4NR Series fully replaces Suck decks",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1203984329274040340/OC_F4NR_Series.zip?ex=65d314c9&is=65c09fc9&hm=e22e96b11877273cc0c23b73e516b88af88fd316f4b82dc162167865e26b7485&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1203984329999388692/preview.jpg?ex=65d314c9&is=65c09fc9&hm=6d7136308d264ff6a4b6c37550d27102e8958ba278033b74ddf14de90cf5be8b&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-05T08:43:53.320000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
