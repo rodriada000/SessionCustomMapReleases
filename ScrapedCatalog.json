@@ -8274,6 +8274,17 @@
       "UpdatedDate": "2024-02-05T08:43:53.320000+00:00"
     },
     {
+      "ID": "WIA_Apocolypse.zip",
+      "Name": "WIA_Apocolypse",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1204126813589217290/WIA_Apocolypse.zip?ex=65d3997b&is=65c1247b&hm=03266b2bfa88c0b373d86db0060768bee62e9929c974b56a5ef54932ceca8648&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1204126784921149490/WIAapoc.preview.png?ex=65d39975&is=65c12475&hm=b54efa02410905ef1ba26b32cfddee7461cc3f02e1d2219fd8f8f82674b441b2&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-05T18:10:04.055000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12320,6 +12331,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1203721168704512030/preview.png?ex=65d21fb2&is=65bfaab2&hm=cdea35e63089b1506f4a81a91cd97a99bb82410c167c0c64e695c6815d788c0d&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-02-04T15:18:10.894000+00:00"
+    },
+    {
+      "ID": "Diablo_Shirt_Pack.zip",
+      "Name": "Diablo_Shirt_Pack",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1204164723399065700/Diablo_Shirt_Pack.zip?ex=65d3bcca&is=65c147ca&hm=eda554c51adbe4cf72f2742d4345efacf61b98e4fe85559f6de988b9c0d2888c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1204164691404914708/preview.png?ex=65d3bcc2&is=65c147c2&hm=9e311c41561f2479cdb43ff4e800c0eafc53e501a9c01b4b0dff1a95ea301728&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-02-05T20:40:42.444000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -20218,6 +20240,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1156181794064961557/Screenshot_2023-09-16_174642.png?ex=65cb4a34&is=65b8d534&hm=bf2cbfa88e4856379b44f4c59829603c4bd33ff7c812d53aac2a23ef95bbe2bd&",
       "Category": "session-characters",
       "UpdatedDate": "2023-09-26T10:53:40.835000+00:00"
+    },
+    {
+      "ID": "WIA_Hat__Shirts_2.zip",
+      "Name": "WIA_Hat__Shirts_2",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801531998818334/1204149740166586459/WIA_Hat__Shirts_2.zip?ex=65d3aed6&is=65c139d6&hm=d466a99ddd5248b5af5f0586b47df256f47fd4eaf9a9bb45440900bc4bc700dc&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801531998818334/1204149714191122472/WIA_hat_shirt_2_preview.png?ex=65d3aecf&is=65c139cf&hm=912535302144308e22b06f4917cc8fadb644be909a02b6d780391b67b221efc8&",
+      "Category": "session-characters",
+      "UpdatedDate": "2024-02-05T19:41:10.219000+00:00"
     },
     {
       "ID": "authorityUSEDreplaceSPARK.zip",
