@@ -8285,6 +8285,39 @@
       "UpdatedDate": "2024-02-05T18:10:04.055000+00:00"
     },
     {
+      "ID": "Antihero_Team_Deck_wStickers.zip",
+      "Name": "Antihero_Team_Deck_wStickers",
+      "Description": "City star LA Type deck replacement - Anti-Hero team deck - Gray - with Stickers\nFirst texture mod, was mostly learning. I think I set up the zip correctly to work in mod manager",
+      "Version": 1,
+      "Author": "d_rugged#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1204594825106686032/Antihero_Team_Deck_wStickers.zip?ex=65d54d5a&is=65c2d85a&hm=bd3864ca185aa575cb24b41137515ba5d52dda0604f610d8cbd0f58f84d88bf2&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1204594825773711360/1.png?ex=65d54d5a&is=65c2d85a&hm=23a3fa08b49f5891e0530702894d03c9f2a413d0cad624a695149d917b7e7309&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-07T01:09:46.894000+00:00"
+    },
+    {
+      "ID": "girl_teal.zip",
+      "Name": "girl_teal",
+      "Description": "girl skateboard, replaced flatface 1 , my frsit board hoep the limk works",
+      "Version": 1,
+      "Author": "ledfoot98#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1204596001000656946/girl_teal.zip?ex=65d54e72&is=65c2d972&hm=9a9388b666cd91532777e095d25307dc54253043c71f4f3274d7d8e730c356b3&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1204596001462157392/20240206200522_1.jpg?ex=65d54e73&is=65c2d973&hm=464f476ccb5e73b944945b9447dd957a92c19fb8fb761238f2df1d68d1be62af&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-07T01:14:27.045000+00:00"
+    },
+    {
+      "ID": "flytecc1.rar",
+      "Name": "flytecc1",
+      "Description": "replaces element seal",
+      "Version": 1,
+      "Author": "kyzauo#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1204629677075865740/flytecc1.rar?ex=65d56dcf&is=65c2f8cf&hm=0218a62cc3650739e7cb079f3e9587180cfb7dec74a2597e2ed5b984f545ce84&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1204629679097512017/image.png?ex=65d56dd0&is=65c2f8d0&hm=c905173e13f907e7c45e2985432fedcc56741cb3d86419d4af2bc22ed6dfacd2&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-07T03:28:16.519000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
