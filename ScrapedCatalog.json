@@ -8340,6 +8340,17 @@
       "UpdatedDate": "2024-02-09T06:30:47.111000+00:00"
     },
     {
+      "ID": "FA_Decks.zip",
+      "Name": "FA_Decks",
+      "Description": "Fucking Awesome decks. Replaces all Schlaudie Decks.",
+      "Version": 1,
+      "Author": "iancbush#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1205711779544703016/FA_Decks.zip?ex=65d95d99&is=65c6e899&hm=29cbac2ec3e868c9267566d8a86e649b9a9e0dfaff62b417867bb67c02eec5c7&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1205711780412792892/Screenshot_2024-02-08_140524.png?ex=65d95d99&is=65c6e899&hm=49e0ef76998153cffc311f797776848909bfac73d7a597e689d199cb9eff29ff&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-10T03:08:11.144000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
