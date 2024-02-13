@@ -12476,6 +12476,17 @@
       "UpdatedDate": "2024-02-12T02:02:43.779000+00:00"
     },
     {
+      "ID": "Creature_Vest_Carhart_Replacer.zip",
+      "Name": "Creature_Vest_Carhart_Replacer",
+      "Description": "Adds Blue Creature Bonehead vest over Creature Hoodie - *Carhartt Jacket Mod by Speeskeek REQUIRED*\nRequired Mod: https://discordapp.com/channels/612703594134634498/943801383491092481/1035181214660837407\nReplaces Navy version of Almost Baggy Hoodie",
+      "Version": 1,
+      "Author": "iancbush#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1206775851216142346/Creature_Vest_Carhart_Replacer.zip?ex=65dd3c97&is=65cac797&hm=fb624d3f6fb05b2c46de0df211124166e24c72101ad94a544124034f6befbc4e&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1206775838641492039/Screenshot_2024-02-12_192312.png?ex=65dd3c94&is=65cac794&hm=de42b9a1bb7f9e35a9347b8672e3893351885c1896f4d081e2e20c3561f52802&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-02-13T01:36:24.342000+00:00"
+    },
+    {
       "ID": "Baggy Cuffed.zip",
       "Name": "Baggy Cuffed",
       "Description": "Cuffed Baggy ",
