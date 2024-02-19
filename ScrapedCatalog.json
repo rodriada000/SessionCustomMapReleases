@@ -8472,6 +8472,17 @@
       "UpdatedDate": "2024-02-19T02:03:03.834000+00:00"
     },
     {
+      "ID": "Habitat_rep_DGK_crest_stix.zip",
+      "Name": "Habitat_rep_DGK_crest_stix",
+      "Description": "My first attempt at making decks\nHabitat Decks Replace - DGK Crest Blue, Crest Green, and Stix\n\n\n\n",
+      "Version": 1,
+      "Author": "mcduffnstuff#0",
+      "DownloadLink": "rsmm://GDrive/14eFrhvboMnwCt3Wi77zdZYJohCMldeak",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1209000085267152967/Session_Screenshot_2024.02.18_-_23.49.33.13.png?ex=65e55412&is=65d2df12&hm=1af02021ef8586d52a18ee139bd491314faa61073855cf76d7b4f650d7f68d8a&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-19T04:54:42.249000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -22572,6 +22583,50 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1207391466314276874/image.png?ex=65df79ed&is=65cd04ed&hm=825478b07225574ad880d9b36a265f9a6312be8442c2b870d679b2c44292b931&",
       "Category": "session-trucks",
       "UpdatedDate": "2024-02-14T18:22:38.086000+00:00"
+    },
+    {
+      "ID": "Diablo_Purple_Bandana.zip",
+      "Name": "Diablo_Purple_Bandana",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1209011623474233385/Diablo_Purple_Bandana.zip?ex=65e55ed1&is=65d2e9d1&hm=2334d1159a4ec0cb28616162e92bfaae3677c6e791837c582ee69de45289787d&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1209011602284744725/purplebandana.png?ex=65e55ecc&is=65d2e9cc&hm=5efaff75d7c6981463b05d7d0f702c78db62a9546d7c3843bd192d121ea8f5ce&",
+      "Category": "session-trucks",
+      "UpdatedDate": "2024-02-19T05:40:33.463000+00:00"
+    },
+    {
+      "ID": "Diablo_Red_Bandana.zip",
+      "Name": "Diablo_Red_Bandana",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1209011661684346940/Diablo_Red_Bandana.zip?ex=65e55eda&is=65d2e9da&hm=05f39115beb85bcb62ea28742390e758d70bfd3be4bf84958a0162e3a0debe7f&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1209011637034422302/redbandana.png?ex=65e55ed4&is=65d2e9d4&hm=4bf2f6ef5b35e4ea61e4f1b6008215f4126e33a3acbd0b60398014088b1bcd4a&",
+      "Category": "session-trucks",
+      "UpdatedDate": "2024-02-19T05:40:42.572000+00:00"
+    },
+    {
+      "ID": "Diablo_Green_Bandana.zip",
+      "Name": "Diablo_Green_Bandana",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1209011730613669968/Diablo_Green_Bandana.zip?ex=65e55eea&is=65d2e9ea&hm=0d00332d76d49b6597e0463686a5ff6358d1e70bc5ad4cebb56559a536432c0b&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1209011682068664390/tealbandana.png?ex=65e55edf&is=65d2e9df&hm=3b081f79ff888ef0ca80369858b3ea52da921f24f1dcb9c1b8e432d960fd1de1&",
+      "Category": "session-trucks",
+      "UpdatedDate": "2024-02-19T05:40:59.002000+00:00"
+    },
+    {
+      "ID": "Diablo_Black_Bandana.zip",
+      "Name": "Diablo_Black_Bandana",
+      "Description": "",
+      "Version": 1,
+      "Author": "nobody.slacking_65039#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1209011776184913970/Diablo_Black_Bandana.zip?ex=65e55ef5&is=65d2e9f5&hm=157bbff1fe4f2df021d705a53dcfa5a133ce757271860181fb567c579be7d2f8&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1209011755162935326/blackbandana.png?ex=65e55ef0&is=65d2e9f0&hm=73538f009f1339ca9b652266dc7a4f4382c838e33609d65ea5d26bf3b5155e7a&",
+      "Category": "session-trucks",
+      "UpdatedDate": "2024-02-19T05:41:09.875000+00:00"
     },
     {
       "ID": "etaksPROreplaceSML17-20.zip",
