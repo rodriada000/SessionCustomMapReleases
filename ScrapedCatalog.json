@@ -8582,6 +8582,28 @@
       "UpdatedDate": "2024-02-28T02:34:20.398000+00:00"
     },
     {
+      "ID": "OC_2024_Pro_Decks_1.zip",
+      "Name": "OC_2024_Pro_Decks_1",
+      "Description": "Outcast 2024 Pro Deck Series 1 (replaces Roger decks)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1212631503998160906/OC_2024_Pro_Decks_1.zip?ex=65f28a18&is=65e01518&hm=994fd8240850287c1fb18e973806f3fcea4d2793d2f86a14f87432b27d0d6800&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1212631503272677397/preview.jpg?ex=65f28a17&is=65e01517&hm=3c86e9a05768fa22423f3ce57b34fb8a8cd6be70cab848ec902de6519921ab6b&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-29T05:24:40.235000+00:00"
+    },
+    {
+      "ID": "OC_2024_Pro_Decks_2.zip",
+      "Name": "OC_2024_Pro_Decks_2",
+      "Description": "Outcast 2024 Pro Deck Series 2 (replaces Roger decks)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1212631646155710495/OC_2024_Pro_Decks_2.zip?ex=65f28a3a&is=65e0153a&hm=f9df5e72afa8b96d57534ce89e0220ee1f5d807ff536da0313f4b9ba05100137&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1212631645694332999/preview.jpg?ex=65f28a39&is=65e01539&hm=6edf1fe1cafb9a7d49c9fcb490f2dd19e5a7a7c77d45df4340b2a0a2a35ddabb&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-02-29T05:25:14.149000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
