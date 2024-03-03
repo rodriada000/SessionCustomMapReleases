@@ -8615,6 +8615,28 @@
       "UpdatedDate": "2024-03-01T19:34:29.155000+00:00"
     },
     {
+      "ID": "HeroinNewDeckDrop.zip",
+      "Name": "HeroinNewDeckDrop",
+      "Description": "New Heroin Decks! (made with graphics and support from the real Heroin Skateboards)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1213542191419625472/HeroinNewDeckDrop.zip?ex=65f5da3c&is=65e3653c&hm=eb7bfae548a8558818526bb19f2a8155779b9a3479be9db5a9991c00dc4fd348&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1213542191067172874/preview.jpg?ex=65f5da3c&is=65e3653c&hm=e8604d5d2a4d10c7d809d5de6dceef23f64c3c842c2bc848f6d4dc8bfb6d7399&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-02T17:43:25.058000+00:00"
+    },
+    {
+      "ID": "RealEskates.zip",
+      "Name": "RealEskates",
+      "Description": "REAL ESKATES IRL DECKS NOW AVAILABLE! Grab yourself one and go tag the homie! Colorado's Dopest Real Estate Agent!!!",
+      "Version": 1,
+      "Author": "session.pro#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1213702217605980200/RealEskates.zip?ex=65f66f46&is=65e3fa46&hm=f38ef22c9a71ae7a82b62b057118be062aa31d5345caf8228f5c9fb9ed51a55e&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1213702219363389482/Session_Screenshot_2024.03.02_-_21.46.05.21.png?ex=65f66f46&is=65e3fa46&hm=2ed1d91061c2a9ead78f3ddaea74cbe9033d8f0b399bbd32e6523fec6711ece6&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-03T04:19:19.633000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -12925,6 +12947,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1212924717812416522/20240301014904_1.jpg?ex=65f39b2b&is=65e1262b&hm=06d1356e05b2ac8eef95502d8884f151fc904c4fbc3c6cb00179a4db418fc67a&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-01T00:49:58.665000+00:00"
+    },
+    {
+      "ID": "HeroinNewTShirts.zip",
+      "Name": "HeroinNewTShirts",
+      "Description": "New Heroin T-Shirts (made with graphics and support from the real Heroin Skateboards)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1213538084390572133/HeroinNewTShirts.zip?ex=65f5d669&is=65e36169&hm=7539a42db8a26ecf280f471f56c4169506bbc226dd2c69b41184a1a11c459c0d&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1213538084092649472/preview.jpg?ex=65f5d669&is=65e36169&hm=5f73fbb8e5f4acd9d6c0e6d665c230ee54b51bb9471bc5fdf8c9ba54d1340b2c&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-02T17:27:05.906000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
