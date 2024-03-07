@@ -8681,6 +8681,28 @@
       "UpdatedDate": "2024-03-06T15:43:21.620000+00:00"
     },
     {
+      "ID": "irl_deck.rar",
+      "Name": "irl_deck",
+      "Description": "Erased deck, request by <@589834798089109554>",
+      "Version": 1,
+      "Author": "katzithebeast#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1214961574456856607/irl_deck.rar?ex=65fb0424&is=65e88f24&hm=22d998301fd4ec679bd67b93d0e23ada80213416a9968ecdffb433726971008c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1215005712745496637/20240306193602_1.jpg?ex=65fb2d3f&is=65e8b83f&hm=957f50d42c7ba032985cbf26da55f414a4678f39335ab8c588b5d681853bfae0&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-06T18:38:55.624000+00:00"
+    },
+    {
+      "ID": "erased_deck.rar",
+      "Name": "erased_deck",
+      "Description": "Alien workshop desk, requested by <@363086022743031808>",
+      "Version": 1,
+      "Author": "katzithebeast#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1215005736984383618/erased_deck.rar?ex=65fb2d45&is=65e8b845&hm=1c096de9f40becc8948d11a88bc04573ae2d8e36db8cc8b02442d3c6686939ca&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1215029455169519627/20240306210546_1.jpg?ex=65fb435c&is=65e8ce5c&hm=66eb55eeef1489a39938804ee6a543e061166a957a3f19b2f0d9d8a3653dbc7f&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-06T20:13:16.332000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13035,6 +13057,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1214953698304720916/20240306161058_1.jpg?ex=65fafcce&is=65e887ce&hm=d0b18800eadc91f9a182dff7a967aa0bfe3c7479fbee9f659aac8057bd26552d&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-06T15:12:35.716000+00:00"
+    },
+    {
+      "ID": "erasedxpowfu.rar",
+      "Name": "erasedxpowfu",
+      "Description": "Erased x Powfu, requested by <@589834798089109554>",
+      "Version": 1,
+      "Author": "katzithebeast#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1214981377909329920/erasedxpowfu.rar?ex=65fb1695&is=65e8a195&hm=962bcd316186682a24aeb46dc1a36f061aa49f9aaa709e0e1b30bb619396f306&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1214981311710629888/20240306180043_1.jpg?ex=65fb1685&is=65e8a185&hm=211461ad952b41299e8e58be8b7317e7c01d6f10178c3c042932f87eec85e874&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-06T17:02:13.864000+00:00"
+    },
+    {
+      "ID": "toymachine_hoodie.rar",
+      "Name": "toymachine_hoodie",
+      "Description": "Toy machine hoodie, requested by <@363086022743031808> ,replacing Jenkem black hoodie",
+      "Version": 1,
+      "Author": "katzithebeast#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1215035824756756530/toymachine_hoodie.rar?ex=65fb494a&is=65e8d44a&hm=4dcac283e778156b71108ab03e79559c557e97fc86b6971f0ea51375c32663f3&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1215035793782083584/20240306213729_1.jpg?ex=65fb4943&is=65e8d443&hm=c15d1474a21c490fe45b034399f66f694fc3273e30a3990350f87106188e334b&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-06T20:38:34.989000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -19767,6 +19811,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1214736356199366767/image_4.png?ex=65fa3264&is=65e7bd64&hm=5e23c854488ad97137e62553d300dc74e1252e131abb0ef5e109d4fccf3b5fa6&",
       "Category": "session-hats",
       "UpdatedDate": "2024-03-06T00:48:36.371000+00:00"
+    },
+    {
+      "ID": "erased_hat.rar",
+      "Name": "erased_hat",
+      "Description": "Erased hat, requested by <@589834798089109554>, replacing jenkem black hat:)",
+      "Version": 1,
+      "Author": "katzithebeast#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1214998456905633882/erased_hat.rar?ex=65fb267d&is=65e8b17d&hm=0276d063ad51c0183f02242039aca184f8431ffabb713a2f176c65e05abfd628&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1214998401771380806/20240306190624_1.jpg?ex=65fb2670&is=65e8b170&hm=7c26fcc71663e573259999da8dd2e220cbfa770c83500c4545bfeafb73f9c0ff&",
+      "Category": "session-hats",
+      "UpdatedDate": "2024-03-06T18:10:05.782000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
