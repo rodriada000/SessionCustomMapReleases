@@ -8747,6 +8747,17 @@
       "UpdatedDate": "2024-03-11T02:41:06.904000+00:00"
     },
     {
+      "ID": "Enjoi_BoyGenius.zip",
+      "Name": "Enjoi_BoyGenius",
+      "Description": "Rodney Mullen's Enjoi Boy Genius Deck - replacing Thank You Yellow Logo deck\n\nMy first mod \ud83d\ude04",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1216799756282626048/Enjoi_BoyGenius.zip?ex=6601b414&is=65ef3f14&hm=1ea16a978741151c6c904eb6fbe3af7ad3e55a1b4fc531eb5ac5bbe38e141a92&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1216799755984961689/image.png?ex=6601b414&is=65ef3f14&hm=9c3e9abd44ae8991a99301d634f93a2c12e7531b2240b5b9b804c2e02d2459cf&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-11T17:27:49.041000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13211,6 +13222,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1216563734378451064/Fallen_x3_re_NC_bright_ylw.png?ex=6600d844&is=65ee6344&hm=b27c28f7e34116a65129782d15cffec8b595cb3de3c191cbf28789e3777eeef0&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-11T01:49:57.070000+00:00"
+    },
+    {
+      "ID": "Lurking_Class_Tees__Hoodies_Flat_Face.rar",
+      "Name": "Lurking_Class_Tees__Hoodies_Flat_Face",
+      "Description": "LURKING CLASS Apparel Pack replaces Flat Face\n\n*Good Times Bad Friends Hoodie replaces Flat Face Tan Hoodie\nSMILE Hoodie replaces Flat Face Purple Hoodie\nPeeking Tee replaces Flat Face Miken Morty Tee\nPie Till I Die Tee replaces Flat Face Green Tee\nDemons Tee replaces Flat Face Purple Tee\nBarbed Web AOP Tee replaces Flat Face Tan Tee*",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1216829198052622596/Lurking_Class_Tees__Hoodies_Flat_Face.rar?ex=6601cf80&is=65ef5a80&hm=022f0b75bce8b8b7215df79b058a6ed1ce5d36b97f55b7aaed26099dcdf447e8&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1216829189848563762/bad_friends.png?ex=6601cf7e&is=65ef5a7e&hm=d54becb1a37f84243c87b57c64d0da38ac30ee0c1db3628f723c0e621227f6f0&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-11T19:24:48.517000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -24398,6 +24420,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1166370415237673049/2023-10-24_5.png?ex=65cb7119&is=65b8fc19&hm=76bd75573f9c91509437674e8ccf2b27947aad6d6043860f6f4a6026ae82545e&",
       "Category": "session-meshes",
       "UpdatedDate": "2023-10-24T13:39:37.392000+00:00"
+    },
+    {
+      "ID": "OD_003_GreenScreen.rar",
+      "Name": "OD_003_GreenScreen",
+      "Description": "I have received the original .fbx item from <@655928691557138445>, made it 3x bigger and had a LOT of help from <@663954775276126225> to make this item implementable into the game. HUGE shout-out to these fantastic people! The item works for slot 003 for Vato's custom object dropper, which can be found here: https://discord.com/channels/612703594134634498/943801815588278292/1213408905502400562\n\nTo get the object dropper to work, you are gonna need <@1007121558810152990>'s BP loader as well: https://discord.com/channels/612703594134634498/943801815588278292/1026676949906640977",
+      "Version": 1,
+      "Author": "easkatevideo#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801917908348928/1216877395022315550/OD_003_GreenScreen.rar?ex=6601fc63&is=65ef8763&hm=300d5407f26c5fb66c0e93143d589b33823976e590ade120d7810eefb951b489&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1216877395714244758/preview.png?ex=6601fc63&is=65ef8763&hm=0390cee63424419ed1fc781218809ba8d09be620b4854ed21dcc9d84f5d02a4e&",
+      "Category": "session-meshes",
+      "UpdatedDate": "2024-03-11T22:36:19.801000+00:00"
     }
   ]
 }
