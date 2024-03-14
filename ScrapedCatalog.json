@@ -8791,6 +8791,17 @@
       "UpdatedDate": "2024-03-12T21:29:34.369000+00:00"
     },
     {
+      "ID": "enjoi_deck_freestyle.zip",
+      "Name": "enjoi_deck_freestyle",
+      "Description": "Rodney Mullen's Enjoi Freestyle Deck - replacing DGK Friends 8.25 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1217528991007641610/enjoi_deck_freestyle.zip?ex=66045b3c&is=65f1e63c&hm=3feb5479711dddfbf2448b99798f23ec67d8caf980e756bad3ea4eda30864c31&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1217528990710104083/image.png?ex=66045b3b&is=65f1e63b&hm=2bac842630186a8094f02134197dc3d69571f0b93d801b3b7e3688eca41c5a05&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-13T17:45:32.124000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -17182,6 +17193,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1217270447259783298/3.png?ex=66036a72&is=65f0f572&hm=5bd13a4e8d63636367d7c403c1a68b3fc09add4031b81f2cc09bebbf8cc770c1&",
       "Category": "session-shoes",
       "UpdatedDate": "2024-03-13T00:38:10.672000+00:00"
+    },
+    {
+      "ID": "DOWN_MCRAP-replace_ACCELS.zip",
+      "Name": "DOWN_MCRAP-replace_ACCELS",
+      "Description": "Down MCRAP, replace Accels",
+      "Version": 1,
+      "Author": "prof.zim#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801467133919262/1217539496569077882/DOWN_MCRAP-replace_ACCELS.zip?ex=66046504&is=65f1f004&hm=b2c3d921f7747a7db4dae79bcd2e5306e7c37afee9e3429ac2f16b9249f61445&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801467133919262/1217539450201178163/Picsart_24-03-13_19-25-48-919.jpg?ex=660464f9&is=65f1eff9&hm=a73a9ab8697c8d3972358153185526774901735a20dfca342ed1e8b286bac559&",
+      "Category": "session-shoes",
+      "UpdatedDate": "2024-03-13T18:27:16.800000+00:00"
     },
     {
       "ID": "polar_griptape.zip",
