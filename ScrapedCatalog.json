@@ -8802,6 +8802,50 @@
       "UpdatedDate": "2024-03-13T17:45:32.124000+00:00"
     },
     {
+      "ID": "enjoi_thps4deck_blocks.zip",
+      "Name": "enjoi_thps4deck_blocks",
+      "Description": "Rodney Mullen's Enjoi Deck from THPS4 - replacing FTP Felle Felle | 8.5 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1217887924893257779/enjoi_thps4deck_blocks.zip?ex=6605a984&is=65f33484&hm=286df174a92e7c11394b7b5b6a99b9aaeafeb883ece556a5a1c091c3c7978a06&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1217887924641857596/image.png?ex=6605a984&is=65f33484&hm=ebe7d6ead30fd8d80c375156c9d5403e3f05523f7be5fee158cf0eff64056d2f&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-14T17:31:48.645000+00:00"
+    },
+    {
+      "ID": "PLAN_B_Decks_DIZ_Decks.rar",
+      "Name": "PLAN_B_Decks_DIZ_Decks",
+      "Description": "**PLAN B Decks replace Diz Decks**\n\n*Stain Deck replaces Diz Army Deck\nBumble Deck replaces Diz Speedo Deck\nHawaii Deck replaces Diz Multicolor Deck\nFull Dipper replaces Diz Skull Deck\nCherry Blossom replaces Diz Steel Deck*",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1217978116979556412/PLAN_B_Decks_DIZ_Decks.rar?ex=6605fd84&is=65f38884&hm=da040f82f1ba1c7fb064af81dfa9c00267b8b9d5e044f081d0b0d452f2d9030a&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1217978112390856824/20240315001209_1.jpg?ex=6605fd82&is=65f38882&hm=9d83c37288ce9849520a27c8dc26cec5392ae89c7c99401d8bb5fedca59946ff&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-14T23:30:12.077000+00:00"
+    },
+    {
+      "ID": "enjoi_deck_corkscrew.zip",
+      "Name": "enjoi_deck_corkscrew",
+      "Description": "Rodney Mullen's Enjoi Corkscrew Deck - replacing FTP Signature | 8.5 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1217981357133660200/enjoi_deck_corkscrew.zip?ex=66060088&is=65f38b88&hm=d6ea82337877bcc1bb5e57800b83dde3316f4003e962e3e188e3dd401331b887&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1217981356915818526/image.png?ex=66060088&is=65f38b88&hm=bd3d1f49d0767edf7bc62236900a0da8cba6abc190b90b48c5899130217511fd&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-14T23:43:04.607000+00:00"
+    },
+    {
+      "ID": "Toy-Machine_Decks_DGK_Decks.rar",
+      "Name": "Toy-Machine_Decks_DGK_Decks",
+      "Description": "**Toy Machine Decks replace DGK Decks**\n\n*Furry Monster replaces DGK Tsunami Deck\nVice Monster replaces DGK Viper Deck\n80's Monster replaces DGK Wet Paint Deck\nMonster Face replaces DGK Ying Yang Deck*",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1217999944523321365/Toy-Machine_Decks_DGK_Decks.rar?ex=660611d8&is=65f39cd8&hm=1c5c9ef8f5e6f24f73907fb82a860747c527b5fb86936cb5512dc972990afe20&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1217999941776179221/20240315014135_1.jpg?ex=660611d7&is=65f39cd7&hm=7dfe5a1873fd41a6626d46394c2abdd89984d2254e6254bcffcd0d4c77b845c3&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-15T00:56:56.219000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -18656,6 +18700,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1216145809171677184/Alien_In_Heck.gif?ex=65ff530b&is=65ecde0b&hm=db1af481d7e799f5a4c804c55cb04ffb6c50b496fbb20953927484c8520ecc20&",
       "Category": "session-griptapes",
       "UpdatedDate": "2024-03-09T22:09:17.012000+00:00"
+    },
+    {
+      "ID": "PLAN_B_Grip_Diz_Grip.rar",
+      "Name": "PLAN_B_Grip_Diz_Grip",
+      "Description": "**PLAN B Grip Tape replaces Diz Grip Tape**",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1218028578256457748/PLAN_B_Grip_Diz_Grip.rar?ex=66062c82&is=65f3b782&hm=94e6eced5d3d85fddd96133426f3121116a7671cb10d5a48c3886aab76f32152&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1218028577950269540/20240315034509_1.jpg?ex=66062c82&is=65f3b782&hm=58e68b18d334492f926a73b0470d7c3fd46a359a417be4416d477fa1df7403ec&",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2024-03-15T02:50:43.009000+00:00"
     },
     {
       "ID": "Ferg.zip",
