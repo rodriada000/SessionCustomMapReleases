@@ -8846,6 +8846,17 @@
       "UpdatedDate": "2024-03-15T00:56:56.219000+00:00"
     },
     {
+      "ID": "revive_deck_giger.zip",
+      "Name": "revive_deck_giger",
+      "Description": "Jonny Giger's Revive deck - replacing DGK Primo 8.0 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1218275218485940294/revive_deck_giger.zip?ex=66071236&is=65f49d36&hm=7beb253724ac0219fd4d1d03628efa89aa42c47ac038f8856895c457ea5a16da&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1218275218225758301/image.png?ex=66071236&is=65f49d36&hm=9d3ac07d2b523b4562dfbbaf7e1b10686deef85cb68f77dd67649fe866568b8b&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-15T19:10:46.635000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13365,6 +13376,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1217231069904900177/image.png?ex=660345c6&is=65f0d0c6&hm=bb9f6ca29d1fe900dcb41381cc510d85a4f415a73ee2e6d3cb3c7e4bbda3b80f&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-12T22:01:42.248000+00:00"
+    },
+    {
+      "ID": "enjoi_black_shirt.zip",
+      "Name": "enjoi_black_shirt",
+      "Description": "Enjoi black shirt - replacing Jenkem Black T-Shirt",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1218246353843392604/enjoi_black_shirt.zip?ex=6606f754&is=65f48254&hm=e738e2a1d3b0335ddc6d0e26b14f7e14535dbbbd511c5928e6c5105bf2d5d470&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1218246353600254022/image.png?ex=6606f754&is=65f48254&hm=dfda70e54b4a44959f657f6f41102f79acc4680daa8c24f241478b6a4a262d98&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-15T17:16:04.763000+00:00"
+    },
+    {
+      "ID": "Volcom_Watanite_Crew_Sweater_iDabble_Sweater.rar",
+      "Name": "Volcom_Watanite_Crew_Sweater_iDabble_Sweater",
+      "Description": "**VOLCOM Sweater replaces iDabble Sweater**",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1218363615879364638/Volcom_Watanite_Crew_Sweater_iDabble_Sweater.rar?ex=6607648a&is=65f4ef8a&hm=75750f3b09ba7ad468650e579525600bbe493a4af4a2d3af57fc6899a1e2c406&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1218363615456006274/Unbenannt.png?ex=6607648a&is=65f4ef8a&hm=4d29369be2c76680297269173355e3e440c6752158281c9776d62496c158d2e6&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-16T01:02:02.244000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -20207,6 +20240,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1217449732247654530/image.png?ex=6604116b&is=65f19c6b&hm=2f1e2a7f9d624e88f108d8d42ed41f5b323dc6060976f4282666f23cef875fa3&",
       "Category": "session-hats",
       "UpdatedDate": "2024-03-13T12:30:35.623000+00:00"
+    },
+    {
+      "ID": "The_North_Face_Beanie.rar",
+      "Name": "The_North_Face_Beanie",
+      "Description": "**THE NORTH FACE Beanie replaces Prisoner Beanie** (DLC required)",
+      "Version": 1,
+      "Author": "fukdimudi#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801342474981396/1218295733174800405/The_North_Face_Beanie.rar?ex=66072551&is=65f4b051&hm=d076788e3f8bf64d0e171cf200f2cbc1eb6482cb3910a3886ba6231109efd8c3&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801342474981396/1218295732956692491/20240315212811_1.jpg?ex=66072551&is=65f4b051&hm=f79ecb342515000902ebee240097c0a3d27ade8ca14cf48c5242ad9889b566f6&",
+      "Category": "session-hats",
+      "UpdatedDate": "2024-03-15T20:32:17.653000+00:00"
     },
     {
       "ID": "Cut Hair.rar",
