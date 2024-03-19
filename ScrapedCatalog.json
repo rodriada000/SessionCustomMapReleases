@@ -8956,6 +8956,17 @@
       "UpdatedDate": "2024-03-18T15:24:42.800000+00:00"
     },
     {
+      "ID": "enjoi_deck_redwhitepanda.zip",
+      "Name": "enjoi_deck_redwhitepanda",
+      "Description": "Rodney Mullen's Enjoi Red-White Panda Deck from THPS3 - replacing FTP Vertical Logo | 8.0 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1219375115335106620/enjoi_deck_redwhitepanda.zip?ex=660b1292&is=65f89d92&hm=8e943de2f2717d71dc3737be22326eaa4adfafd77f84b7aafeb9ac4245c1e2eb&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1219375115054092298/image.png?ex=660b1292&is=65f89d92&hm=8801659124c7ff71ff3348bd256fdba8761bc0327aa88a24ca128fabba1763d0&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-18T20:01:22.478000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13519,6 +13530,39 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1219048339665060020/1.png?ex=6609e23c&is=65f76d3c&hm=5646455c05b6eb0d9499c7e89a0c5791c5dbf6f81121fb3ef57a21e568b3aede&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-17T22:22:54.116000+00:00"
+    },
+    {
+      "ID": "HazeT-shirts.zip",
+      "Name": "HazeT-shirts",
+      "Description": "Haze T-Shirt Drop (replace flatface)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1219315546852687992/HazeT-shirts.zip?ex=660adb18&is=65f86618&hm=6523eb8ae572ae985a4e68501d72bd10766368e866f2a1b97f16aea25dba4fcb&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1219315546412290098/HazeTshirts.jpg?ex=660adb18&is=65f86618&hm=4e8910428625a003af1b895f9da29d3afd96afb9622153abb5df1f54f16bcbc7&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-18T16:04:40.231000+00:00"
+    },
+    {
+      "ID": "Alien_Workshop_Hoodie.zip",
+      "Name": "Alien_Workshop_Hoodie",
+      "Description": "Alien Workshop Hoodie- replaces Jenkem Hoodie",
+      "Version": 1,
+      "Author": "realghettosmurf#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1219323896847667290/Alien_Workshop_Hoodie.zip?ex=660ae2de&is=65f86dde&hm=4cc053137aef03c9cddb6acc61918a556cafc75751c258e7e4f23a1d343f1db1&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1219323896038162462/alien_workshop_hoodie.png?ex=660ae2de&is=65f86dde&hm=1a44e75eb4d9e370860999a0cb1fffb09d8d0656173a53a0bbf612b6887bea62&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-18T16:37:51.040000+00:00"
+    },
+    {
+      "ID": "Alien_Workshop_Hoodie_Big_Logo.zip",
+      "Name": "Alien_Workshop_Hoodie_Big_Logo",
+      "Description": "Alien Workshop Hoodie Big Logo - replaces Jenkem Hoodie\n\ud83d\ude04 \ud83d\ude04 \ud83d\ude04",
+      "Version": 1,
+      "Author": "realghettosmurf#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1219329625230938162/Alien_Workshop_Hoodie_Big_Logo.zip?ex=660ae834&is=65f87334&hm=58fdec57a0da32a01a663b01506cf8f01ec6c650e4b7f5aa635858a1ad66046b&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1219329624555782285/alien_workshop_hoodie_big_logo.png?ex=660ae834&is=65f87334&hm=68a4312fb909b1d6a577f52ad7ee113e4c6b9c8c483af6f9d9cf9bf584eb63cb&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-18T17:00:36.783000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
@@ -24629,6 +24673,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1219308242274877581/WhiteBearings.png?ex=660ad44a&is=65f85f4a&hm=171269e9fb102e3e0cbcc7e63dee86b18cb6edf363d129378fc12acfc99e77e5&",
       "Category": "session-wheels",
       "UpdatedDate": "2024-03-18T15:35:38.881000+00:00"
+    },
+    {
+      "ID": "HazeWheelCoDrop2.zip",
+      "Name": "HazeWheelCoDrop2",
+      "Description": "Haze Wheel Co. Drop #2 (replace haze wheels)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801783317299253/1219315356523434065/HazeWheelCoDrop2.zip?ex=660adaea&is=65f865ea&hm=84fd5560b68046a4d74ea86158cb4ec42327c8eb1ec7d9d6e83bf0a328a02ca9&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801783317299253/1219315356171108443/preview.jpg?ex=660adaea&is=65f865ea&hm=32070f4946f9fd15a348c9646244b8de1d44cf9ef6b75a67a9c42b9f360b9809&",
+      "Category": "session-wheels",
+      "UpdatedDate": "2024-03-18T16:03:54.853000+00:00"
     },
     {
       "ID": "ConstructionGenerator.zip",
