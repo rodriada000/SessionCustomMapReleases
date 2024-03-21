@@ -9000,6 +9000,28 @@
       "UpdatedDate": "2024-03-20T13:32:55.595000+00:00"
     },
     {
+      "ID": "palace-sticker-pack.zip",
+      "Name": "palace-sticker-pack",
+      "Description": "Palace Sticker Pack Slick - replaces Almost Greener-Black",
+      "Version": 1,
+      "Author": "h3lias#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1220040883034918992/palace-sticker-pack.zip?ex=660d7e9d&is=65fb099d&hm=9cdda334a4f8299b3490097f85d765161f4b168b598abebd874cc07646d6be2c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1220040882745643028/image.png?ex=660d7e9d&is=65fb099d&hm=ee528ec3dfd23a01ff06165ece77915c28cf7b34ed3bb1a6332ee34a83e96e7c&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-20T16:06:53.857000+00:00"
+    },
+    {
+      "ID": "rodney_mullen_thps_deck_collection.zip",
+      "Name": "rodney_mullen_thps_deck_collection",
+      "Description": "**Selection of Rodney Mullen decks from Tony Hawks Pro Skater 3 & 4 games**\n\nTHPS3:\n*Boy Genius\nDuh!\nRodney\nPigeon\nQuack\nPanda Series*\n\nTHPS4:\n*Blocks\nQuack Quack*\n\n8 decks total - replaces all FTP decks. Enjoy!",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1220047659390210218/rodney_mullen_thps_deck_collection.zip?ex=660d84ed&is=65fb0fed&hm=fe7ba71fccf58aabd05ab51be92cb28e25272a0eebd8409e2ce886d0aeb920fa&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1220047658962649169/enjoi_decks_preview.png?ex=660d84ed&is=65fb0fed&hm=43100ab27c3b01ced0c9cb247f95cb10a516a3af3b76c0d831d888e0c89dbf2c&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-20T16:33:49.475000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -24970,6 +24992,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1216877395714244758/preview.png?ex=6601fc63&is=65ef8763&hm=0390cee63424419ed1fc781218809ba8d09be620b4854ed21dcc9d84f5d02a4e&",
       "Category": "session-meshes",
       "UpdatedDate": "2024-03-11T22:36:19.801000+00:00"
+    },
+    {
+      "ID": "DIY_SkateShop.rar",
+      "Name": "DIY_SkateShop",
+      "Description": "DIY Skate Shop.\n\nCoded by Chuy, I made the bench set up.\n\nGet new gear anywhere you want, with this skate bench for the object dropper that links to the skate shop.\n\nRequires Chuy's 100 custom object dropper slots mod.  Found here https://discord.com/channels/612703594134634498/943801917908348928/1110053715286708234  Once installed buy the bench from the skate shop.  Set to slot 20.  Shop prompt will not show if bench is tilted past -5 or 5 degrees.",
+      "Version": 1,
+      "Author": "spargo808#0",
+      "DownloadLink": "rsmm://GDrive/1H6JneRDcCDQxcA4nSBy2tqzt4Sqpozpo",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801917908348928/1220154338685747320/Session_3_20_2024_6_26_28_PM.png?ex=660de847&is=65fb7347&hm=1693f4ef949cf1f131f3f724ecedfc7caf6d1b508711bedb071eec1161d1264a&",
+      "Category": "session-meshes",
+      "UpdatedDate": "2024-03-20T23:37:49.619000+00:00"
     }
   ]
 }
