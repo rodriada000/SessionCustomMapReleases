@@ -9121,6 +9121,28 @@
       "UpdatedDate": "2024-03-22T23:31:45.331000+00:00"
     },
     {
+      "ID": "darkstar_deck_tiles.zip",
+      "Name": "darkstar_deck_tiles",
+      "Description": "Darkstar Tiles deck - replaces Flip Bubble Logo Blue | 8.5 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1221171048481820692/darkstar_deck_tiles.zip?ex=66119b2a&is=65ff262a&hm=3d1cf975732671b96b7bc55bc56e0b48947fb4d697d21a643ce7e2f5b61ecda8&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1221171048209317968/image.png?ex=66119b2a&is=65ff262a&hm=2d02929147a3d4e60a3ade7020afb520ab2c40ca1e5b61ba65e0c10f11794c31&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-23T18:57:46.203000+00:00"
+    },
+    {
+      "ID": "BOSSAnimeDecksV1.zip",
+      "Name": "BOSSAnimeDecksV1",
+      "Description": "Jin From Samurai Champloo (Blue Deck) replaces Landrein MA 8.25 \nItachi (Red Deck) replaces  Spot On - Red 8,25\nSamurai Champloo (Pink Deck) replaces Wing - Pink 8,25",
+      "Version": 1,
+      "Author": "recessxd#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1221194791044517990/BOSSAnimeDecksV1.zip?ex=6611b146&is=65ff3c46&hm=8222b34e42fc12c170a3ae2afe9957dd623533282d8a998c392935cf4dbc0051&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1221194788808953896/Session_Screenshot_2024.03.23_-_21.14.34.65.png?ex=6611b146&is=65ff3c46&hm=ad918011820888d64a384b764c7ba21cbfc6a5ba4b68e7ee48e6a4747c3c73a7&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-23T20:32:07.985000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13750,6 +13772,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1220631663076442142/11.png?ex=660fa4d2&is=65fd2fd2&hm=aa2d8adc68facac27fc559f1bcc48050eb72084c35b8e5b41f0f202ef6604616&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-22T07:14:27.561000+00:00"
+    },
+    {
+      "ID": "CommunityRideDayShirt.zip",
+      "Name": "CommunityRideDayShirt",
+      "Description": "SSL Community Ride Day Shirt.  Replaces the first No Comply Shirt.",
+      "Version": 1,
+      "Author": "spargo808#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1221158719333863526/CommunityRideDayShirt.zip?ex=66118fae&is=65ff1aae&hm=26ab64cc0627ac2c53a476b17b6899baa61e2a6a4376274fb62358731e3dd146&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1221158616443129986/Session_3_23_2024_2_05_37_PM.png?ex=66118f96&is=65ff1a96&hm=873b9d356b5a3ec7c05e7747e7de381dfcf7230ac5fe02850c467edf797b6ea6&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-23T18:08:46.874000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
