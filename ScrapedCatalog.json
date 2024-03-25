@@ -9143,6 +9143,28 @@
       "UpdatedDate": "2024-03-23T20:32:07.985000+00:00"
     },
     {
+      "ID": "Habitat_deck_Janoski.zip",
+      "Name": "Habitat_deck_Janoski",
+      "Description": "Habitat Stefan Janoski deck - replaces Thank You American Made | 8.25 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1221534315704221716/Habitat_deck_Janoski.zip?ex=6612ed7b&is=6600787b&hm=5c337d2fb50093da12ab53173cd9176f64b4f54f22e10d5fbb7c49b2e686313c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1221534315255693535/image.png?ex=6612ed7b&is=6600787b&hm=63c7aaf6af77bf269f2453cb15fad334443f492cf7e060641dc7f325333f5315&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-24T19:01:15.953000+00:00"
+    },
+    {
+      "ID": "Habitat_deck_Torch.zip",
+      "Name": "Habitat_deck_Torch",
+      "Description": "Habitat Torch deck - replaces Thank You Daytime | 8.5 deck",
+      "Version": 1,
+      "Author": "jormungand87#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1221585120121589830/Habitat_deck_Torch.zip?ex=66131ccc&is=6600a7cc&hm=829e9ef6650e51250db5326d9077bfed2029247e1076148863f0a2e51ad26514&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1221585119903748178/image.png?ex=66131ccc&is=6600a7cc&hm=b65e937d10f9794c7b79c3b3c924c82d6a083bd36cfa455558ad408ffdfaa94e&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-03-24T22:23:08.671000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
@@ -13783,6 +13805,28 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1221158616443129986/Session_3_23_2024_2_05_37_PM.png?ex=66118f96&is=65ff1a96&hm=873b9d356b5a3ec7c05e7747e7de381dfcf7230ac5fe02850c467edf797b6ea6&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-23T18:08:46.874000+00:00"
+    },
+    {
+      "ID": "VintagePulpFictionTee.zip",
+      "Name": "VintagePulpFictionTee",
+      "Description": "Vintage Pulp Fiction Tee (replaces Green Flatface Tee)",
+      "Version": 1,
+      "Author": "thenefariousaquarius#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1221563527681278124/VintagePulpFictionTee.zip?ex=661308b0&is=660093b0&hm=39ed55297bc2f74fef2442b0586eb240c86cd88cafe832a7b34410e694374205&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1221563527270240377/VINTAGE_PULP_FICTION_TEE.png?ex=661308b0&is=660093b0&hm=c4ed3d4124054e5a60b1df6eeacd4ade2c9f01a30f068cf0106bb72f45638aa3&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-24T20:57:20.661000+00:00"
+    },
+    {
+      "ID": "Vintage96OlympicsTee.zip",
+      "Name": "Vintage96OlympicsTee",
+      "Description": "Vintage 96' Olympics Tee (replaces Rick N Morty Flatface Tee)",
+      "Version": 1,
+      "Author": "thenefariousaquarius#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1221573674725933116/Vintage96OlympicsTee.zip?ex=66131223&is=66009d23&hm=e0e9ef25612de2c4183e96fa7d0bbd5f42a5d0219c4b11206535cb8b6ec1a4ed&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1221573674281209889/VINTAGE_96_PLYMPICS_TEE.png?ex=66131223&is=66009d23&hm=d1fd85737cb54f90f83e2ca5245bbf46cce0cc0e267fe8f6adf9cf4b5016bcc4&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-24T21:37:39.838000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
