@@ -1454,6 +1454,17 @@
       "UpdatedDate": "2024-03-29T03:25:10.673000+00:00"
     },
     {
+      "ID": "Courtyard.zip",
+      "Name": "Courtyard",
+      "Description": "Courtyard\n\n",
+      "Version": 1,
+      "Author": "travisbragg#0",
+      "DownloadLink": "rsmm://GDrive/1tfe2TSlnhInKDbj087smTOk46dQIKVnO",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1223205854560391228/preview.png?ex=66190239&is=66068d39&hm=6586d1d0642ce3861bdaeb59d4001590e46d61980eb51066d4136dc9b6e4c428&",
+      "Category": "session-maps",
+      "UpdatedDate": "2024-03-29T09:43:21.597000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
@@ -13893,6 +13904,17 @@
       "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1221573674281209889/VINTAGE_96_PLYMPICS_TEE.png?ex=66131223&is=66009d23&hm=d1fd85737cb54f90f83e2ca5245bbf46cce0cc0e267fe8f6adf9cf4b5016bcc4&",
       "Category": "session-shirts",
       "UpdatedDate": "2024-03-24T21:37:39.838000+00:00"
+    },
+    {
+      "ID": "HeroinTShirtDrop2.zip",
+      "Name": "HeroinTShirtDrop2",
+      "Description": "Heroin Clothing Drop (replaces flatface)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801383491092481/1223157915955888148/HeroinTShirtDrop2.zip?ex=6618d594&is=66066094&hm=e37dcc725d942c451ccade145418d29a495fef4b74cb91628fcaad1882627ee8&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801383491092481/1223157915607629855/preview.jpeg?ex=6618d594&is=66066094&hm=098e28fb5e22a99552e959f2dbe3049519244c6be436b88115c03f6319ef861a&",
+      "Category": "session-shirts",
+      "UpdatedDate": "2024-03-29T06:32:52.432000+00:00"
     },
     {
       "ID": "Baggy Cuffed.zip",
