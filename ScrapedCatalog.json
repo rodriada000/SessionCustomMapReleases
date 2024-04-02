@@ -24422,6 +24422,17 @@
       "UpdatedDate": "2024-03-05T00:01:09.805000+00:00"
     },
     {
+      "ID": "HazeScrewHeads.zip",
+      "Name": "HazeScrewHeads",
+      "Description": "Haze x Screwheads Colored Hardware (unzip and install one set)",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801765390864384/1224467949696585780/HazeScrewHeads.zip?ex=661d99a4&is=660b24a4&hm=0f0356c9294ad9a8b224d46edb3d43595e1ccb9056fbaa09f5e317deb523801d&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801765390864384/1224467950833111051/HazeHardware.jpg?ex=661d99a4&is=660b24a4&hm=9fc6a7b8643bff213bacb557ac4ccd6dc69bcd71c72364c64283104d7a047881&",
+      "Category": "session-trucks",
+      "UpdatedDate": "2024-04-01T21:18:29.094000+00:00"
+    },
+    {
       "ID": "etaksPROreplaceSML17-20.zip",
       "Name": "etaksPROreplaceSML17-20",
       "Description": "replace 17-20SML",
