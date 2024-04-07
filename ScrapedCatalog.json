@@ -19472,6 +19472,17 @@
       "UpdatedDate": "2024-03-15T02:50:43.009000+00:00"
     },
     {
+      "ID": "HeroinGrips.zip",
+      "Name": "HeroinGrips",
+      "Description": "",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801712551014400/1226551990008418434/HeroinGrips.zip?ex=66252e8e&is=6612b98e&hm=d0594912778e3adf69dd4caa61f04cbedfa587d0ccf386abbbd24ebe5683d724&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801712551014400/1226551990587363369/preview.jpeg?ex=66252e8e&is=6612b98e&hm=4259539cf4fd04714a78cde1f30e755531bc9d1474c478d6b474c7e586326175&",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2024-04-07T15:19:42.854000+00:00"
+    },
+    {
       "ID": "Ferg.zip",
       "Name": "Ferg",
       "Description": "Ferg Beanie and Hair (Replaces all Beanies)",
