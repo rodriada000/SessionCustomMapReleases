@@ -9352,6 +9352,17 @@
       "UpdatedDate": "2024-04-08T22:20:55.939000+00:00"
     },
     {
+      "ID": "GIRL.zip",
+      "Name": "GIRL",
+      "Description": "a girl deck that replaces the first almost deck",
+      "Version": 1,
+      "Author": "derekgatz#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1228615407380856852/GIRL.zip?ex=662cb043&is=661a3b43&hm=57d16dec159303f4b7eb364431be50ffb16f2a35d2be9f6437aa51139ddf1db3&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1228615408010137641/preview.jpeg?ex=662cb043&is=661a3b43&hm=563ab19d94e89ffd0b079f516f1542e888a9775cb69e3bf0e39aea68d6a59c56&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-04-13T07:58:59.965000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
