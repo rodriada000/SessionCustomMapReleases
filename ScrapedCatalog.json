@@ -9517,6 +9517,28 @@
       "UpdatedDate": "2024-04-25T17:35:12.020000+00:00"
     },
     {
+      "ID": "CustomPolar.zip",
+      "Name": "CustomPolar",
+      "Description": "My custom Polar Deck inspired by Oskar Rozenbergs signature deck!\nReplaces Jart Frame 8.0",
+      "Version": 1,
+      "Author": "johan07114#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1234097931422924800/CustomPolar.zip?ex=662f7ec3&is=662e2d43&hm=61218e756e0b0a745df6f428a5ff4e7b17985242560441d9daee770f40ccd76c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1234097931162750997/0856d331dc5a9f688ba6d79ea3372ec5.jpg?ex=662f7ec3&is=662e2d43&hm=92194914c9fe0e7de1d6d0e28a6b307151755cbbf3822c31215ec3de41fee8e1&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-04-28T11:04:35.311000+00:00"
+    },
+    {
+      "ID": "Zero_Sandoval_Rasta_Blood.zip",
+      "Name": "Zero_Sandoval_Rasta_Blood",
+      "Description": "Zero Sandoval Rasta Blood - Request fill for <@557693833211543565> \n\nReplaces Zero Damn It All 2",
+      "Version": 1,
+      "Author": "orbitalspacegarbage#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1234104107657203812/Zero_Sandoval_Rasta_Blood.zip?ex=662f8483&is=662e3303&hm=a9b6f8d40df8e582452f96d0731ab37271de4590c561d229d16a417cdfa690a8&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1234104108122636400/Preview.png?ex=662f8483&is=662e3303&hm=d51e38958de7d039627d24c5c6e87420ee4d5daf17676d704e2d727e50640b10&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-04-28T11:29:07.970000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
