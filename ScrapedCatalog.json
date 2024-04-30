@@ -1520,6 +1520,17 @@
       "UpdatedDate": "2024-04-17T11:43:41.880000+00:00"
     },
     {
+      "ID": "diy-empty.zip",
+      "Name": "diy-empty",
+      "Description": "Just an empty warehouse for y'all to DIY . (model found on sketchab). ",
+      "Version": 1,
+      "Author": "tiszma#0",
+      "DownloadLink": "rsmm://GDrive/1F566dA-bmZZzbX5dm3eH3pl35Kls2paa",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801307280584724/1234565503893110905/Capture_decran_2024-04-29_140003.png?ex=66313239&is=662fe0b9&hm=2ee49034549243e351b28917aa6f2605dd285c5695b4cd1a9bcb7a0574184eaf&",
+      "Category": "session-maps",
+      "UpdatedDate": "2024-04-29T18:02:33.042000+00:00"
+    },
+    {
       "ID": "hookup_assassiant_akiko_-_replaces_esp.zip",
       "Name": "hookup_assassiant_akiko_-_replaces_esp",
       "Description": "Replaces ESP RockmanTile 8.25",
