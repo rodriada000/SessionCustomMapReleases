@@ -9583,6 +9583,28 @@
       "UpdatedDate": "2024-05-01T18:15:20.553000+00:00"
     },
     {
+      "ID": "StickerBombedBlackBakerDeck_BUGFIX.zip",
+      "Name": "StickerBombedBlackBakerDeck_BUGFIX",
+      "Description": "Bugfix version of the previously released Baker deck. Will now load properly in Mod Launcher.\n\nSticker Bombed Black Baker Deck replaces Madrid Wings - Yellow 8.5\n\nRequest fill for <@704988118092087347> , based on their personal customised design.",
+      "Version": 1,
+      "Author": "orbitalspacegarbage#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1235647552213352539/StickerBombedBlackBakerDeck_BUGFIX.zip?ex=663521f5&is=6633d075&hm=ff51a818adbcc68023630fcc41c187bf7d29d3fafa23f5d6eb200540aff9346c&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1235647552737644634/preview.png?ex=663521f5&is=6633d075&hm=3a1ad1ae1b40ea609ce57cda9746c22c2b24b037f675a4c7b48f1343880a4684&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-05-02T17:42:13.860000+00:00"
+    },
+    {
+      "ID": "ZeroSandovalRastaBlood_BUGFIX.zip",
+      "Name": "ZeroSandovalRastaBlood_BUGFIX",
+      "Description": "Bugfix version of a previously released deck. Will now load properly in Mod Launcher.\n\nZero Sandoval Rasta Blood - Request fill for <@557693833211543565>  \n\nReplaces Zero Punk Star Pink",
+      "Version": 1,
+      "Author": "orbitalspacegarbage#0",
+      "DownloadLink": "rsmm://Url/https$cdn.discordapp.com/attachments/943801688513454080/1235652417459195914/ZeroSandovalRastaBlood_BUGFIX.zip?ex=6635267d&is=6633d4fd&hm=1620503326577039108f45248a41fe78f55ce5eaeca9b69c4e33b90387820a89&",
+      "PreviewImage": "https://cdn.discordapp.com/attachments/943801688513454080/1235652418142863471/preview.png?ex=6635267d&is=6633d4fd&hm=a2d4ac4c6137c50ebdf51f88706ce7b1714cc69609e33320eb3f374c30bd5d2f&",
+      "Category": "session-decks",
+      "UpdatedDate": "2024-05-02T18:01:33.893000+00:00"
+    },
+    {
       "ID": "MahagoniSTUFFreplaceALLsamurai.zip",
       "Name": "MahagoniSTUFFreplaceALLsamurai",
       "Description": "replace all SAMURAI",
