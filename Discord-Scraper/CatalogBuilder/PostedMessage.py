@@ -36,6 +36,8 @@ class PostedMessage():
         for e in self.embeds:
             if e.get('type','') == 'image':
                 return e.get('url', None)
+            if e.get('type','') == 'video':
+                return e['thumbnail']['url']
 
 
         return None
