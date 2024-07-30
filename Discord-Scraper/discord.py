@@ -286,10 +286,61 @@ class Discord:
                 saved_data['data'].append(m)
         
         saved_data['scrapeDate'] = datetime.today().isoformat()
+        saved_data['data'] = self.refresh_urls(saved_data['data'], server, channel)
         saved_data['data'] = sorted(saved_data['data'], key=lambda x: datetime.fromisoformat(x['timestamp']))
 
         with open(filepath, 'w') as fp:
             dump(saved_data, fp, indent=2)
+
+    def refresh_urls(self, messages, server, channel):
+        """
+        Loops through messages and does an API call if cdn url is expired.
+        returns messages
+        """
+        refreshed_msgs = []
+        for m in messages:
+            msg = PostedMessage([m])
+            url = msg.get_image_url()
+            if url is None or 'ex=' not in url:
+                refreshed_msgs.append(m)
+                continue
+
+            idx = url.index('ex=') + len('ex=')
+            url = url[idx:]
+            idx = url.index('&')
+            hex = url[:idx]
+            ex_date = datetime.utcfromtimestamp(int(hex, 16))
+
+            if ex_date >= datetime.today():
+                refreshed_msgs.append(m)
+                continue
+
+            request = SimpleRequest(self.headers).request
+            request.set_header('referer', 'https://discord.com/channels/%s/%s' % (server, channel))
+            req_url = 'https://discord.com/api/v9/channels/%s/messages?limit=5&around=%s' % (channel, m['id']) #'https://discordapp.com/api/%s/guilds/%s/channels/%s/messages/%s' % (self.api, server, channel, m['id'])
+            content = request.grab_page(req_url)
+
+            try:
+                if content is not None and len(content) > 0:
+                    for new_m in content:
+                        if new_m['id'] == m['id']:
+                            refreshed_msgs.append({
+                                'id': new_m['id']
+                                ,'authorName': '%s#%s' % (new_m['author']['username'], new_m['author']['discriminator'])
+                                ,'content': new_m['content']
+                                ,'timestamp': new_m['timestamp']
+                                ,'attachments': new_m['attachments']
+                                ,'embed': new_m['embeds']
+                            })
+                            sleep(randint(4,6))
+                            break
+            except TypeError:
+                refreshed_msgs.append(m)
+                continue
+
+        return refreshed_msgs
+
+
 
     def get_last_scrape_date(self, server, channel):
         filepath = self.get_path_to_scrapes(server,channel)
@@ -351,6 +402,7 @@ if __name__ == '__main__':
 
     for server,channels in ds.servers.items():
         for channel in channels:
+
             with open(ds.get_path_to_scrapes(server, channel), "r") as channelData:
                 channelJson = loads(channelData.read())
                 messages = channelJson['data']
