@@ -240,6 +240,10 @@ class Discord:
                     (self.api, channel, loop_date['00:00'], loop_date['23:59'], self.query)
                 )
 
+            if content is None:
+                # failed http request so break out and stop scraping
+                break
+
             try:
                 if content['messages'] is not None:
                     for messages in content['messages']:
