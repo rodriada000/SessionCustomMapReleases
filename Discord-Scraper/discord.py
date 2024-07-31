@@ -214,7 +214,6 @@ class Discord:
         """
 
         today = datetime.today().date()
-        today += timedelta(days=-179)
 
         if start_date is None:
             start_date = (today + timedelta(days=-1))
@@ -291,7 +290,7 @@ class Discord:
                 saved_data['data'].append(m)
         
         saved_data['scrapeDate'] = datetime.today().isoformat()
-        # saved_data['data'] = self.refresh_urls(saved_data['data'], server, channel)
+        saved_data['data'] = self.refresh_urls(saved_data['data'], server, channel)
         saved_data['data'] = sorted(saved_data['data'], key=lambda x: datetime.fromisoformat(x['timestamp']))
 
         with open(filepath, 'w') as fp:
@@ -402,7 +401,7 @@ CHANNELS = {
 
 if __name__ == '__main__':
     ds = Discord()
-    # ds.grab_server_data()
+    ds.grab_server_data()
     
     catalog = Catalog("Scraped Discord Catalog")
 
