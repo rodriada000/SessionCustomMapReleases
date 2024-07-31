@@ -12,7 +12,7 @@ from CatalogBuilder.Catalog import Catalog
 
 
 # Use the datetime module for generating timestamps and snowflakes.
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 
 # Use the os module for creating directories and writing files.
 from os import makedirs, getcwd, path
@@ -296,38 +296,49 @@ class Discord:
         with open(filepath, 'w') as fp:
             dump(saved_data, fp, indent=2)
 
+    def url_expired(self, url):
+        if url is None or 'ex=' not in url:
+            return False
+
+        idx = url.index('ex=') + len('ex=')
+        url = url[idx:]
+        idx = url.index('&')
+        hex = url[:idx]
+        ex_date = datetime.fromtimestamp(int(hex, 16), UTC)
+
+        return datetime.now(UTC) >= ex_date 
+
     def refresh_urls(self, messages, server, channel):
         """
         Loops through messages and does an API call if cdn url is expired.
         returns messages
         """
+        current_ids = [x['id'] for x in messages]
         refreshed_msgs = []
-        for m in messages:
+        refreshed_ids = []
+        for i, m in enumerate(messages):
             msg = PostedMessage([m])
             url = msg.get_image_url()
-            if url is None or 'ex=' not in url:
+            download_url = msg.get_download('url')
+
+            if (m['id'] in refreshed_ids):
+                continue # already refreshed and added to messages list
+
+            if not self.url_expired(url) and not self.url_expired(download_url):
+                refreshed_ids.append(m['id'])
                 refreshed_msgs.append(m)
                 continue
-
-            idx = url.index('ex=') + len('ex=')
-            url = url[idx:]
-            idx = url.index('&')
-            hex = url[:idx]
-            ex_date = datetime.utcfromtimestamp(int(hex, 16))
-
-            if ex_date >= datetime.today():
-                refreshed_msgs.append(m)
-                continue
-
-            request = SimpleRequest(self.headers).request
-            request.set_header('referer', 'https://discord.com/channels/%s/%s' % (server, channel))
-            req_url = 'https://discord.com/api/v9/channels/%s/messages?limit=5&around=%s' % (channel, m['id']) 
-            content = request.grab_page(req_url)
 
             try:
+                request = SimpleRequest(self.headers).request
+                request.set_header('referer', 'https://discord.com/channels/%s/%s' % (server, channel))
+                req_url = 'https://discord.com/api/v9/channels/%s/messages?limit=10&around=%s' % (channel, m['id']) 
+                content = request.grab_page(req_url)
+
                 if content is not None and len(content) > 0:
                     for new_m in content:
-                        if new_m['id'] == m['id']:
+                        if new_m['id'] in current_ids and new_m['id'] not in refreshed_ids:
+                            refreshed_ids.append(new_m['id'])
                             refreshed_msgs.append({
                                 'id': new_m['id']
                                 ,'authorName': '%s#%s' % (new_m['author']['username'], new_m['author']['discriminator'])
@@ -336,10 +347,13 @@ class Discord:
                                 ,'attachments': new_m['attachments']
                                 ,'embed': new_m['embeds']
                             })
-                            print('... refreshed %s' % m['id'])
-                            sleep(randint(4,6))
-                            break
+                            print('... refreshed %s (%s/%s)' % (new_m['id'], i, len(messages)))
+                    sleep(randint(4,6))
+                else:
+                    refreshed_ids.append(m['id'])
+                    refreshed_msgs.append(m)    
             except TypeError:
+                refreshed_ids.append(m['id'])
                 refreshed_msgs.append(m)
                 continue
 
