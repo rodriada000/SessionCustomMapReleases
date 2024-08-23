@@ -382,6 +382,12 @@ class Discord:
                 print('grabbing data for {} : {} back to {} ...'.format(server, channel, cutoff.isoformat()))
                 message_data = self.grab_channel_data(server, channel, cutoff)
                 self.merge_and_save(message_data, server, channel)
+
+    def refresh_data_urls(self):
+        """refresh urls without scraping."""
+        for server, channels in self.servers.items():
+            for channel in channels:
+                self.merge_and_save([], server, channel)
         
 
     def grab_dm_data(self):
