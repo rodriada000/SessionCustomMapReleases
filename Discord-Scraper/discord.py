@@ -305,8 +305,10 @@ class Discord:
         idx = url.index('&')
         hex = url[:idx]
         ex_date = datetime.fromtimestamp(int(hex, 16), UTC)
+        today = datetime.now(UTC)
+        today += timedelta(hours = 4)
 
-        return datetime.now(UTC) >= ex_date 
+        return today >= ex_date 
 
     def refresh_urls(self, messages, server, channel):
         """
